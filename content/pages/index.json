@@ -1,0 +1,49 @@
+{
+    "schema_version": 1,
+    "site": "care_staffing",
+    "slug": "/",
+    "page_type": "homepage",
+    "_scaffold": true,
+    "_scaffold_note": "PLACEHOLDER holding page so the shell + engine render. NOT migrated content — verbatim source extraction is Gate 2 (see AUDIT/STAFFING-MIGRATION-STRATEGIC-PLAN.md). Copy here is generic/factual and division-clean; it will be replaced by the verbatim-extracted homepage.",
+    "seo": {
+        "title": "Care Staffing Across London | Vigil Care Staffing",
+        "description": "Healthcare assistants, support workers and care staff for care homes and providers across Greater London.",
+        "canonical": "/",
+        "focus_keyword": "care staffing london",
+        "schema_type": "Service"
+    },
+    "brand": {
+        "bg": "#0a1628",
+        "text": "#ffffff",
+        "cta": "#4ecdc4",
+        "secondary": "#7fb2d4"
+    },
+    "nap": {
+        "phone": "020 3973 8887",
+        "email": "staffing@vigilservices.co.uk",
+        "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+        "trading_name": "Vigil Care Staffing",
+        "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "fields": {
+                "heading": "Care staffing across London",
+                "sub": "Healthcare assistants, support workers and care staff for care homes and providers across Greater London.",
+                "cta_label": "Enquire about staffing",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+            }
+        },
+        {
+            "type": "cta",
+            "fields": {
+                "heading": "Need care staff?",
+                "sub": "Tell us what you need and our team will respond.",
+                "cta_label": "Send an enquiry",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+            }
+        }
+    ],
+    "status": "draft"
+}
