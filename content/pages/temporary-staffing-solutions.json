@@ -27,9 +27,9 @@
         {
             "type": "hero",
             "fields": {
-                "heading": "Your Guide to Temporary Staffing Solutions for Healthcare London",
-                "sub": "If you're searching for effective ways to manage staffing gaps or respond to sudden surges in demand within the health and social care sector, exploring temporary staffing solutions for healthcare London is an essential step.",
-                "cta_label": "feel free to reach out",
+                "heading": "Your Guide to Temporary Staffing Solutions for Healthcare in London",
+                "sub": "How the right agency helps health and social care services cover rota gaps quickly, safely and compliantly across Greater London.",
+                "cta_label": "Talk to Vigil Care Staffing",
                 "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "image": {
                     "id": 113,
@@ -44,10 +44,10 @@
             }
         },
         {
-            "type": "text_image",
+            "type": "prose",
             "fields": {
-                "heading": "Why Are Temporary Staffing Solutions So Important in London?",
-                "body": "The dynamic nature of the city's health and social care landscape means that even the most well-prepared providers can encounter workforce shortages, urgent leave, or an unexpected rise in patient numbers. That's where a strategic staffing partner becomes invaluable.",
+                "heading": "What are temporary staffing solutions?",
+                "body": "Temporary staffing solutions give care providers access to a pool of pre-vetted workers who can step in when the permanent team is short. That might mean covering a single sickness absence, filling a block of night shifts, or bridging a longer gap while you recruit. A good agency handles the vetting, compliance and matching, so you get suitable staff without the administrative burden of ad-hoc hiring.",
                 "image": {
                     "id": 120,
                     "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782896409/vigil/care_staffing/general/temporary-staffing-solution-healthcare-london-care-staffing-london.webp",
@@ -61,33 +61,38 @@
             }
         },
         {
-            "type": "service_grid",
+            "type": "prose",
             "fields": {
-                "items": [
-                    {
-                        "title": "Rapid Response",
-                        "body": "London's diverse and growing population means care providers must be ready to adapt quickly. Temporary staffing agencies can deploy skilled staff at short notice, bridging the gap when internal teams are stretched."
-                    },
-                    {
-                        "title": "Quality Assurance",
-                        "body": "Reputable agencies rigorously screen candidates, checking credentials, training, DBS status, and right-to-work documentation\u2014offering peace of mind that every placement meets CQC and local authority standards."
-                    },
-                    {
-                        "title": "Flexibility",
-                        "body": "Whether you need cover for a single shift, a fixed-term contract, or an emergency situation, agencies can provide tailored solutions that suit your unique needs."
-                    },
-                    {
-                        "title": "Reduced Administrative Burden",
-                        "body": "By handling recruitment, compliance, and scheduling, agencies free up your managers to focus on delivering excellent care rather than paperwork."
-                    }
-                ]
+                "heading": "Why temporary staffing matters in London",
+                "body": "Care services across Greater London face fluctuating demand, staff sickness and seasonal pressure. When a shift goes uncovered, residents feel the impact and the remaining staff carry the strain. Reliable temporary cover protects continuity of care, helps you stay within safe staffing levels, and reduces the risk of burnout in your permanent team. In a busy capital, being able to call on vetted workers quickly is a genuine operational advantage."
             }
         },
         {
-            "type": "text_image",
+            "type": "service_grid",
             "fields": {
-                "heading": "Choosing the Right Agency for Temporary Staffing Solutions in Healthcare London",
-                "body": "Look for agencies with a strong local reputation and experience in your specific area of care. Ensure they adhere to rigorous compliance protocols\u2014DBS, Right to Work, and safeguarding training are non-negotiable. Assess the breadth of their staff network for reliable coverage, especially during peak periods or for specialist roles. Ask about transparency in fees and pay rates\u2014clarity upfront protects both your budget and your staff's wellbeing.",
+                "heading": "Types of roles covered",
+                "items": [
+                    {
+                        "title": "Healthcare Assistants",
+                        "body": "Cover personal care, daily living support and companionship in care homes and supported living settings."
+                    },
+                    {
+                        "title": "Support Workers",
+                        "body": "Support people with learning disabilities, mental health needs or complex conditions to live well."
+                    },
+                    {
+                        "title": "Night-Shift Care Staff",
+                        "body": "Provide attentive overnight cover that keeps residents safe when day teams are off duty."
+                    },
+                    {
+                        "title": "Healthcare Cleaners",
+                        "body": "Maintain clean, hygienic environments to recognised infection-prevention standards."
+                    },
+                    {
+                        "title": "Short-Notice Cover",
+                        "body": "Fill sudden gaps caused by sickness or emergencies with workers who are ready to step in."
+                    }
+                ],
                 "image": {
                     "id": 121,
                     "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782896421/vigil/care_staffing/general/healthcare-staffing-london-care-facility-care-staffing-london.webp",
@@ -101,146 +106,79 @@
             }
         },
         {
-            "type": "faq",
+            "type": "service_grid",
             "fields": {
+                "heading": "How the process works",
                 "items": [
                     {
-                        "q": "What clinical qualifications and compliance checks are required for agency healthcare workers in London?",
-                        "a": "Reputable agencies ensure all staff hold recognised qualifications, are registered with the relevant professional bodies, and have up-to-date DBS checks, safeguarding, and mandatory training certificates."
+                        "title": "Share your requirement",
+                        "body": "Tell the agency the role, dates, shift pattern and any specialist skills you need."
                     },
                     {
-                        "q": "How quickly can temporary staff be placed in response to an urgent staffing gap?",
-                        "a": "Many agencies in London can provide suitable candidates within hours, depending on the urgency and the role's requirements."
+                        "title": "Matching",
+                        "body": "The agency matches suitable, vetted workers to your requirement based on skills, experience and location."
                     },
                     {
-                        "q": "Is it recommended to work with multiple staffing agencies simultaneously?",
-                        "a": "For hard-to-fill or highly specialist roles, working with more than one agency can increase your chances of finding the right fit\u2014just ensure each partner understands your standards and compliance requirements"
+                        "title": "Confirmation and briefing",
+                        "body": "You confirm the booking, and the worker is briefed on your setting before arriving on shift."
                     },
                     {
-                        "q": "Do agencies specialise in certain clinical areas or types of healthcare facilities?",
-                        "a": "Yes, many agencies focus on particular sectors (e.g., elderly care, learning disabilities, mental health) or types of settings (e.g., care homes, supported living)"
-                    },
-                    {
-                        "q": "What information should I provide to my agency to ensure the best possible placement?",
-                        "a": "Clear details about the role, required experience, shift patterns, and any special skills or compliance needs make for more successful matches"
-                    },
-                    {
-                        "q": "How can I verify the reputation and compliance standards of a temporary staffing agency?",
-                        "a": "Check CQC inspection reports, client testimonials, and the agency's own compliance procedures. Don't hesitate to ask for evidence of recent placements and feedback from similar organisations."
+                        "title": "On shift and follow-up",
+                        "body": "The worker completes the shift, and the agency follows up to confirm everything went well and arrange any further cover."
                     }
                 ]
             }
         },
         {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
+            "type": "service_grid",
             "fields": {
-                "body": "Your Guide to Temporary Staffing Solutions for Healthcare London How the Right Agency Can Transform Health and Social Care Services in London If you\u2019re searching for effective ways to manage staffing gaps or respond to sudden surges in demand within the health and social care sector, exploring temporary staffing solutions for healthcare London is an essential step."
+                "heading": "Choosing the right agency",
+                "items": [
+                    {
+                        "title": "Rigorous vetting",
+                        "body": "Choose an agency that completes enhanced DBS checks, right-to-work verification and reference checks on every worker."
+                    },
+                    {
+                        "title": "Genuine local coverage",
+                        "body": "Look for real presence across your part of Greater London, so workers can reach you quickly and know the area."
+                    },
+                    {
+                        "title": "Responsive communication",
+                        "body": "Prompt, clear follow-up to your queries is a strong sign of an agency that will support you when it matters."
+                    },
+                    {
+                        "title": "Compliance transparency",
+                        "body": "A dependable partner shares compliance profiles for its workers to support your own CQC evidence."
+                    }
+                ]
             }
         },
         {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
+            "type": "faq",
             "fields": {
-                "body": "What Are Temporary Staffing Solutions for Healthcare London? Temporary staffing solutions for healthcare London are specialist agencies that connect qualified and vetted professionals\u2014such as nurses, care assistants, support workers, and even managers\u2014with organisations across the capital. These agencies play a critical role in care homes, supported living services, and community-based care facilities, ensuring that continuity and quality of care are never compromised, even during challenging periods."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Types of Roles Covered by Temporary Staffing Solutions in London Temporary staffing solutions for healthcare London don\u2019t just supply frontline carers. Agencies offer a wide range of professionals, including: Registered Nurses Care Assistants Support Workers Activities Coordinators Team Leaders and Supervisors Specialist Staff (for dementia, learning disabilities, mental health, etc. ) Non-clinical and administrative staff How the Process Works You contact the agency with your requirements (role, shift pattern, experience, specialist skills). The agency matches your needs with pre-vetted candidates from their roster."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "All candidates undergo compliance checks, interviews, and reference assessments to meet CQC and safeguarding requirements. The agency coordinates scheduling, placement, and payroll, ensuring a seamless experience for both provider and staff member. Ongoing support and feedback ensure continuous improvement and tailored service."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Evaluate their ability to provide swift placements and responsive support\u2014essential for London\u2019s fast-moving healthcare environment. Maximising Value from Temporary Staffing Solutions Provide detailed job descriptions and person specifications\u2014clear communication leads to the best placements. Maintain open feedback with your agency\u2014sharing what works and what doesn\u2019t helps refine future matches. Consider working with more than one agency for specialist or hard-to-fill roles, but ensure each understands your organisation\u2019s values and standards."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Choose agencies who really know the London health and social care landscape and can advise on evolving needs and regulations. Borough-Level Staffing Coverage in London Staffing needs vary dramatically across London\u2019s boroughs. The right agency will have borough-specific availability and insight into local service pressures. For example: North London: Haringey, Barnet, Enfield East London: Barking & Dagenham, Newham, Redbridge South London: Southwark, Croydon, Lambeth West London: Ealing, Hillingdon, Hounslow Central London: Camden, Westminster, Islington Look for agencies that track borough-level staff availability and can dispatch workers with minimal travel delays, especially for urgent bookings."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Conclusion: Your Trusted Partner in Healthcare Staffing Partnering with the right provider of temporary staffing solutions for healthcare London can make a world of difference for your organisation. Not only do you gain access to a flexible, highly trained workforce, but you also empower your team to maintain the highest standards of care\u2014even when challenges arise. Take the time to evaluate your needs, ask the right questions, and build a relationship with an agency that understands the unique demands of London\u2019s health and social care sector. The right partnership is an investment in the future of your service, your team, and\u2014most importantly\u2014the people you support."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Further Reading CQC \u2013 Care Quality Commission Skills for Care \u2013 Workforce Planning GOV. UK \u2013 Adult Social Care Tracker FAQ What clinical qualifications and compliance checks are required for agency healthcare workers in London?"
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Looking Ahead: Let\u2019s Build Better Staffing Together This article was written for care managers, commissioners, and operational leaders navigating the complexities of staffing in London\u2019s health and social care system. If you\u2019re exploring how to strengthen your staffing strategy\u2014whether through borough-level insights, compliance best practices, or workforce planning tools\u2014feel free to reach out. \ud83d\udce9 You can connect with our team at staffing@vigilservices."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "uk or explore more practical resources via staffing."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Vigil Care Staffing provides specialised https://staffing."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "uk/temporary-staffing-solutions-london/"
+                "items": [
+                    {
+                        "q": "How quickly can temporary staff be arranged?",
+                        "a": "A well-organised agency with a local pool can often arrange cover at short notice. The exact timing depends on the role and your location within Greater London."
+                    },
+                    {
+                        "q": "Are temporary workers properly vetted?",
+                        "a": "With a reputable agency, yes. Every worker should have an enhanced DBS check, verified right-to-work documents, references and current mandatory training."
+                    },
+                    {
+                        "q": "Can temporary staffing become a longer arrangement?",
+                        "a": "Yes. Many providers start with short-notice cover and move to regular or ongoing bookings once they find workers who fit their team."
+                    }
+                ]
             }
         },
         {
             "type": "cta",
             "fields": {
-                "heading": "Let's Build Better Staffing Together",
-                "sub": "Partnering with the right provider of temporary staffing solutions for healthcare London can make a world of difference for your organisation.",
-                "cta_label": "feel free to reach out",
+                "heading": "Ready to solve your rota gaps?",
+                "sub": "Vigil Care Staffing supplies vetted temporary care workers across Greater London.",
+                "cta_label": "Talk to Vigil Care Staffing",
                 "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
-            }
-        },
-        {
-            "type": "contact_form",
-            "fields": {
-                "division": "staffing",
-                "heading": "Let's Build Better Staffing Together"
             }
         }
     ],
