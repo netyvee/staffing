@@ -27,9 +27,9 @@
         {
             "type": "hero",
             "fields": {
-                "heading": "Night Shift Care Staff London",
-                "sub": "Vigil Staffing provides trusted, experienced professionals to keep your services running smoothly through the night. From care homes to hospital wards, our dedicated night staff ensure safety, continuity, and compassionate support when it matters most.",
-                "cta_label": "Get a Quote",
+                "heading": "Night Shift Care Staff in London",
+                "sub": "Alert, dependable night-shift care workers supplied across Greater London \u2014 healthcare assistants, support workers, and specialist night staff.",
+                "cta_label": "Request Night Staff",
                 "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "image": {
                     "id": 104,
@@ -44,10 +44,10 @@
             }
         },
         {
-            "type": "text_image",
+            "type": "prose",
             "fields": {
-                "heading": "Reliable, Alert, and Compassionate Night Care Professionals",
-                "body": "Night shift care staff in London are essential for maintaining safety, comfort, and wellbeing during overnight hours. At Vigil Care Staffing, we provide CQC-compliant, fully vetted night carers, support workers, and healthcare assistants ready to work through the night in care homes, supported living services, hospitals, and private residences. Our temporary care staffing agency ensures that whether you need one-off cover, ongoing night shifts, or urgent replacements, you receive dependable professionals who remain attentive and responsive from dusk till dawn.",
+                "heading": "Dependable cover through the night",
+                "body": "Nights bring their own demands. Residents may need help settling, regular checks, and calm reassurance in the small hours, and a service is often running on a smaller team. Vigil Care Staffing supplies vetted night-shift care workers to care providers across Greater London. Our night workers are experienced in the rhythm of overnight care, quiet, attentive, and ready to respond when needed. We supply healthcare assistants, support workers, and specialist night staff for care homes, supported living, and private residences. From covering a single night to filling a longer run of shifts, we match reliable workers to your rota so overnight care stays safe and consistent.",
                 "image": {
                     "id": 105,
                     "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894931/vigil/care_staffing/general/night-shift-care-staff-london-assistance-care-staffing-london.webp",
@@ -65,76 +65,47 @@
             "fields": {
                 "items": [
                     {
-                        "title": "Specialist Night Care Experience",
-                        "body": "Our night staff are trained in overnight monitoring, personal care, and emergency response."
+                        "title": "Specialist Night Experience",
+                        "body": "Our night workers understand overnight care, from settling routines and regular checks to responding calmly when a resident needs help."
                     },
                     {
                         "title": "Rapid Cover",
-                        "body": "Through our temporary placement agency model, we can fill shifts on short notice."
+                        "body": "When a night shift falls through, we work quickly to place a suitable, vetted worker from our Greater London pool."
                     },
                     {
                         "title": "Borough-Wide Availability",
-                        "body": "Local staff ready to work in your area at short notice."
-                    },
-                    {
-                        "title": "Compliance Assured",
-                        "body": "Every agency care worker meets Care Quality Commission (CQC) standards."
-                    },
-                    {
-                        "title": "Flexible Options",
-                        "body": "Single shifts, block bookings, and ongoing night rosters available."
-                    }
-                ]
-            }
-        },
-        {
-            "type": "service_grid",
-            "fields": {
-                "items": [
-                    {
-                        "title": "24/7 Booking Service",
-                        "body": "Arrange cover at any time, day or night."
+                        "body": "Our workers are based across Greater London, which helps us reach your service and provide staff familiar with local care settings."
                     },
                     {
                         "title": "Fully Vetted Night Staff",
-                        "body": "Enhanced DBS, right-to-work checks, and references completed."
+                        "body": "Every night worker is DBS-checked, right-to-work verified, and referenced before placement."
                     },
                     {
-                        "title": "Continuity of Care",
-                        "body": "We prioritize returning staff for ongoing bookings."
-                    },
-                    {
-                        "title": "Specialist Skills",
-                        "body": "Many staff trained in dementia care, fall prevention, and night-time mobility assistance."
+                        "title": "Flexible Options",
+                        "body": "Book a single night, a block of nights, or ongoing overnight cover while you recruit, with arrangements that flex around your rota."
                     },
                     {
                         "title": "Reduced Disruption",
-                        "body": "Staff integrate smoothly into your night routines."
+                        "body": "Consistent, prepared workers keep handovers simple and help residents feel settled through the night."
                     }
                 ]
             }
         },
         {
-            "type": "service_grid",
+            "type": "text_image",
             "fields": {
-                "items": [
-                    {
-                        "title": "Enhanced DBS Checks",
-                        "body": "Safeguarding is mandatory for all placements."
-                    },
-                    {
-                        "title": "Professional References",
-                        "body": "At least two recent, relevant references."
-                    },
-                    {
-                        "title": "Skills Assessments",
-                        "body": "Including overnight care, emergency protocols, and record keeping."
-                    },
-                    {
-                        "title": "Ongoing CPD",
-                        "body": "Staff encouraged to update training regularly."
-                    }
-                ]
+                "heading": "Vetting and compliance for overnight placements",
+                "body": "Overnight shifts often run with fewer people on site, so the workers we supply must be dependable and properly checked. Before any night placement, we complete enhanced DBS checks, verify right to work, and take up professional references. We assess relevant skills for the role, and because our workers are directly employed we keep training and documentation current. Our recruitment follows a CQC-compliant process, so night cover meets the same standard as any daytime placement.",
+                "image": {
+                    "id": 105,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894931/vigil/care_staffing/general/night-shift-care-staff-london-assistance-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/general/night-shift-care-staff-london-assistance-care-staffing-london",
+                    "alt": "Night shift care staff in London \u2013 night carer assisting resident",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/08/night-shift-care-staff-london-assistance.jpg",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "Night shift care staff in London \u2013 night carer assisting resident"
             }
         },
         {
@@ -142,98 +113,42 @@
             "fields": {
                 "items": [
                     {
-                        "q": "How quickly can you supply night shift care staff in London?",
-                        "a": "Often within hours, thanks to our borough-based network of qualified staff."
+                        "q": "Do you supply staff for night shifts only?",
+                        "a": "Yes. We supply night-shift care workers across Greater London, whether you need cover for a single night or a longer run of shifts."
                     },
                     {
-                        "q": "Do your night staff stay awake throughout the shift?",
-                        "a": "Yes. Our staff remain alert, ready to provide assistance or respond to emergencies."
+                        "q": "Which roles can work nights?",
+                        "a": "We supply healthcare assistants, support workers, and specialist night staff for overnight cover, matched to the needs of your setting."
                     },
                     {
-                        "q": "Can I book the same night staff regularly?",
-                        "a": "Yes. We aim for continuity whenever possible to ensure consistent care."
+                        "q": "Are night workers vetted to the same standard?",
+                        "a": "They are. Every night worker is DBS-checked, right-to-work verified, and referenced before placement."
                     },
                     {
-                        "q": "Are your night shift care staff trained for emergencies?",
-                        "a": "Yes. All have training in emergency response, safeguarding, and relevant healthcare skills."
+                        "q": "Can you provide night cover at short notice?",
+                        "a": "We prioritise urgent requests and work to place a suitable night worker as quickly as we can, and we will be clear about timing."
                     },
                     {
-                        "q": "Do you provide both temporary and long-term night cover?",
-                        "a": "Yes. Our temporary care staffing agency model allows for flexible arrangements, from one-off shifts to permanent contracts."
+                        "q": "What settings do you cover for night shifts?",
+                        "a": "We provide night-shift staff for care homes, supported living services, and private residences across Greater London."
                     }
                 ]
             }
         },
         {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Night Shift Care Staff in London 24/7 Overnight Care Staffing Solutions Vigil Staffing provides trusted, experienced professionals to keep your services running smoothly through the night."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Why Choose Vigil Care Staffing for Night Shift Care Staff in London Night-time care requires professionals who are not only skilled but also able to manage the unique challenges of working overnight \u2014 from maintaining alertness to handling emergencies calmly."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Benefits of Working with Vigil Care Staffing Agency When you choose our healthcare recruitment agency , you gain peace of mind knowing your service users will receive quality care throughout the night. Benefits include: 24/7 Booking Service Arrange cover at any time, day or night."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "North London Barnet Enfield Haringey Camden Islington East London Barking and Dagenham Newham Tower Hamlets Waltham Forest Redbridge Havering South London Croydon Sutton Merton Kingston upon Thames Bromley Central London Westminster City of London South East London Greenwich Lewisham Bexley Southwark South West London Wandsworth Richmond upon Thames Lambeth West London Ealing Hounslow Hammersmith and Fulham Kensington and Chelsea Find Night Shift Care Staff Our Vetting & Compliance Process Our temporary healthcare staffing process ensures all night shift staff meet the highest professional and safety standards."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Our compliance framework makes us the recruitment agency for care homes and other providers that London trusts. Facilities We Serve Our night shift care staff are available for: Residential and Nursing Care Homes Supported Living Services NHS Hospitals and Wards Rehabilitation Units Private Residences Hospice and Palliative Care Settings Whether you require an agency healthcare assistant or an experienced night carer, we tailor our placements to your environment. Case Study: Night Cover for a Care Home in Lambeth A Lambeth-based residential care home experienced multiple staff absences due to illness. Vigil Care Staffing provided three night shift agency care workers within 4 hours."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "\"They settled in immediately, handled night routines professionally, and reassured residents with their calm approach. \" Our night staff seamlessly integrated into the home\u2019s existing procedures, providing consistent care and maintaining resident safety throughout the night. The care home manager praised our rapid response and the quality of our staff. FAQs How quickly can you supply night shift care staff in London?"
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "FREE Quote Call Now Email Now"
-            }
-        },
-        {
             "type": "cta",
             "fields": {
-                "heading": "Request Night Shift Care Staff in London Today",
-                "sub": "Providing skilled support workers for every borough in London.",
-                "cta_label": "FREE Quote",
+                "heading": "Need reliable night-shift cover?",
+                "sub": "Tell us the nights and the role you need to fill, and we will match a vetted worker.",
+                "cta_label": "Request Night Staff",
                 "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
             }
         },
         {
             "type": "contact_form",
             "fields": {
-                "division": "staffing",
-                "heading": "Get a Quote"
+                "heading": "Request night-shift care staff",
+                "division": "staffing"
             }
         }
     ],
