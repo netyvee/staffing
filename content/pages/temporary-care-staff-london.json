@@ -28,8 +28,8 @@
             "type": "hero",
             "fields": {
                 "heading": "Temporary Care Staff in London",
-                "sub": "Temporary care staff in London are an essential resource for care providers facing seasonal peaks, staff shortages, or specialist care needs. At Vigil Care Staffing, we deliver CQC-compliant, pre-vetted care professionals ready to step in and provide exceptional support \u2014 whether for a single shift, block booking, or ongoing temporary placement.",
-                "cta_label": "Get a Quote",
+                "sub": "Flexible, fully vetted temporary care staff supplied across Greater London \u2014 healthcare assistants, support workers, and healthcare cleaners for single shifts, block bookings, or ongoing cover.",
+                "cta_label": "Request Temporary Care Staff",
                 "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "image": {
                     "id": 111,
@@ -44,10 +44,10 @@
             }
         },
         {
-            "type": "text_image",
+            "type": "prose",
             "fields": {
-                "heading": "Flexible, Skilled, and Fully Vetted Care Professionals",
-                "body": "Our temporary care staffing agency ensures that every placement is matched to your requirements, from agency care workers to experienced agency healthcare assistants and support staff. This flexibility means you can maintain the highest standards of care without overburdening your permanent team.",
+                "heading": "Flexible temporary cover for London care providers",
+                "body": "Temporary staffing keeps a service running when the rota does not go to plan. Vigil Care Staffing supplies flexible, fully vetted temporary care staff to providers across Greater London, so you can cover sickness, annual leave, a sudden rise in dependency, or a busy period without leaving a shift short. We supply healthcare assistants, support workers, and healthcare cleaners to care homes, supported living services, and other care settings. Every worker is DBS-checked, referenced, and directly employed, and we match each request to people whose skills and experience fit the role. Whether you need a single shift, a block booking, or ongoing cover while you recruit, we build the arrangement around your rota. Vigil Care Staffing supplies workers only and does not operate regulated care services, so our whole focus is finding you dependable staff and following up promptly on every request.",
                 "image": {
                     "id": 112,
                     "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782895011/vigil/care_staffing/general/temporary-care-staff-london-assisting-care-staffing-london.webp",
@@ -66,75 +66,46 @@
                 "items": [
                     {
                         "title": "Rapid Response",
-                        "body": "Fill shifts quickly with experienced, local professionals."
-                    },
-                    {
-                        "title": "Wide Role Coverage",
-                        "body": "From HCAs to night staff, support workers, and live-in carers."
-                    },
-                    {
-                        "title": "Flexible Arrangements",
-                        "body": "Book staff for a day, a week, or longer periods as required."
-                    },
-                    {
-                        "title": "Borough-Wide Network",
-                        "body": "Local availability means faster deployment and reduced travel delays."
-                    }
-                ]
-            }
-        },
-        {
-            "type": "service_grid",
-            "fields": {
-                "items": [
-                    {
-                        "title": "24/7 Booking Service",
-                        "body": "Arrange cover anytime, day or night."
+                        "body": "We prioritise your request and work quickly to place a suitable temporary worker, drawing on our vetted pool across Greater London to reach you at short notice."
                     },
                     {
                         "title": "Fully Vetted Staff",
-                        "body": "Enhanced DBS, right-to-work checks, and references."
+                        "body": "Every temporary worker is DBS-checked, right-to-work verified, and referenced before placement, so flexible cover never means a drop in standards."
+                    },
+                    {
+                        "title": "Wide Role Coverage",
+                        "body": "We supply healthcare assistants, support workers, and healthcare cleaners, matching the role to the gap you need to fill."
+                    },
+                    {
+                        "title": "Flexible Arrangements",
+                        "body": "Book a single shift, a block of shifts, or open-ended cover while you recruit, with arrangements that flex around your rota rather than a fixed contract."
                     },
                     {
                         "title": "Skill Matching",
-                        "body": "We assign staff with the right expertise for your service."
+                        "body": "We match each placement to workers whose experience and skills suit the setting, from residential care to supported living and specialist services."
                     },
                     {
-                        "title": "Continuity Focus",
-                        "body": "Where possible, we send the same staff for repeat bookings."
-                    },
-                    {
-                        "title": "Reduced Admin Load",
-                        "body": "We handle compliance paperwork, timesheets, and payroll."
+                        "title": "Borough-Wide Network",
+                        "body": "Our workers are based across North, East, South, Central, and West London, which helps us reach your service with staff familiar with local care settings."
                     }
                 ]
             }
         },
         {
-            "type": "service_grid",
+            "type": "text_image",
             "fields": {
-                "items": [
-                    {
-                        "title": "Enhanced DBS Checks",
-                        "body": "Safeguarding is always our top priority."
-                    },
-                    {
-                        "title": "Right to Work Verification",
-                        "body": "Ensuring legal compliance in the UK."
-                    },
-                    {
-                        "title": "Professional References",
-                        "body": "Minimum of two relevant references."
-                    },
-                    {
-                        "title": "Skills Assessments",
-                        "body": "Verifying abilities and specialist experience."
-                    },
-                    {
-                        "title": "Ongoing CPD",
-                        "body": "Continuous professional development for all staff."
-                    }
-                ]
+                "heading": "Our vetting and compliance process",
+                "body": "Flexible cover only works if every temporary worker is properly checked. Before any placement, we complete enhanced DBS checks, verify each worker's right to work, and take up professional references from previous care employers. We assess relevant skills for the role, and because our workers are directly employed we keep their training and documentation current through ongoing development. Our recruitment follows a CQC-compliant process, giving providers clear, documented assurance about the people supporting their service and helping you maintain safer staffing records.",
+                "image": {
+                    "id": 112,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782895011/vigil/care_staffing/general/temporary-care-staff-london-assisting-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/general/temporary-care-staff-london-assisting-care-staffing-london",
+                    "alt": "Temporary staffing in London \u2013 staff `assisting residents",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/08/temporary-care-staff-london-assisting.jpg",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "Temporary staffing in London \u2013 staff `assisting residents"
             }
         },
         {
@@ -142,102 +113,42 @@
             "fields": {
                 "items": [
                     {
-                        "q": "How quickly can you supply temporary care staff in London?",
-                        "a": "Often within hours, thanks to our borough-based network of care professionals."
+                        "q": "How quickly can you supply temporary care staff?",
+                        "a": "We treat staffing requests as a priority and work to place a suitable, vetted worker as soon as possible. The exact timing depends on the role, location, and dates, and we will always be honest with you about what we can achieve."
                     },
                     {
-                        "q": "What roles can you provide on a temporary basis?",
-                        "a": "HCAs, support workers, live-in carers, night shift staff, and other care roles."
+                        "q": "What roles can I book on a temporary basis?",
+                        "a": "We supply healthcare assistants, support workers, and healthcare cleaners for temporary cover across Greater London. Tell us the role and setting and we will match accordingly."
                     },
                     {
-                        "q": "Will temporary staff be fully compliant?",
-                        "a": "Yes. All staff have DBS checks, references, and right-to-work verification."
+                        "q": "Can I book a single shift as well as longer cover?",
+                        "a": "Yes. You can book a single shift, a block of shifts, or ongoing cover while you recruit. The arrangement flexes around your rota and can be extended if the need continues."
                     },
                     {
-                        "q": "Can I extend a temporary booking if needed?",
-                        "a": "Absolutely. We can arrange ongoing cover or transition to a permanent placement."
+                        "q": "How are your temporary workers vetted?",
+                        "a": "Every worker is DBS-checked, right-to-work verified, and referenced before placement, with relevant skills assessed for the role, whether the booking is planned ahead or arranged at short notice."
+                    },
+                    {
+                        "q": "Which areas do you cover?",
+                        "a": "We supply temporary care staff to providers across Greater London and can discuss the specific area you need covered."
                     }
                 ]
             }
         },
         {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Temporary Care Staff in London Flexible Short-Term Care Staffing Solutions Temporary care staff in London are an essential resource for care providers facing seasonal peaks, staff shortages, or specialist care needs."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Why Choose Vigil Care Staffing for Temporary Care Staff in London As a trusted temporary placement agency , we understand that temporary staffing needs are often urgent and critical to maintaining service quality."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Benefits of Working with Vigil Care Staffing Agency When you choose our healthcare recruitment agency , you gain more than temporary cover \u2014 you gain a staffing partner. Key benefits include: 24/7 Booking Service Arrange cover anytime, day or night."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "North London Barnet Enfield Haringey Camden Islington East London Barking and Dagenham Newham Tower Hamlets Waltham Forest Redbridge Havering South London Croydon Sutton Merton Kingston upon Thames Bromley Central London Westminster City of London South East London Greenwich Lewisham Bexley Southwark South West London Wandsworth Richmond upon Thames Lambeth West London Ealing Hounslow Hammersmith and Fulham Kensington and Chelsea Find Temporary Staff Our Vetting & Compliance Process Our temporary healthcare staffing process is designed to ensure safety, competence, and reliability in every placement."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Our compliance-first approach makes us the recruitment agency for care homes and healthcare providers London relies on. Facilities We Serve Our temporary staffing solutions for health and care cover: Residential and Nursing Care Homes Supported Living Services NHS Hospitals and Wards Rehabilitation Units Day Centres and Respite Care Private Healthcare Facilities From a single agency care worker to a large team, we provide the staffing support you need. Case Study: Temporary Staff for a Camden Care Home A care home in Camden needed cover for six weeks due to multiple staff taking extended leave. Vigil Care Staffing supplied temporary healthcare staff who maintained consistent routines and built rapport with residents."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "The manager noted, \u201cThe flexibility and professionalism were outstanding, and the residents adapted seamlessly. \u201d FAQs How quickly can you supply temporary care staff in London?"
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Yes \u2014 our temporary care staffing agency operates across every London borough."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "FREE Quote Call Now Email Now"
-            }
-        },
-        {
             "type": "cta",
             "fields": {
-                "heading": "Request Temporary Care Staff in London Today",
-                "sub": "Providing skilled support workers for every borough in London.",
-                "cta_label": "FREE Quote",
+                "heading": "Need temporary care staff in London?",
+                "sub": "Tell us the roles, setting, and dates you need to fill, and we will match vetted workers to your rota.",
+                "cta_label": "Request Temporary Care Staff",
                 "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
             }
         },
         {
             "type": "contact_form",
             "fields": {
-                "division": "staffing",
-                "heading": "Get a Quote"
+                "heading": "Request temporary care staff",
+                "division": "staffing"
             }
         }
     ],
