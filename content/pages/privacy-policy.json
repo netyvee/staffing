@@ -1,0 +1,101 @@
+{
+    "schema_version": 1,
+    "site": "care_staffing",
+    "slug": "/privacy-policy",
+    "page_type": "supporting",
+    "seo": {
+        "title": "Privacy Policy | Vigil Care Staffing",
+        "description": "Vigil Care Staffing privacy policy — what personal information we collect, how we use it, how we keep it secure, and your rights including the right to be forgotten.",
+        "canonical": "/privacy-policy",
+        "focus_keyword": "vigil care staffing privacy policy",
+        "schema_type": "WebPage"
+    },
+    "brand": {
+        "bg": "#0a1628",
+        "text": "#ffffff",
+        "cta": "#4ecdc4",
+        "secondary": "#7fb2d4"
+    },
+    "nap": {
+        "phone": "020 3973 8887",
+        "email": "staffing@vigilservices.co.uk",
+        "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+        "trading_name": "Vigil Care Staffing",
+        "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "fields": {
+                "heading": "Privacy Policy",
+                "sub": "Your information: what we hold, how we use it and keep it confidential and secure. This privacy notice tells you about information we collect and hold about you, what we do with it, how we will look after it and who we might share it with.",
+                "cta_label": "",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+            }
+        },
+        {
+            "type": "text_image",
+            "fields": {
+                "heading": "Personal information We collect and hold about you:",
+                "body": "We store personal details such as your name, address, job title, telephone numbers, email addresses, phone numbers and your relationship to the people we support. We also hold demographic location such as postcode, preferences and interests and other information related to customer surveys and/or offers. We do not hold any sensitive personal data."
+            }
+        },
+        {
+            "type": "text_image",
+            "fields": {
+                "heading": "What is the legal basis for processing your information:",
+                "body": "Consent: For us to process your data for this purpose you need to give us your consent to do so. So we can be sure we have your consent we have a double-opt out consent process. This means after you request to receive information you will be sent an opt-in confirmation email to confirm you consent to be included in our database."
+            }
+        },
+        {
+            "type": "text_image",
+            "fields": {
+                "heading": "What we do with your information:",
+                "body": "To keep you updated on what we are doing at our services and any other information we think would be of interest to you. This will include newsletters, emails, events and meeting dates. To obtain feedback from you on how we are performing so that we can improve the services provided to the people we support. To update you on any vacant bed-spaces we have at our services."
+            }
+        },
+        {
+            "type": "text_image",
+            "fields": {
+                "heading": "How we use cookies",
+                "body": "A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website."
+            }
+        },
+        {
+            "type": "text_image",
+            "fields": {
+                "heading": "Links to other websites",
+                "body": "Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question."
+            }
+        },
+        {
+            "type": "text_image",
+            "fields": {
+                "heading": "How your personal information is kept safe and secure:",
+                "body": "Your data is also held on secure central servers at Vigil Services Ltd's central office which is physically and electronically secured and protected against unauthorised access. Paper information is secured when not in use. Only marketing teams and senior managers have access to your information by logging on to a computer with their own account User-Id and passwords. All our staff are required to abide by a strict code of conduct on confidentiality and information sharing."
+            }
+        },
+        {
+            "type": "text_image",
+            "fields": {
+                "heading": "Who we share your information with:",
+                "body": "Vigil Services Ltd is committed to ensuring that your privacy is protected. We will not sell, distribute or lease your personal information to third parties unless we have your permission or we are required by law to do so."
+            }
+        },
+        {
+            "type": "text_image",
+            "fields": {
+                "heading": "Your right to be forgotten",
+                "body": "You may choose to restrict the collection or use of your personal information in the following ways: Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes We include an unsubscribe option on the emails we send to you. You can stop receiving emails from us at any time by clicking unsubscribe from the email."
+            }
+        },
+        {
+            "type": "contact_form",
+            "fields": {
+                "division": "staffing",
+                "heading": "Privacy Policy"
+            }
+        }
+    ],
+    "status": "draft"
+}

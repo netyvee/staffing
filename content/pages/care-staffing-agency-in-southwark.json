@@ -1,0 +1,122 @@
+{
+    "schema_version": 1,
+    "site": "care_staffing",
+    "slug": "/care-staffing-agency-in-southwark",
+    "page_type": "borough",
+    "seo": {
+        "title": "Care Staffing Agency in Southwark | Vigil Care Staffing",
+        "description": "Trusted, CQC-compliant care staffing across Southwark — healthcare assistants, support workers, live-in carers, and emergency cover. Available 24/7.",
+        "canonical": "/care-staffing-agency-in-southwark",
+        "focus_keyword": "care staffing agency southwark",
+        "schema_type": "Service"
+    },
+    "brand": {
+        "bg": "#0a1628",
+        "text": "#ffffff",
+        "cta": "#4ecdc4",
+        "secondary": "#7fb2d4"
+    },
+    "nap": {
+        "phone": "020 3973 8887",
+        "email": "staffing@vigilservices.co.uk",
+        "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+        "trading_name": "Vigil Care Staffing",
+        "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "fields": {
+                "heading": "Care Staffing Agency in Southwark",
+                "sub": "Vigil Care Staffing delivers trusted staffing solutions for care homes, supported living services, NHS community teams, and private households throughout the borough.",
+                "cta_label": "Get a Quote",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+            }
+        },
+        {
+            "type": "borough_block",
+            "fields": {
+                "borough": "Southwark",
+                "body": "From the cultural heart of Peckham to the riverside developments in Bermondsey and the leafy residential streets of Dulwich , our team is available 24/7 to provide fully vetted, CQC-compliant care professionals ."
+            }
+        },
+        {
+            "type": "text_image",
+            "fields": {
+                "heading": "Why Choose Vigil Care Staffing in Southwark",
+                "body": "We know the pressures of maintaining safe staffing levels in Southwark, a borough served by Guy's and St Thomas' NHS Foundation Trust and home to diverse care facilities. Whether you need rapid cover for a single shift or a consistent pool of healthcare assistants for long-term assignments, we respond quickly and match the right person to the right role."
+            }
+        },
+        {
+            "type": "service_grid",
+            "fields": {
+                "items": [
+                    {
+                        "title": "Rapid deployment",
+                        "body": "Fill urgent vacancies within hours."
+                    },
+                    {
+                        "title": "Local knowledge",
+                        "body": "Staff familiar with Southwark's transport links and care facilities."
+                    },
+                    {
+                        "title": "Continuity of care",
+                        "body": "Regular workers for stable staff-user relationships."
+                    },
+                    {
+                        "title": "Specialist matching",
+                        "body": "Whether you need dementia care experience or palliative care skills, we assign the right agency healthcare assistant or support worker."
+                    },
+                    {
+                        "title": "Efficient communication",
+                        "body": "Clear updates at every stage."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "fields": {
+                "items": [
+                    {
+                        "q": "Do you provide temporary healthcare assistants in Southwark?",
+                        "a": "Yes. Our temporary care staffing agency can supply HCAs for care homes, supported living, and private households. Our staff are trained, DBS-checked, and experienced in various care settings. We can respond the same day for urgent needs or plan cover weeks in advance."
+                    },
+                    {
+                        "q": "Can you cover night shifts in multiple locations?",
+                        "a": "Absolutely. We have agency care workers and night-shift HCAs ready for waking nights or sleep-ins. Our team can coordinate multi-site coverage to ensure consistent quality."
+                    },
+                    {
+                        "q": "Do you serve both private households and care facilities?",
+                        "a": "Yes. We work with residential providers, supported living services, and private clients. For households, we can provide live-in or visiting carers. For facilities, we offer flexible shift cover to meet your rota needs."
+                    },
+                    {
+                        "q": "Are your staff trained to meet CQC requirements?",
+                        "a": "Yes. All workers complete CQC-aligned mandatory training and receive ongoing professional development. We follow best practice in infection prevention, safeguarding, manual handling, and person-centred care."
+                    },
+                    {
+                        "q": "Can you coordinate cover for multi-site operators in Southwark and beyond?",
+                        "a": "Yes. Our healthcare recruitment agency supports multi-site care providers across Southwark, Lambeth, Westminster, and Lewisham, ensuring staffing consistency across all locations."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "cta",
+            "fields": {
+                "heading": "Request Care Staff in Southwark Today",
+                "sub": "We operate 24/7 so you can maintain safe staffing without last-minute stress.",
+                "cta_label": "Get a Quote",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+            }
+        },
+        {
+            "type": "contact_form",
+            "fields": {
+                "division": "staffing",
+                "heading": "Request Care Staff in Southwark Today"
+            }
+        }
+    ],
+    "status": "draft"
+}

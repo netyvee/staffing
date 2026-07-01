@@ -1,0 +1,97 @@
+{
+    "schema_version": 1,
+    "site": "care_staffing",
+    "slug": "/care-staffing-agency-london",
+    "page_type": "service",
+    "seo": {
+        "title": "Care Staffing Agency London | Vigil Care Staffing",
+        "description": "London's trusted care staffing agency — qualified, vetted Healthcare Assistants, Support Workers, and Cleaners for care homes and supported living. Fast response, CQC-compliant.",
+        "canonical": "/care-staffing-agency-london",
+        "focus_keyword": "care staffing agency london",
+        "schema_type": "Service"
+    },
+    "brand": {
+        "bg": "#0a1628",
+        "text": "#ffffff",
+        "cta": "#4ecdc4",
+        "secondary": "#7fb2d4"
+    },
+    "nap": {
+        "phone": "020 3973 8887",
+        "email": "staffing@vigilservices.co.uk",
+        "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+        "trading_name": "Vigil Care Staffing",
+        "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "fields": {
+                "heading": "Care Staffing Agency London",
+                "sub": "Whether it's temporary staffing solutions for health and care , permanent placements, or urgent last-minute cover, our team ensures that every shift is filled with qualified, vetted professionals who are ready to make a difference.",
+                "cta_label": "Add Vigil to Your PSL",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+            }
+        },
+        {
+            "type": "text_image",
+            "fields": {
+                "heading": "Care Staffing Agency London PSL Partnership",
+                "body": "we don't just provide care staff—we help your service run better. When you add us to your PSL, you get priority access to qualified staff plus free weekly planning tools built for inspections, team wellbeing, and smoother handovers. No other agency offers this kind of workforce support at no extra cost ."
+            }
+        },
+        {
+            "type": "service_grid",
+            "fields": {
+                "items": [
+                    { "title": "Reduced risk", "body": "Reduced risk through stringent vetting and training." },
+                    { "title": "Operational continuity", "body": "Operational continuity to prevent disruption to residents and clients." },
+                    { "title": "Improved CQC evidence", "body": "Improved CQC evidence via documented compliance processes." },
+                    { "title": "Dedicated Support", "body": "You'll have direct access to a dedicated account manager who knows your needs and is always ready to help." },
+                    { "title": "Compliance Help", "body": "Strategic resources aligned to CQC Single Assessment Framework" }
+                ]
+            }
+        },
+        {
+            "type": "service_grid",
+            "fields": {
+                "items": [
+                    { "title": "Background Checks", "body": "We conduct thorough background checks to ensure safety and reliability." },
+                    { "title": "Right-to-Work", "body": "Verification of each candidate's right to work in the UK." },
+                    { "title": "Reference Checks", "body": "We contact references to confirm their experience and skills." },
+                    { "title": "Competency Assessments", "body": "We assess competencies to ensure they're fit for our roles." }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "fields": {
+                "items": [
+                    { "q": "How quickly can your Care Staffing Agency in London provide staff in my borough?", "a": "Our Care Staffing Agency in London specialises in rapid response. In most cases, we can deploy qualified care staff within just a few hours, supported by our borough-specific availability lists and 24/7 on-call team." },
+                    { "q": "Does your Care Staffing Agency in London cover live-in care arrangements?", "a": "Yes. We provide trained and compassionate live-in carers for both short-term and long-term placements. Our Care Staffing Agency in London ensures every live-in care arrangement is tailored to your client's individual needs." },
+                    { "q": "Can your Care Staffing Agency in London supply emergency cover for night shifts?", "a": "Yes. We maintain a dedicated night shift team, enabling our Care Staffing Agency in London to provide emergency care cover at short notice — ensuring residents and service users are never left without support." },
+                    { "q": "Why should I choose your Care Staffing Agency in London over others?", "a": "Our Care Staffing Agency in London combines speed, compliance, and compassion. Unlike general agencies, we focus exclusively on healthcare staffing, ensuring you always receive qualified professionals who meet CQC standards and align with your service values." },
+                    { "q": "How does your Care Staffing Agency in London ensure continuity of care?", "a": "We understand the importance of consistency for service users. Many providers request the same staff repeatedly, and our Care Staffing Agency in London accommodates this to ensure familiar, trusted faces deliver ongoing care." },
+                    { "q": "What types of roles can your Care Staffing Agency in London provide?", "a": "Our Care Staffing Agency in London supplies a full range of roles, including healthcare assistants (HCAs), support workers, live-in carers, night shift staff, and specialist care professionals. This flexibility allows us to meet the unique needs of every provider." }
+                ]
+            }
+        },
+        {
+            "type": "cta",
+            "fields": {
+                "heading": "Your Next Steps with Vigil Care Staffing",
+                "sub": "Let's partner to ensure your care service runs smoothly and effectively. We're here to help you every step of the way.",
+                "cta_label": "Get Started",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+            }
+        },
+        {
+            "type": "contact_form",
+            "fields": {
+                "division": "staffing",
+                "heading": "Your Next Steps with Vigil Care Staffing"
+            }
+        }
+    ],
+    "status": "draft"
+}

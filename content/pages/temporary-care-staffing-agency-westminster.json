@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "site": "care_staffing",
+  "slug": "/temporary-care-staffing-agency-westminster",
+  "page_type": "borough",
+  "seo": {
+    "title": "Temporary Care Staffing Agency Westminster | Vigil Care Staffing",
+    "description": "Flexible, CQC-compliant care staff in Westminster — healthcare assistants, support workers, night shift, and live-in carers. Rapid response, 24/7 booking.",
+    "canonical": "/temporary-care-staffing-agency-westminster",
+    "focus_keyword": "temporary care staffing agency westminster",
+    "schema_type": "Service"
+  },
+  "brand": {
+    "bg": "#0a1628",
+    "text": "#ffffff",
+    "cta": "#4ecdc4",
+    "secondary": "#7fb2d4"
+  },
+  "nap": {
+    "phone": "020 3973 8887",
+    "email": "staffing@vigilservices.co.uk",
+    "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+    "trading_name": "Vigil Care Staffing",
+    "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "fields": {
+        "heading": "Temporary Care Staffing Agency Westminster",
+        "sub": "Temporary Care Staffing Agency in Westminster – Vigil Care Staffing delivers fast, compliant, and compassionate staffing solutions for care homes, supported living, and private clients across the borough.",
+        "cta_label": "Get a Quote",
+        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+      }
+    },
+    {
+      "type": "borough_block",
+      "fields": {
+        "borough": "Westminster",
+        "body": "Our familiarity with Westminster's diverse communities, from Pimlico to St John's Wood, ensures a rapid response and staff who are ready to adapt to your service's needs."
+      }
+    },
+    {
+      "type": "text_image",
+      "fields": {
+        "heading": "Why Choose Vigil Care Staffing for Your Westminster Service",
+        "body": "Our clients choose us because we offer more than just people — we deliver confidence and continuity . Every support worker, healthcare assistant (HCA), or live-in carer we supply undergoes strict vetting, DBS checks, and compliance with CQC standards. In Westminster's fast-paced care environment, our ability to mobilise staff within hours is the difference between maintaining safe staffing levels and facing operational disruption."
+      }
+    },
+    {
+      "type": "service_grid",
+      "fields": {
+        "items": [
+          {
+            "title": "Rapid Response Times",
+            "body": "Short-notice cover for shifts and emergencies."
+          },
+          {
+            "title": "Comprehensive Roles",
+            "body": "Support workers, healthcare assistants, live-in carers, night shift staff, cleaners for care environments."
+          },
+          {
+            "title": "Compliance Confidence",
+            "body": "Fully vetted, trained, and insured staff."
+          },
+          {
+            "title": "Flexible Engagements",
+            "body": "Temporary, ongoing, or trial-to-permanent placements."
+          },
+          {
+            "title": "Local Knowledge",
+            "body": "Understanding of Westminster's service demands and community needs."
+          }
+        ]
+      }
+    },
+    {
+      "type": "faq",
+      "fields": {
+        "items": [
+          {
+            "q": "How quickly can you provide temporary care staff in Westminster?",
+            "a": "We can often deploy trained, compliant staff within 2–4 hours of receiving your request, thanks to our local workforce and rapid mobilisation process."
+          },
+          {
+            "q": "Do you supply both day and night shift care staff?",
+            "a": "Yes. We provide staff for day shifts, waking nights, sleeping nights, and 24-hour live-in care , tailored to your requirements."
+          },
+          {
+            "q": "Are your healthcare assistants and support workers fully vetted?",
+            "a": "Absolutely. All staff undergo enhanced DBS checks, reference verification, right-to-work confirmation, and mandatory care training."
+          },
+          {
+            "q": "Can I request the same staff for repeat bookings?",
+            "a": "Yes, wherever possible, we allocate the same trusted staff to maintain continuity of care and build rapport with your service users."
+          },
+          {
+            "q": "Do you also provide cleaning staff for care environments in Westminster?",
+            "a": "Yes. We supply cleaners trained in infection prevention and control for care homes, supported living, and other healthcare settings."
+          }
+        ]
+      }
+    },
+    {
+      "type": "cta",
+      "fields": {
+        "heading": "Request Temporary Care Staff in Westminster Today",
+        "sub": "Whether you need urgent shift cover, ongoing temporary support, or a live-in care arrangement, Vigil Care Staffing is ready to help.",
+        "cta_label": "Call Now",
+        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+      }
+    },
+    {
+      "type": "contact_form",
+      "fields": {
+        "division": "staffing",
+        "heading": "Request Temporary Care Staff in Westminster Today"
+      }
+    }
+  ],
+  "status": "draft"
+}

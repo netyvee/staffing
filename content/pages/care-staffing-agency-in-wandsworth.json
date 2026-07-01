@@ -1,0 +1,122 @@
+{
+    "schema_version": 1,
+    "site": "care_staffing",
+    "slug": "/care-staffing-agency-in-wandsworth",
+    "page_type": "borough",
+    "seo": {
+        "title": "Care Staffing Agency in Wandsworth | Vigil Care Staffing",
+        "description": "Dependable, CQC-compliant care staffing in Wandsworth — HCAs, support workers, night shift, and live-in carers. Same-day cover available 24/7.",
+        "canonical": "/care-staffing-agency-in-wandsworth",
+        "focus_keyword": "care staffing agency wandsworth",
+        "schema_type": "Service"
+    },
+    "brand": {
+        "bg": "#0a1628",
+        "text": "#ffffff",
+        "cta": "#4ecdc4",
+        "secondary": "#7fb2d4"
+    },
+    "nap": {
+        "phone": "020 3973 8887",
+        "email": "staffing@vigilservices.co.uk",
+        "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+        "trading_name": "Vigil Care Staffing",
+        "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "fields": {
+                "heading": "Care Staffing Agency in Wandsworth",
+                "sub": "Care Staffing Agency in Wandsworth – Vigil Care Staffing provides dependable, CQC-compliant professionals across the borough, including healthcare assistants, support workers, and emergency care staff.",
+                "cta_label": "Get a Quote",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+            }
+        },
+        {
+            "type": "borough_block",
+            "fields": {
+                "borough": "Wandsworth",
+                "body": "From Battersea and Clapham Junction to Tooting , Balham , Putney , Roehampton , Southfields , Earlsfield , and Nine Elms , we place fully vetted, CQC-compliant professionals who can step in at short notice and maintain the quality, continuity, and safety of care."
+            }
+        },
+        {
+            "type": "text_image",
+            "fields": {
+                "heading": "Why Choose Vigil Care Staffing in Wandsworth",
+                "body": "Selecting a care staffing agency in Wandsworth is about more than filling shifts. It's about protecting service users, stabilising rotas, and partnering with people who understand the pressures of care delivery. We match your needs with the right skills, temperament, and availability, so every placement adds value from day one."
+            }
+        },
+        {
+            "type": "service_grid",
+            "fields": {
+                "items": [
+                    {
+                        "title": "Rapid response",
+                        "body": "Same-day placements when you're short-staffed."
+                    },
+                    {
+                        "title": "Borough knowledge",
+                        "body": "Familiarity with Wandsworth's facilities, transport links, and discharge pathways."
+                    },
+                    {
+                        "title": "Continuity of Care",
+                        "body": "We prioritise returning the same workers for stability and rapport."
+                    },
+                    {
+                        "title": "Specialist Matching",
+                        "body": "We pair your role with a suitable agency healthcare assistant, support worker, or live-in carer."
+                    },
+                    {
+                        "title": "Transparent communication",
+                        "body": "Clear updates from booking to handover."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "fields": {
+                "items": [
+                    {
+                        "q": "Do you offer temporary staffing solutions for health and care in Wandsworth?",
+                        "a": "Yes. We provide temporary healthcare staffing across the borough — from single-shift cover to multi-week placements — ensuring safe staffing and continuity."
+                    },
+                    {
+                        "q": "Can you supply night-shift staff on short notice?",
+                        "a": "Absolutely. We maintain a pool of agency care workers and night-shift HCAs who can step in for waking nights or sleep-ins when your rota needs urgent support."
+                    },
+                    {
+                        "q": "Do you work with private households as well as care providers?",
+                        "a": "Yes. We support private households with live-in carers and visiting care, and we serve care homes , supported living , and NHS community teams ."
+                    },
+                    {
+                        "q": "How do you ensure staff are compliant with CQC expectations?",
+                        "a": "All workers are DBS-checked , referenced, and trained to sector standards (infection prevention, manual handling, safeguarding, BLS). We also align with CQC guidance and Skills for Care ."
+                    },
+                    {
+                        "q": "Can you coordinate cover across multiple homes or sites?",
+                        "a": "Yes. As a healthcare assistant agency operating across West and South-West London, we coordinate cover across Wandsworth and neighbouring boroughs to keep your service consistent."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "cta",
+            "fields": {
+                "heading": "Request Care Staff in Wandsworth Today",
+                "sub": "We operate 24/7 so you can maintain safe staffing and focus on care.",
+                "cta_label": "Request Staff Online",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+            }
+        },
+        {
+            "type": "contact_form",
+            "fields": {
+                "division": "staffing",
+                "heading": "Request Care Staff in Wandsworth Today"
+            }
+        }
+    ],
+    "status": "draft"
+}

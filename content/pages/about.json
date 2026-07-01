@@ -1,0 +1,130 @@
+{
+  "schema_version": 1,
+  "site": "care_staffing",
+  "slug": "/about",
+  "page_type": "supporting",
+  "seo": {
+    "title": "About Us | Vigil Care Staffing Agency London",
+    "description": "Vigil Care Staffing is a trusted care staffing agency supplying Healthcare Assistants, Support Workers, and Cleaners to care homes and supported living across London.",
+    "canonical": "/about",
+    "focus_keyword": "about vigil care staffing",
+    "schema_type": "WebPage"
+  },
+  "brand": {
+    "bg": "#0a1628",
+    "text": "#ffffff",
+    "cta": "#4ecdc4",
+    "secondary": "#7fb2d4"
+  },
+  "nap": {
+    "phone": "020 3973 8887",
+    "email": "staffing@vigilservices.co.uk",
+    "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+    "trading_name": "Vigil Care Staffing",
+    "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "fields": {
+        "heading": "About Us",
+        "sub": "As a leading Care Staffing Specialist led by former nurses and care managers, we personally vet every professional we place within the NHS and private care homes.",
+        "cta_label": "FREE Quote",
+        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+      }
+    },
+    {
+      "type": "text_image",
+      "fields": {
+        "heading": "Who We Are",
+        "body": "We don't just fill shifts, we bridge the gap between high-calibre professionals and the facilities that need them. We personally vet every Healthcare Assistant, Support Worker, and Infection Control Specialist to ensure a perfect fit for your specific care environment."
+      }
+    },
+    {
+      "type": "service_grid",
+      "fields": {
+        "items": [
+          {
+            "title": "High-calibre professionals",
+            "body": "High-calibre professionals trained by Skills for Care"
+          },
+          {
+            "title": "Specialized training",
+            "body": "Specialized training in dementia and mental health"
+          },
+          {
+            "title": "Emergency & long-term staffing",
+            "body": "Emergency & long-term staffing solutions"
+          }
+        ]
+      }
+    },
+    {
+      "type": "service_grid",
+      "fields": {
+        "items": [
+          {
+            "title": "CQC-compliant",
+            "body": "CQC-compliant and compliance-focused"
+          },
+          {
+            "title": "All staff DBS-checked",
+            "body": "All staff DBS-checked, trained, and ready to work"
+          },
+          {
+            "title": "24/7 staffing support",
+            "body": "24/7 staffing support, including same-day cover"
+          },
+          {
+            "title": "Flexible solutions",
+            "body": "Flexible solutions for care homes, supported living, and domiciliary care"
+          }
+        ]
+      }
+    },
+    {
+      "type": "faq",
+      "fields": {
+        "items": [
+          {
+            "q": "What is Vigil Care Staffing?",
+            "a": "Vigil Care Staffing is a trusted care staffing agency that supplies trained Healthcare Assistants (HCAs), Support Workers, and Cleaners to care homes, nursing homes, and supported living services across London"
+          },
+          {
+            "q": "What makes your care staffing agency different from others?",
+            "a": "We focus on quality, compliance, and reliability. All staff are fully DBS-checked, trained, and selected based on both skill and compassion. We also offer 24/7 support and same-day cover where required."
+          },
+          {
+            "q": "Do you cover all areas in London?",
+            "a": "Yes, our care staffing agency provides services throughout the capital, with strong coverage in East London, North London, South West and Central London. We also offer remote recruitment and onboarding for wider regions."
+          },
+          {
+            "q": "How does Vigil Care Staffing ensure staff are compliant and well-trained?",
+            "a": "We follow strict recruitment and compliance protocols. All candidates complete mandatory training, background checks, and skills verification before placement. Our care staffing agency ensures every professional is ready to deliver safe, person-centred care."
+          },
+          {
+            "q": "Can I speak directly to someone about my staffing needs?",
+            "a": "Absolutely! We have a responsive team ready to assist you. You can reach our care staffing agency via phone, email, or our online contact form. We're here to help you find the right staff quickly and efficiently."
+          }
+        ]
+      }
+    },
+    {
+      "type": "cta",
+      "fields": {
+        "heading": "Contact Us",
+        "sub": "Interested in working with a reliable care staffing agency? Whether you need urgent cover or are planning ahead, get in touch today.",
+        "cta_label": "FREE Quote",
+        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+      }
+    },
+    {
+      "type": "contact_form",
+      "fields": {
+        "division": "staffing",
+        "heading": "Contact Us"
+      }
+    }
+  ],
+  "status": "draft"
+}

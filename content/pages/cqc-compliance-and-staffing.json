@@ -1,0 +1,118 @@
+{
+  "schema_version": 1,
+  "site": "care_staffing",
+  "slug": "/cqc-compliance-and-staffing",
+  "page_type": "blog",
+  "seo": {
+    "title": "CQC Compliance and Staffing: What's Changing This Quarter | Vigil Care Staffing",
+    "description": "How care providers align staffing, evidence and supervision to the CQC single assessment framework and Regulation 18 this quarter.",
+    "canonical": "/cqc-compliance-and-staffing",
+    "focus_keyword": "CQC compliance and staffing",
+    "schema_type": "Article"
+  },
+  "brand": {
+    "bg": "#0a1628",
+    "text": "#ffffff",
+    "cta": "#4ecdc4",
+    "secondary": "#7fb2d4"
+  },
+  "nap": {
+    "phone": "020 3973 8887",
+    "email": "staffing@vigilservices.co.uk",
+    "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+    "trading_name": "Vigil Care Staffing",
+    "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "fields": {
+        "heading": "CQC Compliance and Staffing: What's Changing This Quarter",
+        "sub": "CQC compliance and staffing are moving targets. This quarter, providers are working within the single assessment framework (quality-statement led), adapting to ongoing provider portal improvements, and demonstrating safe deployment under Regulation 18: Staffing.",
+        "cta_label": "Talk to Vigil Care Staffing",
+        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+      }
+    },
+    {
+      "type": "text_image",
+      "fields": {
+        "heading": "What's Changing This Quarter (at a glance)",
+        "body": "Quality-statement-led assessment continues — plan and tag evidence to statements, not generic folders. Provider portal capabilities are expanding; check which submissions are supported now and keep roles/permissions current. CQC compliance and staffing scrutiny remains anchored in Regulation 18 — show staffing levels, competence, supervision cadence and outcomes."
+      }
+    },
+    {
+      "type": "service_grid",
+      "fields": {
+        "items": [
+          {
+            "title": "Map roles to quality statements",
+            "body": "link frontline/leadership roles to relevant statements (e.g., Safe: medicines/falls; Well-led: supervision)."
+          },
+          {
+            "title": "Right skill, right time",
+            "body": "rotas aligned to acuity; contingency (bank/agency/escalation); narrate decisions for Reg 18."
+          },
+          {
+            "title": "Competence & training matrix",
+            "body": "mandatory modules, refreshers, observed practice, shadowing, induction, supervision, appraisals."
+          },
+          {
+            "title": "Live supervision & spot-checks",
+            "body": "short, frequent supervisions; recorded observations of practice; learning captured and acted on."
+          },
+          {
+            "title": "Workforce planning pack",
+            "body": "vacancies, time-to-hire, agency reliance, retention; minutes/actions from workforce meetings."
+          },
+          {
+            "title": "Governance cadence",
+            "body": "monthly Quality & Safety; staffing KPIs dashboard; actions closed with owners/dates."
+          }
+        ]
+      }
+    },
+    {
+      "type": "text_image",
+      "fields": {
+        "heading": "Step-by-Step: Preparing Your Evidence",
+        "body": "Inventory policies, rotas, actuals, supervision logs, spot-checks, training, audits, outcomes. Align each item to a quality statement; retire duplicates; fill gaps. Prove impact — link staffing changes to outcomes (falls ↓, missed calls ↓, continuity ↑). Portal check — confirm what's live on the provider portal and who owns submissions. Rehearse your CQC compliance and staffing narrative: how you decide safe numbers, assure competence and act on risk."
+      }
+    },
+    {
+      "type": "faq",
+      "fields": {
+        "items": [
+          {
+            "q": "What is the single biggest shift in CQC compliance and staffing this quarter?",
+            "a": "Maintaining a quality-statement-first evidence set while CQC refines systems and the provider portal, so your staffing story is always inspection-ready."
+          },
+          {
+            "q": "Does CQC require specific ratios under Regulation 18?",
+            "a": "No fixed national ratios; you must show enough suitably qualified and competent staff to meet people's needs, backed by training and supervision records."
+          },
+          {
+            "q": "What KPIs best prove safe and effective staffing?",
+            "a": "Track fill rate vs plan, continuity %, training compliance by module, supervision on-time rate, incident rate per 1,000 hours with actions closed, time-to-hire and 90-day retention."
+          }
+        ]
+      }
+    },
+    {
+      "type": "cta",
+      "fields": {
+        "heading": "Talk to Vigil Care Staffing about strengthening CQC compliance and staffing evidence ahead of your next assessment.",
+        "sub": "Use the Workforce Planning Pack to forecast and cover gaps.",
+        "cta_label": "Talk to Vigil Care Staffing",
+        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+      }
+    },
+    {
+      "type": "contact_form",
+      "fields": {
+        "division": "staffing",
+        "heading": "Talk to Vigil Care Staffing about strengthening CQC compliance and staffing evidence ahead of your next assessment."
+      }
+    }
+  ],
+  "status": "draft"
+}

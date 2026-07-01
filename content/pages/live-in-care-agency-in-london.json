@@ -1,0 +1,169 @@
+{
+    "schema_version": 1,
+    "site": "care_staffing",
+    "slug": "/live-in-care-agency-in-london",
+    "page_type": "service",
+    "seo": {
+        "title": "Live-in Care Agency in London | Vigil Care Staffing",
+        "description": "Vigil Care Staffing provides fully vetted live-in carers across London for elderly care, complex needs, palliative support, and companionship. CQC-aligned placements.",
+        "canonical": "/live-in-care-agency-in-london",
+        "focus_keyword": "live-in care agency london",
+        "schema_type": "Service"
+    },
+    "brand": {
+        "bg": "#0a1628",
+        "text": "#ffffff",
+        "cta": "#4ecdc4",
+        "secondary": "#7fb2d4"
+    },
+    "nap": {
+        "phone": "020 3973 8887",
+        "email": "staffing@vigilservices.co.uk",
+        "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+        "trading_name": "Vigil Care Staffing",
+        "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "fields": {
+                "heading": "Live-in Care Agency in London",
+                "sub": "Live-in Care Agency in London services from Vigil Care Staffing provide families and care providers with dedicated, fully vetted live-in carers who offer 24-hour support in the client's own home. Whether the requirement is for elderly care, complex needs, palliative support, or companionship, our temporary care staffing agency ensures your service users receive consistent, personalized care without the disruption of moving to a residential facility.",
+                "cta_label": "Get a Quote",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+            }
+        },
+        {
+            "type": "text_image",
+            "fields": {
+                "heading": "Continuous, Compassionate, and Professional Care in the Comfort of Home",
+                "body": "From short-term relief to permanent arrangements, we supply agency care workers who are trained, compliant, and committed to preserving dignity, independence, and quality of life."
+            }
+        },
+        {
+            "type": "service_grid",
+            "fields": {
+                "items": [
+                    {
+                        "title": "Tailored Care Matching",
+                        "body": "We select live-in carers based on skills, personality fit, and cultural awareness."
+                    },
+                    {
+                        "title": "Round-the-Clock Support",
+                        "body": "24-hour presence ensures safety, companionship, and consistent care."
+                    },
+                    {
+                        "title": "CQC-Aligned Standards",
+                        "body": "All placements follow Care Quality Commission (CQC) guidelines."
+                    },
+                    {
+                        "title": "Local Expertise",
+                        "body": "Borough-based carers with knowledge of local communities, transport, and resources."
+                    },
+                    {
+                        "title": "Versatile Arrangements",
+                        "body": "Short-term respite, ongoing assignments, and emergency cover available."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "service_grid",
+            "fields": {
+                "items": [
+                    {
+                        "title": "Comprehensive Vetting",
+                        "body": "Enhanced DBS, reference checks, right-to-work verification."
+                    },
+                    {
+                        "title": "Continuity of Care",
+                        "body": "Wherever possible, we keep the same carer for long-term placements."
+                    },
+                    {
+                        "title": "Specialist Skills",
+                        "body": "Care trained in dementia care, mobility assistance, medication prompting, and end-of-life support."
+                    },
+                    {
+                        "title": "Flexibility",
+                        "body": "Cover available for weekends, holidays, or extended breaks."
+                    },
+                    {
+                        "title": "Family Support",
+                        "body": "Regular updates and transparent communication throughout the placement."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "service_grid",
+            "fields": {
+                "items": [
+                    {
+                        "title": "Enhanced DBS Checks",
+                        "body": "Safeguarding vulnerable adults."
+                    },
+                    {
+                        "title": "Right to Work Verification",
+                        "body": "Compliance with UK employment laws."
+                    },
+                    {
+                        "title": "Professional References",
+                        "body": "Minimum of two relevant references."
+                    },
+                    {
+                        "title": "Skills Assessments",
+                        "body": "Including manual handling, infection control, and person-centred care."
+                    },
+                    {
+                        "title": "Ongoing CPD",
+                        "body": "Training updates to meet changing care needs."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "fields": {
+                "items": [
+                    {
+                        "q": "How quickly can your live-in care agency London arrange a carer?",
+                        "a": "In urgent cases, we can place a fully vetted live-in carer within 48 hours."
+                    },
+                    {
+                        "q": "Do your live-in carers handle medical tasks?",
+                        "a": "Our carers are trained in medication prompting and basic healthcare support, but clinical tasks are carried out by qualified nurses."
+                    },
+                    {
+                        "q": "Can I request a live-in carer with specialist skills?",
+                        "a": "Yes. We can provide carers experienced in dementia, Parkinson's, palliative care, and other specialised needs."
+                    },
+                    {
+                        "q": "How is the carer's accommodation arranged?",
+                        "a": "Clients must provide a suitable private room and access to facilities within the home."
+                    },
+                    {
+                        "q": "Do you offer temporary and permanent live-in care options?",
+                        "a": "Yes. Our temporary care staffing agency model allows for short-term cover as well as long-term arrangements."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "cta",
+            "fields": {
+                "heading": "Request a Live-in Carer in London Today",
+                "sub": "Providing skilled support workers for every borough in London.",
+                "cta_label": "FREE Quote",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+            }
+        },
+        {
+            "type": "contact_form",
+            "fields": {
+                "division": "staffing",
+                "heading": "Get a Quote"
+            }
+        }
+    ],
+    "status": "draft"
+}

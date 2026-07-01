@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "site": "care_staffing",
+  "slug": "/care-staffing-agency-kensington-and-chelsea",
+  "page_type": "borough",
+  "seo": {
+    "title": "Care Staffing Agency Kensington and Chelsea | Vigil Care Staffing",
+    "description": "Reliable, CQC-compliant care professionals in Kensington and Chelsea — healthcare assistants, support workers, live-in carers, and emergency cover, available 24/7.",
+    "canonical": "/care-staffing-agency-kensington-and-chelsea",
+    "focus_keyword": "care staffing agency kensington and chelsea",
+    "schema_type": "Service"
+  },
+  "brand": {
+    "bg": "#0a1628",
+    "text": "#ffffff",
+    "cta": "#4ecdc4",
+    "secondary": "#7fb2d4"
+  },
+  "nap": {
+    "phone": "020 3973 8887",
+    "email": "staffing@vigilservices.co.uk",
+    "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+    "trading_name": "Vigil Care Staffing",
+    "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "fields": {
+        "heading": "Care Staffing Agency Kensington and Chelsea",
+        "sub": "Vigil Care Staffing is your reliable partner for high-quality, CQC-compliant care professionals. We work with care homes, supported living providers, NHS services, and private households to ensure staffing gaps are filled quickly, efficiently, and with the right people.",
+        "cta_label": "Get a Quote",
+        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+      }
+    },
+    {
+      "type": "borough_block",
+      "fields": {
+        "borough": "Kensington and Chelsea",
+        "body": "We serve the entire Royal Borough of Kensington and Chelsea, ensuring you can access professional care staff anywhere you need them."
+      }
+    },
+    {
+      "type": "text_image",
+      "fields": {
+        "heading": "Why Choose Vigil Care Staffing in Kensington and Chelsea",
+        "body": "Choosing the right care staffing agency in Kensington and Chelsea means selecting a partner who understands the borough's unique blend of private care needs, community health services, and residential facilities. We provide more than just staffing cover — we bring peace of mind."
+      }
+    },
+    {
+      "type": "service_grid",
+      "fields": {
+        "items": [
+          {
+            "title": "Rapid Deployment",
+            "body": "Same-day staffing for urgent situations."
+          },
+          {
+            "title": "Local Expertise",
+            "body": "We understand the borough's facilities, client demographics, and regulatory landscape."
+          },
+          {
+            "title": "Continuity of Care",
+            "body": "We aim for consistent staff assignments to support relationship building."
+          },
+          {
+            "title": "Specialist Matching",
+            "body": "Assigning staff based on skill set, experience, and personality fit."
+          },
+          {
+            "title": "Transparent Communication",
+            "body": "Updates and feedback at every stage."
+          },
+          {
+            "title": "Preventative Workforce Planning",
+            "body": "Helping you prepare for seasonal or predictable shortages."
+          }
+        ]
+      }
+    },
+    {
+      "type": "faq",
+      "fields": {
+        "items": [
+          {
+            "q": "Do you supply temporary healthcare assistants in Kensington and Chelsea?",
+            "a": "Yes. Our care staffing agency in Kensington and Chelsea can provide HCAs, support workers, and other care professionals for urgent or ongoing assignments."
+          },
+          {
+            "q": "Can you arrange night-shift cover on short notice?",
+            "a": "Absolutely. We maintain a roster of night-shift carers ready to be deployed for emergencies or planned cover."
+          },
+          {
+            "q": "How quickly can you arrange live-in care?",
+            "a": "In urgent cases, we can place a live-in carer the same day, depending on your requirements."
+          },
+          {
+            "q": "Do you serve both private households and care facilities?",
+            "a": "Yes. We work with private clients, care homes, NHS services, and supported living schemes."
+          },
+          {
+            "q": "Are your staff trained to meet CQC standards?",
+            "a": "Yes. Every staff member is trained in line with CQC regulations and sector best practices."
+          }
+        ]
+      }
+    },
+    {
+      "type": "cta",
+      "fields": {
+        "heading": "Request Care Staff in Kensington & Chelsea Today",
+        "sub": "We're available 24/7 to respond to your staffing needs because quality care should never be left to chance.",
+        "cta_label": "Request Staff Online",
+        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+      }
+    },
+    {
+      "type": "contact_form",
+      "fields": {
+        "division": "staffing",
+        "heading": "Request Care Staff in Kensington & Chelsea Today"
+      }
+    }
+  ],
+  "status": "draft"
+}

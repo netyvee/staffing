@@ -1,0 +1,126 @@
+{
+    "schema_version": 1,
+    "site": "care_staffing",
+    "slug": "/care-staff-agency-tower-hamlets",
+    "page_type": "borough",
+    "seo": {
+        "title": "Care Staff Agency Tower Hamlets | Vigil Care Staffing",
+        "description": "CQC-compliant healthcare assistants, support workers, and emergency care staff in Tower Hamlets. Vigil Care Staffing responds fast — 24/7 booking available.",
+        "canonical": "/care-staff-agency-tower-hamlets",
+        "focus_keyword": "care staff agency tower hamlets",
+        "schema_type": "Service"
+    },
+    "brand": {
+        "bg": "#0a1628",
+        "text": "#ffffff",
+        "cta": "#4ecdc4",
+        "secondary": "#7fb2d4"
+    },
+    "nap": {
+        "phone": "020 3973 8887",
+        "email": "staffing@vigilservices.co.uk",
+        "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+        "trading_name": "Vigil Care Staffing",
+        "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "fields": {
+                "heading": "Care Staff Agency Tower Hamlets",
+                "sub": "Care Staff Agency in Tower Hamlets – Vigil Care Staffing delivers trusted, CQC-compliant professionals across the borough, including healthcare assistants, support workers, and emergency care staff.",
+                "cta_label": "Get a Quote",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+            }
+        },
+        {
+            "type": "borough_block",
+            "fields": {
+                "borough": "Tower Hamlets",
+                "body": "Vigil Care Staffing serves as a dedicated gateway to high-quality healthcare staff in areas ranging from the financial hub of Canary Wharf to the communities of Mile End and Bethnal Green."
+            }
+        },
+        {
+            "type": "text_image",
+            "fields": {
+                "heading": "Vigil Care Staffing: Delivering Reliable, CQC-Compliant Healthcare Staff to the Heart of East London",
+                "body": "As the demand for adult social care in East London continues to rise—driven by an aging population and increasing complexity in mental health needs—finding a care staff agency Tower Hamlets understands is essential"
+            }
+        },
+        {
+            "type": "service_grid",
+            "fields": {
+                "items": [
+                    {
+                        "title": "Rapid response times",
+                        "body": "same-day placements for urgent requirements."
+                    },
+                    {
+                        "title": "Local knowledge",
+                        "body": "familiarity with the borough's services and communities."
+                    },
+                    {
+                        "title": "Continuity of Care",
+                        "body": "regular rotations of the same staff to build rapport with service users."
+                    },
+                    {
+                        "title": "Specialist Matching",
+                        "body": "pairing your vacancy with the most suitable agency care worker or healthcare assistant."
+                    },
+                    {
+                        "title": "Transparent processes",
+                        "body": "clear communication from booking to completion."
+                    },
+                    {
+                        "title": "Preventative workforce planning",
+                        "body": "helping you prepare for predictable seasonal demands."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "fields": {
+                "items": [
+                    {
+                        "q": "Do you offer temporary staffing solutions for health and care in Tower Hamlet?",
+                        "a": "Yes. Our temporary care staffing agency provides healthcare assistants, support workers, and live-in carers for urgent, short-term, and ongoing needs."
+                    },
+                    {
+                        "q": "Can you supply night-shift staff for care homes?",
+                        "a": "Absolutely. We have agency care workers available for planned or emergency night cover."
+                    },
+                    {
+                        "q": "Do you work with private households as well as facilities?",
+                        "a": "Yes. As an agency for care workers , we support both private clients and organisations."
+                    },
+                    {
+                        "q": "Are your staff trained to meet CQC requirements?",
+                        "a": "Yes. All staff are trained to CQC standards and follow industry best practices."
+                    },
+                    {
+                        "q": "Can you cover multiple sites across Tower Hamlet",
+                        "a": "Yes. Our healthcare assistant recruitment agency can support clients with facilities in neighbouring boroughs."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "cta",
+            "fields": {
+                "heading": "Request Healthcare Staff Today in Tower Hamlets",
+                "sub": "We operate 24/7 so you can focus on running your service, knowing your staffing needs are covered.",
+                "cta_label": "Request Staff Online",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+            }
+        },
+        {
+            "type": "contact_form",
+            "fields": {
+                "division": "staffing",
+                "heading": "Request Healthcare Staff Today in Tower Hamlets"
+            }
+        }
+    ],
+    "status": "draft"
+}

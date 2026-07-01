@@ -1,0 +1,101 @@
+{
+    "schema_version": 1,
+    "site": "care_staffing",
+    "slug": "/equal-opportunities-employer-policy",
+    "page_type": "supporting",
+    "seo": {
+        "title": "Equal Opportunities Employer Policy | Vigil Care Staffing",
+        "description": "Vigil Services Ltd equal opportunities employer policy — our commitment to diversity, inclusion, and fair employment practices for all employees and job applicants.",
+        "canonical": "/equal-opportunities-employer-policy",
+        "focus_keyword": "equal opportunities employer policy",
+        "schema_type": "WebPage"
+    },
+    "brand": {
+        "bg": "#0a1628",
+        "text": "#ffffff",
+        "cta": "#4ecdc4",
+        "secondary": "#7fb2d4"
+    },
+    "nap": {
+        "phone": "020 3973 8887",
+        "email": "staffing@vigilservices.co.uk",
+        "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+        "trading_name": "Vigil Care Staffing",
+        "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "fields": {
+                "heading": "Equal Opportunities Employer Policy",
+                "sub": "At Vigil Services Ltd, we are committed to fostering an inclusive and diverse workplace that values and embraces the unique talents, perspectives, and backgrounds of our employees. We believe in equal opportunities for all, and our commitment to this principle is fundamental to our company ethos.",
+                "cta_label": "",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+            }
+        },
+        {
+            "type": "service_grid",
+            "fields": {
+                "items": [
+                    {
+                        "title": "Diversity and Inclusion",
+                        "body": "We celebrate diversity in all its forms, including but not limited to race, ethnicity, gender, age, sexual orientation, disability, religion, and socio-economic background. We believe that a diverse and inclusive workplace enhances creativity, innovation, and overall business success."
+                    },
+                    {
+                        "title": "Equal Opportunities",
+                        "body": "Vigil Services Ltd. is an Equal Opportunities Employer. We ensure that all employees and job applicants are treated fairly and without discrimination during recruitment, employment, and advancement within the organization. Employment decisions are based on merit, qualifications, and business needs."
+                    },
+                    {
+                        "title": "Promoting Fair Practices",
+                        "body": "We actively promote fair employment practices and work to eliminate any form of discrimination, harassment, or bias. Our policies and procedures are designed to create a work environment where everyone feels respected, valued, and able to contribute their best."
+                    },
+                    {
+                        "title": "Training and Development",
+                        "body": "We invest in training and development programs to ensure that all employees have equal opportunities to enhance their skills, knowledge, and career growth. We believe in providing the tools and resources necessary for every individual to reach their full potential."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "text_image",
+            "fields": {
+                "heading": "Reporting Discrimination or Harassment:",
+                "body": "Vigil Services Ltd. is committed to promptly addressing any concerns related to discrimination or harassment. We have established clear reporting mechanisms, and employees are encouraged to come forward with any issues, which will be treated with confidentiality and sensitivity."
+            }
+        },
+        {
+            "type": "service_grid",
+            "fields": {
+                "items": [
+                    {
+                        "title": "Regular Reviews",
+                        "body": "We regularly review our policies and practices to ensure they align with our commitment to equal opportunities and diversity."
+                    },
+                    {
+                        "title": "Metrics and Measurement",
+                        "body": "We set and measure diversity and inclusion goals to track our progress and identify areas for improvement."
+                    },
+                    {
+                        "title": "Community Engagement",
+                        "body": "Vigil Services Ltd. actively engages with the broader community to support initiatives that promote equal opportunities and diversity."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "text_image",
+            "fields": {
+                "heading": "Review and Updates:",
+                "body": "This Equal Opportunities Employer statement is reviewed regularly to ensure its continued relevance and effectiveness. Updates will be communicated to all employees."
+            }
+        },
+        {
+            "type": "contact_form",
+            "fields": {
+                "division": "staffing",
+                "heading": "Equal Opportunities Employer Policy"
+            }
+        }
+    ],
+    "status": "draft"
+}

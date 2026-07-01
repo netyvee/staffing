@@ -1,0 +1,118 @@
+{
+  "schema_version": 1,
+  "site": "care_staffing",
+  "slug": "/hire-healthcare-assistants",
+  "page_type": "blog",
+  "seo": {
+    "title": "Hire Healthcare Assistants – A Guide for Care Home Managers | Vigil Care Staffing",
+    "description": "Step-by-step guide for care home managers on how to hire healthcare assistants with confidence — vetting, interviews, compliance and finding a specialist partner in London.",
+    "canonical": "/hire-healthcare-assistants",
+    "focus_keyword": "hire healthcare assistants",
+    "schema_type": "Article"
+  },
+  "brand": {
+    "bg": "#0a1628",
+    "text": "#ffffff",
+    "cta": "#4ecdc4",
+    "secondary": "#7fb2d4"
+  },
+  "nap": {
+    "phone": "020 3973 8887",
+    "email": "staffing@vigilservices.co.uk",
+    "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+    "trading_name": "Vigil Care Staffing",
+    "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "fields": {
+        "heading": "Hire Healthcare Assistants – A Guide for Care Home Managers",
+        "sub": "Hire healthcare assistants with confidence using this practical, step‑by‑step guide written specifically for care home managers. In a sector where safe staffing is non‑negotiable, the right healthcare assistants (HCAs) protect resident outcomes, reduce incidents, and stabilise rotas.",
+        "cta_label": "Tell us what you need",
+        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+      }
+    },
+    {
+      "type": "text_image",
+      "fields": {
+        "heading": "Why hiring the right Healthcare Assistant matters",
+        "body": "Healthcare assistants are the heartbeat of daily care delivery. When you hire healthcare assistants who blend clinical awareness with compassion, you protect safety, dignity, and consistency. Skilled HCAs keep routines calm, observations accurate, and documentation clear. They spot changes early, escalate appropriately, and support nurses to run smooth medication rounds. The right hires also reduce agency firefighting, improve staff morale, and build trust with families—outcomes that matter in every inspection and audit."
+      }
+    },
+    {
+      "type": "service_grid",
+      "fields": {
+        "items": [
+          {
+            "title": "Quality of life",
+            "body": "Person‑centred support improves engagement, nutrition, and pressure‑area prevention."
+          },
+          {
+            "title": "Regulatory compliance",
+            "body": "Competent staffing underpins expectations around Safe, Effective, and Caring."
+          },
+          {
+            "title": "Operational stability",
+            "body": "Reliable people mean fewer rota gaps, less last‑minute cover, and better handovers."
+          },
+          {
+            "title": "Cost control",
+            "body": "Strong retention reduces repeat onboarding, incident remediation, and overtime spend."
+          }
+        ]
+      }
+    },
+    {
+      "type": "text_image",
+      "fields": {
+        "heading": "Compliance and vetting essentials",
+        "body": "Robust checks protect residents, colleagues, and your compliance position. Before you hire healthcare assistants , complete these steps and keep evidence audit‑ready. Right to work: Verify documents and store securely. DBS: Enhanced check as appropriate to role; use the update service where possible. References: Recent, professional, relevant to care settings; ask about punctuality, teamwork, and documentation. Training: Infection prevention, manual handling, safeguarding adults, basic life support (role‑appropriate, in date). Induction: Site orientation, fire safety, incident reporting, escalation pathways, local safeguarding protocols."
+      }
+    },
+    {
+      "type": "faq",
+      "fields": {
+        "items": [
+          {
+            "q": "How many interviews should I run before I hire healthcare assistants?",
+            "a": "For agency HCAs, one structured interview can be sufficient if DBS, references, and training are verified. For permanent roles, consider two stages: a structured interview plus a practical or scenario‑based discussion to test documentation and escalation judgment."
+          },
+          {
+            "q": "What training should I insist on before offering shifts?",
+            "a": "At minimum: infection prevention, manual handling, safeguarding adults, and basic life support (role‑appropriate). Add dementia awareness, autism awareness, or end‑of‑life care depending on your resident profile."
+          },
+          {
+            "q": "How do I balance speed and safety during urgent cover?",
+            "a": "Define \"must‑have\" safety thresholds (DBS status, training currency, acceptable references). Use a pre‑approved pool to accelerate bookings and request rapid profiles summarising skills, settings, and recency."
+          },
+          {
+            "q": "Should I trial shifts before committing to regular bookings?",
+            "a": "Yes. A supernumerary or shadow shift lets you observe competence, communication style, and documentation habits in context."
+          },
+          {
+            "q": "How can I reduce turnover after I hire healthcare assistants?",
+            "a": "Retention is built on predictable rosters, supportive supervision, and recognition. Offer stable patterns where possible, keep workloads realistic, and provide timely feedback."
+          }
+        ]
+      }
+    },
+    {
+      "type": "cta",
+      "fields": {
+        "heading": "Hire Healthcare Assistants with Vigil today",
+        "sub": "Our team provides temporary staffing solutions , rapid shortlisting, and fully vetted profiles so you can maintain safe staffing and deliver outstanding care.",
+        "cta_label": "Tell us what you need",
+        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+      }
+    },
+    {
+      "type": "contact_form",
+      "fields": {
+        "division": "staffing",
+        "heading": "Ready to hire healthcare assistants with speed and confidence?"
+      }
+    }
+  ],
+  "status": "draft"
+}

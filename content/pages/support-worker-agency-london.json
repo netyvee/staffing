@@ -1,0 +1,161 @@
+{
+    "schema_version": 1,
+    "site": "care_staffing",
+    "slug": "/support-worker-agency-london",
+    "page_type": "service",
+    "seo": {
+        "title": "Support Worker Agency London | Vigil Care Staffing",
+        "description": "Vigil Care Staffing provides CQC-compliant, fully vetted support workers across every London borough. Rapid placements for care homes, supported living, and specialist settings.",
+        "canonical": "/support-worker-agency-london",
+        "focus_keyword": "support worker agency london",
+        "schema_type": "Service"
+    },
+    "brand": {
+        "bg": "#0a1628",
+        "text": "#ffffff",
+        "cta": "#4ecdc4",
+        "secondary": "#7fb2d4"
+    },
+    "nap": {
+        "phone": "020 3973 8887",
+        "email": "staffing@vigilservices.co.uk",
+        "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+        "trading_name": "Vigil Care Staffing",
+        "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "fields": {
+                "heading": "Support Worker Agency London",
+                "sub": "Support worker agency London services from Vigil Care Staffing provide care providers with dependable, compassionate, and CQC-compliant professionals. Whether you need temporary cover, ongoing placements, or urgent last-minute shifts filled, our temporary staffing solutions ensure your residents or service users receive consistent, person-centred support.",
+                "cta_label": "Get a Quote",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+            }
+        },
+        {
+            "type": "text_image",
+            "fields": {
+                "heading": "Compassionate, Skilled, and Ready-to-Work Support Workers",
+                "body": "From care homes to supported living services, our agency care workers bring experience, empathy, and dedication to every role."
+            }
+        },
+        {
+            "type": "service_grid",
+            "fields": {
+                "items": [
+                    {
+                        "title": "Rapid Placement",
+                        "body": "Our temporary placement agency model allows us to fill shifts in hours, not days."
+                    },
+                    {
+                        "title": "Compliance First",
+                        "body": "We follow strict Care Quality Commission (CQC) guidelines to ensure safety and quality."
+                    },
+                    {
+                        "title": "Tailored Staffing",
+                        "body": "From complex needs support to companionship, we match staff skills to your service requirements."
+                    },
+                    {
+                        "title": "Experienced Professionals",
+                        "body": "Every agency care worker has proven experience in health and social care."
+                    },
+                    {
+                        "title": "Borough-Wide Network",
+                        "body": "Our reach spans all of London, ensuring we can provide local, dependable staff wherever you operate."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "service_grid",
+            "fields": {
+                "items": [
+                    {
+                        "title": "24/7 Availability",
+                        "body": "Cover any shift, at any time."
+                    },
+                    {
+                        "title": "Fully Vetted Staff",
+                        "body": "Enhanced DBS, reference checks, and skills assessments."
+                    },
+                    {
+                        "title": "Flexible Staffing Models",
+                        "body": "One-off shifts, block bookings, and long-term contracts."
+                    },
+                    {
+                        "title": "Continuity of Care",
+                        "body": "Repeat placements with the same staff to ensure familiarity and consistency."
+                    },
+                    {
+                        "title": "Reduced Admin",
+                        "body": "We handle payroll, compliance, and documentation, letting you focus on care."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "service_grid",
+            "fields": {
+                "items": [
+                    {
+                        "title": "Enhanced DBS Checks",
+                        "body": "Safeguarding as standard."
+                    },
+                    {
+                        "title": "Right to Work Verification",
+                        "body": "Full legal compliance."
+                    },
+                    {
+                        "title": "Reference Checks",
+                        "body": "Minimum two professional references."
+                    },
+                    {
+                        "title": "Skills Assessments",
+                        "body": "Matching abilities to your service needs."
+                    },
+                    {
+                        "title": "Ongoing CPD",
+                        "body": "Regular training for updated skills and knowledge."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "fields": {
+                "items": [
+                    {
+                        "q": "How quickly can your support worker agency London provide staff?",
+                        "a": "We can often fill roles within hours, thanks to our borough-wide network of qualified support workers."
+                    },
+                    {
+                        "q": "Do you provide support workers for specialist needs?",
+                        "a": "Yes, our temporary care staffing agency team can match support workers with experience in dementia care, learning disabilities, and complex needs."
+                    },
+                    {
+                        "q": "Can I book the same support workers for ongoing shifts?",
+                        "a": "Absolutely – continuity of care is one of our priorities."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "cta",
+            "fields": {
+                "heading": "Request Support Workers in London Today",
+                "sub": "Providing skilled support workers for every borough in London.",
+                "cta_label": "FREE Quote",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+            }
+        },
+        {
+            "type": "contact_form",
+            "fields": {
+                "division": "staffing",
+                "heading": "Get a Quote"
+            }
+        }
+    ],
+    "status": "draft"
+}

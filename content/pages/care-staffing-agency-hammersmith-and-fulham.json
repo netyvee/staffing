@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "site": "care_staffing",
+  "slug": "/care-staffing-agency-hammersmith-and-fulham",
+  "page_type": "borough",
+  "seo": {
+    "title": "Care Staffing Agency Hammersmith and Fulham | Vigil Care Staffing",
+    "description": "Reliable, CQC-compliant care staffing in Hammersmith and Fulham — healthcare assistants, support workers, live-in carers, and emergency cover, available 24/7.",
+    "canonical": "/care-staffing-agency-hammersmith-and-fulham",
+    "focus_keyword": "care staffing agency hammersmith and fulham",
+    "schema_type": "Service"
+  },
+  "brand": {
+    "bg": "#0a1628",
+    "text": "#ffffff",
+    "cta": "#4ecdc4",
+    "secondary": "#7fb2d4"
+  },
+  "nap": {
+    "phone": "020 3973 8887",
+    "email": "staffing@vigilservices.co.uk",
+    "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+    "trading_name": "Vigil Care Staffing",
+    "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "fields": {
+        "heading": "Care Staffing Agency Hammersmith and Fulham",
+        "sub": "Vigil Care Staffing provides urgent and ongoing staffing solutions for care homes, supported living services, NHS facilities, and private households across this vibrant borough.",
+        "cta_label": "Get a Quote",
+        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+      }
+    },
+    {
+      "type": "borough_block",
+      "fields": {
+        "borough": "Hammersmith and Fulham",
+        "body": "Whether you're near the riverside in Fulham, the bustling commercial hubs of Hammersmith, or the leafy streets of Brook Green, our team is ready 24/7 to supply fully vetted, CQC-compliant care professionals."
+      }
+    },
+    {
+      "type": "text_image",
+      "fields": {
+        "heading": "Why Choose Vigil Care Staffing in Hammersmith & Fulham",
+        "body": "When selecting a care staffing agency in Hammersmith and Fulham, you need more than just a body to fill a shift — you need qualified, compassionate, and reliable professionals. At Vigil Care Staffing, we take pride in understanding your needs and matching you with staff who have the right skills, attitude, and experience."
+      }
+    },
+    {
+      "type": "service_grid",
+      "fields": {
+        "items": [
+          {
+            "title": "Rapid response times",
+            "body": "same-day placements for urgent requirements."
+          },
+          {
+            "title": "Local knowledge",
+            "body": "familiarity with the borough's services and communities."
+          },
+          {
+            "title": "Continuity of Care",
+            "body": "regular rotations of the same staff to build rapport with service users."
+          },
+          {
+            "title": "Specialist Matching",
+            "body": "pairing your vacancy with the most suitable agency care worker or healthcare assistant."
+          },
+          {
+            "title": "Transparent processes",
+            "body": "clear communication from booking to completion."
+          },
+          {
+            "title": "Preventative workforce planning",
+            "body": "helping you prepare for predictable seasonal demands."
+          }
+        ]
+      }
+    },
+    {
+      "type": "faq",
+      "fields": {
+        "items": [
+          {
+            "q": "Do you offer temporary staffing solutions for health and care in Hammersmith and Fulham?",
+            "a": "Yes. Our temporary care staffing agency provides healthcare assistants, support workers, and live-in carers for urgent, short-term, and ongoing needs."
+          },
+          {
+            "q": "Can you supply night-shift staff for care homes?",
+            "a": "Absolutely. We have agency care workers available for planned or emergency night cover."
+          },
+          {
+            "q": "Do you work with private households as well as facilities?",
+            "a": "Yes. As an agency for care workers, we support both private clients and organisations."
+          },
+          {
+            "q": "Are your staff trained to meet CQC requirements?",
+            "a": "Yes. All staff are trained to CQC standards and follow industry best practices."
+          },
+          {
+            "q": "Can you cover multiple sites across West London?",
+            "a": "Yes. Our healthcare assistant recruitment agency can support clients with facilities in neighbouring boroughs."
+          }
+        ]
+      }
+    },
+    {
+      "type": "cta",
+      "fields": {
+        "heading": "Request Care Staff in Hammersmith & Fulham Today",
+        "sub": "We operate 24/7 so you can focus on running your service, knowing your staffing needs are covered.",
+        "cta_label": "Request Staff Online",
+        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+      }
+    },
+    {
+      "type": "contact_form",
+      "fields": {
+        "division": "staffing",
+        "heading": "Request Care Staff in Hammersmith & Fulham Today"
+      }
+    }
+  ],
+  "status": "draft"
+}

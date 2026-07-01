@@ -1,0 +1,122 @@
+{
+    "schema_version": 1,
+    "site": "care_staffing",
+    "slug": "/care-staffing-agency-in-lambeth",
+    "page_type": "borough",
+    "seo": {
+        "title": "Care Staffing Agency in Lambeth | Vigil Care Staffing",
+        "description": "Dependable, CQC-compliant care staffing across Lambeth — healthcare assistants, support workers, live-in carers, and emergency cover. Available 24/7.",
+        "canonical": "/care-staffing-agency-in-lambeth",
+        "focus_keyword": "care staffing agency lambeth",
+        "schema_type": "Service"
+    },
+    "brand": {
+        "bg": "#0a1628",
+        "text": "#ffffff",
+        "cta": "#4ecdc4",
+        "secondary": "#7fb2d4"
+    },
+    "nap": {
+        "phone": "020 3973 8887",
+        "email": "staffing@vigilservices.co.uk",
+        "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+        "trading_name": "Vigil Care Staffing",
+        "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "fields": {
+                "heading": "Care Staffing Agency in Lambeth",
+                "sub": "Vigil Care Staffing delivers urgent and ongoing staffing cover to care homes, supported living services, NHS community teams, and private households across this diverse borough.",
+                "cta_label": "Get a Quote",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+            }
+        },
+        {
+            "type": "borough_block",
+            "fields": {
+                "borough": "Lambeth",
+                "body": "From Brixton's bustling markets to Vauxhall's riverside developments , Streatham's residential hubs , and the historic streets of Kennington and Stockwell , our team is ready 24/7 to provide fully vetted, CQC-compliant care professionals ."
+            }
+        },
+        {
+            "type": "text_image",
+            "fields": {
+                "heading": "Why Choose Vigil Care Staffing in Lambeth",
+                "body": "Choosing a care staffing agency in Lambeth is about more than just filling a rota gap. You need a partner who understands local challenges, regulatory demands, and the importance of maintaining continuity of care."
+            }
+        },
+        {
+            "type": "service_grid",
+            "fields": {
+                "items": [
+                    {
+                        "title": "Rapid Response Times",
+                        "body": "Fill urgent vacancies within hours."
+                    },
+                    {
+                        "title": "Borough knowledge",
+                        "body": "Staff familiar with Lambeth's transport links and local services."
+                    },
+                    {
+                        "title": "Continuity of care",
+                        "body": "We prioritise returning the same workers to your site for familiarity and stability."
+                    },
+                    {
+                        "title": "Specialist matching",
+                        "body": "Assigning the right agency healthcare assistant or support worker based on your needs."
+                    },
+                    {
+                        "title": "Proactive workforce planning",
+                        "body": "Helping you prepare for predictable surges in demand."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "fields": {
+                "items": [
+                    {
+                        "q": "Do you provide temporary healthcare assistants in Lambeth?",
+                        "a": "Yes. Our temporary care staffing agency supplies HCAs, support workers, and live-in carers across the borough. Whether you need same-day cover for a care home or a longer-term placement in supported living, we can respond quickly. Our healthcare assistants are trained, DBS-checked, and experienced in a variety of care settings, ensuring they can adapt to your environment and meet your service standards."
+                    },
+                    {
+                        "q": "Can you cover night shifts at short notice?",
+                        "a": "Absolutely. We maintain a roster of agency care workers available for waking nights and sleep-ins. Our night-shift staff are used to handling reduced teams, managing emergencies, and maintaining records during overnight hours. Whether the requirement is planned or unexpected, we can have qualified staff on site promptly."
+                    },
+                    {
+                        "q": "Do you work with private households as well as care homes?",
+                        "a": "Yes. We supply both domiciliary care staff and residential facility cover. For private households, our carers can assist with personal care, medication prompts, meal preparation, mobility support, and companionship. For facilities, we provide staff who can slot into your existing rota and follow your care protocols."
+                    },
+                    {
+                        "q": "Are your staff trained to CQC standards?",
+                        "a": "Yes. All staff complete mandatory training aligned with CQC guidelines and receive ongoing development opportunities. This ensures they stay up to date with best practice in areas like infection prevention, safeguarding, manual handling, and person-centred care."
+                    },
+                    {
+                        "q": "Can you cover multiple sites across Lambeth and beyond?",
+                        "a": "Yes. We regularly work with providers operating across several boroughs. Our systems make it easy to coordinate staff across multiple sites, ensuring consistency in quality and compliance whether you're in Lambeth, Wandsworth, Westminster, or Southwark."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "cta",
+            "fields": {
+                "heading": "Request Care Staff in Lambeth Today",
+                "sub": "We're available 24/7 to ensure your staffing remains safe, compliant, and responsive to changing needs.",
+                "cta_label": "Call Now",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+            }
+        },
+        {
+            "type": "contact_form",
+            "fields": {
+                "division": "staffing",
+                "heading": "Request Care Staff in Lambeth Today"
+            }
+        }
+    ],
+    "status": "draft"
+}

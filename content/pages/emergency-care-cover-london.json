@@ -1,0 +1,161 @@
+{
+    "schema_version": 1,
+    "site": "care_staffing",
+    "slug": "/emergency-care-cover-london",
+    "page_type": "service",
+    "seo": {
+        "title": "Emergency Care Cover in London | Vigil Care Staffing",
+        "description": "Vigil Care Staffing provides rapid-response, CQC-compliant emergency care cover across London. Fully vetted HCAs, support workers, and night staff deployed within hours.",
+        "canonical": "/emergency-care-cover-london",
+        "focus_keyword": "emergency care cover london",
+        "schema_type": "Service"
+    },
+    "brand": {
+        "bg": "#0a1628",
+        "text": "#ffffff",
+        "cta": "#4ecdc4",
+        "secondary": "#7fb2d4"
+    },
+    "nap": {
+        "phone": "020 3973 8887",
+        "email": "staffing@vigilservices.co.uk",
+        "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+        "trading_name": "Vigil Care Staffing",
+        "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "fields": {
+                "heading": "Emergency Care Cover in London",
+                "sub": "Vigil Staffing delivers rapid-response care professionals across London, ensuring you're never short-staffed during critical moments. Whether it's last-minute absences or unexpected demand, our skilled team is ready to step in with reliable, high-quality support.",
+                "cta_label": "Get a Quote",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+            }
+        },
+        {
+            "type": "text_image",
+            "fields": {
+                "heading": "Rapid, Reliable, and CQC-Compliant Care Staff at Short Notice",
+                "body": "Emergency care cover in London is essential when unexpected staff shortages threaten the quality of care. Vigil Care Staffing specializes in providing fully vetted, skilled, and dependable care professionals at short notice — often within hours. Whether you run a care home, supported living service, hospital ward, or private healthcare setting, our temporary care staffing agency ensures you have the right people in place when you need them most."
+            }
+        },
+        {
+            "type": "service_grid",
+            "fields": {
+                "items": [
+                    {
+                        "title": "Ultra-Fast Response",
+                        "body": "Fill urgent shifts within hours, day or night."
+                    },
+                    {
+                        "title": "Fully Vetted Staff",
+                        "body": "All staff meet Care Quality Commission (CQC) standards."
+                    },
+                    {
+                        "title": "Wide Role Coverage",
+                        "body": "From HCAs to support workers and live-in carers."
+                    },
+                    {
+                        "title": "Borough-Based Network",
+                        "body": "Local staff mean faster arrival times."
+                    },
+                    {
+                        "title": "Flexible Duration",
+                        "body": "Cover available for single shifts, weekends, or extended emergencies."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "service_grid",
+            "fields": {
+                "items": [
+                    {
+                        "title": "24/7 Availability",
+                        "body": "We operate around the clock for emergency requests."
+                    },
+                    {
+                        "title": "Role Flexibility",
+                        "body": "Immediate access to HCAs, support workers, night staff, and live-in carers."
+                    },
+                    {
+                        "title": "Reduced Stress",
+                        "body": "We handle all admin, timesheets, and payroll."
+                    },
+                    {
+                        "title": "Continuity Focus",
+                        "body": "Where possible, we send familiar staff to your service."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "service_grid",
+            "fields": {
+                "items": [
+                    {
+                        "title": "Enhanced DBS Checks",
+                        "body": "Safeguarding comes first."
+                    },
+                    {
+                        "title": "Right to Work Verification",
+                        "body": "Full legal compliance for every placement."
+                    },
+                    {
+                        "title": "Professional References",
+                        "body": "Minimum of two relevant references."
+                    },
+                    {
+                        "title": "Skills Assessments",
+                        "body": "Ensuring capability for the required role."
+                    },
+                    {
+                        "title": "Ongoing CPD",
+                        "body": "Continuous development to maintain standards."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "fields": {
+                "items": [
+                    {
+                        "q": "How quickly can you provide emergency care cover in London?",
+                        "a": "Often within hours, depending on your location and role requirements."
+                    },
+                    {
+                        "q": "What roles can you supply in an emergency?",
+                        "a": "We can provide HCAs, support workers, live-in carers, and night shift staff through our temporary care staffing agency ."
+                    },
+                    {
+                        "q": "Will emergency cover staff be fully compliant?",
+                        "a": "Yes. Even in urgent cases, we ensure DBS, references, and right-to-work checks are complete."
+                    },
+                    {
+                        "q": "Can you cover multiple shifts or ongoing shortages?",
+                        "a": "Absolutely. We can arrange extended emergency cover for as long as you need."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "cta",
+            "fields": {
+                "heading": "Request Emergency Care Cover in London Today",
+                "sub": "Providing skilled support workers for every borough in London.",
+                "cta_label": "FREE Quote",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+            }
+        },
+        {
+            "type": "contact_form",
+            "fields": {
+                "division": "staffing",
+                "heading": "Get a Quote"
+            }
+        }
+    ],
+    "status": "draft"
+}

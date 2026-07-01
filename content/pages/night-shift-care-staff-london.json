@@ -1,0 +1,165 @@
+{
+  "schema_version": 1,
+  "site": "care_staffing",
+  "slug": "/night-shift-care-staff-london",
+  "page_type": "service",
+  "seo": {
+    "title": "Night Shift Care Staff London | Vigil Care Staffing",
+    "description": "Vigil Care Staffing supplies CQC-compliant, fully vetted night shift care staff across London for care homes, hospitals, supported living, and private residences.",
+    "canonical": "/night-shift-care-staff-london",
+    "focus_keyword": "night shift care staff london",
+    "schema_type": "Service"
+  },
+  "brand": {
+    "bg": "#0a1628",
+    "text": "#ffffff",
+    "cta": "#4ecdc4",
+    "secondary": "#7fb2d4"
+  },
+  "nap": {
+    "phone": "020 3973 8887",
+    "email": "staffing@vigilservices.co.uk",
+    "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+    "trading_name": "Vigil Care Staffing",
+    "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "fields": {
+        "heading": "Night Shift Care Staff London",
+        "sub": "Vigil Staffing provides trusted, experienced professionals to keep your services running smoothly through the night. From care homes to hospital wards, our dedicated night staff ensure safety, continuity, and compassionate support when it matters most.",
+        "cta_label": "Get a Quote",
+        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+      }
+    },
+    {
+      "type": "text_image",
+      "fields": {
+        "heading": "Reliable, Alert, and Compassionate Night Care Professionals",
+        "body": "Night shift care staff in London are essential for maintaining safety, comfort, and wellbeing during overnight hours. At Vigil Care Staffing, we provide CQC-compliant, fully vetted night carers, support workers, and healthcare assistants ready to work through the night in care homes, supported living services, hospitals, and private residences. Our temporary care staffing agency ensures that whether you need one-off cover, ongoing night shifts, or urgent replacements, you receive dependable professionals who remain attentive and responsive from dusk till dawn."
+      }
+    },
+    {
+      "type": "service_grid",
+      "fields": {
+        "items": [
+          {
+            "title": "Specialist Night Care Experience",
+            "body": "Our night staff are trained in overnight monitoring, personal care, and emergency response."
+          },
+          {
+            "title": "Rapid Cover",
+            "body": "Through our temporary placement agency model, we can fill shifts on short notice."
+          },
+          {
+            "title": "Borough-Wide Availability",
+            "body": "Local staff ready to work in your area at short notice."
+          },
+          {
+            "title": "Compliance Assured",
+            "body": "Every agency care worker meets Care Quality Commission (CQC) standards."
+          },
+          {
+            "title": "Flexible Options",
+            "body": "Single shifts, block bookings, and ongoing night rosters available."
+          }
+        ]
+      }
+    },
+    {
+      "type": "service_grid",
+      "fields": {
+        "items": [
+          {
+            "title": "24/7 Booking Service",
+            "body": "Arrange cover at any time, day or night."
+          },
+          {
+            "title": "Fully Vetted Night Staff",
+            "body": "Enhanced DBS, right-to-work checks, and references completed."
+          },
+          {
+            "title": "Continuity of Care",
+            "body": "We prioritize returning staff for ongoing bookings."
+          },
+          {
+            "title": "Specialist Skills",
+            "body": "Many staff trained in dementia care, fall prevention, and night-time mobility assistance."
+          },
+          {
+            "title": "Reduced Disruption",
+            "body": "Staff integrate smoothly into your night routines."
+          }
+        ]
+      }
+    },
+    {
+      "type": "service_grid",
+      "fields": {
+        "items": [
+          {
+            "title": "Enhanced DBS Checks",
+            "body": "Safeguarding is mandatory for all placements."
+          },
+          {
+            "title": "Professional References",
+            "body": "At least two recent, relevant references."
+          },
+          {
+            "title": "Skills Assessments",
+            "body": "Including overnight care, emergency protocols, and record keeping."
+          },
+          {
+            "title": "Ongoing CPD",
+            "body": "Staff encouraged to update training regularly."
+          }
+        ]
+      }
+    },
+    {
+      "type": "faq",
+      "fields": {
+        "items": [
+          {
+            "q": "How quickly can you supply night shift care staff in London?",
+            "a": "Often within hours, thanks to our borough-based network of qualified staff."
+          },
+          {
+            "q": "Do your night staff stay awake throughout the shift?",
+            "a": "Yes. Our staff remain alert, ready to provide assistance or respond to emergencies."
+          },
+          {
+            "q": "Can I book the same night staff regularly?",
+            "a": "Yes. We aim for continuity whenever possible to ensure consistent care."
+          },
+          {
+            "q": "Are your night shift care staff trained for emergencies?",
+            "a": "Yes. All have training in emergency response, safeguarding, and relevant healthcare skills."
+          },
+          {
+            "q": "Do you provide both temporary and long-term night cover?",
+            "a": "Yes. Our temporary care staffing agency model allows for flexible arrangements, from one-off shifts to permanent contracts."
+          }
+        ]
+      }
+    },
+    {
+      "type": "cta",
+      "fields": {
+        "heading": "Request Night Shift Care Staff in London Today",
+        "sub": "Providing skilled support workers for every borough in London.",
+        "cta_label": "FREE Quote",
+        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+      }
+    },
+    {
+      "type": "contact_form",
+      "fields": {
+        "division": "staffing",
+        "heading": "Get a Quote"
+      }
+    }
+  ],
+  "status": "draft"
+}

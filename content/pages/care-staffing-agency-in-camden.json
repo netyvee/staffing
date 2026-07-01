@@ -1,0 +1,92 @@
+{
+    "schema_version": 1,
+    "site": "care_staffing",
+    "slug": "/care-staffing-agency-in-camden",
+    "page_type": "borough",
+    "seo": {
+        "title": "Care Staffing Agency in Camden | Vigil Care Staffing",
+        "description": "Trusted care staffing in Camden — healthcare assistants, support workers, live-in carers, night-shift staff, and emergency cover from a CQC-compliant agency.",
+        "canonical": "/care-staffing-agency-in-camden",
+        "focus_keyword": "care staffing agency camden",
+        "schema_type": "Service"
+    },
+    "brand": {
+        "bg": "#0a1628",
+        "text": "#ffffff",
+        "cta": "#4ecdc4",
+        "secondary": "#7fb2d4"
+    },
+    "nap": {
+        "phone": "020 3973 8887",
+        "email": "staffing@vigilservices.co.uk",
+        "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+        "trading_name": "Vigil Care Staffing",
+        "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "fields": {
+                "heading": "Care Staffing Agency in Camden",
+                "sub": "Vigil Care Staffing is your trusted partner for reliable, CQC-compliant staffing solutions across the borough. Whether you need healthcare assistants, support workers, live-in carers, night-shift care staff, emergency care cover, or temporary care staff, our team delivers experienced, vetted professionals who are ready to step in when you need them most.",
+                "cta_label": "Get a Quote",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+            }
+        },
+        {
+            "type": "borough_block",
+            "fields": {
+                "borough": "Camden",
+                "body": "From Camden Town to Kentish Town, Hampstead, Chalk Farm, Swiss Cottage, Gospel Oak, and King's Cross, we provide rapid response staffing that keeps your care services running smoothly, even during peak demand or unexpected absences."
+            }
+        },
+        {
+            "type": "text_image",
+            "fields": {
+                "heading": "Why Choose Vigil Care Staffing for Care Services in Camden",
+                "body": "When staffing gaps appear—whether due to sickness, annual leave, or increased demand—you need a temporary care staffing agency that understands the urgency and stakes involved. Vigil Care Staffing combines speed with rigorous compliance so you can maintain high-quality care without disruption."
+            }
+        },
+        {
+            "type": "service_grid",
+            "fields": {
+                "items": [
+                    { "title": "Seamless staffing", "body": "Avoid last-minute panic with a dedicated account manager who understands your specific care needs." },
+                    { "title": "Cost-effective solutions", "body": "We help you manage overtime costs and avoid burnout in your permanent staff." },
+                    { "title": "High staff retention", "body": "Our temporary professionals are treated with respect, well-trained, and motivated to deliver consistent care." },
+                    { "title": "Broad skill coverage", "body": "From dementia support to palliative care, we match staff with the right skills to your service users' needs." },
+                    { "title": "24/7 availability", "body": "Our booking team is on call day and night, so you're never without support." }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "fields": {
+                "items": [
+                    { "q": "How quickly can you provide care staff in Camden?", "a": "We can often fill urgent requests within hours, thanks to our network of vetted, local professionals ready to step in." },
+                    { "q": "Do you supply live-in carers in Camden?", "a": "Yes – our live-in carers provide full-time support for individuals who require continuous assistance at home." },
+                    { "q": "What qualifications do your healthcare assistants have?", "a": "All HCAs have undergone mandatory training, enhanced DBS checks, and skills assessments tailored to their role." },
+                    { "q": "Can you supply night-shift care staff?", "a": "Absolutely. We provide night cover for residential homes, supported living schemes, and private care clients." },
+                    { "q": "How do I request staff?", "a": "You can request a quote here or call our booking team directly for urgent requirements." }
+                ]
+            }
+        },
+        {
+            "type": "cta",
+            "fields": {
+                "heading": "Request Care Staff Today in Camden",
+                "sub": "If you need temporary care staffing, emergency shift cover, or specialist care staff in Camden, contact Vigil Care Staffing now.",
+                "cta_label": "FREE Quote",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+            }
+        },
+        {
+            "type": "contact_form",
+            "fields": {
+                "division": "staffing",
+                "heading": "Request Care Staff Today in Camden"
+            }
+        }
+    ],
+    "status": "draft"
+}

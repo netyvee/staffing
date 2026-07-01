@@ -1,0 +1,89 @@
+{
+    "schema_version": 1,
+    "site": "care_staffing",
+    "slug": "/healthcare-assistants",
+    "page_type": "service",
+    "seo": {
+        "title": "Healthcare Assistants | HCA Staffing Agency London | Vigil Care Staffing",
+        "description": "Fully vetted, NVQ-qualified Healthcare Assistants for care homes, nursing homes, and supported living across London. Emergency, temporary, and long-term placements.",
+        "canonical": "/healthcare-assistants",
+        "focus_keyword": "healthcare assistants london",
+        "schema_type": "Service"
+    },
+    "brand": {
+        "bg": "#0a1628",
+        "text": "#ffffff",
+        "cta": "#4ecdc4",
+        "secondary": "#7fb2d4"
+    },
+    "nap": {
+        "phone": "020 3973 8887",
+        "email": "staffing@vigilservices.co.uk",
+        "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+        "trading_name": "Vigil Care Staffing",
+        "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "fields": {
+                "heading": "Healthcare Assistants",
+                "sub": "Healthcare Assistants are the backbone of quality patient care",
+                "cta_label": "FREE Quote",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+            }
+        },
+        {
+            "type": "text_image",
+            "fields": {
+                "heading": "Why Choose Our Healthcare Assistants UK?",
+                "body": "Trained in personal care, moving and handling, and infection control Fully DBS-checked and compliance-ready Available for emergency, temporary, or long-term placements Experience with elderly care, dementia, physical disability, and palliative care Compassionate, professional, and adaptable in all care settings"
+            }
+        },
+        {
+            "type": "service_grid",
+            "fields": {
+                "items": [
+                    { "title": "Personal Care Support", "body": "Assisting with washing, dressing, toileting, and mobility" },
+                    { "title": "Health-Related Tasks", "body": "Monitoring wellbeing and reporting concerns" },
+                    { "title": "Emotional & Companionship Care", "body": "Providing conversation, reassurance, and social engagement" }
+                ]
+            }
+        },
+        {
+            "type": "text_image",
+            "fields": {
+                "heading": "Who we Work With",
+                "body": "Residential and Nursing Homes Supported Living Services Mental Health Units Learning Disability Services Local Authorities and Private Providers"
+            }
+        },
+        {
+            "type": "faq",
+            "fields": {
+                "items": [
+                    { "q": "Are your healthcare assistants trained and CQC compliant?", "a": "Yes. All our HCAs receive mandatory training in care standards, safeguarding, infection control, and manual handling and adhere to CQC staffing requirements" },
+                    { "q": "Can I hire healthcare assistants on a temporary basis?", "a": "Absolutely. We provide flexible HCA for hire solutions—short-term, long-term, or ad-hoc placements." },
+                    { "q": "Do you offer same-day staffing for urgent shifts?", "a": "Yes. Depending on availability, we can supply same-day or next-day cover" },
+                    { "q": "Do you supply HCAs to supported living environments?", "a": "Yes. Our healthcare assistants are trained to support adults with a wide range of care needs in supported living settings." }
+                ]
+            }
+        },
+        {
+            "type": "cta",
+            "fields": {
+                "heading": "Request Staff Now!",
+                "sub": "We specialise in Healthcare Assistants UK staffing that meets the demands of busy care providers while ensuring residents receive consistent and quality care.",
+                "cta_label": "FREE Quote",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+            }
+        },
+        {
+            "type": "contact_form",
+            "fields": {
+                "division": "staffing",
+                "heading": "Request Staff Now!"
+            }
+        }
+    ],
+    "status": "draft"
+}

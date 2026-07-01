@@ -1,0 +1,122 @@
+{
+    "schema_version": 1,
+    "site": "care_staffing",
+    "slug": "/temporary-care-staffing-agency-in-hackney",
+    "page_type": "borough",
+    "seo": {
+        "title": "Temporary Care Staffing Agency in Hackney | Vigil Care Staffing",
+        "description": "CQC-compliant temporary care staffing in Hackney — healthcare assistants, support workers, live-in carers, and night shift staff. 24/7 availability.",
+        "canonical": "/temporary-care-staffing-agency-in-hackney",
+        "focus_keyword": "temporary care staffing agency hackney",
+        "schema_type": "Service"
+    },
+    "brand": {
+        "bg": "#0a1628",
+        "text": "#ffffff",
+        "cta": "#4ecdc4",
+        "secondary": "#7fb2d4"
+    },
+    "nap": {
+        "phone": "020 3973 8887",
+        "email": "staffing@vigilservices.co.uk",
+        "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+        "trading_name": "Vigil Care Staffing",
+        "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "fields": {
+                "heading": "Temporary Care Staffing Agency in Hackney",
+                "sub": "Temporary Care Staffing Agency in Hackney – Vigil Care Staffing is your dependable partner for flexible, CQC-compliant staffing solutions across the borough.",
+                "cta_label": "Get a Quote",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+            }
+        },
+        {
+            "type": "borough_block",
+            "fields": {
+                "borough": "Hackney",
+                "body": "Whether you need a single shift covered at short notice or a team to support ongoing care needs, our service ensures your residents receive consistent, high-quality care."
+            }
+        },
+        {
+            "type": "text_image",
+            "fields": {
+                "heading": "Why Choose Vigil Care Staffing in Hackney",
+                "body": "In Hackney's fast-paced health and social care sector, staffing gaps can quickly impact the quality of care. We specialise in temporary care staffing that meets the highest CQC standards, ensuring you have access to:"
+            }
+        },
+        {
+            "type": "service_grid",
+            "fields": {
+                "items": [
+                    {
+                        "title": "CQC-Compliant Service",
+                        "body": "We understand the compliance requirements of the Care Quality Commission and ensure all placements meet regulatory standards."
+                    },
+                    {
+                        "title": "Flexible Contracts",
+                        "body": "Options for single shifts, ongoing placements, or emergency relief."
+                    },
+                    {
+                        "title": "Specialist Matching",
+                        "body": "We pair staff with facilities based on experience, training, and cultural fit."
+                    },
+                    {
+                        "title": "Reduced Admin Burden",
+                        "body": "We handle vetting, scheduling, and payroll so you can focus on care delivery."
+                    },
+                    {
+                        "title": "Local Knowledge",
+                        "body": "In-depth understanding of Hackney's healthcare landscape and its diverse community needs."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "fields": {
+                "items": [
+                    {
+                        "q": "How quickly can you provide staff in Hackney?",
+                        "a": "We can often deploy vetted staff within 2–4 hours of your request."
+                    },
+                    {
+                        "q": "Do you provide live-in carers in Hackney?",
+                        "a": "Yes. We supply experienced live-in carers for short-term or ongoing assignments."
+                    },
+                    {
+                        "q": "Are your staff trained in specialist care needs?",
+                        "a": "Absolutely. Our team includes staff with dementia care, end-of-life care, and learning disability experience."
+                    },
+                    {
+                        "q": "Can you cover night shifts?",
+                        "a": "Yes, we provide reliable night shift care staff across Hackney."
+                    },
+                    {
+                        "q": "Do you supply staff to private clients as well as care homes?",
+                        "a": "Yes. We cater to both private home care clients and residential facilities."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "cta",
+            "fields": {
+                "heading": "Request Temporary Care Staff in Hackney",
+                "sub": "For rapid, reliable, and compliant staffing solutions in Hackney, contact Vigil Care Staffing today.",
+                "cta_label": "Request Staff Online",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+            }
+        },
+        {
+            "type": "contact_form",
+            "fields": {
+                "division": "staffing",
+                "heading": "Request Temporary Care Staff in Hackney"
+            }
+        }
+    ],
+    "status": "draft"
+}

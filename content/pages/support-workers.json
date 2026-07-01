@@ -1,0 +1,88 @@
+{
+    "schema_version": 1,
+    "site": "care_staffing",
+    "slug": "/support-workers",
+    "page_type": "service",
+    "seo": {
+        "title": "Support Workers | CQC-Compliant Care Support Staff | Vigil Care Staffing",
+        "description": "DBS-checked, QCF-certified Support Workers for care homes, supported living, and community services across London. Same-day and emergency placements available.",
+        "canonical": "/support-workers",
+        "focus_keyword": "support workers london",
+        "schema_type": "Service"
+    },
+    "brand": {
+        "bg": "#0a1628",
+        "text": "#ffffff",
+        "cta": "#4ecdc4",
+        "secondary": "#7fb2d4"
+    },
+    "nap": {
+        "phone": "020 3973 8887",
+        "email": "staffing@vigilservices.co.uk",
+        "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+        "trading_name": "Vigil Care Staffing",
+        "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "fields": {
+                "heading": "Support Workers",
+                "sub": "Whether you need emergency cover or long-term placements, our Support Workers UK deliver CQC-compliant care tailored to complex needs.",
+                "cta_label": "FREE Quote",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+            }
+        },
+        {
+            "type": "text_image",
+            "fields": {
+                "heading": "Why Choose Our Support Workers?",
+                "body": "Fully trained in safeguarding, moving & handling, and communication DBS-checked and compliance-ready Available for same-day, emergency, or long-term placements Experience in care homes, supported living, and community outreach Compassionate, professional, and adaptable to complex environments"
+            }
+        },
+        {
+            "type": "service_grid",
+            "fields": {
+                "items": [
+                    { "title": "Personal Support", "body": "Assisting with daily living activities" },
+                    { "title": "Emotional & Social Support", "body": "Building rapport and offering companionship" },
+                    { "title": "Specialist Support", "body": "Managing challenging behaviour using positive behaviour support" }
+                ]
+            }
+        },
+        {
+            "type": "text_image",
+            "fields": {
+                "heading": "Who we Work With",
+                "body": "Residential Care Homes Supported Living Services Mental Health Units Learning Disability Services Local Authorities and Private Providers"
+            }
+        },
+        {
+            "type": "service_grid",
+            "fields": {
+                "items": [
+                    { "title": "Ongoing training for all staff members", "body": "Ongoing training for all staff members" },
+                    { "title": "Carefully chosen team of professionals", "body": "Carefully chosen team of professionals" },
+                    { "title": "Regular reviews for continuous enhancement", "body": "Regular reviews for continuous enhancement" }
+                ]
+            }
+        },
+        {
+            "type": "cta",
+            "fields": {
+                "heading": "Looking for the Right Support Worker?",
+                "sub": "We offer tailored consultations to connect you with the right support worker.",
+                "cta_label": "Get a tailored quote now",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+            }
+        },
+        {
+            "type": "contact_form",
+            "fields": {
+                "division": "staffing",
+                "heading": "Looking for the Right Support Worker?"
+            }
+        }
+    ],
+    "status": "draft"
+}
