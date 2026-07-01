@@ -1,142 +1,165 @@
 {
-  "schema_version": 1,
-  "site": "care_staffing",
-  "slug": "/healthcare-assistants",
-  "page_type": "service",
-  "seo": {
-    "title": "Healthcare Assistant Agency London | Vigil Care Staffing",
-    "description": "Fully vetted, NVQ-qualified Healthcare Assistants for care homes, nursing homes, and supported living across London. Emergency, temporary, and long-term placements.",
-    "canonical": "/healthcare-assistants",
-    "focus_keyword": "healthcare assistants london",
-    "schema_type": "Service"
-  },
-  "brand": {
-    "bg": "#0a1628",
-    "text": "#ffffff",
-    "cta": "#4ecdc4",
-    "secondary": "#7fb2d4"
-  },
-  "nap": {
-    "phone": "020 3973 8887",
-    "email": "staffing@vigilservices.co.uk",
-    "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
-    "trading_name": "Vigil Care Staffing",
-    "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
-  },
-  "sections": [
-    {
-      "type": "hero",
-      "fields": {
-        "heading": "Healthcare Assistants",
-        "sub": "Healthcare Assistants are the backbone of quality patient care",
-        "cta_label": "FREE Quote",
-        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
-      }
+    "schema_version": 1,
+    "site": "care_staffing",
+    "slug": "/healthcare-assistants",
+    "page_type": "service",
+    "seo": {
+        "title": "Healthcare Assistant Agency London | Vigil Care Staffing",
+        "description": "Fully vetted, NVQ-qualified Healthcare Assistants for care homes, nursing homes, and supported living across London. Emergency, temporary, and long-term placements.",
+        "canonical": "/healthcare-assistants",
+        "focus_keyword": "healthcare assistants london",
+        "schema_type": "Service"
     },
-    {
-      "type": "text_image",
-      "fields": {
-        "heading": "Why Choose Our Healthcare Assistants UK?",
-        "body": "Trained in personal care, moving and handling, and infection control Fully DBS-checked and compliance-ready Available for emergency, temporary, or long-term placements Experience with elderly care, dementia, physical disability, and palliative care Compassionate, professional, and adaptable in all care settings"
-      }
+    "brand": {
+        "bg": "#0a1628",
+        "text": "#ffffff",
+        "cta": "#4ecdc4",
+        "secondary": "#7fb2d4"
     },
-    {
-      "type": "service_grid",
-      "fields": {
-        "items": [
-          {
-            "title": "Personal Care Support",
-            "body": "Assisting with washing, dressing, toileting, and mobility"
-          },
-          {
-            "title": "Health-Related Tasks",
-            "body": "Monitoring wellbeing and reporting concerns"
-          },
-          {
-            "title": "Emotional & Companionship Care",
-            "body": "Providing conversation, reassurance, and social engagement"
-          }
-        ]
-      }
+    "nap": {
+        "phone": "020 3973 8887",
+        "email": "staffing@vigilservices.co.uk",
+        "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+        "trading_name": "Vigil Care Staffing",
+        "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
     },
-    {
-      "type": "text_image",
-      "fields": {
-        "heading": "Who we Work With",
-        "body": "Residential and Nursing Homes Supported Living Services Mental Health Units Learning Disability Services Local Authorities and Private Providers"
-      }
-    },
-    {
-      "type": "faq",
-      "fields": {
-        "items": [
-          {
-            "q": "Are your healthcare assistants trained and CQC compliant?",
-            "a": "Yes. All our HCAs receive mandatory training in care standards, safeguarding, infection control, and manual handling and adhere to CQC staffing requirements"
-          },
-          {
-            "q": "Can I hire healthcare assistants on a temporary basis?",
-            "a": "Absolutely. We provide flexible HCA for hire solutions—short-term, long-term, or ad-hoc placements."
-          },
-          {
-            "q": "Do you offer same-day staffing for urgent shifts?",
-            "a": "Yes. Depending on availability, we can supply same-day or next-day cover"
-          },
-          {
-            "q": "Do you supply HCAs to supported living environments?",
-            "a": "Yes. Our healthcare assistants are trained to support adults with a wide range of care needs in supported living settings."
-          }
-        ]
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "Request A Call Back Need Professional HCAs? Our rigorous selection process ensures every Healthcare Assistant UK we supply: ✅ Holds NVQ Level 2/3 in Health & Social Care (or equivalent) ✅ Undergoes enhanced DBS checks and reference verification ✅ Completes mandatory training in: Safeguarding vulnerable adults Infection prevention & control Manual handling techniques Medication administration Need a H."
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "Trained in personal care, moving and handling, and infection control Fully DBS-checked and compliance-ready Available for emergency, temporary, or long-term placements Experience with elderly care, dementia, physical disability, and palliative care Compassionate, professional, and adaptable in all care settings We specialise in Healthcare Assistants UK staffing that meets the demands of busy care providers while ensuring residents receive consistent and quality care. FREE Quote Our Healthcare Assistants UK Services Personal Care Support: Assisting with washing, dressing, toileting, and mobility Meal preparation and nutritional support Maintaining dignity and independence Health-Related Tasks: Monitoring wellbeing and reporting concerns Supporting with medication (under supervision) Liaising with nursing and clinical teams Emotional & Companionship Care: Providing conversation, reassurance, and social engagement Supporting service users with memory loss, loneliness, or anxiety Promoting confidence and wellbeing through encouragement and empathy Who we Work With Residential and Nursing Homes Supported Living Services Mental Health Units Learning Disability Services Local Authorities and Private Providers Need urgent HCA cover Call Now: 020 3973 8887 (FAQs) Frequently Asked Question (FAQs) Are your healthcare assistants trained and CQC compliant?"
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "How do I request healthcare assistants? Simply fill out our request form, call us on 020 3973 8887, or email us on staffing@vigilservices."
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "uk and we’ll match you with the best candidates."
-      }
-    },
-    {
-      "type": "cta",
-      "fields": {
-        "heading": "Request Staff Now!",
-        "sub": "We specialise in Healthcare Assistants UK staffing that meets the demands of busy care providers while ensuring residents receive consistent and quality care.",
-        "cta_label": "FREE Quote",
-        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
-      }
-    },
-    {
-      "type": "contact_form",
-      "fields": {
-        "division": "staffing",
-        "heading": "Request Staff Now!"
-      }
-    }
-  ],
-  "status": "draft"
+    "sections": [
+        {
+            "type": "hero",
+            "fields": {
+                "heading": "Healthcare Assistants",
+                "sub": "Healthcare Assistants are the backbone of quality patient care",
+                "cta_label": "FREE Quote",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
+                "image": {
+                    "id": 96,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894827/vigil/care_staffing/hero/about-vigil-care-services-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/hero/about-vigil-care-services-care-staffing-london",
+                    "alt": "A young carer in a blue uniform smiles beside an older woman in a wheelchair on a sunny outdoor walkway.",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/03/About-vigil-care-services.jpg",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "A young carer in a blue uniform smiles beside an older woman in a wheelchair on a sunny outdoor walkway."
+            }
+        },
+        {
+            "type": "prose",
+            "restored_from_source": false,
+            "editorial_review_recommended": false,
+            "broken_source_image": true,
+            "fields": {
+                "heading": "Why Choose Our Healthcare Assistants UK?",
+                "body": "Trained in personal care, moving and handling, and infection control Fully DBS-checked and compliance-ready Available for emergency, temporary, or long-term placements Experience with elderly care, dementia, physical disability, and palliative care Compassionate, professional, and adaptable in all care settings"
+            }
+        },
+        {
+            "type": "service_grid",
+            "fields": {
+                "items": [
+                    {
+                        "title": "Personal Care Support",
+                        "body": "Assisting with washing, dressing, toileting, and mobility"
+                    },
+                    {
+                        "title": "Health-Related Tasks",
+                        "body": "Monitoring wellbeing and reporting concerns"
+                    },
+                    {
+                        "title": "Emotional & Companionship Care",
+                        "body": "Providing conversation, reassurance, and social engagement"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "text_image",
+            "fields": {
+                "heading": "Who we Work With",
+                "body": "Residential and Nursing Homes Supported Living Services Mental Health Units Learning Disability Services Local Authorities and Private Providers",
+                "image": {
+                    "id": 97,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894840/vigil/care_staffing/general/two-women-smiling-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/general/two-women-smiling-care-staffing-london",
+                    "alt": "A smiling carer in blue scrubs crouches beside an elderly woman in a wheelchair in a sunny park.",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2026/04/two-women-smiling.png",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "A smiling carer in blue scrubs crouches beside an elderly woman in a wheelchair in a sunny park."
+            }
+        },
+        {
+            "type": "faq",
+            "fields": {
+                "items": [
+                    {
+                        "q": "Are your healthcare assistants trained and CQC compliant?",
+                        "a": "Yes. All our HCAs receive mandatory training in care standards, safeguarding, infection control, and manual handling and adhere to CQC staffing requirements"
+                    },
+                    {
+                        "q": "Can I hire healthcare assistants on a temporary basis?",
+                        "a": "Absolutely. We provide flexible HCA for hire solutions\u2014short-term, long-term, or ad-hoc placements."
+                    },
+                    {
+                        "q": "Do you offer same-day staffing for urgent shifts?",
+                        "a": "Yes. Depending on availability, we can supply same-day or next-day cover"
+                    },
+                    {
+                        "q": "Do you supply HCAs to supported living environments?",
+                        "a": "Yes. Our healthcare assistants are trained to support adults with a wide range of care needs in supported living settings."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "Request A Call Back Need Professional HCAs? Our rigorous selection process ensures every Healthcare Assistant UK we supply: \u2705 Holds NVQ Level 2/3 in Health & Social Care (or equivalent) \u2705 Undergoes enhanced DBS checks and reference verification \u2705 Completes mandatory training in: Safeguarding vulnerable adults Infection prevention & control Manual handling techniques Medication administration Need a H."
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "Trained in personal care, moving and handling, and infection control Fully DBS-checked and compliance-ready Available for emergency, temporary, or long-term placements Experience with elderly care, dementia, physical disability, and palliative care Compassionate, professional, and adaptable in all care settings We specialise in Healthcare Assistants UK staffing that meets the demands of busy care providers while ensuring residents receive consistent and quality care. FREE Quote Our Healthcare Assistants UK Services Personal Care Support: Assisting with washing, dressing, toileting, and mobility Meal preparation and nutritional support Maintaining dignity and independence Health-Related Tasks: Monitoring wellbeing and reporting concerns Supporting with medication (under supervision) Liaising with nursing and clinical teams Emotional & Companionship Care: Providing conversation, reassurance, and social engagement Supporting service users with memory loss, loneliness, or anxiety Promoting confidence and wellbeing through encouragement and empathy Who we Work With Residential and Nursing Homes Supported Living Services Mental Health Units Learning Disability Services Local Authorities and Private Providers Need urgent HCA cover Call Now: 020 3973 8887 (FAQs) Frequently Asked Question (FAQs) Are your healthcare assistants trained and CQC compliant?"
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "How do I request healthcare assistants? Simply fill out our request form, call us on 020 3973 8887, or email us on staffing@vigilservices."
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "uk and we\u2019ll match you with the best candidates."
+            }
+        },
+        {
+            "type": "cta",
+            "fields": {
+                "heading": "Request Staff Now!",
+                "sub": "We specialise in Healthcare Assistants UK staffing that meets the demands of busy care providers while ensuring residents receive consistent and quality care.",
+                "cta_label": "FREE Quote",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+            }
+        },
+        {
+            "type": "contact_form",
+            "fields": {
+                "division": "staffing",
+                "heading": "Request Staff Now!"
+            }
+        }
+    ],
+    "status": "draft"
 }
