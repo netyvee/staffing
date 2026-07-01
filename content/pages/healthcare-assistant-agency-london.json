@@ -1,227 +1,247 @@
 {
-  "schema_version": 1,
-  "site": "care_staffing",
-  "slug": "/healthcare-assistant-agency-london",
-  "page_type": "service",
-  "seo": {
-    "title": "Healthcare Assistant Agency in London | Vigil Care Staffing",
-    "description": "Vigil Care Staffing supplies qualified, CQC-compliant healthcare assistants across London. Rapid deployment for care homes, NHS sites, and supported living facilities.",
-    "canonical": "/healthcare-assistant-agency-london",
-    "focus_keyword": "healthcare assistant agency london",
-    "schema_type": "Service"
-  },
-  "brand": {
-    "bg": "#0a1628",
-    "text": "#ffffff",
-    "cta": "#4ecdc4",
-    "secondary": "#7fb2d4"
-  },
-  "nap": {
-    "phone": "020 3973 8887",
-    "email": "staffing@vigilservices.co.uk",
-    "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
-    "trading_name": "Vigil Care Staffing",
-    "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
-  },
-  "sections": [
-    {
-      "type": "hero",
-      "fields": {
-        "heading": "Healthcare Assistant Agency in London",
-        "sub": "Vigil Care Staffing provides compassionate, qualified healthcare assistants across the capital. We specialise in rapid deployment to facilities facing last-minute staffing shortages, seasonal surges, or long-term vacancies. With borough-specific coverage and 24/7 coordination, our agency ensures every client receives safe, compliant, and patient-focused support when they need it most.",
-        "cta_label": "Get a Quote",
-        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
-      }
+    "schema_version": 1,
+    "site": "care_staffing",
+    "slug": "/healthcare-assistant-agency-london",
+    "page_type": "service",
+    "seo": {
+        "title": "Healthcare Assistant Agency in London | Vigil Care Staffing",
+        "description": "Vigil Care Staffing supplies qualified, CQC-compliant healthcare assistants across London. Rapid deployment for care homes, NHS sites, and supported living facilities.",
+        "canonical": "/healthcare-assistant-agency-london",
+        "focus_keyword": "healthcare assistant agency london",
+        "schema_type": "Service"
     },
-    {
-      "type": "text_image",
-      "fields": {
-        "heading": "Reliable Healthcare Assistants for Your Facility",
-        "body": "Whether you're running a care home, supported living unit, or hospital ward, Vigil Care Staffing delivers dependable personnel tailored to your needs."
-      }
+    "brand": {
+        "bg": "#0a1628",
+        "text": "#ffffff",
+        "cta": "#4ecdc4",
+        "secondary": "#7fb2d4"
     },
-    {
-      "type": "service_grid",
-      "fields": {
-        "items": [
-          {
-            "title": "Same-day staffing available",
-            "body": "For urgent cases, we dispatch fully vetted HCAs within 24 hours of your request."
-          },
-          {
-            "title": "CQC & NHS-compliant provision",
-            "body": "Every deployment meets stringent compliance requirements, helping care providers remain audit-ready and risk-free."
-          },
-          {
-            "title": "DBS-checked HCAs with specialist training",
-            "body": "Our assistants go beyond basic care. They're trained in infection control, safeguarding, dementia support, and medication handling—giving your patients reliable, holistic attention."
-          },
-          {
-            "title": "Personalized matching process",
-            "body": "We assess not just availability but skill alignment, experience level, and facility type when assigning HCAs—whether you're an elderly care home in Barking or a rehabilitation unit in Croydon."
-          },
-          {
-            "title": "24/7 coordination team",
-            "body": "Our round-the-clock team ensures you're never left waiting. From late-night emergencies to weekend placements, Vigil's staffing specialists are available to confirm, coordinate, and troubleshoot in real time."
-          },
-          {
-            "title": "Digital rostering and quick onboarding",
-            "body": "We leverage automated rostering tools and streamlined onboarding workflows to minimize admin delays and get your staff operational faster."
-          }
-        ]
-      }
+    "nap": {
+        "phone": "020 3973 8887",
+        "email": "staffing@vigilservices.co.uk",
+        "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+        "trading_name": "Vigil Care Staffing",
+        "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
     },
-    {
-      "type": "prose",
-      "restored_from_source": false,
-      "editorial_review_recommended": false,
-      "fields": {
-        "heading": "Local Knowledge and Rapid Cover",
-        "body": "At Vigil Care, being a Healthcare Assistant Agency in London means having feet on the ground. Our borough-level staffing model enables lightning-fast response times and hyper-local understanding of your facility's rhythms. Whether your care home requires last-minute cover or your clinic is expanding capacity, our system locates available, vetted professionals nearest to your site—reducing transit time, increasing retention, and improving reliability."
-      }
-    },
-    {
-      "type": "service_grid",
-      "fields": {
-        "items": [
-          {
-            "title": "Mandatory training certificates",
-            "body": "Every HCA we deploy holds up-to-date training in areas including infection control, safeguarding, manual handling, and basic life support. These certifications are reviewed and updated regularly."
-          },
-          {
-            "title": "Real-time reference verification",
-            "body": "Our automated checks contact previous employers and validate all reference responses before a candidate is confirmed. No shortcuts—just verified quality."
-          },
-          {
-            "title": "Interviewed by clinical compliance team",
-            "body": "Every candidate undergoes a structured clinical interview with our in-house nursing-led panel. We assess behavioural competencies, scenario handling, and facility adaptability to ensure each HCA is ready for frontline care."
-          }
-        ]
-      }
-    },
-    {
-      "type": "faq",
-      "fields": {
-        "items": [
-          {
-            "q": "What does a Healthcare Assistant do?",
-            "a": "Healthcare Assistants (HCAs) provide direct support to patients and service users in care homes, hospitals, and supported living facilities. Their duties include assisting with personal care, mobility, meals, and emotional support. Vigil Care HCAs are trained to handle specialized needs such as dementia care and medication prompts."
-          },
-          {
-            "q": "Are your Healthcare Assistants CQC and NHS compliant?",
-            "a": "Yes. As a Healthcare Assistant Agency in London, all our HCAs meet the compliance standards set by CQC and NHS partner facilities. They hold up-to-date training certifications and undergo clinical vetting prior to placement."
-          },
-          {
-            "q": "How quickly can I request staff?",
-            "a": "Facilities can request cover 24/7, and we often provide same-day staffing in London. Our borough-level coordination teams ensure rapid response—whether it's emergency shifts, sick leave replacements, or planned staffing for new residents."
-          },
-          {
-            "q": "Do you provide cover for nights and weekends?",
-            "a": "Absolutely. Our HCAs work flexible hours and are available for day shifts, night shifts, weekend cover, and holiday periods. We maintain out-of-hours coordination to support facilities at all times."
-          },
-          {
-            "q": "Can I request the same Healthcare Assistant again?",
-            "a": "Yes. If a staff member is a good fit for your residents or team, we prioritise repeat placements when availability allows. Our rostering system helps track staff history per facility to enhance continuity of care."
-          }
-        ]
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "Healthcare Assistant Agency in London Reliable Healthcare Assistants for Your Facility Whether you’re running a care home, supported living unit, or hospital ward, Vigil Care Staffing delivers dependable personnel tailored to your needs. Get a Quote Vigil Care Staffing provides compassionate, qualified healthcare assistants across the capital."
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "Why Choose Our Healthcare Assistant Agency in London Choosing Vigil means partnering with a Healthcare Assistant Agency in London that prioritises both speed and safety. Whether you need staff in Barking, Croydon, Hackney or anywhere in between, we respond within hours—not days."
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "Our real-time coordination dashboard helps us match the right professional to your facility and shift pattern—on demand. CQC & NHS-compliant provision Vigil Care complies with all UK healthcare staffing standards."
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "Benefits of Working with Vigil Care Staffing Partnering with Vigil means working with a Healthcare Assistant Agency in London that prioritizes responsiveness, safety, and personalization. We don’t just fill shifts—we build staffing partnerships that elevate your care standards. Personalized matching process Every facility is unique, and so is our approach to filling roles."
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "All compliance documents are verified and shared digitally to maintain full transparency."
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "Our coordination isn’t just rapid—it’s informed. We understand London’s boroughs from both a compliance and operational lens, ensuring your team meets both geographic and regulatory needs. We maintain proactive HCA pools across boroughs including: Hackney Barking Newham Tower Hamlets Lewisham Croydon Our Compliance and Vetting Standards Trust starts with rigorous vetting. As a leading Healthcare Assistant Agency in London, Vigil Care enforces strict recruitment standards to safeguard your residents and protect your reputation."
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "Facilities We Serve Our Healthcare Assistant Agency in London supports a wide range of facilities—from large NHS sites to specialist care units. Each receives dedicated attention and tailored staffing configurations. Elderly care homes Our HCAs specialise in dementia care, mobility support, and companionship-based services, making them ideal for long-term elderly care environments. Private clinics & NHS units We provide flexible staffing for surgical recovery wards, outpatient clinics, and mixed-use NHS departments."
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "All HCAs are trained to adhere to clinical protocols. Supported living and rehabilitation centres We deploy assistants experienced in community support and post-acute rehabilitation, ensuring continuity of care in less formal environments. Each facility type receives staff with role-specific training and personality fit, boosting not just compliance but day-to-day synergy with existing teams. Case Study: Barking Care Partnership When Barking Care Partnership needed reliable cover for night shifts across multiple supported living units, they turned to Vigil Care Staffing."
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "Within 48 hours, we mobilised a team of four vetted healthcare assistants who had prior experience in dementia and behavioural support. Results After onboarding via our borough-specific rota system, the facility reported a 60% reduction in missed shifts , improved continuity of care, and higher satisfaction scores from service users and families. \"Vigil's HCA pool feels like an extension of our own team. \" — Care Manager, Barking Care Partnership This success illustrates what sets Vigil apart as a Healthcare Assistant Agency in London—local responsiveness, personalised matching, and outcomes that matter."
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "FAQs What does a Healthcare Assistant do?"
-      }
-    },
-    {
-      "type": "cta",
-      "fields": {
-        "heading": "Looking for a trusted Healthcare Assistant Agency in London?",
-        "sub": "Our team is standing by to assist care homes, clinics, and supported living units across the boroughs.",
-        "cta_label": "FREE Quote",
-        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
-      }
-    },
-    {
-      "type": "contact_form",
-      "fields": {
-        "division": "staffing",
-        "heading": "Get a Quote"
-      }
-    }
-  ],
-  "status": "draft"
+    "sections": [
+        {
+            "type": "hero",
+            "fields": {
+                "heading": "Healthcare Assistant Agency in London",
+                "sub": "Vigil Care Staffing provides compassionate, qualified healthcare assistants across the capital. We specialise in rapid deployment to facilities facing last-minute staffing shortages, seasonal surges, or long-term vacancies. With borough-specific coverage and 24/7 coordination, our agency ensures every client receives safe, compliant, and patient-focused support when they need it most.",
+                "cta_label": "Get a Quote",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
+                "image": {
+                    "id": 93,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894791/vigil/care_staffing/hero/two-women-smiling-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/hero/two-women-smiling-care-staffing-london",
+                    "alt": "A smiling carer in blue scrubs kneels beside an elderly woman in a wheelchair outdoors in a park.",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2026/04/two-women-smiling.webp",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "A smiling carer in blue scrubs kneels beside an elderly woman in a wheelchair outdoors in a park."
+            }
+        },
+        {
+            "type": "text_image",
+            "fields": {
+                "heading": "Reliable Healthcare Assistants for Your Facility",
+                "body": "Whether you're running a care home, supported living unit, or hospital ward, Vigil Care Staffing delivers dependable personnel tailored to your needs.",
+                "image": {
+                    "id": 94,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894802/vigil/care_staffing/general/healthcare-assistant-agency-staff-london-1024x683-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/general/healthcare-assistant-agency-staff-london-1024x683-care-staffing-london",
+                    "alt": "Healthcare Assistant Agency staff working in London care home",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/08/healthcare-assistant-agency-staff-london-1024x683.jpg",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "Healthcare Assistant Agency staff working in London care home"
+            }
+        },
+        {
+            "type": "service_grid",
+            "fields": {
+                "items": [
+                    {
+                        "title": "Same-day staffing available",
+                        "body": "For urgent cases, we dispatch fully vetted HCAs within 24 hours of your request."
+                    },
+                    {
+                        "title": "CQC & NHS-compliant provision",
+                        "body": "Every deployment meets stringent compliance requirements, helping care providers remain audit-ready and risk-free."
+                    },
+                    {
+                        "title": "DBS-checked HCAs with specialist training",
+                        "body": "Our assistants go beyond basic care. They're trained in infection control, safeguarding, dementia support, and medication handling\u2014giving your patients reliable, holistic attention."
+                    },
+                    {
+                        "title": "Personalized matching process",
+                        "body": "We assess not just availability but skill alignment, experience level, and facility type when assigning HCAs\u2014whether you're an elderly care home in Barking or a rehabilitation unit in Croydon."
+                    },
+                    {
+                        "title": "24/7 coordination team",
+                        "body": "Our round-the-clock team ensures you're never left waiting. From late-night emergencies to weekend placements, Vigil's staffing specialists are available to confirm, coordinate, and troubleshoot in real time."
+                    },
+                    {
+                        "title": "Digital rostering and quick onboarding",
+                        "body": "We leverage automated rostering tools and streamlined onboarding workflows to minimize admin delays and get your staff operational faster."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "prose",
+            "restored_from_source": false,
+            "editorial_review_recommended": false,
+            "fields": {
+                "heading": "Local Knowledge and Rapid Cover",
+                "body": "At Vigil Care, being a Healthcare Assistant Agency in London means having feet on the ground. Our borough-level staffing model enables lightning-fast response times and hyper-local understanding of your facility's rhythms. Whether your care home requires last-minute cover or your clinic is expanding capacity, our system locates available, vetted professionals nearest to your site\u2014reducing transit time, increasing retention, and improving reliability."
+            }
+        },
+        {
+            "type": "service_grid",
+            "fields": {
+                "items": [
+                    {
+                        "title": "Mandatory training certificates",
+                        "body": "Every HCA we deploy holds up-to-date training in areas including infection control, safeguarding, manual handling, and basic life support. These certifications are reviewed and updated regularly."
+                    },
+                    {
+                        "title": "Real-time reference verification",
+                        "body": "Our automated checks contact previous employers and validate all reference responses before a candidate is confirmed. No shortcuts\u2014just verified quality."
+                    },
+                    {
+                        "title": "Interviewed by clinical compliance team",
+                        "body": "Every candidate undergoes a structured clinical interview with our in-house nursing-led panel. We assess behavioural competencies, scenario handling, and facility adaptability to ensure each HCA is ready for frontline care."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "fields": {
+                "items": [
+                    {
+                        "q": "What does a Healthcare Assistant do?",
+                        "a": "Healthcare Assistants (HCAs) provide direct support to patients and service users in care homes, hospitals, and supported living facilities. Their duties include assisting with personal care, mobility, meals, and emotional support. Vigil Care HCAs are trained to handle specialized needs such as dementia care and medication prompts."
+                    },
+                    {
+                        "q": "Are your Healthcare Assistants CQC and NHS compliant?",
+                        "a": "Yes. As a Healthcare Assistant Agency in London, all our HCAs meet the compliance standards set by CQC and NHS partner facilities. They hold up-to-date training certifications and undergo clinical vetting prior to placement."
+                    },
+                    {
+                        "q": "How quickly can I request staff?",
+                        "a": "Facilities can request cover 24/7, and we often provide same-day staffing in London. Our borough-level coordination teams ensure rapid response\u2014whether it's emergency shifts, sick leave replacements, or planned staffing for new residents."
+                    },
+                    {
+                        "q": "Do you provide cover for nights and weekends?",
+                        "a": "Absolutely. Our HCAs work flexible hours and are available for day shifts, night shifts, weekend cover, and holiday periods. We maintain out-of-hours coordination to support facilities at all times."
+                    },
+                    {
+                        "q": "Can I request the same Healthcare Assistant again?",
+                        "a": "Yes. If a staff member is a good fit for your residents or team, we prioritise repeat placements when availability allows. Our rostering system helps track staff history per facility to enhance continuity of care."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "Healthcare Assistant Agency in London Reliable Healthcare Assistants for Your Facility Whether you\u2019re running a care home, supported living unit, or hospital ward, Vigil Care Staffing delivers dependable personnel tailored to your needs. Get a Quote Vigil Care Staffing provides compassionate, qualified healthcare assistants across the capital."
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "Why Choose Our Healthcare Assistant Agency in London Choosing Vigil means partnering with a Healthcare Assistant Agency in London that prioritises both speed and safety. Whether you need staff in Barking, Croydon, Hackney or anywhere in between, we respond within hours\u2014not days."
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "Our real-time coordination dashboard helps us match the right professional to your facility and shift pattern\u2014on demand. CQC & NHS-compliant provision Vigil Care complies with all UK healthcare staffing standards."
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "Benefits of Working with Vigil Care Staffing Partnering with Vigil means working with a Healthcare Assistant Agency in London that prioritizes responsiveness, safety, and personalization. We don\u2019t just fill shifts\u2014we build staffing partnerships that elevate your care standards. Personalized matching process Every facility is unique, and so is our approach to filling roles."
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "All compliance documents are verified and shared digitally to maintain full transparency."
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "Our coordination isn\u2019t just rapid\u2014it\u2019s informed. We understand London\u2019s boroughs from both a compliance and operational lens, ensuring your team meets both geographic and regulatory needs. We maintain proactive HCA pools across boroughs including: Hackney Barking Newham Tower Hamlets Lewisham Croydon Our Compliance and Vetting Standards Trust starts with rigorous vetting. As a leading Healthcare Assistant Agency in London, Vigil Care enforces strict recruitment standards to safeguard your residents and protect your reputation."
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "Facilities We Serve Our Healthcare Assistant Agency in London supports a wide range of facilities\u2014from large NHS sites to specialist care units. Each receives dedicated attention and tailored staffing configurations. Elderly care homes Our HCAs specialise in dementia care, mobility support, and companionship-based services, making them ideal for long-term elderly care environments. Private clinics & NHS units We provide flexible staffing for surgical recovery wards, outpatient clinics, and mixed-use NHS departments."
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "All HCAs are trained to adhere to clinical protocols. Supported living and rehabilitation centres We deploy assistants experienced in community support and post-acute rehabilitation, ensuring continuity of care in less formal environments. Each facility type receives staff with role-specific training and personality fit, boosting not just compliance but day-to-day synergy with existing teams. Case Study: Barking Care Partnership When Barking Care Partnership needed reliable cover for night shifts across multiple supported living units, they turned to Vigil Care Staffing."
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "Within 48 hours, we mobilised a team of four vetted healthcare assistants who had prior experience in dementia and behavioural support. Results After onboarding via our borough-specific rota system, the facility reported a 60% reduction in missed shifts , improved continuity of care, and higher satisfaction scores from service users and families. \"Vigil's HCA pool feels like an extension of our own team. \" \u2014 Care Manager, Barking Care Partnership This success illustrates what sets Vigil apart as a Healthcare Assistant Agency in London\u2014local responsiveness, personalised matching, and outcomes that matter."
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "FAQs What does a Healthcare Assistant do?"
+            }
+        },
+        {
+            "type": "cta",
+            "fields": {
+                "heading": "Looking for a trusted Healthcare Assistant Agency in London?",
+                "sub": "Our team is standing by to assist care homes, clinics, and supported living units across the boroughs.",
+                "cta_label": "FREE Quote",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+            }
+        },
+        {
+            "type": "contact_form",
+            "fields": {
+                "division": "staffing",
+                "heading": "Get a Quote"
+            }
+        }
+    ],
+    "status": "draft"
 }
