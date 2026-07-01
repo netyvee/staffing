@@ -28,44 +28,74 @@
             "type": "hero",
             "fields": {
                 "heading": "Care Home CPD",
-                "sub": "Traditional induction sets the initial tone, but Care Home CPD (Continuous Professional Development) is the engine that drives long-term safety and confidence.",
-                "cta_label": "Please contact us",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+                "sub": "How to turn continuous professional development into inspection-ready evidence that maps to CQC quality statements.",
+                "cta_label": "Talk to Vigil Care Staffing",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
+                "image": "",
+                "image_alt": "Care home staff in a training and development session"
             }
         },
         {
             "type": "prose",
-            "restored_from_source": false,
-            "editorial_review_recommended": false,
             "fields": {
-                "heading": "\"Trained\" vs. \"Capable\"",
-                "body": "In the care sector, being \"Trained\" is a binary metric, whereas being \"Capable\" is a performance metric. Your ability to track, review, and reflect on this capability is what differentiates high-performing services."
+                "heading": "Trained versus capable",
+                "body": "A training certificate proves that a member of staff attended a course. It does not, on its own, prove that they can apply that learning safely in daily practice. Continuous professional development, or CPD, closes that gap. Well-planned CPD moves a team from simply being trained to being genuinely capable, and it produces the kind of evidence inspectors expect to see."
             }
         },
         {
             "type": "prose",
-            "restored_from_source": false,
-            "editorial_review_recommended": false,
             "fields": {
-                "heading": "Mapping Care Home CPD to CQC Quality Statements",
-                "body": "Under the CQC Single Assessment Framework , the bar for \"Trained\" has moved. Inspectors no longer look for certificates alone; they seek tangible proof of impact on care ."
+                "heading": "A three-step framework for CQC-ready staff development",
+                "body": "A dependable CPD programme does not have to be complicated. The following three steps give care home managers a repeatable cycle: identify the skills your service needs, embed learning in everyday work, and review the impact regularly. Each step builds evidence that your staffing supports safe, effective care."
             }
         },
         {
             "type": "service_grid",
             "fields": {
+                "heading": "The three-step framework",
                 "items": [
                     {
-                        "title": "Strategic Skills & Needs Mapping",
-                        "body": "Reactive training is a red flag for inspectors. Instead, build an intentional map that identifies: Mandatory Training : Safeguarding, infection control, and Mental Capacity Act (MCA). Role-Specific Needs: Specializations in lone working, autism, or epilepsy. Leadership Development: NVQ Level 3 and mentoring pathways."
+                        "title": "1. Strategic skills and needs mapping",
+                        "body": "Start by mapping the skills your residents actually need against the skills your team currently holds. This highlights gaps in areas such as dementia support, moving and handling or medication awareness, and lets you prioritise the training that matters most."
                     },
                     {
-                        "title": "Practical Application: Linking Learning to Daily Practice",
-                        "body": "The CQC asks: \"How do you know it's being used in practice?\" . You must bridge the gap between classroom theory and the front line by capturing reflection notes from supervisions or team huddles. Ask staff exactly what they will do differently after their training to ensure safe and caring practice."
+                        "title": "2. Practical application in daily practice",
+                        "body": "Link each piece of learning to real tasks on shift. Supervision, competency observations and reflective conversations help staff apply new knowledge, so training changes practice rather than sitting in a folder."
                     },
                     {
-                        "title": "Evidenced Review and Refresh Cycles",
-                        "body": "Continuous improvement requires tools that provide a \"living record\" of safe practice. We recommend maintaining: A Living Training Matrix: For real-time compliance oversight. Individual Skills Passports: A granular record of competency per staff member. Regular Competency Checks: To ensure follow-through and retention."
+                        "title": "3. Evidenced review and refresh cycles",
+                        "body": "Review competence at planned intervals, record the outcomes, and refresh training before it lapses. This keeps skills current and gives you a clear audit trail of ongoing development."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "prose",
+            "fields": {
+                "heading": "Mapping care home CPD to CQC quality statements",
+                "body": "The CQC single assessment framework is built around quality statements grouped under themes such as safe, effective and well-led. Linking your CPD records to these statements shows how workforce development supports the outcomes inspectors assess. The examples below illustrate how everyday CPD activity can be mapped to those themes."
+            }
+        },
+        {
+            "type": "service_grid",
+            "fields": {
+                "heading": "CPD mapped to the quality statement themes",
+                "items": [
+                    {
+                        "title": "Safe",
+                        "body": "Records of safeguarding, infection-prevention and moving-and-handling training evidence that staff have the skills to keep people safe from avoidable harm."
+                    },
+                    {
+                        "title": "Effective",
+                        "body": "Competency assessments and condition-specific learning, such as dementia or diabetes care, show that support is based on current good practice."
+                    },
+                    {
+                        "title": "Caring",
+                        "body": "Reflective practice and person-centred training demonstrate that staff understand dignity, choice and compassionate care."
+                    },
+                    {
+                        "title": "Well-led",
+                        "body": "Supervision logs, appraisal cycles and a documented CPD plan show that leaders are actively developing a capable, accountable workforce."
                     }
                 ]
             }
@@ -75,78 +105,27 @@
             "fields": {
                 "items": [
                     {
-                        "q": "How does the CQC evaluate staff training?",
-                        "a": "Inspectors evaluate the impact of training rather than just completion. They look for evidence that learning is refreshed, reflected upon, and used to improve care outcomes."
+                        "q": "How often should care home CPD be reviewed?",
+                        "a": "Most services review core competencies at least annually, with more frequent checks for high-risk skills. The key is a planned cycle that refreshes training before it expires."
                     },
                     {
-                        "q": "What is a CPD Matrix for care homes?",
-                        "a": "A CPD matrix is a tracker covering mandatory, role-specific, and developmental training with dedicated space for review dates and reflective practice."
+                        "q": "What evidence should we keep for inspection?",
+                        "a": "Keep training records, competency assessments, supervision notes and a written CPD plan. Together these show how development links to safe, effective care."
+                    },
+                    {
+                        "q": "Does agency staffing affect our CPD evidence?",
+                        "a": "Agency workers should arrive with current mandatory training and verified competencies. Vigil Care Staffing supplies vetted care-sector workers whose compliance records support your overall evidence."
                     }
                 ]
             }
         },
         {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Care Home CPD: The Definitive Guide to CQC Compliance and Staff Excellence Traditional induction sets the initial tone, but Care Home CPD (Continuous Professional Development) is the engine that drives long-term safety and confidence. Recent industry data highlights a critical \u201cpaperwork gap\u201d: one manager discovered three expired certificates during a routine spot check, only to realize the deeper issue was what the staff had physically forgotten."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "3-Step Framework for CQC-Ready Staff Development Here is the Vigil Care Staffing standard for CPD: 1."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "This structure proves to the CQC that training is intentional and well-led."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Mapping Care Home CPD to CQC Quality Statements Quality Statement How Care Home CPD Supports This Signal Evidence Type Safe [Safe-QS1] Staff maintain current knowledge and safe practice. Competency Checks Effective [Effective-QS1] Training is relevant and regularly reviewed. Skills Needs Map Well-led [Well-led-QS1] Development is intentional and performance-linked. Training Matrix Care Home CPD FAQ Q."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Ans: Inspectors evaluate the impact of training rather than just completion."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Ans: A CPD matrix is a tracker covering mandatory, role-specific, and developmental training with dedicated space for review dates and reflective practice. Vigil Care Staffing partners use bespoke CPD tools to stay inspection-ready \u2014 Please contact us."
-            }
-        },
-        {
             "type": "cta",
             "fields": {
-                "heading": "Vigil Care Staffing partners use bespoke CPD tools to stay inspection-ready",
-                "sub": "Here is the Vigil Care Staffing standard for CPD:",
-                "cta_label": "Please contact us",
+                "heading": "Need dependable, CQC-conscious staffing to support your CPD plans?",
+                "sub": "Vigil Care Staffing supplies vetted care workers across Greater London.",
+                "cta_label": "Talk to Vigil Care Staffing",
                 "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
-            }
-        },
-        {
-            "type": "contact_form",
-            "fields": {
-                "division": "staffing",
-                "heading": "Please contact us"
             }
         }
     ],
