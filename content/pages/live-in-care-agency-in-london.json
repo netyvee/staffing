@@ -28,8 +28,8 @@
             "type": "hero",
             "fields": {
                 "heading": "Live-in Care Agency in London",
-                "sub": "Live-in Care Agency in London services from Vigil Care Staffing provide families and care providers with dedicated, fully vetted live-in carers who offer 24-hour support in the client's own home. Whether the requirement is for elderly care, complex needs, palliative support, or companionship, our temporary care staffing agency ensures your service users receive consistent, personalized care without the disruption of moving to a residential facility.",
-                "cta_label": "Get a Quote",
+                "sub": "Fully vetted live-in care workers supplied across Greater London for elderly support, complex needs, and companionship \u2014 matched to each household.",
+                "cta_label": "Request a Live-in Carer",
                 "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "image": {
                     "id": 101,
@@ -44,10 +44,10 @@
             }
         },
         {
-            "type": "text_image",
+            "type": "prose",
             "fields": {
-                "heading": "Continuous, Compassionate, and Professional Care in the Comfort of Home",
-                "body": "From short-term relief to permanent arrangements, we supply agency care workers who are trained, compliant, and committed to preserving dignity, independence, and quality of life.",
+                "heading": "Live-in care workers matched to the household",
+                "body": "When a household needs round-the-clock support at home, the right live-in worker makes all the difference. Vigil Care Staffing supplies vetted live-in care workers to care providers and private households across Greater London. We take time to understand the needs of the person being supported, from daily living and mobility to companionship and specialist requirements, and match a worker whose skills and temperament fit. Because our workers are directly employed and thoroughly vetted, families and providers can feel confident about who is in the home. Whether you need cover for a fixed period, a rolling arrangement, or support while you plan longer-term care, we can supply live-in workers to suit.",
                 "image": {
                     "id": 102,
                     "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894896/vigil/care_staffing/general/agency-care-worker-london-live-in-1024x576-care-staffing-london.webp",
@@ -65,80 +65,47 @@
             "fields": {
                 "items": [
                     {
-                        "title": "Tailored Care Matching",
-                        "body": "We select live-in carers based on skills, personality fit, and cultural awareness."
+                        "title": "Tailored Matching",
+                        "body": "We match each live-in worker to the household's routine, needs, and preferences, rather than sending whoever is next on a list."
                     },
                     {
                         "title": "Round-the-Clock Support",
-                        "body": "24-hour presence ensures safety, companionship, and consistent care."
+                        "body": "Live-in workers provide continuous on-hand support at home, covering daytime help and reassurance through the night."
                     },
                     {
-                        "title": "CQC-Aligned Standards",
-                        "body": "All placements follow Care Quality Commission (CQC) guidelines."
+                        "title": "CQC-Aligned Recruitment",
+                        "body": "Our recruitment and vetting follow a CQC-compliant process, so the workers we supply meet a consistent standard."
                     },
                     {
                         "title": "Local Expertise",
-                        "body": "Borough-based carers with knowledge of local communities, transport, and resources."
+                        "body": "Our workers live and work across Greater London and understand the settings and communities they support."
                     },
                     {
                         "title": "Versatile Arrangements",
-                        "body": "Short-term respite, ongoing assignments, and emergency cover available."
-                    }
-                ]
-            }
-        },
-        {
-            "type": "service_grid",
-            "fields": {
-                "items": [
-                    {
-                        "title": "Comprehensive Vetting",
-                        "body": "Enhanced DBS, reference checks, right-to-work verification."
+                        "body": "We supply live-in workers for short breaks, respite, rolling cover, or longer placements, flexing around what the household needs."
                     },
                     {
                         "title": "Continuity of Care",
-                        "body": "Wherever possible, we keep the same carer for long-term placements."
-                    },
-                    {
-                        "title": "Specialist Skills",
-                        "body": "Care trained in dementia care, mobility assistance, medication prompting, and end-of-life support."
-                    },
-                    {
-                        "title": "Flexibility",
-                        "body": "Cover available for weekends, holidays, or extended breaks."
-                    },
-                    {
-                        "title": "Family Support",
-                        "body": "Regular updates and transparent communication throughout the placement."
+                        "body": "Wherever possible we keep the same worker in place, so the person being supported builds a trusted, familiar relationship."
                     }
                 ]
             }
         },
         {
-            "type": "service_grid",
+            "type": "text_image",
             "fields": {
-                "items": [
-                    {
-                        "title": "Enhanced DBS Checks",
-                        "body": "Safeguarding vulnerable adults."
-                    },
-                    {
-                        "title": "Right to Work Verification",
-                        "body": "Compliance with UK employment laws."
-                    },
-                    {
-                        "title": "Professional References",
-                        "body": "Minimum of two relevant references."
-                    },
-                    {
-                        "title": "Skills Assessments",
-                        "body": "Including manual handling, infection control, and person-centred care."
-                    },
-                    {
-                        "title": "Ongoing CPD",
-                        "body": "Training updates to meet changing care needs."
-                    }
-                ]
+                "heading": "How we vet every live-in care worker",
+                "body": "Trust matters most when someone is living in a person's home. Before we supply a live-in worker, we complete enhanced DBS checks, verify their right to work, and take up references from previous care employers. We assess relevant skills for the placement, and because our workers are directly employed we keep their training and records up to date. Our process is CQC-compliant, giving providers and families a clear, documented picture of who they are welcoming into the home.",
+                "image": {
+                    "id": 102,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894896/vigil/care_staffing/general/agency-care-worker-london-live-in-1024x576-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/general/agency-care-worker-london-live-in-1024x576-care-staffing-london",
+                    "alt": "Agency care worker in London providing live-in home care",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/08/agency-care-worker-london-live-in-1024x576.jpg",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "Agency care worker in London providing live-in home care"
             }
         },
         {
@@ -146,98 +113,42 @@
             "fields": {
                 "items": [
                     {
-                        "q": "How quickly can your live-in care agency London arrange a carer?",
-                        "a": "In urgent cases, we can place a fully vetted live-in carer within 48 hours."
+                        "q": "What does a live-in care worker do?",
+                        "a": "A live-in worker stays in the home and provides on-hand support with daily living, mobility, companionship, and other agreed needs. We match the worker to the specific requirements of the household."
                     },
                     {
-                        "q": "Do your live-in carers handle medical tasks?",
-                        "a": "Our carers are trained in medication prompting and basic healthcare support, but clinical tasks are carried out by qualified nurses."
+                        "q": "Do you supply live-in workers for private households?",
+                        "a": "Yes. We supply vetted live-in care workers to both care providers and private households across Greater London."
                     },
                     {
-                        "q": "Can I request a live-in carer with specialist skills?",
-                        "a": "Yes. We can provide carers experienced in dementia, Parkinson's, palliative care, and other specialised needs."
+                        "q": "How are your live-in workers vetted?",
+                        "a": "Every worker is DBS-checked, right-to-work verified, and referenced before placement, with relevant skills assessed for the role."
                     },
                     {
-                        "q": "How is the carer's accommodation arranged?",
-                        "a": "Clients must provide a suitable private room and access to facilities within the home."
+                        "q": "Can we keep the same live-in worker?",
+                        "a": "Continuity is a priority. Wherever possible we keep the same worker in place so the person being supported sees a familiar face."
                     },
                     {
-                        "q": "Do you offer temporary and permanent live-in care options?",
-                        "a": "Yes. Our temporary care staffing agency model allows for short-term cover as well as long-term arrangements."
+                        "q": "What areas do you cover?",
+                        "a": "We supply live-in care workers across Greater London and can discuss the specific area you need covered."
                     }
                 ]
             }
         },
         {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Live-in Care Agency in London Continuous, Compassionate, and Professional Care in the Comfort of Home Whether you manage a care home, supported living facility, or hospital ward, Vigil Care Staffing provides reliable professionals tailored to meet your specific requirements. Get a Quote Live-in Care Agency in London services from Vigil Care Staffing provide families and care providers with dedicated, fully vetted live-in carers who offer 24-hour support in the client\u2019s own home."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Why Choose Vigil Care Staffing for Live-in Carers in London When families or providers choose live-in care, they expect both skill and compassion. As a trusted temporary placement agency , Vigil Care Staffing matches clients with live-in carers who integrate seamlessly into daily routines while maintaining professional boundaries."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Benefits of Working with Vigil Care Staffing Agency Our healthcare recruitment agency offers more than just a list of available careers \u2014 we provide peace of mind."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Borough-Level Coverage and Rapid Response We place Live-in Care Agency in London boroughs, ensuring proximity, familiarity, and quick deployment. North London Barnet Enfield Haringey Camden Islington East London Barking and Dagenham Newham Tower Hamlets Waltham Forest Redbridge Havering South London Croydon Sutton Merton Kingston upon Thames Bromley Central London Westminster City of London South East London Greenwich Lewisham Bexley Southwark South West London Ealing Hounslow Hammersmith and Fulham Kensington and Chelsea West London Ealing Hounslow Hammersmith and Fulham Kensington and Chelsea Find Support Workers Our Vetting & Compliance Process As a leading temporary healthcare staffing provider, we ensure all live-in carers are thoroughly assessed before placement."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Our process makes us the recruitment agency for care homes and home care providers that London trusts. Facilities We Serve While live-in care is home-based, our carers also support: Post-hospital discharge recovery Palliative care at home Respite arrangements for family carers Live-in care within sheltered or supported living settings Transition periods for those moving from residential care to home Private Healthcare Settings Whether you\u2019re a private client or a care provider, our HCA agency and agency for care workers service ensures every placement meets your unique requirements. Case Study: Dementia Care in Kensington & Chelsea A family in Kensington & Chelsea contacted Vigil Care Staffing for a live-in carer to support their mother living with dementia. We placed a carer experienced in memory care and gentle behavioural support, who remained with the client for 14 months."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "\"The carer became part of our lives \u2014 compassionate, professional, and utterly dependable. \" Our dedicated carer provided consistent, person-centred care that allowed the client to maintain dignity and independence while ensuring safety and comfort throughout her care journey. FAQs How quickly can your live-in care agency London arrange a carer?"
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "FREE Quote Call Now Email Now"
-            }
-        },
-        {
             "type": "cta",
             "fields": {
-                "heading": "Request a Live-in Carer in London Today",
-                "sub": "Providing skilled support workers for every borough in London.",
-                "cta_label": "FREE Quote",
+                "heading": "Looking for a live-in care worker in London?",
+                "sub": "Tell us about the household and the support needed, and we will match a suitable vetted worker.",
+                "cta_label": "Request a Live-in Carer",
                 "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
             }
         },
         {
             "type": "contact_form",
             "fields": {
-                "division": "staffing",
-                "heading": "Get a Quote"
+                "heading": "Request a live-in care worker",
+                "division": "staffing"
             }
         }
     ],
