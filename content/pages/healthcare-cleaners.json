@@ -27,9 +27,9 @@
         {
             "type": "hero",
             "fields": {
-                "heading": "Healthcare Cleaners",
-                "sub": "Our teams meet all NHS cleaning standards and CQC requirements",
-                "cta_label": "get a FREE Quote",
+                "heading": "Healthcare Cleaners in London",
+                "sub": "Vigil Care Staffing supplies DBS-checked cleaning staff, trained in infection prevention, to care homes, clinics and supported living services across Greater London.",
+                "cta_label": "Request Healthcare Cleaners",
                 "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "image": {
                     "id": 98,
@@ -44,26 +44,10 @@
             }
         },
         {
-            "type": "service_grid",
+            "type": "prose",
             "fields": {
-                "items": [
-                    {
-                        "title": "COSSH & Infection Control Certified",
-                        "body": "Skilled in deep cleaning and disinfection"
-                    },
-                    {
-                        "title": "Flexible Availability",
-                        "body": "Flexible Availability \u2013 Temporary, long-term, or emergency cover"
-                    },
-                    {
-                        "title": "Same-Day Cover",
-                        "body": "Same-Day Cover \u2013 Rapid response for urgent cleaning needs"
-                    },
-                    {
-                        "title": "Enhanced DBS-Checked",
-                        "body": "Enhanced DBS-Checked \u2013 All staff cleared for sensitive environments"
-                    }
-                ]
+                "heading": "Infection-control cleaning staff for care settings",
+                "body": "Clean, hygienic environments are central to safe care. Healthcare cleaners keep clinical and residential spaces safe by following infection prevention and control routines that go well beyond general cleaning. Vigil Care Staffing supplies experienced healthcare cleaning staff to care homes, clinics, supported living services and similar settings across Greater London.\n\nOur cleaners are trained to NHS cleaning standards and understand the demands of care environments, from colour-coded equipment and correct use of products to safe waste handling and high-touch-point routines. We provide cover for planned rota gaps, short-notice absence and additional deep-cleaning needs.\n\nVigil Care Staffing is a staffing supplier. Our role is to give your service dependable, vetted cleaning staff who are ready to work and understand infection control from their first shift."
             }
         },
         {
@@ -71,28 +55,37 @@
             "fields": {
                 "items": [
                     {
-                        "title": "Routine Cleaning Services",
-                        "body": "General housekeeping and tidiness"
+                        "title": "Infection-control trained",
+                        "body": "Our cleaners are trained to NHS cleaning standards and follow infection prevention and control routines suited to care environments. Hygiene is treated as part of safe care, not an afterthought."
                     },
                     {
-                        "title": "Infection Control Cleaning",
-                        "body": "Deep cleaning and disinfection of high-touch areas"
+                        "title": "Fully vetted staff",
+                        "body": "Every healthcare cleaner is DBS-checked, reference-verified and confirmed eligible to work before being placed with your service."
                     },
                     {
-                        "title": "Specialised Healthcare Cleaning",
-                        "body": "Adhering to COSHH and health & safety guidelines"
+                        "title": "Rapid cover",
+                        "body": "We keep a local pool of available cleaning staff so short-notice and same-day gaps can be filled quickly, keeping your spaces safe and compliant."
+                    },
+                    {
+                        "title": "Flexible arrangements",
+                        "body": "Book routine cleaning shifts, additional deep-cleaning support or ongoing cover to suit your service and its schedule."
+                    },
+                    {
+                        "title": "Care-setting experience",
+                        "body": "Our cleaners understand the practical realities of residential, clinical and supported-living spaces, and work around residents and daily routines."
+                    },
+                    {
+                        "title": "Directly employed",
+                        "body": "Our cleaning staff are directly employed by Vigil Care Staffing, so vetting and training records stay with us throughout every placement."
                     }
                 ]
             }
         },
         {
             "type": "prose",
-            "restored_from_source": false,
-            "editorial_review_recommended": false,
-            "broken_source_image": true,
             "fields": {
-                "heading": "Who We Work With",
-                "body": "Nursing Homes Residential Care Homes Day Centres & Domiciliary Services Mental Health Units Supported Living Facilities"
+                "heading": "Trained, vetted and compliance-ready",
+                "body": "Every healthcare cleaner completes an enhanced DBS check, right-to-work verification and reference checks before their first shift. Cleaning staff are trained to NHS cleaning standards and in infection prevention and the safe handling of cleaning products, with training kept current through ongoing development.\n\nOur recruitment follows a CQC-compliant process that helps support your own hygiene and safe-staffing evidence. Because our cleaning staff are directly employed, responsibility for their vetting and conduct stays with us throughout every placement."
             }
         },
         {
@@ -100,62 +93,38 @@
             "fields": {
                 "items": [
                     {
-                        "q": "Do your cleaners have experience in care environments?",
-                        "a": "Yes. Our cleaners for health and social care are trained to work in care homes, supported living, and healthcare facilities."
+                        "q": "Which areas do you cover?",
+                        "a": "We supply healthcare cleaners to care and clinical settings across Greater London. Tell us your location and we will confirm availability near you."
                     },
                     {
-                        "q": "Can I hire cleaners on a temporary or emergency basis?",
-                        "a": "Absolutely. We offer cleaners for hire on a same-day, short-term, or long-term basis."
+                        "q": "How quickly can you provide cover?",
+                        "a": "We hold a local pool of available cleaning staff and respond quickly to short-notice and same-day requests, always confirming what we can cover."
                     },
                     {
-                        "q": "Are your cleaning staff DBS-checked?",
-                        "a": "Yes. Every cleaner is DBS-checked and trained in safeguarding and infection control."
+                        "q": "What training do your healthcare cleaners have?",
+                        "a": "Our cleaners are trained to NHS cleaning standards and in infection prevention, with DBS checks and references completed before they start."
                     },
                     {
-                        "q": "How quickly can I receive cleaning staff?",
-                        "a": "We provide same-day or next-day cleaners depending on availability and urgency."
+                        "q": "Can you supply both routine and deep-cleaning staff?",
+                        "a": "Yes. We supply staff for routine cleaning shifts, additional deep-cleaning support and ongoing rota cover, so you can scale up or down as needed."
                     }
                 ]
             }
         },
         {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "infection prevention, ensuring the safety and comfort of residents, patients, and staff alike. Who We Work With Nursing Homes Residential Care Homes Day Centres & Domiciliary Services Mental Health Units Supported Living Facilities Why Choose Our Healthcare Cleaners UK?"
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Reach out with any questions using the details below. Your Name Last Name Phone Number Email Message Send Looking for the Right Support Worker? At Vigil Staffing, we know everyone has different needs. We offer tailored consultations to connect you with the right support worker."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Let\u2019s get you the help you need today! get a FREE Quote (FAQs) Frequently Asked Question (FAQs) Do your cleaners have experience in care environments?"
-            }
-        },
-        {
             "type": "cta",
             "fields": {
-                "heading": "Get in Touch",
-                "sub": "We offer cleaners for hire on a same-day, short-term, or long-term basis.",
-                "cta_label": "get a FREE Quote",
+                "heading": "Need trained healthcare cleaning staff?",
+                "sub": "Tell us your requirements and we will match vetted, infection-control-trained cleaners to your setting across Greater London.",
+                "cta_label": "Request Healthcare Cleaners",
                 "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
             }
         },
         {
             "type": "contact_form",
             "fields": {
-                "division": "staffing",
-                "heading": "Get in Touch"
+                "heading": "Request healthcare cleaners",
+                "division": "staffing"
             }
         }
     ],
