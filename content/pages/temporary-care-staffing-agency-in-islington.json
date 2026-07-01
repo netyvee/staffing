@@ -1,174 +1,194 @@
 {
-  "schema_version": 1,
-  "site": "care_staffing",
-  "slug": "/temporary-care-staffing-agency-in-islington",
-  "page_type": "borough",
-  "seo": {
-    "title": "Temporary Care Staffing Agency in Islington | Vigil Care Staffing",
-    "description": "Flexible, CQC-compliant care professionals in Islington — healthcare assistants, support workers, live-in carers, and emergency cover when you need them most.",
-    "canonical": "/temporary-care-staffing-agency-in-islington",
-    "focus_keyword": "temporary care staffing agency islington",
-    "schema_type": "Service"
-  },
-  "brand": {
-    "bg": "#0a1628",
-    "text": "#ffffff",
-    "cta": "#4ecdc4",
-    "secondary": "#7fb2d4"
-  },
-  "nap": {
-    "phone": "020 3973 8887",
-    "email": "staffing@vigilservices.co.uk",
-    "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
-    "trading_name": "Vigil Care Staffing",
-    "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
-  },
-  "sections": [
-    {
-      "type": "hero",
-      "fields": {
-        "heading": "Temporary Care Staffing Agency in Islington",
-        "sub": "Temporary Care Staffing Agency in Islington services from Vigil Care Staffing provide care homes, supported living settings, and private clients with the skilled professionals they need — exactly when they need them.",
-        "cta_label": "Get a Quote",
-        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
-      }
+    "schema_version": 1,
+    "site": "care_staffing",
+    "slug": "/temporary-care-staffing-agency-in-islington",
+    "page_type": "borough",
+    "seo": {
+        "title": "Temporary Care Staffing Agency in Islington | Vigil Care Staffing",
+        "description": "Flexible, CQC-compliant care professionals in Islington \u2014 healthcare assistants, support workers, live-in carers, and emergency cover when you need them most.",
+        "canonical": "/temporary-care-staffing-agency-in-islington",
+        "focus_keyword": "temporary care staffing agency islington",
+        "schema_type": "Service"
     },
-    {
-      "type": "borough_block",
-      "fields": {
-        "borough": "Islington",
-        "body": "We don't just work in Islington — we're embedded here."
-      }
+    "brand": {
+        "bg": "#0a1628",
+        "text": "#ffffff",
+        "cta": "#4ecdc4",
+        "secondary": "#7fb2d4"
     },
-    {
-      "type": "text_image",
-      "fields": {
-        "heading": "Why Choose Vigil Care Staffing in Islington",
-        "body": "When every shift matters, you need a staffing agency that understands your borough, your sector, and the urgency of your needs."
-      }
+    "nap": {
+        "phone": "020 3973 8887",
+        "email": "staffing@vigilservices.co.uk",
+        "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+        "trading_name": "Vigil Care Staffing",
+        "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
     },
-    {
-      "type": "service_grid",
-      "fields": {
-        "items": [
-          {
-            "title": "Rapid Response Times",
-            "body": "We can have vetted staff on-site in hours, not days."
-          },
-          {
-            "title": "Local Knowledge",
-            "body": "Our team works regularly with care providers across Angel, Holloway, Finsbury Park, Archway, and Highbury."
-          },
-          {
-            "title": "Full Compliance",
-            "body": "Every placement meets CQC and local safeguarding requirements."
-          },
-          {
-            "title": "Diverse Staffing Pool",
-            "body": "From HCAs to specialist night carers, we cover every role."
-          },
-          {
-            "title": "Flexible Cover",
-            "body": "Book staff for a single shift, ongoing weekly cover, or full contract periods."
-          },
-          {
-            "title": "Quality You Can Trust",
-            "body": "Staff trained to UK care standards, including moving & handling, safeguarding, and medication support."
-          }
-        ]
-      }
-    },
-    {
-      "type": "faq",
-      "fields": {
-        "items": [
-          {
-            "q": "How quickly can you supply staff in Islington?",
-            "a": "We can often provide vetted staff within hours, thanks to our borough-based team and ready-to-work roster."
-          },
-          {
-            "q": "Do you only supply healthcare assistants?",
-            "a": "No. We provide HCAs, Support Workers, Live-in Carers, Night-Shift Staff, and Emergency Cover professionals."
-          },
-          {
-            "q": "Can I book staff for ongoing cover?",
-            "a": "Yes. We can arrange rolling weekly contracts or fixed periods based on your needs."
-          },
-          {
-            "q": "How do you ensure compliance?",
-            "a": "All staff are DBS-checked, reference-verified, and trained to meet CQC and Skills for Care standards."
-          },
-          {
-            "q": "Do you work with private clients?",
-            "a": "Yes, we also provide carers for live-in and home care arrangements."
-          }
-        ]
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "Temporary Care Staffing Agency in Islington Temporary Care Staffing Agency in Islington – Vigil Care Staffing delivers flexible, CQC-compliant professionals across the borough, including healthcare assistants, support workers, and emergency cover—ready to step in when you need them most. Get a Quote Your trusted staffing partner for reliable, compliant, and compassionate care support across Islington and surrounding areas."
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "Whether you’re facing urgent staff shortages, seasonal demand spikes, or planned leave cover, we deliver Healthcare Assistants, Support Workers, Live-in Carers, Night-Shift Care Staff, and Emergency Care Cover staff who are fully trained, DBS-checked, and ready to step in."
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "Benefits of Working with Vigil Care Staffing Agency 1 Flexible Cover Book staff for a single shift, ongoing weekly cover, or full contract periods. 2 Quality You Can Trust Staff trained to UK care standards, including moving & handling, safeguarding, and medication support. 3 Sector Expertise Whether elderly care, learning disabilities, or mental health support, we match skills to client needs. 4 Transparent Rates No hidden fees, no last-minute surcharges."
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "Borough-Level Coverage in Islington We don’t just work in Islington — we’re embedded here. Our coverage spans: Angel Holloway Highbury Archway Finsbury Park Clerkenwell Barnsbury Canonbury Tufnell Park This local focus means faster response times and a deeper understanding of the facilities, routes, and care community in your area. Facilities We Serve We provide temporary care staff to: Residential Care Homes Nursing Homes Supported Living Services Live-in Care Arrangements Rehabilitation Centres NHS & Private Hospitals Our Vetting & Compliance Process Every professional we place undergoes: Enhanced DBS checks Work history verification (including reference checks) Mandatory training validation (e."
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "First Aid, Safeguarding, Infection Control) Face-to-face or virtual interviews to assess skills and values Islington Case Study Challenge Short-notice cover for two weekend shifts due to unexpected staff absences Solution Vigil Care Staffing supplied two experienced night-shift HCAs within four hours, maintaining staff ratios and ensuring continuity of care. Result The home manager praised our speed and professionalism, noting that residents “experienced no disruption to their usual routine. ” (FAQs) Frequently Asked Question (FAQs) How quickly can you supply staff in Islington?"
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "Request Staff Online Call Now Email Now Serving: Angel, Holloway, Finsbury Park, Archway, Highbury, and surrounding areas."
-      }
-    },
-    {
-      "type": "cta",
-      "fields": {
-        "heading": "Request Temporary Care Staff in Islington Today",
-        "sub": "Don't let staffing shortages affect care quality. Contact Vigil Care Staffing now for fast, compliant, and reliable staffing support in Islington.",
-        "cta_label": "Request Staff Online",
-        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
-      }
-    },
-    {
-      "type": "contact_form",
-      "fields": {
-        "division": "staffing",
-        "heading": "Request Temporary Care Staff in Islington Today"
-      }
-    }
-  ],
-  "status": "draft"
+    "sections": [
+        {
+            "type": "hero",
+            "fields": {
+                "heading": "Temporary Care Staffing Agency in Islington",
+                "sub": "Temporary Care Staffing Agency in Islington services from Vigil Care Staffing provide care homes, supported living settings, and private clients with the skilled professionals they need \u2014 exactly when they need them.",
+                "cta_label": "Get a Quote",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
+                "image": {
+                    "id": 103,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894908/vigil/care_staffing/hero/care-staffing-agency-london-1024x540-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/hero/care-staffing-agency-london-1024x540-care-staffing-london",
+                    "alt": "Care Staffing Agency in London healthcare assistants and support workers",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/08/care-staffing-agency-london-1024x540.jpg",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "Care Staffing Agency in London healthcare assistants and support workers"
+            }
+        },
+        {
+            "type": "borough_block",
+            "fields": {
+                "borough": "Islington",
+                "body": "We don't just work in Islington \u2014 we're embedded here."
+            }
+        },
+        {
+            "type": "text_image",
+            "fields": {
+                "heading": "Why Choose Vigil Care Staffing in Islington",
+                "body": "When every shift matters, you need a staffing agency that understands your borough, your sector, and the urgency of your needs.",
+                "image": {
+                    "id": 115,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782895045/vigil/care_staffing/general/temporary-care-staffing-agency-islington-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/general/temporary-care-staffing-agency-islington-care-staffing-london",
+                    "alt": "Temporary Care Staffing Agency in Islington providing trained healthcare assistants",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/08/temporary-care-staffing-agency-islington.jpg",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "Temporary Care Staffing Agency in Islington providing trained healthcare assistants"
+            }
+        },
+        {
+            "type": "service_grid",
+            "fields": {
+                "items": [
+                    {
+                        "title": "Rapid Response Times",
+                        "body": "We can have vetted staff on-site in hours, not days."
+                    },
+                    {
+                        "title": "Local Knowledge",
+                        "body": "Our team works regularly with care providers across Angel, Holloway, Finsbury Park, Archway, and Highbury."
+                    },
+                    {
+                        "title": "Full Compliance",
+                        "body": "Every placement meets CQC and local safeguarding requirements."
+                    },
+                    {
+                        "title": "Diverse Staffing Pool",
+                        "body": "From HCAs to specialist night carers, we cover every role."
+                    },
+                    {
+                        "title": "Flexible Cover",
+                        "body": "Book staff for a single shift, ongoing weekly cover, or full contract periods."
+                    },
+                    {
+                        "title": "Quality You Can Trust",
+                        "body": "Staff trained to UK care standards, including moving & handling, safeguarding, and medication support."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "fields": {
+                "items": [
+                    {
+                        "q": "How quickly can you supply staff in Islington?",
+                        "a": "We can often provide vetted staff within hours, thanks to our borough-based team and ready-to-work roster."
+                    },
+                    {
+                        "q": "Do you only supply healthcare assistants?",
+                        "a": "No. We provide HCAs, Support Workers, Live-in Carers, Night-Shift Staff, and Emergency Cover professionals."
+                    },
+                    {
+                        "q": "Can I book staff for ongoing cover?",
+                        "a": "Yes. We can arrange rolling weekly contracts or fixed periods based on your needs."
+                    },
+                    {
+                        "q": "How do you ensure compliance?",
+                        "a": "All staff are DBS-checked, reference-verified, and trained to meet CQC and Skills for Care standards."
+                    },
+                    {
+                        "q": "Do you work with private clients?",
+                        "a": "Yes, we also provide carers for live-in and home care arrangements."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "Temporary Care Staffing Agency in Islington Temporary Care Staffing Agency in Islington \u2013 Vigil Care Staffing delivers flexible, CQC-compliant professionals across the borough, including healthcare assistants, support workers, and emergency cover\u2014ready to step in when you need them most. Get a Quote Your trusted staffing partner for reliable, compliant, and compassionate care support across Islington and surrounding areas."
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "Whether you\u2019re facing urgent staff shortages, seasonal demand spikes, or planned leave cover, we deliver Healthcare Assistants, Support Workers, Live-in Carers, Night-Shift Care Staff, and Emergency Care Cover staff who are fully trained, DBS-checked, and ready to step in."
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "Benefits of Working with Vigil Care Staffing Agency 1 Flexible Cover Book staff for a single shift, ongoing weekly cover, or full contract periods. 2 Quality You Can Trust Staff trained to UK care standards, including moving & handling, safeguarding, and medication support. 3 Sector Expertise Whether elderly care, learning disabilities, or mental health support, we match skills to client needs. 4 Transparent Rates No hidden fees, no last-minute surcharges."
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "Borough-Level Coverage in Islington We don\u2019t just work in Islington \u2014 we\u2019re embedded here. Our coverage spans: Angel Holloway Highbury Archway Finsbury Park Clerkenwell Barnsbury Canonbury Tufnell Park This local focus means faster response times and a deeper understanding of the facilities, routes, and care community in your area. Facilities We Serve We provide temporary care staff to: Residential Care Homes Nursing Homes Supported Living Services Live-in Care Arrangements Rehabilitation Centres NHS & Private Hospitals Our Vetting & Compliance Process Every professional we place undergoes: Enhanced DBS checks Work history verification (including reference checks) Mandatory training validation (e."
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "First Aid, Safeguarding, Infection Control) Face-to-face or virtual interviews to assess skills and values Islington Case Study Challenge Short-notice cover for two weekend shifts due to unexpected staff absences Solution Vigil Care Staffing supplied two experienced night-shift HCAs within four hours, maintaining staff ratios and ensuring continuity of care. Result The home manager praised our speed and professionalism, noting that residents \u201cexperienced no disruption to their usual routine. \u201d (FAQs) Frequently Asked Question (FAQs) How quickly can you supply staff in Islington?"
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "Request Staff Online Call Now Email Now Serving: Angel, Holloway, Finsbury Park, Archway, Highbury, and surrounding areas."
+            }
+        },
+        {
+            "type": "cta",
+            "fields": {
+                "heading": "Request Temporary Care Staff in Islington Today",
+                "sub": "Don't let staffing shortages affect care quality. Contact Vigil Care Staffing now for fast, compliant, and reliable staffing support in Islington.",
+                "cta_label": "Request Staff Online",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+            }
+        },
+        {
+            "type": "contact_form",
+            "fields": {
+                "division": "staffing",
+                "heading": "Request Temporary Care Staff in Islington Today"
+            }
+        }
+    ],
+    "status": "draft"
 }
