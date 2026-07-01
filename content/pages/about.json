@@ -27,9 +27,9 @@
         {
             "type": "hero",
             "fields": {
-                "heading": "About Us",
-                "sub": "As a leading Care Staffing Specialist led by former nurses and care managers, we personally vet every professional we place within the NHS and private care homes.",
-                "cta_label": "FREE Quote",
+                "heading": "About Vigil Care Staffing",
+                "sub": "We supply vetted, directly employed care-sector workers to care providers across Greater London.",
+                "cta_label": "Request Care Staff Today",
                 "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "image": {
                     "id": 72,
@@ -45,12 +45,9 @@
         },
         {
             "type": "prose",
-            "restored_from_source": false,
-            "editorial_review_recommended": false,
-            "broken_source_image": true,
             "fields": {
-                "heading": "Who We Are",
-                "body": "We don't just fill shifts, we bridge the gap between high-calibre professionals and the facilities that need them. We personally vet every Healthcare Assistant, Support Worker, and Infection Control Specialist to ensure a perfect fit for your specific care environment."
+                "heading": "Who we are",
+                "body": "Vigil Care Staffing supplies vetted care-sector workers \u2014 healthcare assistants, support workers and healthcare cleaners \u2014 to care providers across Greater London. We help care homes, nursing homes, supported-living and specialist services fill rota gaps reliably, whether at short notice or as ongoing support.\n\nWe are a staffing agency, not a regulated care provider. Vigil Care Staffing does not operate regulated care services and is not CQC-registered. We supply the people; the care service remains yours to run, and we support your compliance through a careful, CQC-aligned recruitment and vetting process."
             }
         },
         {
@@ -58,148 +55,30 @@
             "fields": {
                 "items": [
                     {
-                        "title": "High-calibre professionals",
-                        "body": "High-calibre professionals trained by Skills for Care"
+                        "title": "Healthcare Assistants",
+                        "body": "We supply vetted healthcare assistants for planned shifts and short-notice cover across Greater London."
                     },
                     {
-                        "title": "Specialized training",
-                        "body": "Specialized training in dementia and mental health"
+                        "title": "Support Workers",
+                        "body": "Our support workers assist with personal care, mobility and daily living in residential, supported-living and specialist settings."
                     },
                     {
-                        "title": "Emergency & long-term staffing",
-                        "body": "Emergency & long-term staffing solutions"
+                        "title": "Healthcare Cleaners",
+                        "body": "We provide healthcare cleaners trained to NHS cleaning standards to help you maintain safe, hygienic environments."
+                    },
+                    {
+                        "title": "Rota-Gap Cover",
+                        "body": "We fill rota gaps reliably with short-notice and temporary cover, so your service stays safely staffed."
                     }
                 ]
-            }
-        },
-        {
-            "type": "service_grid",
-            "fields": {
-                "items": [
-                    {
-                        "title": "CQC-compliant",
-                        "body": "CQC-compliant and compliance-focused"
-                    },
-                    {
-                        "title": "All staff DBS-checked",
-                        "body": "All staff DBS-checked, trained, and ready to work"
-                    },
-                    {
-                        "title": "24/7 staffing support",
-                        "body": "24/7 staffing support, including same-day cover"
-                    },
-                    {
-                        "title": "Flexible solutions",
-                        "body": "Flexible solutions for care homes, supported living, and domiciliary care"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "faq",
-            "fields": {
-                "items": [
-                    {
-                        "q": "What is Vigil Care Staffing?",
-                        "a": "Vigil Care Staffing is a trusted care staffing agency that supplies trained Healthcare Assistants (HCAs), Support Workers, and Cleaners to care homes, nursing homes, and supported living services across London"
-                    },
-                    {
-                        "q": "What makes your care staffing agency different from others?",
-                        "a": "We focus on quality, compliance, and reliability. All staff are fully DBS-checked, trained, and selected based on both skill and compassion. We also offer 24/7 support and same-day cover where required."
-                    },
-                    {
-                        "q": "Do you cover all areas in London?",
-                        "a": "Yes, our care staffing agency provides services throughout the capital, with strong coverage in East London, North London, South West and Central London. We also offer remote recruitment and onboarding for wider regions."
-                    },
-                    {
-                        "q": "How does Vigil Care Staffing ensure staff are compliant and well-trained?",
-                        "a": "We follow strict recruitment and compliance protocols. All candidates complete mandatory training, background checks, and skills verification before placement. Our care staffing agency ensures every professional is ready to deliver safe, person-centred care."
-                    },
-                    {
-                        "q": "Can I speak directly to someone about my staffing needs?",
-                        "a": "Absolutely! We have a responsive team ready to assist you. You can reach our care staffing agency via phone, email, or our online contact form. We're here to help you find the right staff quickly and efficiently."
-                    }
-                ]
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "When you need a care staffing agency London can rely on, our expertise ensures your facility remains \u201cSafe\u201d and \u201cWell-led. \u201d Partnering with Skills for Care , we go beyond standard CQC compliance\u2014delivering solutions from East to South London that always put people first."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Founded as a dedicated care staffing agency London specialist, our team is led by former nurses and care managers who understand the front-line needs of the NHS and private care homes. The Bridge Our Expertise: We don\u2019t just fill shifts, we bridge the gap between high-calibre professionals and the facilities that need them."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "The Mission Our Standards: Partnering with Skills for Care, we go beyond standard CQC compliance."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Essex: Long-term placements for learning disability services. Our Commitment Why care providers choose us as their care staffing agency London of choice: 90% FILLS 24/7 Responsive: of emergency shifts filled by the booking desk AUDITED RECRUITMENT Professional: practices ensure reliable, top-tier reliability 80% RETAIN Consistent: of clients retain staff long-term, proving continuity Get in touch today! FREE Quote Who We Do We\u2019re not just a care staffing agency\u2014we\u2019re your trusted partner in delivering quality care. Our experienced team understands your workforce challenges and provides flexible solutions for care homes, supported living, and domiciliary care."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "CQC-Compliant & Focused Compliance-Ready: Rigorous vetting ensures all staff meet \"Safe\" and \"Well-led\" standards. Audit-Proof: We handle the documentation so your facility stays fully CQC-compliant. Vetted & Ready To Work Fully DBS-Checked: All staff undergo enhanced background checks and reference verification. Mandatory Training: Every professional is pre-trained and ready to hit the ground running."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "24/7 Rapid Support Same-Day Cover: Emergency staffing solutions available when you need them most. Always Online: 24/7 support to manage your shift gaps, long-term or temporary. (FAQs) Frequently Asked Question (FAQs) What is Vigil Care Staffing?"
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Why Choose Us as Your Care Staffing Partner CQC-compliant and compliance-focused All staff DBS-checked, trained, and ready to work 24/7 staffing support, including same-day cover Flexible solutions for care homes, supported living, and domiciliary care Experienced team who understands your workforce challenges We\u2019re not just a care staffing agency \u2014 we\u2019re your trusted partner in delivering quality care. FREE Quote Contact Us Interested in working with a reliable care staffing agency?"
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Call Us 020 3973 8887 Email us staffing@vigilservices."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "uk Website https://staffing."
             }
         },
         {
             "type": "cta",
             "fields": {
-                "heading": "Contact Us",
-                "sub": "Interested in working with a reliable care staffing agency? Whether you need urgent cover or are planning ahead, get in touch today.",
-                "cta_label": "FREE Quote",
+                "heading": "Need vetted care staff?",
+                "sub": "Tell us what your service needs and we will match the right people.",
+                "cta_label": "Request Care Staff Today",
                 "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
             }
         },
@@ -207,7 +86,7 @@
             "type": "contact_form",
             "fields": {
                 "division": "staffing",
-                "heading": "Contact Us"
+                "heading": "Get in touch"
             }
         }
     ],
