@@ -27,9 +27,9 @@
         {
             "type": "hero",
             "fields": {
-                "heading": "Support Workers",
-                "sub": "Whether you need emergency cover or long-term placements, our Support Workers UK deliver CQC-compliant care tailored to complex needs.",
-                "cta_label": "FREE Quote",
+                "heading": "Support Workers in London",
+                "sub": "Vigil Care Staffing supplies vetted, DBS-checked support workers to care providers across Greater London, for planned rota gaps, ongoing cover and short-notice shifts.",
+                "cta_label": "Request Support Workers",
                 "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "image": {
                     "id": 109,
@@ -45,12 +45,9 @@
         },
         {
             "type": "prose",
-            "restored_from_source": false,
-            "editorial_review_recommended": false,
-            "broken_source_image": true,
             "fields": {
-                "heading": "Why Choose Our Support Workers?",
-                "body": "Fully trained in safeguarding, moving & handling, and communication DBS-checked and compliance-ready Available for same-day, emergency, or long-term placements Experience in care homes, supported living, and community outreach Compassionate, professional, and adaptable to complex environments"
+                "heading": "Dependable support workers for your service",
+                "body": "Support workers help people live as independently and safely as possible, assisting with daily routines, personal care, mobility, medication prompts and emotional support. Vigil Care Staffing supplies experienced support workers to care homes, supported living services and community teams across Greater London.\n\nOur support workers step in when your rota has a gap, whether that is a single shift, a block booking or longer-term cover during recruitment or absence. Every worker is matched to the setting and to the needs of the people being supported.\n\nVigil Care Staffing is a staffing supplier, not a regulated care provider. Our focus is simple: giving your service dependable, fully vetted people who are ready to work and fit your team from the first shift."
             }
         },
         {
@@ -58,16 +55,28 @@
             "fields": {
                 "items": [
                     {
-                        "title": "Personal Support",
-                        "body": "Assisting with daily living activities"
+                        "title": "Rapid placement",
+                        "body": "When a shift needs filling at short notice, we draw on a local pool of available support workers so your service stays safely staffed. Our coordinators confirm availability and arrange cover as quickly as they can."
                     },
                     {
-                        "title": "Emotional & Social Support",
-                        "body": "Building rapport and offering companionship"
+                        "title": "Fully vetted staff",
+                        "body": "Every support worker is DBS-checked, reference-verified and confirmed as eligible to work before they are put forward for a shift. Compliance is settled before anyone starts, not afterwards."
                     },
                     {
-                        "title": "Specialist Support",
-                        "body": "Managing challenging behaviour using positive behaviour support"
+                        "title": "Role-specific matching",
+                        "body": "We match support workers to the setting, whether that is supported living, learning-disability services, mental health or residential care. The right experience is placed with the right service."
+                    },
+                    {
+                        "title": "Flexible cover",
+                        "body": "Book a single shift, recurring shifts or ongoing cover across days and nights. Arrangements flex around your rota rather than the other way round."
+                    },
+                    {
+                        "title": "Continuity of care",
+                        "body": "Wherever possible we send the same familiar workers back to your service, so the people you support receive consistent care from faces they know."
+                    },
+                    {
+                        "title": "Directly employed",
+                        "body": "Our support workers are directly employed by Vigil Care Staffing, so vetting, training records and accountability sit with us throughout every placement."
                     }
                 ]
             }
@@ -75,8 +84,8 @@
         {
             "type": "text_image",
             "fields": {
-                "heading": "Who we Work With",
-                "body": "Residential Care Homes Supported Living Services Mental Health Units Learning Disability Services Local Authorities and Private Providers",
+                "heading": "Vetting and compliance you can rely on",
+                "body": "Every support worker we supply completes an enhanced DBS check, right-to-work verification and reference checks from previous care employers before their first shift. We confirm mandatory training in safeguarding, moving and handling and infection control, and keep records current through ongoing professional development.\n\nOur recruitment follows a CQC-compliant process designed to support your own safe-staffing records. Because our workers are directly employed, responsibility for their vetting and conduct stays with us throughout every placement.",
                 "image": {
                     "id": 110,
                     "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894989/vigil/care_staffing/general/qualified-healthcare-assistants-care-staffing-london.webp",
@@ -90,86 +99,42 @@
             }
         },
         {
-            "type": "service_grid",
+            "type": "faq",
             "fields": {
                 "items": [
                     {
-                        "title": "Ongoing training for all staff members",
-                        "body": "Ongoing training for all staff members"
+                        "q": "Which areas do you cover?",
+                        "a": "We supply support workers to care providers across Greater London. Tell us your location and the type of setting, and we will confirm availability in your area."
                     },
                     {
-                        "title": "Carefully chosen team of professionals",
-                        "body": "Carefully chosen team of professionals"
+                        "q": "How quickly can you fill a shift?",
+                        "a": "We hold a local pool of available support workers and respond quickly to short-notice requests. Availability depends on the role and location, and we are always clear about what we can cover."
                     },
                     {
-                        "title": "Regular reviews for continuous enhancement",
-                        "body": "Regular reviews for continuous enhancement"
+                        "q": "What vetting do your support workers have?",
+                        "a": "Each support worker is enhanced-DBS-checked, right-to-work verified and reference-checked, with mandatory training confirmed before they start."
+                    },
+                    {
+                        "q": "Can we book the same workers regularly?",
+                        "a": "Yes. Many providers use us for recurring shifts and ask for the same support workers to return, which helps continuity for the people they support."
                     }
                 ]
             }
         },
         {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Support Workers | Trusted for Care Support Workers from Vigil Care provide compassionate, skilled assistance that meets the highest standards of care."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Fully trained in safeguarding, moving & handling, and communication DBS-checked and compliance-ready Available for same-day, emergency, or long-term placements Experience in care homes, supported living, and community outreach Compassionate, professional, and adaptable to complex environments Who we Work With Residential Care Homes Supported Living Services Mental Health Units Learning Disability Services Local Authorities and Private Providers FREE Quote What our support workers can help with Personal Support: Assisting with daily living activities Meal preparation and feeding support Support with hygiene and mobility Emotional & Social Support: Building rapport and offering companionship Promoting confidence and independence Encouraging social and community inclusion Specialist Support: Managing challenging behaviour using positive behaviour support Support for mental health recovery and routine building Working with individuals with autism or complex needs What Our Clients Say We value the feedback from those we serve. \"The support worker from Vigil was a lifesaver! They were compassionate and attentive, making my daily routine so much easier. \" Name Surname Position, Company name \"Finding a reliable support worker was daunting, but Vigil made the process seamless."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "I'm so grateful for their help. \" Name Surname Position, Company name \"The support we received has been invaluable. The staff are not only qualified but genuinely care. \" Name Surname Position, Company name Get in Touch We\u2019re here to help!"
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Reach out with any questions using the details below. Your Name Last Name Phone Number Email Message Send Looking for the Right Support Worker? At Vigil Staffing, we know everyone has different needs."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Let\u2019s get you the help you need today! Get a tailored quote now Join Our Team of Dedicated Support Workers Are you passionate about making a difference in people\u2019s lives? At Vigil Staffing Solutions, we are always looking for compassionate and skilled support workers to join our dynamic team. Empower your career with training, flexibility, and a supportive work environment."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Flexible work schedules to fit your lifestyle Comprehensive training programs to enhance your skills Supportive team environment with ongoing mentorship Our Promise Explore How We Uphold Our Care Standards Ongoing training for all staff members Carefully chosen team of professionals Regular reviews for continuous enhancement Get Started"
-            }
-        },
-        {
             "type": "cta",
             "fields": {
-                "heading": "Looking for the Right Support Worker?",
-                "sub": "We offer tailored consultations to connect you with the right support worker.",
-                "cta_label": "Get a tailored quote now",
+                "heading": "Need dependable support workers for your service?",
+                "sub": "Tell us your rota gap and we will match vetted support workers to your setting across Greater London.",
+                "cta_label": "Request Support Workers",
                 "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
             }
         },
         {
             "type": "contact_form",
             "fields": {
-                "division": "staffing",
-                "heading": "Looking for the Right Support Worker?"
+                "heading": "Request support workers",
+                "division": "staffing"
             }
         }
     ],
