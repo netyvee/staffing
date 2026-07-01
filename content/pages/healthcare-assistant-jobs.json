@@ -1,142 +1,165 @@
 {
-  "schema_version": 1,
-  "site": "care_staffing",
-  "slug": "/healthcare-assistant-jobs",
-  "page_type": "recruitment",
-  "seo": {
-    "title": "Healthcare Assistant Jobs in London | Vigil Care Staffing",
-    "description": "Healthcare assistant jobs with flexibility, purpose, and growth potential. Apply for HCA, support worker, and care roles across London care homes and residential care settings.",
-    "canonical": "/healthcare-assistant-jobs",
-    "focus_keyword": "healthcare assistant jobs london",
-    "schema_type": "WebPage"
-  },
-  "brand": {
-    "bg": "#0a1628",
-    "text": "#ffffff",
-    "cta": "#4ecdc4",
-    "secondary": "#7fb2d4"
-  },
-  "nap": {
-    "phone": "020 3973 8887",
-    "email": "staffing@vigilservices.co.uk",
-    "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
-    "trading_name": "Vigil Care Staffing",
-    "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
-  },
-  "sections": [
-    {
-      "type": "hero",
-      "fields": {
-        "heading": "Careers | Healthcare Assistant Jobs",
-        "sub": "Healthcare assistant jobs with flexibility, purpose, and growth potential are available now at Vigil Care Staffing.",
-        "cta_label": "Apply here",
-        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
-      }
+    "schema_version": 1,
+    "site": "care_staffing",
+    "slug": "/healthcare-assistant-jobs",
+    "page_type": "recruitment",
+    "seo": {
+        "title": "Healthcare Assistant Jobs in London | Vigil Care Staffing",
+        "description": "Healthcare assistant jobs with flexibility, purpose, and growth potential. Apply for HCA, support worker, and care roles across London care homes and residential care settings.",
+        "canonical": "/healthcare-assistant-jobs",
+        "focus_keyword": "healthcare assistant jobs london",
+        "schema_type": "WebPage"
     },
-    {
-      "type": "text_image",
-      "fields": {
-        "heading": "Explore Rewarding Healthcare Assistant Jobs and Care Careers",
-        "body": "We offer rewarding opportunities for HCAs, support workers, and cleaners across care homes, supported living, and residential care settings. Whether you're new to care or an experienced professional, we have roles to match your skills, availability, and career goals."
-      }
+    "brand": {
+        "bg": "#0a1628",
+        "text": "#ffffff",
+        "cta": "#4ecdc4",
+        "secondary": "#7fb2d4"
     },
-    {
-      "type": "text_image",
-      "fields": {
-        "heading": "Roles We Recruit For",
-        "body": "We are currently hiring for a range of care roles including: Healthcare Assistant (HCA) Jobs Support Worker Jobs Caregiver Jobs HCA Careers in Nursing Homes and Residential Care Care Jobs with Immediate Start"
-      }
+    "nap": {
+        "phone": "020 3973 8887",
+        "email": "staffing@vigilservices.co.uk",
+        "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+        "trading_name": "Vigil Care Staffing",
+        "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
     },
-    {
-      "type": "service_grid",
-      "fields": {
-        "items": [
-          {
-            "title": "Submit Your CV",
-            "body": "Please the application form above, upload your CV and cover letter and wait to hear from us"
-          },
-          {
-            "title": "Screening & Interview",
-            "body": "Our recruitment team will contact you to discuss your experience and availability."
-          },
-          {
-            "title": "Compliance & Training",
-            "body": "We support you through background checks and mandatory training."
-          },
-          {
-            "title": "Start Your First Shift",
-            "body": "Once cleared, we match you with the right job opportunities near you."
-          }
-        ]
-      }
-    },
-    {
-      "type": "faq",
-      "fields": {
-        "items": [
-          {
-            "q": "What types of healthcare assistant jobs do you offer?",
-            "a": "We offer temporary, permanent, and flexible HCA roles in care homes, supported living, and home care settings"
-          },
-          {
-            "q": "Do you provide training for new care workers?",
-            "a": "Yes, we provide mandatory training and continuous development to support your care career"
-          },
-          {
-            "q": "What are the requirements for caregiver jobs?",
-            "a": "You must have the right to work in the UK, pass a DBS check, and ideally have some care experience or a willingness to learn."
-          },
-          {
-            "q": "Can I choose my own shifts?",
-            "a": "Yes! We offer flexible shifts to match your availability – including days, nights, and weekends."
-          },
-          {
-            "q": "How quickly can I start?",
-            "a": "Once compliance is completed, many of our applicants start working within a week."
-          }
-        ]
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "Healthcare Assistant Jobs Join Vigil Care Staffing Healthcare assistant jobs with flexibility, purpose, and growth potential are available now at Vigil Care Staffing ."
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "Apply here Explore Rewarding Healthcare Assistant Jobs and Care Careers Competitive pay rates Flexible shift patterns to suit your lifestyle Opportunities in care homes, supported living, and domiciliary care Supportive recruitment and compliance team Free training and continuous professional development Weekly pay and quick onboarding Whether you’re exploring a new career in health and social care or looking to expand your experience as an HCA, we welcome passionate, dedicated care professionals to join our team. Roles We Recruit For We are currently hiring for a range of care roles including: Healthcare Assistant (HCA) Jobs Support Worker Jobs Caregiver Jobs HCA Careers in Nursing Homes and Residential Care Care Jobs with Immediate Start How to Apply Applying for HCA jobs with Vigil Care Staffing is quick and simple: Submit Your CV Please the application form above, upload your CV and cover letter and wait to hear from us Screening & Interview Our recruitment team will contact you to discuss your experience and availability."
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "(FAQs) Frequently Asked Question (FAQs) What types of healthcare assistant jobs do you offer?"
-      }
-    },
-    {
-      "type": "cta",
-      "fields": {
-        "heading": "Apply here",
-        "sub": "Whether you're exploring a new career in health and social care or looking to expand your experience as an HCA, we welcome passionate, dedicated care professionals to join our team.",
-        "cta_label": "Apply here",
-        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
-      }
-    },
-    {
-      "type": "contact_form",
-      "fields": {
-        "division": "staffing",
-        "heading": "Apply here"
-      }
-    }
-  ],
-  "status": "draft"
+    "sections": [
+        {
+            "type": "hero",
+            "fields": {
+                "heading": "Careers | Healthcare Assistant Jobs",
+                "sub": "Healthcare assistant jobs with flexibility, purpose, and growth potential are available now at Vigil Care Staffing.",
+                "cta_label": "Apply here",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
+                "image": {
+                    "id": 95,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894813/vigil/care_staffing/hero/support-workers-working-together-hospital-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/hero/support-workers-working-together-hospital-care-staffing-london",
+                    "alt": "Healthcare Assistant Jobs in a care home setting",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/03/support-workers-working-together-hospital.webp",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "Healthcare Assistant Jobs in a care home setting"
+            }
+        },
+        {
+            "type": "prose",
+            "restored_from_source": false,
+            "editorial_review_recommended": false,
+            "broken_source_image": true,
+            "fields": {
+                "heading": "Explore Rewarding Healthcare Assistant Jobs and Care Careers",
+                "body": "We offer rewarding opportunities for HCAs, support workers, and cleaners across care homes, supported living, and residential care settings. Whether you're new to care or an experienced professional, we have roles to match your skills, availability, and career goals."
+            }
+        },
+        {
+            "type": "text_image",
+            "fields": {
+                "heading": "Roles We Recruit For",
+                "body": "We are currently hiring for a range of care roles including: Healthcare Assistant (HCA) Jobs Support Worker Jobs Caregiver Jobs HCA Careers in Nursing Homes and Residential Care Care Jobs with Immediate Start",
+                "image": {
+                    "id": 122,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782898675/vigil/care_staffing/general/senior-woman-caregiver-with-help-walking-stick-mobility-inju-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/general/senior-woman-caregiver-with-help-walking-stick-mobility-inju-care-staffing-london",
+                    "alt": "Health and social care recruitment agency supporting individuals with complex needs",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/03/senior-woman-caregiver-with-help-walking-stick-mobility-injury-healing-retirement-support-nursing-home-elderly-person-nurse-helpful-with-movement-medical-care-homecare-768x405.webp",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "Health and social care recruitment agency supporting individuals with complex needs"
+            }
+        },
+        {
+            "type": "service_grid",
+            "fields": {
+                "items": [
+                    {
+                        "title": "Submit Your CV",
+                        "body": "Please the application form above, upload your CV and cover letter and wait to hear from us"
+                    },
+                    {
+                        "title": "Screening & Interview",
+                        "body": "Our recruitment team will contact you to discuss your experience and availability."
+                    },
+                    {
+                        "title": "Compliance & Training",
+                        "body": "We support you through background checks and mandatory training."
+                    },
+                    {
+                        "title": "Start Your First Shift",
+                        "body": "Once cleared, we match you with the right job opportunities near you."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "fields": {
+                "items": [
+                    {
+                        "q": "What types of healthcare assistant jobs do you offer?",
+                        "a": "We offer temporary, permanent, and flexible HCA roles in care homes, supported living, and home care settings"
+                    },
+                    {
+                        "q": "Do you provide training for new care workers?",
+                        "a": "Yes, we provide mandatory training and continuous development to support your care career"
+                    },
+                    {
+                        "q": "What are the requirements for caregiver jobs?",
+                        "a": "You must have the right to work in the UK, pass a DBS check, and ideally have some care experience or a willingness to learn."
+                    },
+                    {
+                        "q": "Can I choose my own shifts?",
+                        "a": "Yes! We offer flexible shifts to match your availability \u2013 including days, nights, and weekends."
+                    },
+                    {
+                        "q": "How quickly can I start?",
+                        "a": "Once compliance is completed, many of our applicants start working within a week."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "Healthcare Assistant Jobs Join Vigil Care Staffing Healthcare assistant jobs with flexibility, purpose, and growth potential are available now at Vigil Care Staffing ."
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "Apply here Explore Rewarding Healthcare Assistant Jobs and Care Careers Competitive pay rates Flexible shift patterns to suit your lifestyle Opportunities in care homes, supported living, and domiciliary care Supportive recruitment and compliance team Free training and continuous professional development Weekly pay and quick onboarding Whether you\u2019re exploring a new career in health and social care or looking to expand your experience as an HCA, we welcome passionate, dedicated care professionals to join our team. Roles We Recruit For We are currently hiring for a range of care roles including: Healthcare Assistant (HCA) Jobs Support Worker Jobs Caregiver Jobs HCA Careers in Nursing Homes and Residential Care Care Jobs with Immediate Start How to Apply Applying for HCA jobs with Vigil Care Staffing is quick and simple: Submit Your CV Please the application form above, upload your CV and cover letter and wait to hear from us Screening & Interview Our recruitment team will contact you to discuss your experience and availability."
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "(FAQs) Frequently Asked Question (FAQs) What types of healthcare assistant jobs do you offer?"
+            }
+        },
+        {
+            "type": "cta",
+            "fields": {
+                "heading": "Apply here",
+                "sub": "Whether you're exploring a new career in health and social care or looking to expand your experience as an HCA, we welcome passionate, dedicated care professionals to join our team.",
+                "cta_label": "Apply here",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+            }
+        },
+        {
+            "type": "contact_form",
+            "fields": {
+                "division": "staffing",
+                "heading": "Apply here"
+            }
+        }
+    ],
+    "status": "draft"
 }
