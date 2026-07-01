@@ -28,8 +28,8 @@
             "type": "hero",
             "fields": {
                 "heading": "Care Staffing PSL Partnership",
-                "sub": "At Vigil Care Staffing, we don't just provide care staff\u2014we help your service run better. When you add us to your PSL, you get priority access to qualified staff plus free weekly planning tools built for inspections, team wellbeing, and smoother handovers.",
-                "cta_label": "Add Vigil to Your PSL",
+                "sub": "Add Vigil Care Staffing to your preferred-supplier list for priority access to vetted care-sector workers across Greater London.",
+                "cta_label": "Add Vigil to your PSL",
                 "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "image": {
                     "id": 87,
@@ -44,10 +44,10 @@
             }
         },
         {
-            "type": "text_image",
+            "type": "prose",
             "fields": {
-                "heading": "Care Staffing PSL Partnership in London",
-                "body": "No other agency offers this kind of workforce support at no extra cost. We've created real-time templates for supervision, buddying, safeguarding, and onboarding\u2014so your team stays ready, and your records do the talking.",
+                "heading": "A dependable partner on your PSL",
+                "body": "Adding Vigil Care Staffing to your preferred-supplier list gives your service priority access to vetted, directly employed care workers across Greater London. You get a dedicated point of contact, help keeping your staffing records compliant, and staffing shaped around how your service actually runs. Whether you need regular cover or reliable support at short notice, a PSL partnership keeps the right people within easy reach.",
                 "image": {
                     "id": 87,
                     "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894722/vigil/care_staffing/hero/staffing-evidence-builder-vigil-care-staffing-care-staffing-london.webp",
@@ -61,10 +61,30 @@
             }
         },
         {
-            "type": "text_image",
+            "type": "service_grid",
             "fields": {
-                "heading": "Get Started with Our Partner Toolkit",
-                "body": "Our PSL partner toolkit includes essential resources to support your work. Explore tools like: Safeguarding Readiness Checklist Buddying & Induction Logs Supervision Templates Onboarding Audit Sheets Workforce Planning Dashboards These resources are designed to streamline processes and enhance effectiveness.",
+                "items": [
+                    {
+                        "title": "Dedicated Support",
+                        "body": "A named coordinator who understands your service and manages your bookings from start to finish."
+                    },
+                    {
+                        "title": "Compliance Help",
+                        "body": "Clear vetting evidence and records that support safer staffing and help you prepare for CQC inspections."
+                    },
+                    {
+                        "title": "Custom Staffing",
+                        "body": "Workers matched to your specialisms, routines and shift patterns, rather than a generic pool."
+                    },
+                    {
+                        "title": "Free Workforce Tools",
+                        "body": "Access to practical planning tools that help you manage rotas and workforce needs more easily."
+                    },
+                    {
+                        "title": "Rapid Cover",
+                        "body": "Priority response to short-notice rota gaps so your service stays safely staffed."
+                    }
+                ],
                 "image": {
                     "id": 119,
                     "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782896397/vigil/care_staffing/general/professional-care-home-manager-representing-vigil-care-staffing-e1751149535423-650x1300-1-care-staffing-london.webp",
@@ -78,29 +98,43 @@
             }
         },
         {
-            "type": "service_grid",
+            "type": "text_image",
             "fields": {
-                "items": [
-                    {
-                        "title": "Tailored Workforce Solutions",
-                        "body": "Access a workforce that meets your specific needs, ensuring that you have the right staff in place when you need them."
-                    },
-                    {
-                        "title": "Ongoing Support",
-                        "body": "Our team provides continuous support to help you navigate staffing challenges, ensuring you're never alone."
-                    },
-                    {
-                        "title": "Quality Assurance",
-                        "body": "We prioritise quality in our staffing solutions, helping to elevate patient care standards across the board."
-                    }
-                ]
+                "heading": "How the partnership works",
+                "body": "Getting started is straightforward. We agree terms and add Vigil Care Staffing to your PSL, then take time to understand your service, your specialisms and your usual shift patterns. From there you can request cover whenever you need it, and we prioritise your bookings with vetted workers who become familiar faces over time. Throughout, we keep clear records and communicate promptly on every request.",
+                "image": {
+                    "id": 87,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894722/vigil/care_staffing/hero/staffing-evidence-builder-vigil-care-staffing-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/hero/staffing-evidence-builder-vigil-care-staffing-care-staffing-london",
+                    "alt": "Vigil Care Staffing document titled Staffing Evidence Builder with a table of 12 quick wins and manager's notes.",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/07/Staffing_-Evidence_Builder_Vigil_Care_Staffing.png",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "Vigil Care Staffing document titled Staffing Evidence Builder with a table of 12 quick wins and manager's notes."
             }
         },
         {
-            "type": "text_image",
+            "type": "faq",
             "fields": {
-                "heading": "Why Choose Vigil Care Staffing?",
-                "body": "At Vigil Care Staffing, we're more than just a service provider; we're your partners in delivering outstanding care. With our deep industry knowledge, extensive resources, and focus on quality, we make sure your facility is prepared for the ever-evolving healthcare needs.",
+                "items": [
+                    {
+                        "q": "What is a PSL partnership?",
+                        "a": "A preferred-supplier-list partnership means your service lists Vigil Care Staffing as an approved staffing supplier, giving you priority access to vetted care workers."
+                    },
+                    {
+                        "q": "Which areas does it cover?",
+                        "a": "PSL partnerships cover care providers across Greater London, including central, north, south, east and west London."
+                    },
+                    {
+                        "q": "What does it cost to join?",
+                        "a": "There is no charge to add Vigil Care Staffing to your PSL; you pay only for the cover you book."
+                    },
+                    {
+                        "q": "How are your workers vetted?",
+                        "a": "Every worker completes enhanced DBS checks, right-to-work verification and reference checks, with mandatory safeguarding and infection-control training."
+                    }
+                ],
                 "image": {
                     "id": 95,
                     "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894813/vigil/care_staffing/hero/support-workers-working-together-hospital-care-staffing-london.webp",
@@ -114,157 +148,11 @@
             }
         },
         {
-            "type": "service_grid",
-            "fields": {
-                "items": [
-                    {
-                        "title": "Dedicated Support",
-                        "body": "You'll have direct access to a dedicated account manager who knows your needs and is always ready to help."
-                    },
-                    {
-                        "title": "Compliance Help",
-                        "body": "Strategic resources aligned to CQC Single Assessment Framework"
-                    },
-                    {
-                        "title": "Custom Staffing",
-                        "body": "Pre-vetted staff matched to your ethos"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "service_grid",
-            "fields": {
-                "items": [
-                    {
-                        "title": "Supported Living",
-                        "body": "We provide compassionate support for individuals living with diverse needs, ensuring they receive tailored care in a safe environment."
-                    },
-                    {
-                        "title": "Residential Care",
-                        "body": "Our dedicated team offers a warm and inviting atmosphere for residents, fostering comfort and security while promoting independence."
-                    },
-                    {
-                        "title": "Cleaners",
-                        "body": "Our cleaning staff are fully trained in health and social care cleaning procedures, ensuring your care environment stays hygienic, safe, and compliant."
-                    },
-                    {
-                        "title": "Emergency Staffing",
-                        "body": "We offer prompt emergency staffing solutions to ensure that your care services are always adequately supported."
-                    }
-                ]
-            }
-        },
-        {
-            "type": "prose",
-            "restored_from_source": false,
-            "editorial_review_recommended": false,
-            "fields": {
-                "heading": "What our partners say",
-                "body": "Vigil Care Staffing provided exceptional support during our staffing crisis. Their quick response and professionalism made all the difference in maintaining our services."
-            }
-        },
-        {
-            "type": "faq",
-            "fields": {
-                "items": [
-                    {
-                        "q": "What is a Care Staffing PSL partnership\u2014and why should we consider one?",
-                        "a": "A PSL (Preferred Supplier List) partnership with Vigil means your service recognises us as a trusted provider of care staff. But beyond availability, it unlocks strategic benefits: weekly planning tools, audit templates, and priority access to values-aligned staff. It's not just about filling shifts\u2014it's about strengthening your workforce and inspection readiness."
-                    },
-                    {
-                        "q": "Which sectors do you support?",
-                        "a": "We primarily serve the health and social care sector across various settings, including residential care, hospices, and home care environments throughout London, specifically in boroughs like Barking, Hackney, Tower Hamlets, Newham, and Redbridge."
-                    },
-                    {
-                        "q": "What kind of staffing cover do PSL partners receive?",
-                        "a": "PSL partners receive priority access to our vetted pool of: Support Workers Healthcare Assistants Night Cover and Emergency Fill-in Staff We serve services in Barking, Hackney, Tower Hamlets, Newham, and Greater London\u2014including hospital discharge teams and supported living homes."
-                    },
-                    {
-                        "q": "What are your service rates?",
-                        "a": "Our service rates vary based on the specific requirements and urgency of your staffing needs. We offer competitive pricing tailored to your situation, ensuring you receive the best support possible. Please contact us for a detailed quote."
-                    },
-                    {
-                        "q": "How do Vigil's PSL resources support CQC Single Assessment Framework outcomes?",
-                        "a": "Each toolkit item maps directly to a CQC domain: Buddying logs support \"Safe\" (learning culture) Supervision templates support \"Effective\" (staff development) Workforce dashboards support \"Well-led\" (planning & leadership) We help you surface real evidence from routine records\u2014so inspections reflect what's already working."
-                    },
-                    {
-                        "q": "Is there a cost to join Vigil's Care Staffing PSL?",
-                        "a": "No. There's no charge for inclusion on our PSL or for access to the weekly workforce tools. We offer this as a value-added partnership because better planning supports better care\u2014and we're invested in your long-term success."
-                    }
-                ]
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Care Staffing PSL Partnership in London At Vigil Care Staffing , we don\u2019t just provide care staff\u2014we help your service run better."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Add Vigil to Your PSL Explore Toolkit Subscribe to our Weekly Newsletter Our free workforce tools help you manage staffing effectively. Add Vigil to Your PSL Partnering with Vigil means reliable staffing solutions tailored to your needs. Get dedicated support from experienced professionals. Get Started Explore Toolkit Discover our range of workforce management tools designed to assist you in optimizing your staffing processes."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "View Tools Service Overview Learn about our staffing services, including emergency shift cover and ongoing workforce support tailored to your organization's requirements. More Info Get in Touch Reach out for personalised staffing solutions. Our team is here to provide support whenever you need it. Contact Us Get Started with Our Partner Toolkit Our PSL partner toolkit includes essential resources to support your work."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Download Week 1 Checklist Join Our PSL Partnership Are you ready to elevate your care service?"
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "What our partners say Here\u2019s how we\u2019ve made a difference \u201cVigil Care Staffing provided exceptional support during our staffing crisis."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "\u201d Sarah Johnson, Care Manager Newham, London Why Choose Vigil Care Staffing?"
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Here\u2019s how we stand out: Dedicated Support You\u2019ll have direct access to a dedicated account manager who knows your needs and is always ready to help. Compliance Help Strategic resources aligned to CQC Single Assessment Framework Custom Staffing Pre-vetted staff matched to your ethos , Your Trusted Care Staffing Partner Exceptional Staffing Solutions in Your Borough Supported Living We provide compassionate support for individuals living with diverse needs, ensuring they receive tailored care in a safe environment. Learn More Residential Care Our dedicated team offers a warm and inviting atmosphere for residents, fostering comfort and security while promoting independence. Find Out Cleaners Our cleaning staff are fully trained in health and social care cleaning procedures, ensuring your care environment stays hygienic, safe, and compliant."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Get Support Emergency Staffing We offer prompt emergency staffing solutions to ensure that your care services are always adequately supported. Contact Us FAQ What is a Care Staffing PSL partnership\u2014and why should we consider one?"
-            }
-        },
-        {
             "type": "cta",
             "fields": {
-                "heading": "Join Our PSL Partnership",
-                "sub": "Are you ready to elevate your care service? At Vigil Care Staffing, we welcome you to join our PSL partnership. Gain access to top-notch staffing tools, dedicated support, and a flow of qualified professionals tailored to your needs.",
-                "cta_label": "Add Vigil to Your PSL",
+                "heading": "Ready to add Vigil to your PSL?",
+                "sub": "Start a partnership and get priority access to vetted care staff across Greater London.",
+                "cta_label": "Add Vigil to your PSL",
                 "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
             }
         },
@@ -272,7 +160,8 @@
             "type": "contact_form",
             "fields": {
                 "division": "staffing",
-                "heading": "Add Vigil to Your PSL"
+                "heading": "Start your PSL partnership",
+                "enquiry_type": "psl"
             }
         }
     ],
