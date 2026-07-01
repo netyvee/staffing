@@ -72,7 +72,9 @@
       }
     },
     {
-      "type": "text_image",
+      "type": "prose",
+      "restored_from_source": false,
+      "editorial_review_recommended": false,
       "fields": {
         "heading": "Step-by-Step: Preparing Your Evidence",
         "body": "Inventory policies, rotas, actuals, supervision logs, spot-checks, training, audits, outcomes. Align each item to a quality statement; retire duplicates; fill gaps. Prove impact — link staffing changes to outcomes (falls ↓, missed calls ↓, continuity ↑). Portal check — confirm what's live on the provider portal and who owns submissions. Rehearse your CQC compliance and staffing narrative: how you decide safe numbers, assure competence and act on risk."

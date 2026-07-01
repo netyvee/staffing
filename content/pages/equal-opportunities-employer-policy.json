@@ -57,7 +57,9 @@
       }
     },
     {
-      "type": "text_image",
+      "type": "prose",
+      "restored_from_source": false,
+      "editorial_review_recommended": false,
       "fields": {
         "heading": "Reporting Discrimination or Harassment:",
         "body": "Vigil Services Ltd. is committed to promptly addressing any concerns related to discrimination or harassment. We have established clear reporting mechanisms, and employees are encouraged to come forward with any issues, which will be treated with confidentiality and sensitivity."
@@ -83,7 +85,9 @@
       }
     },
     {
-      "type": "text_image",
+      "type": "prose",
+      "restored_from_source": false,
+      "editorial_review_recommended": false,
       "fields": {
         "heading": "Review and Updates:",
         "body": "This Equal Opportunities Employer statement is reviewed regularly to ensure its continued relevance and effectiveness. Updates will be communicated to all employees."

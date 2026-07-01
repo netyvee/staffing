@@ -116,7 +116,9 @@
       }
     },
     {
-      "type": "text_image",
+      "type": "prose",
+      "restored_from_source": false,
+      "editorial_review_recommended": false,
       "fields": {
         "heading": "What our partners say",
         "body": "Vigil Care Staffing provided exceptional support during our staffing crisis. Their quick response and professionalism made all the difference in maintaining our services."

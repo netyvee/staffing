@@ -34,14 +34,18 @@
       }
     },
     {
-      "type": "text_image",
+      "type": "prose",
+      "restored_from_source": false,
+      "editorial_review_recommended": false,
       "fields": {
         "heading": "\"Trained\" vs. \"Capable\"",
         "body": "In the care sector, being \"Trained\" is a binary metric, whereas being \"Capable\" is a performance metric. Your ability to track, review, and reflect on this capability is what differentiates high-performing services."
       }
     },
     {
-      "type": "text_image",
+      "type": "prose",
+      "restored_from_source": false,
+      "editorial_review_recommended": false,
       "fields": {
         "heading": "Mapping Care Home CPD to CQC Quality Statements",
         "body": "Under the CQC Single Assessment Framework , the bar for \"Trained\" has moved. Inspectors no longer look for certificates alone; they seek tangible proof of impact on care ."

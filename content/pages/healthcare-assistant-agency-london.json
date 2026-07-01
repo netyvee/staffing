@@ -72,7 +72,9 @@
       }
     },
     {
-      "type": "text_image",
+      "type": "prose",
+      "restored_from_source": false,
+      "editorial_review_recommended": false,
       "fields": {
         "heading": "Local Knowledge and Rapid Cover",
         "body": "At Vigil Care, being a Healthcare Assistant Agency in London means having feet on the ground. Our borough-level staffing model enables lightning-fast response times and hyper-local understanding of your facility's rhythms. Whether your care home requires last-minute cover or your clinic is expanding capacity, our system locates available, vetted professionals nearest to your site—reducing transit time, increasing retention, and improving reliability."

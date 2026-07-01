@@ -41,7 +41,9 @@
       }
     },
     {
-      "type": "text_image",
+      "type": "prose",
+      "restored_from_source": false,
+      "editorial_review_recommended": false,
       "fields": {
         "heading": "Why Residential Care Staffing in Havering is Shifting",
         "body": "The London Borough of Havering is home to one of the highest concentrations of residential care facilities in the capital. However, as we move through the second quarter of 2026, two local factors are creating a \"staffing vacuum\": The \"Signature\" Effect: With the high-profile opening of Signature at Hornchurch in June 2026, many established homes in RM11 and RM12 are seeing staff migration toward newer, luxury facilities."

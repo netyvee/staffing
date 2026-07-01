@@ -34,56 +34,72 @@
       }
     },
     {
-      "type": "text_image",
+      "type": "prose",
+      "restored_from_source": false,
+      "editorial_review_recommended": false,
       "fields": {
         "heading": "Health and Well-being",
         "body": "In this section you will find links to maintaining a healthy, balanced diet, managing stress and anxiety and exercises for keeping fit."
       }
     },
     {
-      "type": "text_image",
+      "type": "prose",
+      "restored_from_source": false,
+      "editorial_review_recommended": false,
       "fields": {
         "heading": "Mental Well-being",
         "body": "The links in this section will guide you in looking after your mental health."
       }
     },
     {
-      "type": "text_image",
+      "type": "prose",
+      "restored_from_source": false,
+      "editorial_review_recommended": false,
       "fields": {
         "heading": "Finance",
         "body": "Here you will find links to advice and guidance on managing your finances, debt and benefits you may be entitled too."
       }
     },
     {
-      "type": "text_image",
+      "type": "prose",
+      "restored_from_source": false,
+      "editorial_review_recommended": false,
       "fields": {
         "heading": "Literacy and Numeracy",
         "body": "In this section you will find links to support you with literacy and numeracy."
       }
     },
     {
-      "type": "text_image",
+      "type": "prose",
+      "restored_from_source": false,
+      "editorial_review_recommended": false,
       "fields": {
         "heading": "HR (Human Resources)",
         "body": "Below are website links that will support you with any HR issues such as, pay and conditions, holiday entitlement, conflict resolution and disciplinaries."
       }
     },
     {
-      "type": "text_image",
+      "type": "prose",
+      "restored_from_source": false,
+      "editorial_review_recommended": false,
       "fields": {
         "heading": "Information Technology",
         "body": "The website links below will provide you with support on information technology and developing your skills."
       }
     },
     {
-      "type": "text_image",
+      "type": "prose",
+      "restored_from_source": false,
+      "editorial_review_recommended": false,
       "fields": {
         "heading": "Childcare",
         "body": "Here you will find information and guidance on different support available for childcare."
       }
     },
     {
-      "type": "text_image",
+      "type": "prose",
+      "restored_from_source": false,
+      "editorial_review_recommended": false,
       "fields": {
         "heading": "Support Groups and Pages",
         "body": "In the last section you will find links to different support groups and networks on a range of different areas as detailed below."
