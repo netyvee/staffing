@@ -28,8 +28,8 @@
             "type": "hero",
             "fields": {
                 "heading": "Temporary Care Staffing Agency in Hackney",
-                "sub": "Temporary Care Staffing Agency in Hackney \u2013 Vigil Care Staffing is your dependable partner for flexible, CQC-compliant staffing solutions across the borough.",
-                "cta_label": "Get a Quote",
+                "sub": "Vigil Care Staffing supplies vetted, DBS-checked healthcare assistants, support workers and night-shift cover to care providers across Hackney and east London.",
+                "cta_label": "Request Care Staff Today",
                 "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "image": {
                     "id": 113,
@@ -44,17 +44,37 @@
             }
         },
         {
-            "type": "borough_block",
+            "type": "prose",
             "fields": {
-                "borough": "Hackney",
-                "body": "Whether you need a single shift covered at short notice or a team to support ongoing care needs, our service ensures your residents receive consistent, high-quality care."
+                "heading": "Flexible temporary care staffing for Hackney",
+                "body": "Hackney runs from Dalston and Stoke Newington across to Homerton, Clapton and Hackney Wick, and its residential homes, nursing homes and supported living schemes need staffing they can count on. When a shift falls short at short notice, Vigil Care Staffing supplies vetted care-sector workers who can step in and keep care steady. We place healthcare assistants, support workers and healthcare cleaners with care providers across the borough.\n\nAs a temporary care-staffing agency, our role is to fill rota gaps reliably rather than to run regulated care ourselves. Every worker we supply to a Hackney provider is directly employed, DBS-checked and matched to the setting and shift you need covered. Hackney is part of our wider coverage across Greater London, so cover for a home in Stoke Newington or Homerton draws on a responsive local network."
             }
         },
         {
-            "type": "text_image",
+            "type": "service_grid",
             "fields": {
-                "heading": "Why Choose Vigil Care Staffing in Hackney",
-                "body": "In Hackney's fast-paced health and social care sector, staffing gaps can quickly impact the quality of care. We specialise in temporary care staffing that meets the highest CQC standards, ensuring you have access to:",
+                "items": [
+                    {
+                        "title": "Rapid response times",
+                        "body": "Rota gaps in Hackney rarely wait, so we respond quickly to short-notice and same-day requests and place a suitable worker as soon as we can confirm availability."
+                    },
+                    {
+                        "title": "Local Hackney knowledge",
+                        "body": "We understand the mix of care settings across Hackney, from nursing homes near Homerton to supported living in Dalston and Clapton, and match staff who can reach your site reliably."
+                    },
+                    {
+                        "title": "Continuity of care",
+                        "body": "For Hackney homes that need the same faces on repeat shifts, we aim to send workers who already know your residents and routines, supporting smoother handovers and steadier days."
+                    },
+                    {
+                        "title": "Specialist matching",
+                        "body": "We match each Hackney request to a worker with the right experience, whether that is dementia support, learning-disability care or general healthcare assistant duties."
+                    },
+                    {
+                        "title": "Compliance-conscious vetting",
+                        "body": "Every worker supplied to a Hackney provider is DBS-checked, right-to-work verified and referenced before their first shift, following a CQC-aligned process that supports your own staffing records."
+                    }
+                ],
                 "image": {
                     "id": 114,
                     "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782895035/vigil/care_staffing/general/temporary-care-staffing-agency-hackney-care-staffing-london.webp",
@@ -68,30 +88,20 @@
             }
         },
         {
-            "type": "service_grid",
+            "type": "text_image",
             "fields": {
-                "items": [
-                    {
-                        "title": "CQC-Compliant Service",
-                        "body": "We understand the compliance requirements of the Care Quality Commission and ensure all placements meet regulatory standards."
-                    },
-                    {
-                        "title": "Flexible Contracts",
-                        "body": "Options for single shifts, ongoing placements, or emergency relief."
-                    },
-                    {
-                        "title": "Specialist Matching",
-                        "body": "We pair staff with facilities based on experience, training, and cultural fit."
-                    },
-                    {
-                        "title": "Reduced Admin Burden",
-                        "body": "We handle vetting, scheduling, and payroll so you can focus on care delivery."
-                    },
-                    {
-                        "title": "Local Knowledge",
-                        "body": "In-depth understanding of Hackney's healthcare landscape and its diverse community needs."
-                    }
-                ]
+                "heading": "Care staffing across Hackney and surrounding areas",
+                "body": "Our coverage spans the whole of Hackney, including Dalston, Stoke Newington, Homerton, Clapton, Hackney Wick, Hoxton and Shoreditch. Because Hackney sits within our broader Greater London network, we can draw on nearby workers when a borough rota tightens at short notice. From residential and nursing homes to supported living schemes, rehabilitation centres and community services, we supply the care-sector staff Hackney providers need close to where they are needed.",
+                "image": {
+                    "id": 114,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782895035/vigil/care_staffing/general/temporary-care-staffing-agency-hackney-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/general/temporary-care-staffing-agency-hackney-care-staffing-london",
+                    "alt": "Temporary Care Staffing Agency in Hackney providing support workers",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/08/temporary-care-staffing-agency-hackney.jpg",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "Temporary Care Staffing Agency in Hackney providing support workers"
             }
         },
         {
@@ -99,90 +109,30 @@
             "fields": {
                 "items": [
                     {
-                        "q": "How quickly can you provide staff in Hackney?",
-                        "a": "We can often deploy vetted staff within 2\u20134 hours of your request."
+                        "q": "Do you cover the whole of Hackney?",
+                        "a": "Yes. We supply care staff across Hackney, including Dalston, Stoke Newington, Homerton, Clapton and Hackney Wick, as part of our wider coverage across Greater London."
                     },
                     {
-                        "q": "Do you provide live-in carers in Hackney?",
-                        "a": "Yes. We supply experienced live-in carers for short-term or ongoing assignments."
+                        "q": "How quickly can you fill a shift in Hackney?",
+                        "a": "We prioritise short-notice and same-day requests and place a suitable worker as soon as we can confirm availability. Contacting us early gives us the best chance of covering your Hackney shift."
                     },
                     {
-                        "q": "Are your staff trained in specialist care needs?",
-                        "a": "Absolutely. Our team includes staff with dementia care, end-of-life care, and learning disability experience."
+                        "q": "What roles can you supply in Hackney?",
+                        "a": "We supply healthcare assistants, support workers and healthcare cleaners for care homes, nursing homes, supported living schemes, rehabilitation centres and community services across Hackney."
                     },
                     {
-                        "q": "Can you cover night shifts?",
-                        "a": "Yes, we provide reliable night shift care staff across Hackney."
-                    },
-                    {
-                        "q": "Do you supply staff to private clients as well as care homes?",
-                        "a": "Yes. We cater to both private home care clients and residential facilities."
+                        "q": "Do you offer temporary and permanent care staff?",
+                        "a": "Yes. We specialise in short-notice temporary cover for Hackney rota gaps and can also arrange longer placements when a provider needs ongoing support."
                     }
                 ]
             }
         },
         {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Whether you require healthcare assistants, support workers, live-in carers, night-shift staff, emergency cover, or short-term care professionals, our team provides experienced, fully vetted staff ready to support your needs at a moment\u2019s notice. Get a Quote Your Trusted Partner for Reliable, Compliant, and Compassionate Care Staffing in Hackney Temporary Care Staffing Agency in Hackney \u2013 Vigil Care Staffing provides rapid, dependable, and fully vetted care staff for care homes, supported living facilities, private clients, and the NHS across Hackney and its surrounding areas."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "We specialise in temporary care staffing that meets the highest CQC standards, ensuring you have access to: Fully Vetted Staff All candidates undergo enhanced DBS checks, reference verification, and competency assessments. Role-Specific Expertise From Healthcare Assistants (HCAs) and Support Workers to Live-in Carers, Night Shift Staff, and Emergency Cover. Rapid Response Times We can fill urgent shifts within hours, covering Hackney and nearby areas such as Dalston, Stoke Newington, Homerton, Shoreditch, Clapton, and Hoxton. 24/7 Availability Our dedicated team is on call around the clock to handle last-minute requests."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Benefits of Working with Vigil Care Staffing 1 CQC-Compliant Service We understand the compliance requirements of the Care Quality Commission and ensure all placements meet regulatory standards. 2 Flexible Contracts Options for single shifts, ongoing placements, or emergency relief. 3 Specialist Matching We pair staff with facilities based on experience, training, and cultural fit. 4 Reduced Admin Burden We handle vetting, scheduling, and payroll so you can focus on care delivery."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "5 Local Knowledge In-depth understanding of Hackney\u2019s healthcare landscape and its diverse community needs. Borough-Level Coverage and Rapid Response Our Temporary Care Staffing Agency in Hackney serves the entire borough, including: Dalston Stoke Newington Homerton Shoreditch Clapton Hoxton Hackney Central Hackney Wick London Fields De Beauvoir Town Facilities We Serve in Hackney We supply staff to a wide range of care environments: Residential Care Homes Nursing Homes Supported Living Schemes Private Home Care Assignments Rehabilitation Centres NHS Facilities and Clinics Our Vetting & Compliance Process We maintain the highest recruitment standards: Pre-screening Verification of identity, right to work in the UK, and professional history. Enhanced DBS Checks Ensuring safeguarding suitability. Reference Verification Professional references from previous employers in care."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Competency Testing Assessments tailored to each role. Induction & Training Including safeguarding, infection control, manual handling, and basic life support. Read More About Vetting Process Hackney Case Study Client: A large care home in Stoke Newington Challenge Multiple staff absences due to illness and annual leave, risking breach of care ratios. Solution Within 3 hours, Vigil Care Staffing deployed three experienced Healthcare Assistants and one Night Support Worker."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Outcome Shift cover ensured uninterrupted resident care, compliance with staffing requirements, and relief for the existing team. \u201cVigil Care Staffing are a lifesaver. Their quick response and the professionalism of their staff mean we can always trust them to deliver. \u201d \u2013 Registered Manager, Stoke Newington (FAQs) Frequently Asked Question (FAQs) How quickly can you provide staff in Hackney?"
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Request Staff Online Call Now Email Now"
-            }
-        },
-        {
             "type": "cta",
             "fields": {
-                "heading": "Request Temporary Care Staff in Hackney",
-                "sub": "For rapid, reliable, and compliant staffing solutions in Hackney, contact Vigil Care Staffing today.",
-                "cta_label": "Request Staff Online",
+                "heading": "Need temporary care staff in Hackney?",
+                "sub": "Tell us the role, shift and setting, and we will work to supply vetted cover for your Hackney service.",
+                "cta_label": "Request Care Staff Today",
                 "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
             }
         },
@@ -190,7 +140,7 @@
             "type": "contact_form",
             "fields": {
                 "division": "staffing",
-                "heading": "Request Temporary Care Staff in Hackney"
+                "heading": "Request temporary care staff in Hackney"
             }
         }
     ],
