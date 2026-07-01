@@ -27,9 +27,9 @@
         {
             "type": "hero",
             "fields": {
-                "heading": "Home",
-                "sub": "Vigil Care connects care providers with fully vetted, compliant professionals\u2014from compassionate Healthcare Assistants, experienced Support Workers, and infection-control-trained Cleaners.",
-                "cta_label": "Request Staff Today",
+                "heading": "Healthcare Staffing Agency in London",
+                "sub": "Vigil Care Staffing supplies fully vetted healthcare assistants, support workers, and healthcare cleaners to care providers across Greater London.",
+                "cta_label": "Request Staff",
                 "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "image": {
                     "id": 81,
@@ -44,64 +44,55 @@
             }
         },
         {
+            "type": "prose",
+            "fields": {
+                "heading": "A healthcare staffing agency for London care providers",
+                "body": "Vigil Care Staffing is a healthcare staffing agency supplying vetted care-sector workers to providers across Greater London. When you need to fill a rota gap safely and quickly, we connect you with people who are checked, referenced, and ready to work. We work with residential and nursing homes, supported living services, and other care providers, supplying healthcare assistants, support workers, and healthcare cleaners for temporary, short-notice, and ongoing cover. Vigil Care Staffing supplies workers only and does not operate regulated care services. That focus means our whole process is built around finding you dependable staff and responding promptly when you get in touch."
+            }
+        },
+        {
             "type": "service_grid",
             "fields": {
                 "items": [
                     {
                         "title": "Healthcare Assistants (HCAs)",
-                        "body": "fully-trained HCAs for elderly care, dementia care, personal care, mobility support, medication prompting, companionship, end-of-life care and hospital settings."
+                        "body": "Vetted HCAs to support daily living, mobility, and personal care in care homes, supported living, and other care settings across Greater London."
                     },
                     {
                         "title": "Support Workers",
-                        "body": "Specialist support workers for mental health, disability care, promoting independence and emotional wellbeing."
+                        "body": "Experienced support workers who help people live well day to day, matched to the needs of your service."
                     },
                     {
-                        "title": "Cleaners",
-                        "body": "Deep-cleaning Infection control specialists for healthcare environments trained to maintain hygiene standards in residential care, nursing homes, and supported living environments"
+                        "title": "Healthcare Cleaners",
+                        "body": "Cleaners trained to healthcare cleaning standards for care homes, clinics, and supported living, helping maintain safe, hygienic environments."
+                    },
+                    {
+                        "title": "Short-Notice Cover",
+                        "body": "When a shift falls through, we work quickly to supply a suitable vetted worker so your rota stays covered."
+                    },
+                    {
+                        "title": "Temporary and Ongoing Placements",
+                        "body": "Book a single shift, block cover, or longer arrangements while you recruit, with support that flexes around your needs."
+                    },
+                    {
+                        "title": "Responsive Communication",
+                        "body": "We follow up promptly on staffing requests and keep you informed throughout, so you always know where a booking stands."
                     }
                 ]
             }
         },
         {
-            "type": "service_grid",
+            "type": "prose",
             "fields": {
-                "items": [
-                    {
-                        "title": "Personalised support",
-                        "body": "Personalised support, responsive 24/7 availability"
-                    },
-                    {
-                        "title": "Staff provision",
-                        "body": "Staff provision for care homes, nursing homes, and supported living facilities"
-                    },
-                    {
-                        "title": "CQC & NHS-Compliant",
-                        "body": "CQC & NHS-Compliant \u2013 Meets UK healthcare standards"
-                    }
-                ]
+                "heading": "How our healthcare staffing works",
+                "body": "Getting cover in place is straightforward. You share the role, setting, and dates you need to fill, and we match a suitable worker from our vetted Greater London pool. We confirm the details with you, brief the worker on your requirements, and stay in contact through the placement. If a short-term booking turns into a longer need, we can extend it and, where possible, keep the same worker for continuity."
             }
         },
         {
-            "type": "service_grid",
+            "type": "prose",
             "fields": {
-                "items": [
-                    {
-                        "title": "Tell Us Your Requirements",
-                        "body": "Submit your care staffing needs online or by phone"
-                    },
-                    {
-                        "title": "We Match You with Staff",
-                        "body": "Based on your needs, location, and timing"
-                    },
-                    {
-                        "title": "Receive Quality Cover",
-                        "body": "With our responsive team and pool of trained staff"
-                    },
-                    {
-                        "title": "Ongoing Support",
-                        "body": "We're here when you need additional or repeat cover, even at short notice"
-                    }
-                ]
+                "heading": "Our vetting and compliance standards",
+                "body": "Every worker we supply is DBS-checked, right-to-work verified, and referenced before placement. We assess relevant skills for the role and, because our workers are directly employed, we keep their training and documentation up to date. Our recruitment follows a CQC-compliant process. We supply staff rather than deliver regulated care, so our attention stays firmly on the quality and reliability of the people we place with you."
             }
         },
         {
@@ -109,102 +100,42 @@
             "fields": {
                 "items": [
                     {
-                        "q": "What roles does your healthcare staffing agency supply?",
-                        "a": "We supply Healthcare Assistants, Support Workers, and Cleaners to care homes, nursing homes, and supported living settings."
+                        "q": "What types of care workers do you supply?",
+                        "a": "We supply healthcare assistants, support workers, and healthcare cleaners to care providers across Greater London, for temporary, short-notice, and ongoing cover."
                     },
                     {
-                        "q": "Can you provide emergency or same-day staffing?",
-                        "a": "Yes. Our healthcare staffing agency is equipped to provide same-day or next-day staff, depending on availability."
+                        "q": "How do I request staff?",
+                        "a": "You can share the role, setting, and dates you need to fill, and we will match a suitable vetted worker and confirm the details with you."
                     },
                     {
-                        "q": "Are your staff vetted and trained?",
-                        "a": "Absolutely. All professionals go through background checks, are DBS-certified, and complete mandatory training."
+                        "q": "Are all your workers vetted?",
+                        "a": "Yes. Every worker is DBS-checked, right-to-work verified, and referenced before placement, with relevant skills assessed for the role."
                     },
                     {
-                        "q": "How quickly can you provide cover?",
-                        "a": "We can often fulfil requests within hours. Our agency is known for speed, reliability, and consistency."
+                        "q": "Do you operate care services yourselves?",
+                        "a": "No. Vigil Care Staffing supplies vetted care-sector workers to providers. We are not a regulated care provider and are not CQC-registered."
+                    },
+                    {
+                        "q": "What areas do you cover?",
+                        "a": "We supply care-sector workers to providers across Greater London."
                     }
                 ]
             }
         },
         {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Healthcare Staffing Agency UK Trusted Healthcare Assistants, Support Workers & Cleaners Get a Free Quote What type of enquiry are you making today? This form is for employers only. Jobseekers should apply via our Jobs Page."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "I am a business looking for staff I am looking for a job Response \u26a0\ufe0f This form is for clients only. If you're looking for work, please apply here . Location * Name * Phone * Email Address * Services Required * Select required staff Healthcare Assistants Support Workers Cleaners Any further information Response To ensure we meet your specific needs, we\u2019d like to provide a personalised quote tailored just for you. Please submit the form, and one of our specialists will be in touch shortly Response \u26a0\ufe0f This form is for clients only."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "About us Vigil Staffing Agency As a trusted Healthcare Staffing Agency UK, Vigil Care connects care providers with fully vetted, compliant professionals\u2014from compassionate Healthcare Assistants, experienced Support Workers, and infection-control-trained Cleaners."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Request Staff Today Why Choose Our Healthcare Staffing Agency UK Services?"
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Personalised support, responsive 24/7 availability Staff provision for care homes, nursing homes, and supported living facilities CQC & NHS-Compliant \u2013 Meets UK healthcare standards FREE Quote Healthcare Assistants (HCAs) Our Healthcare Staffing Agency UK provides fully-trained HCAs for elderly care, dementia care, personal care, mobility support, medication prompting, companionship, end-of-life care and hospital settings."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "FREE Quote Get the Best Healthcare Staffing Solutions Today!"
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Let Vigil Care Staffing provide you with skilled and reliable staff to enhance your care facility\u2019s operations! Call Us 020 3973 8887 Email us staffing@vigilservices."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "uk Location Ferguson House 113 Cranbrook Road, Ilford, IG1 4PU"
-            }
-        },
-        {
             "type": "cta",
             "fields": {
-                "heading": "Get the Best Healthcare Staffing Solutions Today!",
-                "sub": "Whether you need emergency cover or long-term support, we deliver fast, simple staffing solutions with rigorous safety checks.",
-                "cta_label": "Request Healthcare Staff!!",
+                "heading": "Need dependable care staff in London?",
+                "sub": "Tell us what you need and we will match vetted workers to your rota.",
+                "cta_label": "Request Staff",
                 "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
             }
         },
         {
             "type": "contact_form",
             "fields": {
-                "division": "staffing",
-                "heading": "Get the Best Healthcare Staffing Solutions Today!"
+                "heading": "Request healthcare staff",
+                "division": "staffing"
             }
         }
     ],
