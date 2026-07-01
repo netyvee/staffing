@@ -28,33 +28,53 @@
             "type": "hero",
             "fields": {
                 "heading": "Care Staffing Agency in Camden",
-                "sub": "Vigil Care Staffing is your trusted partner for reliable, CQC-compliant staffing solutions across the borough. Whether you need healthcare assistants, support workers, live-in carers, night-shift care staff, emergency care cover, or temporary care staff, our team delivers experienced, vetted professionals who are ready to step in when you need them most.",
-                "cta_label": "Get a Quote",
+                "sub": "Vigil Care Staffing supplies vetted healthcare assistants, support workers, live-in carers, night-shift staff, and short-notice cover across Camden.",
+                "cta_label": "Request Care Staff Today",
                 "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "image": {
                     "id": 77,
                     "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894602/vigil/care_staffing/hero/portrait-happy-young-woman-volunteer-blue-uniform-smiling-camera-while-standing-with-arms-scaled-1024x683-care-staffing-london.webp",
                     "public_id": "vigil/care_staffing/hero/portrait-happy-young-woman-volunteer-blue-uniform-smiling-camera-while-standing-with-arms-scaled-1024x683-care-staffing-london",
-                    "alt": "Smiling woman in a blue T-shirt with a lanyard stands with arms folded as colleagues pack donation boxes behind her.",
+                    "alt": "Smiling woman in a blue T-shirt with a lanyard stands with arms folded as colleagues pack boxes behind her.",
                     "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/03/portrait-happy-young-woman-volunteer-blue-uniform-smiling-camera-while-standing-with-arms-scaled-1024x683.jpg",
                     "source": "wp_migration",
                     "status": "mapped"
                 },
-                "image_alt": "Smiling woman in a blue T-shirt with a lanyard stands with arms folded as colleagues pack donation boxes behind her."
+                "image_alt": "Smiling woman in a blue T-shirt with a lanyard stands with arms folded as colleagues pack boxes behind her."
             }
         },
         {
-            "type": "borough_block",
+            "type": "prose",
             "fields": {
-                "borough": "Camden",
-                "body": "From Camden Town to Kentish Town, Hampstead, Chalk Farm, Swiss Cottage, Gospel Oak, and King's Cross, we provide rapid response staffing that keeps your care services running smoothly, even during peak demand or unexpected absences."
+                "heading": "Care staffing in Camden",
+                "body": "Camden spans a wide range of care settings, from residential and nursing homes to supported living, learning disability services, and mental health support across Camden Town, Hampstead, Kentish Town, Swiss Cottage, Gospel Oak, and King's Cross. Managers in these services need cover they can rely on at short notice, delivered by people who have been properly checked. Vigil Care Staffing supplies vetted care-sector workers to fill rota gaps reliably for providers throughout the borough. We are a staffing agency, not a regulated care provider, so our role is to place the right, fully vetted worker on your shift. Every healthcare assistant, support worker, and live-in carer we supply is DBS-checked and referenced before they start, and our Camden work is part of our wider coverage across Greater London."
             }
         },
         {
-            "type": "text_image",
+            "type": "service_grid",
             "fields": {
-                "heading": "Why Choose Vigil Care Staffing for Care Services in Camden",
-                "body": "When staffing gaps appear\u2014whether due to sickness, annual leave, or increased demand\u2014you need a temporary care staffing agency that understands the urgency and stakes involved. Vigil Care Staffing combines speed with rigorous compliance so you can maintain high-quality care without disruption.",
+                "items": [
+                    {
+                        "title": "Rapid response times",
+                        "body": "When a nursing home in Kentish Town or a supported living service near King's Cross needs urgent cover, we move quickly to place a suitable worker, often the same day."
+                    },
+                    {
+                        "title": "Local knowledge",
+                        "body": "Our coordinators understand the mix of residential homes, mental health support, and learning disability services across Camden Town, Hampstead, and Swiss Cottage."
+                    },
+                    {
+                        "title": "Continuity of care",
+                        "body": "For ongoing bookings we return the same familiar workers where we can, helping residents and teams across Camden keep consistent, trusted support."
+                    },
+                    {
+                        "title": "Specialist matching",
+                        "body": "We match workers to the role you need, from elderly and dementia care to mental health and complex support, drawing on a broad pool suited to Camden services."
+                    },
+                    {
+                        "title": "Compliance-conscious vetting",
+                        "body": "Every worker we supply in the borough is DBS-checked, right-to-work verified, and referenced through a CQC-aligned recruitment process before their first shift."
+                    }
+                ],
                 "image": {
                     "id": 78,
                     "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894616/vigil/care_staffing/general/care-staffing-agency-in-camden-care-staffing-london.webp",
@@ -68,30 +88,20 @@
             }
         },
         {
-            "type": "service_grid",
+            "type": "text_image",
             "fields": {
-                "items": [
-                    {
-                        "title": "Seamless staffing",
-                        "body": "Avoid last-minute panic with a dedicated account manager who understands your specific care needs."
-                    },
-                    {
-                        "title": "Cost-effective solutions",
-                        "body": "We help you manage overtime costs and avoid burnout in your permanent staff."
-                    },
-                    {
-                        "title": "High staff retention",
-                        "body": "Our temporary professionals are treated with respect, well-trained, and motivated to deliver consistent care."
-                    },
-                    {
-                        "title": "Broad skill coverage",
-                        "body": "From dementia support to palliative care, we match staff with the right skills to your service users' needs."
-                    },
-                    {
-                        "title": "24/7 availability",
-                        "body": "Our booking team is on call day and night, so you're never without support."
-                    }
-                ]
+                "heading": "Care staffing across Camden and surrounding areas",
+                "body": "We support residential and nursing care homes, supported living and learning disability services, mental health support, day centres, and private live-in arrangements throughout Camden, from Camden Town and Kentish Town to Hampstead, Gospel Oak, and King's Cross. Because the borough sits within our wider Greater London coverage, we can draw on nearby workers when demand rises, keeping travel short and arrival dependable. Our coordination team stays in close contact and follows up promptly on every staffing query, whether you are covering planned leave or an unexpected night-shift gap.",
+                "image": {
+                    "id": 78,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894616/vigil/care_staffing/general/care-staffing-agency-in-camden-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/general/care-staffing-agency-in-camden-care-staffing-london",
+                    "alt": "Care Staffing Agency in Camden providing healthcare assistants",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/08/care-staffing-agency-in-camden.jpg",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "Care Staffing Agency in Camden providing healthcare assistants"
             }
         },
         {
@@ -99,98 +109,30 @@
             "fields": {
                 "items": [
                     {
-                        "q": "How quickly can you provide care staff in Camden?",
-                        "a": "We can often fill urgent requests within hours, thanks to our network of vetted, local professionals ready to step in."
+                        "q": "Do you cover the whole of Camden?",
+                        "a": "Yes. We supply care-sector workers across Camden, including Camden Town, Hampstead, Kentish Town, Swiss Cottage, Gospel Oak, and King's Cross, as part of our coverage across Greater London."
                     },
                     {
-                        "q": "Do you supply live-in carers in Camden?",
-                        "a": "Yes \u2013 our live-in carers provide full-time support for individuals who require continuous assistance at home."
+                        "q": "How quickly can you supply care staff in Camden?",
+                        "a": "We provide cover at short notice, often the same day for urgent gaps. Sharing the shift details and role early helps us place the most suitable worker."
                     },
                     {
-                        "q": "What qualifications do your healthcare assistants have?",
-                        "a": "All HCAs have undergone mandatory training, enhanced DBS checks, and skills assessments tailored to their role."
+                        "q": "What roles can you supply?",
+                        "a": "We supply healthcare assistants, support workers, live-in carers, night-shift staff, and short-notice cover for residential, nursing, supported living, and mental health settings in Camden."
                     },
                     {
-                        "q": "Can you supply night-shift care staff?",
-                        "a": "Absolutely. We provide night cover for residential homes, supported living schemes, and private care clients."
-                    },
-                    {
-                        "q": "How do I request staff?",
-                        "a": "You can request a quote here or call our booking team directly for urgent requirements."
+                        "q": "Do you offer both temporary and longer-term cover?",
+                        "a": "Yes. We handle single shifts, planned rota gaps, and longer assignments, and we aim to return the same familiar workers to your service for continuity."
                     }
                 ]
             }
         },
         {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Care Staffing Agency in Camden Care Staffing Agency in Camden \u2013 Vigil Care Staffing is your trusted partner for reliable, CQC-compliant staffing solutions across the borough."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Get a Quote Your Complete Care & Support Staffing Partner \u2013 Vigil Care Staffing From Camden Town to Kentish Town, Hampstead, Chalk Farm, Swiss Cottage, Gospel Oak, and King\u2019s Cross, we provide rapid response staffing that keeps your care services running smoothly, even during peak demand or unexpected absences. With our strong local presence and a network of skilled staff, you\u2019ll have peace of mind knowing that every shift is covered."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Local expertise Our recruiters know Camden\u2019s care landscape inside out, from NHS facilities in Swiss Cottage to residential homes in Hampstead and supported living in Kentish Town. Fully vetted staff Every candidate undergoes enhanced DBS checks, reference verification, and competency assessments before joining our pool. CQC-compliant operations We align our processes with the Care Quality Commission\u2019s staffing standards, ensuring that our clients can meet and exceed regulatory requirements. Flexible cover options Book staff for a few hours, a night shift, or longer-term placements with minimal notice."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Emergency response Our team can dispatch available staff within hours, reducing service disruption. Benefits of Working with Vigil Care Staffing Choosing Vigil Care Staffing means partnering with a temporary healthcare staffing agency committed to excellence. Key benefits include: 1 Seamless staffing Avoid last-minute panic with a dedicated account manager who understands your specific care needs. 2 Cost-effective solutions We help you manage overtime costs and avoid burnout in your permanent staff."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "3 High staff retention Our temporary professionals are treated with respect, well-trained, and motivated to deliver consistent care. 4 Broad skill coverage From dementia support to palliative care, we match staff with the right skills to your service users\u2019 needs. 5 24/7 availability Our booking team is on call day and night, so you\u2019re never without support. Borough-Level Coverage and Rapid Response We don\u2019t just serve central Camden."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Our care staffing agency covers: Camden Town Residential Care Supported Living Day Centres Hampstead Private Home Care Live-in Care Services Kentish Town Nursing Homes Rehabilitation Facilities Chalk Farm Domiciliary Care Community-Based Support Swiss Cottage Hospital Wards Assisted Living Communities Gospel Oak Respite Overnight Care King\u2019s Cross Supported Living Schemes Community Healthcare With local staff on standby , we can fill urgent requests faster than agencies relying solely on centralised teams. Facilities We Serve Our temporary staffing solutions for health and care cover a wide range of settings: Care homes (residential and nursing) Supported living and learning disability services NHS Hospitals and Clinics Mental health support services Day Centres and Respite Care Private home care and live-in arrangements We tailor our placements to suit the environment and specific care requirements of each facility. Our Vetting & Compliance Process As a trusted recruitment agency for care homes and healthcare providers, we take compliance seriously: Enhanced DBS checks for all candidates Right-to-work verification Reference checks from previous healthcare employers Skills and competency assessments for specific roles Mandatory training covering safeguarding, infection control, moving and handling, medication awareness Ongoing CPD to keep staff current with best practices We also conduct on-site audits where required, helping our clients demonstrate staffing compliance to CQC inspectors. Case Study: Emergency Care Cover for a Camden Residential Home In February, a care home in Hampstead faced a sudden staffing shortage when multiple employees went off sick."
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Within three hours , Vigil Care Staffing had dispatched two healthcare assistants and one night-shift support worker , all with previous dementia care experience. The care home manager later said: \u201cWe were on the brink of cancelling visits and activities for the day, but Vigil stepped in so fast it felt like they were part of our own team. \u201d \u2013 Care Home Manager, Hampstead Our Full Range of Services in Camden Support Workers Read More Healthcare Assistants Read More Live-in Carers Read More Night Shift Care Staff Read More Emergency Care Cover Read More Temporary Care Staff Read More (FAQs) Frequently Asked Question (FAQs) How quickly can you provide care staff in Camden?"
-            }
-        },
-        {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "FREE Quote Call Now Email Now"
-            }
-        },
-        {
             "type": "cta",
             "fields": {
-                "heading": "Request Care Staff Today in Camden",
-                "sub": "If you need temporary care staffing, emergency shift cover, or specialist care staff in Camden, contact Vigil Care Staffing now.",
-                "cta_label": "FREE Quote",
+                "heading": "Need vetted care staff in Camden?",
+                "sub": "Tell us the role, dates, and setting, and our team will arrange reliable cover.",
+                "cta_label": "Request Care Staff Today",
                 "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
             }
         },
@@ -198,7 +140,7 @@
             "type": "contact_form",
             "fields": {
                 "division": "staffing",
-                "heading": "Request Care Staff Today in Camden"
+                "heading": "Request care staff in Camden"
             }
         }
     ],
