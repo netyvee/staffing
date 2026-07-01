@@ -1,93 +1,126 @@
 {
-    "schema_version": 1,
-    "site": "care_staffing",
-    "slug": "/healthcare-cleaners",
-    "page_type": "service",
-    "seo": {
-        "title": "Healthcare Cleaners | Infection Control Specialists | Vigil Care Staffing",
-        "description": "DBS-checked healthcare cleaners trained in infection prevention for care homes, hospitals, and supported living across London. Same-day and emergency cover available.",
-        "canonical": "/healthcare-cleaners",
-        "focus_keyword": "healthcare cleaners london",
-        "schema_type": "Service"
+  "schema_version": 1,
+  "site": "care_staffing",
+  "slug": "/healthcare-cleaners",
+  "page_type": "service",
+  "seo": {
+    "title": "Healthcare Cleaners London | Vigil Care Staffing",
+    "description": "DBS-checked healthcare cleaners trained in infection prevention for care homes, hospitals, and supported living across London. Same-day and emergency cover available.",
+    "canonical": "/healthcare-cleaners",
+    "focus_keyword": "healthcare cleaners london",
+    "schema_type": "Service"
+  },
+  "brand": {
+    "bg": "#0a1628",
+    "text": "#ffffff",
+    "cta": "#4ecdc4",
+    "secondary": "#7fb2d4"
+  },
+  "nap": {
+    "phone": "020 3973 8887",
+    "email": "staffing@vigilservices.co.uk",
+    "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+    "trading_name": "Vigil Care Staffing",
+    "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "fields": {
+        "heading": "Healthcare Cleaners",
+        "sub": "Our teams meet all NHS cleaning standards and CQC requirements",
+        "cta_label": "get a FREE Quote",
+        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+      }
     },
-    "brand": {
-        "bg": "#0a1628",
-        "text": "#ffffff",
-        "cta": "#4ecdc4",
-        "secondary": "#7fb2d4"
+    {
+      "type": "service_grid",
+      "fields": {
+        "items": [
+          {
+            "title": "COSSH & Infection Control Certified",
+            "body": "Skilled in deep cleaning and disinfection"
+          },
+          {
+            "title": "Flexible Availability",
+            "body": "Flexible Availability – Temporary, long-term, or emergency cover"
+          },
+          {
+            "title": "Same-Day Cover",
+            "body": "Same-Day Cover – Rapid response for urgent cleaning needs"
+          },
+          {
+            "title": "Enhanced DBS-Checked",
+            "body": "Enhanced DBS-Checked – All staff cleared for sensitive environments"
+          }
+        ]
+      }
     },
-    "nap": {
-        "phone": "020 3973 8887",
-        "email": "staffing@vigilservices.co.uk",
-        "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
-        "trading_name": "Vigil Care Staffing",
-        "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
+    {
+      "type": "service_grid",
+      "fields": {
+        "items": [
+          {
+            "title": "Routine Cleaning Services",
+            "body": "General housekeeping and tidiness"
+          },
+          {
+            "title": "Infection Control Cleaning",
+            "body": "Deep cleaning and disinfection of high-touch areas"
+          },
+          {
+            "title": "Specialised Healthcare Cleaning",
+            "body": "Adhering to COSHH and health & safety guidelines"
+          }
+        ]
+      }
     },
-    "sections": [
-        {
-            "type": "hero",
-            "fields": {
-                "heading": "Healthcare Cleaners",
-                "sub": "Our teams meet all NHS cleaning standards and CQC requirements",
-                "cta_label": "get a FREE Quote",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
-            }
-        },
-        {
-            "type": "service_grid",
-            "fields": {
-                "items": [
-                    { "title": "COSSH & Infection Control Certified", "body": "Skilled in deep cleaning and disinfection" },
-                    { "title": "Flexible Availability", "body": "Flexible Availability – Temporary, long-term, or emergency cover" },
-                    { "title": "Same-Day Cover", "body": "Same-Day Cover – Rapid response for urgent cleaning needs" },
-                    { "title": "Enhanced DBS-Checked", "body": "Enhanced DBS-Checked – All staff cleared for sensitive environments" }
-                ]
-            }
-        },
-        {
-            "type": "service_grid",
-            "fields": {
-                "items": [
-                    { "title": "Routine Cleaning Services", "body": "General housekeeping and tidiness" },
-                    { "title": "Infection Control Cleaning", "body": "Deep cleaning and disinfection of high-touch areas" },
-                    { "title": "Specialised Healthcare Cleaning", "body": "Adhering to COSHH and health & safety guidelines" }
-                ]
-            }
-        },
-        {
-            "type": "text_image",
-            "fields": {
-                "heading": "Who We Work With",
-                "body": "Nursing Homes Residential Care Homes Day Centres & Domiciliary Services Mental Health Units Supported Living Facilities"
-            }
-        },
-        {
-            "type": "faq",
-            "fields": {
-                "items": [
-                    { "q": "Do your cleaners have experience in care environments?", "a": "Yes. Our cleaners for health and social care are trained to work in care homes, supported living, and healthcare facilities." },
-                    { "q": "Can I hire cleaners on a temporary or emergency basis?", "a": "Absolutely. We offer cleaners for hire on a same-day, short-term, or long-term basis." },
-                    { "q": "Are your cleaning staff DBS-checked?", "a": "Yes. Every cleaner is DBS-checked and trained in safeguarding and infection control." },
-                    { "q": "How quickly can I receive cleaning staff?", "a": "We provide same-day or next-day cleaners depending on availability and urgency." }
-                ]
-            }
-        },
-        {
-            "type": "cta",
-            "fields": {
-                "heading": "Get in Touch",
-                "sub": "We offer cleaners for hire on a same-day, short-term, or long-term basis.",
-                "cta_label": "get a FREE Quote",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
-            }
-        },
-        {
-            "type": "contact_form",
-            "fields": {
-                "division": "staffing",
-                "heading": "Get in Touch"
-            }
-        }
-    ],
-    "status": "draft"
+    {
+      "type": "text_image",
+      "fields": {
+        "heading": "Who We Work With",
+        "body": "Nursing Homes Residential Care Homes Day Centres & Domiciliary Services Mental Health Units Supported Living Facilities"
+      }
+    },
+    {
+      "type": "faq",
+      "fields": {
+        "items": [
+          {
+            "q": "Do your cleaners have experience in care environments?",
+            "a": "Yes. Our cleaners for health and social care are trained to work in care homes, supported living, and healthcare facilities."
+          },
+          {
+            "q": "Can I hire cleaners on a temporary or emergency basis?",
+            "a": "Absolutely. We offer cleaners for hire on a same-day, short-term, or long-term basis."
+          },
+          {
+            "q": "Are your cleaning staff DBS-checked?",
+            "a": "Yes. Every cleaner is DBS-checked and trained in safeguarding and infection control."
+          },
+          {
+            "q": "How quickly can I receive cleaning staff?",
+            "a": "We provide same-day or next-day cleaners depending on availability and urgency."
+          }
+        ]
+      }
+    },
+    {
+      "type": "cta",
+      "fields": {
+        "heading": "Get in Touch",
+        "sub": "We offer cleaners for hire on a same-day, short-term, or long-term basis.",
+        "cta_label": "get a FREE Quote",
+        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+      }
+    },
+    {
+      "type": "contact_form",
+      "fields": {
+        "division": "staffing",
+        "heading": "Get in Touch"
+      }
+    }
+  ],
+  "status": "draft"
 }

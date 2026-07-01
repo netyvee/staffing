@@ -1,96 +1,138 @@
 {
-    "schema_version": 1,
-    "site": "care_staffing",
-    "slug": "/healthcare-staffing-agency",
-    "page_type": "service",
-    "seo": {
-        "title": "Healthcare Staffing Agency | HCAs, Support Workers & Cleaners | Vigil Care Staffing",
-        "description": "Trusted healthcare staffing agency in London supplying fully vetted Healthcare Assistants, Support Workers, and Cleaners. Fast, CQC-compliant placements for care providers.",
-        "canonical": "/healthcare-staffing-agency",
-        "focus_keyword": "healthcare staffing agency london",
-        "schema_type": "Service"
+  "schema_version": 1,
+  "site": "care_staffing",
+  "slug": "/healthcare-staffing-agency",
+  "page_type": "service",
+  "seo": {
+    "title": "Healthcare Staffing Agency London | Vigil Care Staffing",
+    "description": "Trusted healthcare staffing agency in London supplying fully vetted Healthcare Assistants, Support Workers, and Cleaners. Fast, CQC-compliant placements for care providers.",
+    "canonical": "/healthcare-staffing-agency",
+    "focus_keyword": "healthcare staffing agency london",
+    "schema_type": "Service"
+  },
+  "brand": {
+    "bg": "#0a1628",
+    "text": "#ffffff",
+    "cta": "#4ecdc4",
+    "secondary": "#7fb2d4"
+  },
+  "nap": {
+    "phone": "020 3973 8887",
+    "email": "staffing@vigilservices.co.uk",
+    "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+    "trading_name": "Vigil Care Staffing",
+    "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "fields": {
+        "heading": "Home",
+        "sub": "Vigil Care connects care providers with fully vetted, compliant professionals—from compassionate Healthcare Assistants, experienced Support Workers, and infection-control-trained Cleaners.",
+        "cta_label": "Request Staff Today",
+        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+      }
     },
-    "brand": {
-        "bg": "#0a1628",
-        "text": "#ffffff",
-        "cta": "#4ecdc4",
-        "secondary": "#7fb2d4"
+    {
+      "type": "service_grid",
+      "fields": {
+        "items": [
+          {
+            "title": "Healthcare Assistants (HCAs)",
+            "body": "fully-trained HCAs for elderly care, dementia care, personal care, mobility support, medication prompting, companionship, end-of-life care and hospital settings."
+          },
+          {
+            "title": "Support Workers",
+            "body": "Specialist support workers for mental health, disability care, promoting independence and emotional wellbeing."
+          },
+          {
+            "title": "Cleaners",
+            "body": "Deep-cleaning Infection control specialists for healthcare environments trained to maintain hygiene standards in residential care, nursing homes, and supported living environments"
+          }
+        ]
+      }
     },
-    "nap": {
-        "phone": "020 3973 8887",
-        "email": "staffing@vigilservices.co.uk",
-        "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
-        "trading_name": "Vigil Care Staffing",
-        "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
+    {
+      "type": "service_grid",
+      "fields": {
+        "items": [
+          {
+            "title": "Personalised support",
+            "body": "Personalised support, responsive 24/7 availability"
+          },
+          {
+            "title": "Staff provision",
+            "body": "Staff provision for care homes, nursing homes, and supported living facilities"
+          },
+          {
+            "title": "CQC & NHS-Compliant",
+            "body": "CQC & NHS-Compliant – Meets UK healthcare standards"
+          }
+        ]
+      }
     },
-    "sections": [
-        {
-            "type": "hero",
-            "fields": {
-                "heading": "Home",
-                "sub": "Vigil Care connects care providers with fully vetted, compliant professionals—from compassionate Healthcare Assistants, experienced Support Workers, and infection-control-trained Cleaners.",
-                "cta_label": "Request Staff Today",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
-            }
-        },
-        {
-            "type": "service_grid",
-            "fields": {
-                "items": [
-                    { "title": "Healthcare Assistants (HCAs)", "body": "fully-trained HCAs for elderly care, dementia care, personal care, mobility support, medication prompting, companionship, end-of-life care and hospital settings." },
-                    { "title": "Support Workers", "body": "Specialist support workers for mental health, disability care, promoting independence and emotional wellbeing." },
-                    { "title": "Cleaners", "body": "Deep-cleaning Infection control specialists for healthcare environments trained to maintain hygiene standards in residential care, nursing homes, and supported living environments" }
-                ]
-            }
-        },
-        {
-            "type": "service_grid",
-            "fields": {
-                "items": [
-                    { "title": "Personalised support", "body": "Personalised support, responsive 24/7 availability" },
-                    { "title": "Staff provision", "body": "Staff provision for care homes, nursing homes, and supported living facilities" },
-                    { "title": "CQC & NHS-Compliant", "body": "CQC & NHS-Compliant – Meets UK healthcare standards" }
-                ]
-            }
-        },
-        {
-            "type": "service_grid",
-            "fields": {
-                "items": [
-                    { "title": "Tell Us Your Requirements", "body": "Submit your care staffing needs online or by phone" },
-                    { "title": "We Match You with Staff", "body": "Based on your needs, location, and timing" },
-                    { "title": "Receive Quality Cover", "body": "With our responsive team and pool of trained staff" },
-                    { "title": "Ongoing Support", "body": "We're here when you need additional or repeat cover, even at short notice" }
-                ]
-            }
-        },
-        {
-            "type": "faq",
-            "fields": {
-                "items": [
-                    { "q": "What roles does your healthcare staffing agency supply?", "a": "We supply Healthcare Assistants, Support Workers, and Cleaners to care homes, nursing homes, and supported living settings." },
-                    { "q": "Can you provide emergency or same-day staffing?", "a": "Yes. Our healthcare staffing agency is equipped to provide same-day or next-day staff, depending on availability." },
-                    { "q": "Are your staff vetted and trained?", "a": "Absolutely. All professionals go through background checks, are DBS-certified, and complete mandatory training." },
-                    { "q": "How quickly can you provide cover?", "a": "We can often fulfil requests within hours. Our agency is known for speed, reliability, and consistency." }
-                ]
-            }
-        },
-        {
-            "type": "cta",
-            "fields": {
-                "heading": "Get the Best Healthcare Staffing Solutions Today!",
-                "sub": "Whether you need emergency cover or long-term support, we deliver fast, simple staffing solutions with rigorous safety checks.",
-                "cta_label": "Request Healthcare Staff!!",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
-            }
-        },
-        {
-            "type": "contact_form",
-            "fields": {
-                "division": "staffing",
-                "heading": "Get the Best Healthcare Staffing Solutions Today!"
-            }
-        }
-    ],
-    "status": "draft"
+    {
+      "type": "service_grid",
+      "fields": {
+        "items": [
+          {
+            "title": "Tell Us Your Requirements",
+            "body": "Submit your care staffing needs online or by phone"
+          },
+          {
+            "title": "We Match You with Staff",
+            "body": "Based on your needs, location, and timing"
+          },
+          {
+            "title": "Receive Quality Cover",
+            "body": "With our responsive team and pool of trained staff"
+          },
+          {
+            "title": "Ongoing Support",
+            "body": "We're here when you need additional or repeat cover, even at short notice"
+          }
+        ]
+      }
+    },
+    {
+      "type": "faq",
+      "fields": {
+        "items": [
+          {
+            "q": "What roles does your healthcare staffing agency supply?",
+            "a": "We supply Healthcare Assistants, Support Workers, and Cleaners to care homes, nursing homes, and supported living settings."
+          },
+          {
+            "q": "Can you provide emergency or same-day staffing?",
+            "a": "Yes. Our healthcare staffing agency is equipped to provide same-day or next-day staff, depending on availability."
+          },
+          {
+            "q": "Are your staff vetted and trained?",
+            "a": "Absolutely. All professionals go through background checks, are DBS-certified, and complete mandatory training."
+          },
+          {
+            "q": "How quickly can you provide cover?",
+            "a": "We can often fulfil requests within hours. Our agency is known for speed, reliability, and consistency."
+          }
+        ]
+      }
+    },
+    {
+      "type": "cta",
+      "fields": {
+        "heading": "Get the Best Healthcare Staffing Solutions Today!",
+        "sub": "Whether you need emergency cover or long-term support, we deliver fast, simple staffing solutions with rigorous safety checks.",
+        "cta_label": "Request Healthcare Staff!!",
+        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+      }
+    },
+    {
+      "type": "contact_form",
+      "fields": {
+        "division": "staffing",
+        "heading": "Get the Best Healthcare Staffing Solutions Today!"
+      }
+    }
+  ],
+  "status": "draft"
 }
