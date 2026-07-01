@@ -1,160 +1,190 @@
 {
-  "schema_version": 1,
-  "site": "care_staffing",
-  "slug": "/services",
-  "page_type": "service",
-  "seo": {
-    "title": "Our Services | Vigil Care Staffing",
-    "description": "CQC-compliant Healthcare Assistants, Support Workers, and Cleaners for care homes, nursing homes, and supported living across London.",
-    "canonical": "/services",
-    "focus_keyword": "care staffing services london",
-    "schema_type": "Service"
-  },
-  "brand": {
-    "bg": "#0a1628",
-    "text": "#ffffff",
-    "cta": "#4ecdc4",
-    "secondary": "#7fb2d4"
-  },
-  "nap": {
-    "phone": "020 3973 8887",
-    "email": "staffing@vigilservices.co.uk",
-    "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
-    "trading_name": "Vigil Care Staffing",
-    "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
-  },
-  "sections": [
-    {
-      "type": "hero",
-      "fields": {
-        "heading": "Services",
-        "sub": "A reliable care agency is essential for ensuring that care homes, nursing homes, and supported living services receive skilled, compassionate, and professional staff.",
-        "cta_label": "FREE Quote",
-        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
-      }
+    "schema_version": 1,
+    "site": "care_staffing",
+    "slug": "/services",
+    "page_type": "service",
+    "seo": {
+        "title": "Our Services | Vigil Care Staffing",
+        "description": "CQC-compliant Healthcare Assistants, Support Workers, and Cleaners for care homes, nursing homes, and supported living across London.",
+        "canonical": "/services",
+        "focus_keyword": "care staffing services london",
+        "schema_type": "Service"
     },
-    {
-      "type": "service_grid",
-      "fields": {
-        "items": [
-          {
-            "title": "Healthcare Assistants (HCAs)",
-            "body": "Personal care support – assisting with washing, dressing, mobility, and meals"
-          },
-          {
-            "title": "Support Workers",
-            "body": "Mental health and learning disability support to promote independence"
-          },
-          {
-            "title": "Cleaners (Health & Social Care)",
-            "body": "Infection control and hygiene maintenance"
-          }
-        ]
-      }
+    "brand": {
+        "bg": "#0a1628",
+        "text": "#ffffff",
+        "cta": "#4ecdc4",
+        "secondary": "#7fb2d4"
     },
-    {
-      "type": "text_image",
-      "fields": {
-        "heading": "Why Choose Vigil Care Staffing as Your Staffing Agency",
-        "body": "Fully CQC-compliant staffing provider Flexible staffing options – temporary, long-term, or emergency cover Rigorous recruitment – enhanced DBS checks, references, and mandatory training Fast response – we provide cover 24/7, including weekends and holidays Sector expertise – we understand the specific needs of health and social care providers"
-      }
+    "nap": {
+        "phone": "020 3973 8887",
+        "email": "staffing@vigilservices.co.uk",
+        "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+        "trading_name": "Vigil Care Staffing",
+        "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
     },
-    {
-      "type": "text_image",
-      "fields": {
-        "heading": "Who We Work With",
-        "body": "a wide range of clients across the health and social care sector, including: Nursing Homes Residential Care Homes Supported Living Facilities Mental Health Services Local Authorities"
-      }
-    },
-    {
-      "type": "faq",
-      "fields": {
-        "items": [
-          {
-            "q": "What types of care professionals do you supply?",
-            "a": "Our care agency specialises in Healthcare Assistants, Support Workers, and Cleaners for care homes, supported living, and nursing facilities."
-          },
-          {
-            "q": "Are your staff CQC-compliant?",
-            "a": "Yes. Every professional from our care agency is fully vetted, DBS-checked, and trained to meet CQC standards."
-          },
-          {
-            "q": "Do you offer emergency cover?",
-            "a": "Absolutely. We offer 24/7 emergency staffing as part of our responsive care agency service."
-          },
-          {
-            "q": "How can I request staff?",
-            "a": "You can call, email, or complete our online request form. A member of our care agency team will respond quickly with suitable options."
-          }
-        ]
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "Our Services A reliable care agency is essential for ensuring that care homes, nursing homes, and supported living services receive skilled, compassionate, and professional staff."
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "Our Core Services Healthcare Assistants (HCAs): Personal care support – assisting with washing, dressing, mobility, and meals Companionship and emotional support for residents Medication assistance under appropriate supervision Support Workers: Mental health and learning disability support to promote independence One-to-one support for individuals with complex needs Encouraging community participation and life skills development Cleaners (Health & Social Care): Infection control and hygiene maintenance Providing a safe, clean, and comfortable environment Fully trained in health and social care cleaning procedures Our care agency carefully matches each staff member to your setting, ensuring the right fit for your team and service users."
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "Availability That Suits Your Schedule Monday – Friday: 8:00 AM – 6:00 PM Saturday: 9:00 AM – 4:00 PM Sunday: Closed For urgent staffing requests, our office offers out-of-hours and weekend coverage to ensure continuous care delivery Get In Touch Today FREE Quote (FAQs) Frequently Asked Question (FAQs) What types of care professionals do you supply?"
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "How do I apply for a role with your care agency? Visit our job vacancies page, submit your CV, and our recruitment team will contact you with suitable opportunities. Contact Us Looking for a trusted care agency to support your staffing needs? Get in touch today for a free consultation."
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "compliance_correction": true,
-      "fields": {
-        "body": "At Vigil Care Staffing, we are a trusted recruitment agency specialising in the recruitment and supply of CQC-compliant Healthcare Assistants , Support Workers , and Cleaners to meet the increasing demands of the health and social care sector."
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "compliance_correction": true,
-      "fields": {
-        "body": "Check Availability Why Choose Vigil Care Staffing as Your Staffing Agency Fully CQC-compliant staffing provider Flexible staffing options – temporary, long-term, or emergency cover Rigorous recruitment – enhanced DBS checks, references, and mandatory training Fast response – we provide cover 24/7, including weekends and holidays Sector expertise – we understand the specific needs of health and social care providers When you choose Vigil Care Staffing, you’re choosing an agency that puts quality, compliance, and care at the centre of every placement FREE Quote Who We Work With We supports a wide range of clients across the health and social care sector, including: Nursing Homes Residential Care Homes Supported Living Facilities Mental Health Services Local Authorities Whether you’re managing a large residential care service or a small, supported living provision, our team is ready to assist."
-      }
-    },
-    {
-      "type": "cta",
-      "fields": {
-        "heading": "Get In Touch Today",
-        "sub": "Our care agency carefully matches each staff member to your setting, ensuring the right fit for your team and service users.",
-        "cta_label": "FREE Quote",
-        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
-      }
-    },
-    {
-      "type": "contact_form",
-      "fields": {
-        "division": "staffing",
-        "heading": "Get In Touch Today"
-      }
-    }
-  ],
-  "status": "draft"
+    "sections": [
+        {
+            "type": "hero",
+            "fields": {
+                "heading": "Services",
+                "sub": "A reliable care agency is essential for ensuring that care homes, nursing homes, and supported living services receive skilled, compassionate, and professional staff.",
+                "cta_label": "FREE Quote",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
+                "image": {
+                    "id": 107,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894951/vigil/care_staffing/hero/support-worker-agency-london-care-support-1024x683-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/hero/support-worker-agency-london-care-support-1024x683-care-staffing-london",
+                    "alt": "Support worker agency London \u2013 support worker assisting service user",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/08/support-worker-agency-london-care-support-1024x683.jpg",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "Support worker agency London \u2013 support worker assisting service user"
+            }
+        },
+        {
+            "type": "service_grid",
+            "fields": {
+                "items": [
+                    {
+                        "title": "Healthcare Assistants (HCAs)",
+                        "body": "Personal care support \u2013 assisting with washing, dressing, mobility, and meals"
+                    },
+                    {
+                        "title": "Support Workers",
+                        "body": "Mental health and learning disability support to promote independence"
+                    },
+                    {
+                        "title": "Cleaners (Health & Social Care)",
+                        "body": "Infection control and hygiene maintenance"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "text_image",
+            "fields": {
+                "heading": "Why Choose Vigil Care Staffing as Your Staffing Agency",
+                "body": "Fully CQC-compliant staffing provider Flexible staffing options \u2013 temporary, long-term, or emergency cover Rigorous recruitment \u2013 enhanced DBS checks, references, and mandatory training Fast response \u2013 we provide cover 24/7, including weekends and holidays Sector expertise \u2013 we understand the specific needs of health and social care providers",
+                "image": {
+                    "id": 94,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894802/vigil/care_staffing/general/healthcare-assistant-agency-staff-london-1024x683-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/general/healthcare-assistant-agency-staff-london-1024x683-care-staffing-london",
+                    "alt": "Healthcare Assistant Agency staff working in London care home",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/08/healthcare-assistant-agency-staff-london-1024x683.jpg",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "Healthcare Assistant Agency staff working in London care home"
+            }
+        },
+        {
+            "type": "text_image",
+            "fields": {
+                "heading": "Who We Work With",
+                "body": "a wide range of clients across the health and social care sector, including: Nursing Homes Residential Care Homes Supported Living Facilities Mental Health Services Local Authorities",
+                "image": {
+                    "id": 102,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894896/vigil/care_staffing/general/agency-care-worker-london-live-in-1024x576-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/general/agency-care-worker-london-live-in-1024x576-care-staffing-london",
+                    "alt": "Agency care worker in London providing live-in home care",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/08/agency-care-worker-london-live-in-1024x576.jpg",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "Agency care worker in London providing live-in home care"
+            }
+        },
+        {
+            "type": "faq",
+            "fields": {
+                "items": [
+                    {
+                        "q": "What types of care professionals do you supply?",
+                        "a": "Our care agency specialises in Healthcare Assistants, Support Workers, and Cleaners for care homes, supported living, and nursing facilities."
+                    },
+                    {
+                        "q": "Are your staff CQC-compliant?",
+                        "a": "Yes. Every professional from our care agency is fully vetted, DBS-checked, and trained to meet CQC standards."
+                    },
+                    {
+                        "q": "Do you offer emergency cover?",
+                        "a": "Absolutely. We offer 24/7 emergency staffing as part of our responsive care agency service."
+                    },
+                    {
+                        "q": "How can I request staff?",
+                        "a": "You can call, email, or complete our online request form. A member of our care agency team will respond quickly with suitable options."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "Our Services A reliable care agency is essential for ensuring that care homes, nursing homes, and supported living services receive skilled, compassionate, and professional staff."
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "Our Core Services Healthcare Assistants (HCAs): Personal care support \u2013 assisting with washing, dressing, mobility, and meals Companionship and emotional support for residents Medication assistance under appropriate supervision Support Workers: Mental health and learning disability support to promote independence One-to-one support for individuals with complex needs Encouraging community participation and life skills development Cleaners (Health & Social Care): Infection control and hygiene maintenance Providing a safe, clean, and comfortable environment Fully trained in health and social care cleaning procedures Our care agency carefully matches each staff member to your setting, ensuring the right fit for your team and service users."
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "Availability That Suits Your Schedule Monday \u2013 Friday: 8:00 AM \u2013 6:00 PM Saturday: 9:00 AM \u2013 4:00 PM Sunday: Closed For urgent staffing requests, our office offers out-of-hours and weekend coverage to ensure continuous care delivery Get In Touch Today FREE Quote (FAQs) Frequently Asked Question (FAQs) What types of care professionals do you supply?"
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "How do I apply for a role with your care agency? Visit our job vacancies page, submit your CV, and our recruitment team will contact you with suitable opportunities. Contact Us Looking for a trusted care agency to support your staffing needs? Get in touch today for a free consultation."
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "compliance_correction": true,
+            "fields": {
+                "body": "At Vigil Care Staffing, we are a trusted recruitment agency specialising in the recruitment and supply of CQC-compliant Healthcare Assistants , Support Workers , and Cleaners to meet the increasing demands of the health and social care sector."
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "compliance_correction": true,
+            "fields": {
+                "body": "Check Availability Why Choose Vigil Care Staffing as Your Staffing Agency Fully CQC-compliant staffing provider Flexible staffing options \u2013 temporary, long-term, or emergency cover Rigorous recruitment \u2013 enhanced DBS checks, references, and mandatory training Fast response \u2013 we provide cover 24/7, including weekends and holidays Sector expertise \u2013 we understand the specific needs of health and social care providers When you choose Vigil Care Staffing, you\u2019re choosing an agency that puts quality, compliance, and care at the centre of every placement FREE Quote Who We Work With We supports a wide range of clients across the health and social care sector, including: Nursing Homes Residential Care Homes Supported Living Facilities Mental Health Services Local Authorities Whether you\u2019re managing a large residential care service or a small, supported living provision, our team is ready to assist."
+            }
+        },
+        {
+            "type": "cta",
+            "fields": {
+                "heading": "Get In Touch Today",
+                "sub": "Our care agency carefully matches each staff member to your setting, ensuring the right fit for your team and service users.",
+                "cta_label": "FREE Quote",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+            }
+        },
+        {
+            "type": "contact_form",
+            "fields": {
+                "division": "staffing",
+                "heading": "Get In Touch Today"
+            }
+        }
+    ],
+    "status": "draft"
 }
