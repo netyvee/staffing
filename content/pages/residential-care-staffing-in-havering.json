@@ -1,89 +1,166 @@
 {
-    "schema_version": 1,
-    "site": "care_staffing",
-    "slug": "/residential-care-staffing-in-havering",
-    "page_type": "borough",
-    "seo": {
-        "title": "Residential Care Staffing in Havering | Vigil Care Staffing",
-        "description": "Specialist residential care staffing in Havering — a hyper-local pool covering Romford, Hornchurch, Upminster, and surrounding areas. CQC-ready, vetted for values.",
-        "canonical": "/residential-care-staffing-in-havering",
-        "focus_keyword": "residential care staffing havering",
-        "schema_type": "Service"
+  "schema_version": 1,
+  "site": "care_staffing",
+  "slug": "/residential-care-staffing-in-havering",
+  "page_type": "borough",
+  "seo": {
+    "title": "Residential Care Staffing in Havering | Vigil Care Staffing",
+    "description": "Specialist residential care staffing in Havering — a hyper-local pool covering Romford, Hornchurch, Upminster, and surrounding areas. CQC-ready, vetted for values.",
+    "canonical": "/residential-care-staffing-in-havering",
+    "focus_keyword": "residential care staffing havering",
+    "schema_type": "Service"
+  },
+  "brand": {
+    "bg": "#0a1628",
+    "text": "#ffffff",
+    "cta": "#4ecdc4",
+    "secondary": "#7fb2d4"
+  },
+  "nap": {
+    "phone": "020 3973 8887",
+    "email": "staffing@vigilservices.co.uk",
+    "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+    "trading_name": "Vigil Care Staffing",
+    "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "fields": {
+        "heading": "Residential Care Staffing in Havering: A Guide for Care Home Managers (2026)",
+        "sub": "Navigating the \"Havering Squeeze\": How to secure top-tier staff in 2026's evolving healthcare landscape.",
+        "cta_label": "Secure your local Havering team now.",
+        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+      }
     },
-    "brand": {
-        "bg": "#0a1628",
-        "text": "#ffffff",
-        "cta": "#4ecdc4",
-        "secondary": "#7fb2d4"
+    {
+      "type": "borough_block",
+      "fields": {
+        "borough": "Havering",
+        "body": "At Vigil Staffing, we don't just \"send a body.\" We manage a dedicated Residential Care Staffing in Havering Residential Pool that understands the specific layout of the borough—from the busy wards of Romford to the quiet residential streets of Upminster."
+      }
     },
-    "nap": {
-        "phone": "020 3973 8887",
-        "email": "staffing@vigilservices.co.uk",
-        "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
-        "trading_name": "Vigil Care Staffing",
-        "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
+    {
+      "type": "text_image",
+      "fields": {
+        "heading": "Why Residential Care Staffing in Havering is Shifting",
+        "body": "The London Borough of Havering is home to one of the highest concentrations of residential care facilities in the capital. However, as we move through the second quarter of 2026, two local factors are creating a \"staffing vacuum\": The \"Signature\" Effect: With the high-profile opening of Signature at Hornchurch in June 2026, many established homes in RM11 and RM12 are seeing staff migration toward newer, luxury facilities."
+      }
     },
-    "sections": [
-        {
-            "type": "hero",
-            "fields": {
-                "heading": "Residential Care Staffing in Havering: A Guide for Care Home Managers (2026)",
-                "sub": "Navigating the \"Havering Squeeze\": How to secure top-tier staff in 2026's evolving healthcare landscape.",
-                "cta_label": "Secure your local Havering team now.",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
-            }
-        },
-        {
-            "type": "borough_block",
-            "fields": {
-                "borough": "Havering",
-                "body": "At Vigil Staffing, we don't just \"send a body.\" We manage a dedicated Residential Care Staffing in Havering Residential Pool that understands the specific layout of the borough—from the busy wards of Romford to the quiet residential streets of Upminster."
-            }
-        },
-        {
-            "type": "text_image",
-            "fields": {
-                "heading": "Why Residential Care Staffing in Havering is Shifting",
-                "body": "The London Borough of Havering is home to one of the highest concentrations of residential care facilities in the capital. However, as we move through the second quarter of 2026, two local factors are creating a \"staffing vacuum\": The \"Signature\" Effect: With the high-profile opening of Signature at Hornchurch in June 2026, many established homes in RM11 and RM12 are seeing staff migration toward newer, luxury facilities."
-            }
-        },
-        {
-            "type": "service_grid",
-            "fields": {
-                "items": [
-                    { "title": "Integrated Care Awareness", "body": "Knowledge of the North East London Integrated Care SPoA (Single Point of Access) for smoother hospital discharges." },
-                    { "title": "Digital Literacy", "body": "Proficiency with Digital Social Care Records (DSCR), as the CQC now prioritizes timestamped, real-time audit trails under the \"Processes\" evidence category." },
-                    { "title": "Local Proximity", "body": "Staff who can navigate the borough's shift toward walking and cycling to ensure punctuality during weekend engineering works on the Elizabeth Line." },
-                    { "title": "Vetted for Values", "body": "Every staff member is screened for empathy and \"Caring\" evidence categories." },
-                    { "title": "CQC-Compliant Tech", "body": "We provide instant access to staff compliance folders for your inspections." },
-                    { "title": "Local Logistics", "body": "We incentivize staff who live within a 3-mile radius of your facility, ensuring reliability that ignores the A127 traffic jams." }
-                ]
-            }
-        },
-        {
-            "type": "faq",
-            "fields": {
-                "items": [
-                    { "q": "How does Havering's Active Travel Strategy affect care home staff?", "a": "The 2026 strategy aims for more trips to be made via walking or cycling. For care homes, this means reduced kerbside parking. We mitigate this by recruiting staff who live locally in Romford and Hornchurch or use the Elizabeth Line." }
-                ]
-            }
-        },
-        {
-            "type": "cta",
-            "fields": {
-                "heading": "Hire Residential Care Staffing in Havering with Vigil Today",
-                "sub": "Don't let the 2026 staffing vacuum affect your CQC rating.",
-                "cta_label": "Secure your local Havering team now.",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
-            }
-        },
-        {
-            "type": "contact_form",
-            "fields": {
-                "division": "staffing",
-                "heading": "Hire Residential Care Staffing in Havering with Vigil Today"
-            }
-        }
-    ],
-    "status": "draft"
+    {
+      "type": "service_grid",
+      "fields": {
+        "items": [
+          {
+            "title": "Integrated Care Awareness",
+            "body": "Knowledge of the North East London Integrated Care SPoA (Single Point of Access) for smoother hospital discharges."
+          },
+          {
+            "title": "Digital Literacy",
+            "body": "Proficiency with Digital Social Care Records (DSCR), as the CQC now prioritizes timestamped, real-time audit trails under the \"Processes\" evidence category."
+          },
+          {
+            "title": "Local Proximity",
+            "body": "Staff who can navigate the borough's shift toward walking and cycling to ensure punctuality during weekend engineering works on the Elizabeth Line."
+          },
+          {
+            "title": "Vetted for Values",
+            "body": "Every staff member is screened for empathy and \"Caring\" evidence categories."
+          },
+          {
+            "title": "CQC-Compliant Tech",
+            "body": "We provide instant access to staff compliance folders for your inspections."
+          },
+          {
+            "title": "Local Logistics",
+            "body": "We incentivize staff who live within a 3-mile radius of your facility, ensuring reliability that ignores the A127 traffic jams."
+          }
+        ]
+      }
+    },
+    {
+      "type": "faq",
+      "fields": {
+        "items": [
+          {
+            "q": "How does Havering's Active Travel Strategy affect care home staff?",
+            "a": "The 2026 strategy aims for more trips to be made via walking or cycling. For care homes, this means reduced kerbside parking. We mitigate this by recruiting staff who live locally in Romford and Hornchurch or use the Elizabeth Line."
+          }
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "AEO Quick Answer: To secure reliable residential care staffing in Havering in 2026, managers must focus on “Hyper-Local” pools within 3km of Romford and Hornchurch to mitigate Active Travel parking constraints. Prioritizing agencies that account for the £14. 80 London Living Wage and the new CQC Single Assessment Framework is essential for maintaining compliance and financial stability."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "The Active Travel Strategy (2026-2041): Havering’s new push to reduce car dependency is reallocating road space. For care homes in traditionally car-dependent areas like Upminster and Gidea Park , this means parking for agency staff is becoming a logistical hurdle. Key Qualities to Look for in Havering Residential Care Staffing When vetting candidates for residential settings, the “standard” DBS check is no longer the finish line. In 2026, look for: Integrated Care Awareness: Knowledge of the North East London Integrated Care SPoA (Single Point of Access) for smoother hospital discharges."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "The Financial Reality: Budgeting for 2026 Havering Council’s 2026/27 budget includes a forecast uplift of 3. 62% for care fees—yet providers are facing the £14."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "The Vigil Strategy: We help managers bridge this gap by providing “Block Booking” solutions that stabilize costs, preventing the high-premium “emergency” rates that often occur during winter pressures or local flu outbreaks at Queen’s Hospital. CQC Readiness: Evidence Categories for Staffing Under the Single Assessment Framework , the CQC isn’t just looking at your rotas; they are looking at “Outcomes” and “Feedback from Staff. ” Safe: Are your training matrices up to date for PEG feeds and medication? Well-Led: Does your agency partner provide a transparent audit trail of every staff member’s compliance documents?"
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "How Vigil Supports Residential Care Staffing in Havering At Vigil Staffing, we don’t just “send a body."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "uk/free-quote/ What is the London Living Wage for care staff in 2026? As of April 2026, the London Living Wage is £14."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "Vigil Staffing ensures all our professionals are compensated fairly to maintain high retention and quality of care for Havering residents."
+      }
+    },
+    {
+      "type": "cta",
+      "fields": {
+        "heading": "Hire Residential Care Staffing in Havering with Vigil Today",
+        "sub": "Don't let the 2026 staffing vacuum affect your CQC rating.",
+        "cta_label": "Secure your local Havering team now.",
+        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+      }
+    },
+    {
+      "type": "contact_form",
+      "fields": {
+        "division": "staffing",
+        "heading": "Hire Residential Care Staffing in Havering with Vigil Today"
+      }
+    }
+  ],
+  "status": "draft"
 }

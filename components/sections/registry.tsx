@@ -2,6 +2,7 @@ import type { PageJson, Section } from '@/lib/pages/loader';
 import { Hero } from './Hero';
 import { ServiceGrid } from './ServiceGrid';
 import { TextImage } from './TextImage';
+import { Prose } from './Prose';
 import { Cta } from './Cta';
 import { Faq } from './Faq';
 import { Testimonial } from './Testimonial';
@@ -14,6 +15,7 @@ const MAP: Record<string, React.FC<SectionProps>> = {
   hero: Hero,
   service_grid: ServiceGrid,
   text_image: TextImage,
+  prose: Prose,
   cta: Cta,
   faq: Faq,
   testimonial: Testimonial,

@@ -1,87 +1,103 @@
 {
-    "schema_version": 1,
-    "site": "care_staffing",
-    "slug": "/modern-slavery-statement-2",
-    "page_type": "supporting",
-    "seo": {
-        "title": "Modern Slavery Statement | Vigil Care Staffing",
-        "description": "Vigil Services Ltd modern slavery statement — our commitment to preventing modern slavery, due diligence processes, training, and compliance with the Modern Slavery Act 2015.",
-        "canonical": "/modern-slavery-statement-2",
-        "focus_keyword": "modern slavery statement vigil care staffing",
-        "schema_type": "WebPage"
+  "schema_version": 1,
+  "site": "care_staffing",
+  "slug": "/modern-slavery-statement-2",
+  "page_type": "supporting",
+  "seo": {
+    "title": "Modern Slavery Statement | Vigil Care Staffing",
+    "description": "Vigil Services Ltd modern slavery statement — our commitment to preventing modern slavery, due diligence processes, training, and compliance with the Modern Slavery Act 2015.",
+    "canonical": "/modern-slavery-statement-2",
+    "focus_keyword": "modern slavery statement vigil care staffing",
+    "schema_type": "WebPage"
+  },
+  "brand": {
+    "bg": "#0a1628",
+    "text": "#ffffff",
+    "cta": "#4ecdc4",
+    "secondary": "#7fb2d4"
+  },
+  "nap": {
+    "phone": "020 3973 8887",
+    "email": "staffing@vigilservices.co.uk",
+    "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+    "trading_name": "Vigil Care Staffing",
+    "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "fields": {
+        "heading": "Modern Slavery Statement",
+        "sub": "Vigil Services Ltd. is committed to preventing modern slavery in all aspects of its business operations and supply chains. This statement outlines our efforts to identify and mitigate the risk of modern slavery within our organization and highlights the steps we are taking to ensure compliance with the Modern Slavery Act 2015.",
+        "cta_label": "Contact Us",
+        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+      }
     },
-    "brand": {
-        "bg": "#0a1628",
-        "text": "#ffffff",
-        "cta": "#4ecdc4",
-        "secondary": "#7fb2d4"
+    {
+      "type": "text_image",
+      "fields": {
+        "heading": "Organizational Structure and Supply Chains",
+        "body": "Vigil Services Ltd. is a staff recruitment agency located in Ilford, East London. We supply Health Care Assistants, support workers, kitchen assistants and domestic workers"
+      }
     },
-    "nap": {
-        "phone": "020 3973 8887",
-        "email": "staffing@vigilservices.co.uk",
-        "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
-        "trading_name": "Vigil Care Staffing",
-        "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
+    {
+      "type": "text_image",
+      "fields": {
+        "heading": "Policies on Modern Slavery",
+        "body": "We have in place a comprehensive set of policies that reflect our commitment to combating modern slavery, including: Anti-Slavery Policy: We have implemented a clear and robust policy prohibiting all forms of modern slavery within our organization and supply chains. Supplier Code of Conduct: Our Supplier Code of Conduct outlines our expectations for suppliers regarding labour practices, human rights, and ethical conduct."
+      }
     },
-    "sections": [
-        {
-            "type": "hero",
-            "fields": {
-                "heading": "Modern Slavery Statement",
-                "sub": "Vigil Services Ltd. is committed to preventing modern slavery in all aspects of its business operations and supply chains. This statement outlines our efforts to identify and mitigate the risk of modern slavery within our organization and highlights the steps we are taking to ensure compliance with the Modern Slavery Act 2015.",
-                "cta_label": "",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
-            }
-        },
-        {
-            "type": "text_image",
-            "fields": {
-                "heading": "Organizational Structure and Supply Chains",
-                "body": "Vigil Services Ltd. is a staff recruitment agency located in Ilford, East London. We supply Health Care Assistants, support workers, kitchen assistants and domestic workers"
-            }
-        },
-        {
-            "type": "text_image",
-            "fields": {
-                "heading": "Policies on Modern Slavery",
-                "body": "We have in place a comprehensive set of policies that reflect our commitment to combating modern slavery, including: Anti-Slavery Policy: We have implemented a clear and robust policy prohibiting all forms of modern slavery within our organization and supply chains. Supplier Code of Conduct: Our Supplier Code of Conduct outlines our expectations for suppliers regarding labour practices, human rights, and ethical conduct."
-            }
-        },
-        {
-            "type": "text_image",
-            "fields": {
-                "heading": "Due Diligence Processes",
-                "body": "We recognize the importance of conducting due diligence to identify and assess potential risks of modern slavery in our supply chains. Our due diligence processes include: Risk Assessment: We regularly assess the risk of modern slavery in our supply chains, taking into account the nature of our business and the countries in which we operate. Supplier Audits: We conduct audits of high-risk suppliers to evaluate their compliance with our anti-slavery policies and the Modern Slavery Act."
-            }
-        },
-        {
-            "type": "text_image",
-            "fields": {
-                "heading": "Training and Awareness",
-                "body": "We are committed to raising awareness and understanding of modern slavery issues among our employees and suppliers. We provide training to relevant personnel on recognizing and addressing modern slavery risks."
-            }
-        },
-        {
-            "type": "text_image",
-            "fields": {
-                "heading": "Measuring Effectiveness",
-                "body": "We measure the effectiveness of our anti-slavery efforts through key performance indicators (KPIs), regular audits, and feedback mechanisms. We are committed to continuous improvement in combating modern slavery."
-            }
-        },
-        {
-            "type": "text_image",
-            "fields": {
-                "heading": "Reporting and Communication",
-                "body": "Vigil Services Ltd. is dedicated to transparent communication on our actions and progress in addressing modern slavery. This statement is published on our website, and updates will be provided as part of our annual reporting."
-            }
-        },
-        {
-            "type": "contact_form",
-            "fields": {
-                "division": "staffing",
-                "heading": "Modern Slavery Statement"
-            }
-        }
-    ],
-    "status": "draft"
+    {
+      "type": "text_image",
+      "fields": {
+        "heading": "Due Diligence Processes",
+        "body": "We recognize the importance of conducting due diligence to identify and assess potential risks of modern slavery in our supply chains. Our due diligence processes include: Risk Assessment: We regularly assess the risk of modern slavery in our supply chains, taking into account the nature of our business and the countries in which we operate. Supplier Audits: We conduct audits of high-risk suppliers to evaluate their compliance with our anti-slavery policies and the Modern Slavery Act."
+      }
+    },
+    {
+      "type": "text_image",
+      "fields": {
+        "heading": "Training and Awareness",
+        "body": "We are committed to raising awareness and understanding of modern slavery issues among our employees and suppliers. We provide training to relevant personnel on recognizing and addressing modern slavery risks."
+      }
+    },
+    {
+      "type": "text_image",
+      "fields": {
+        "heading": "Measuring Effectiveness",
+        "body": "We measure the effectiveness of our anti-slavery efforts through key performance indicators (KPIs), regular audits, and feedback mechanisms. We are committed to continuous improvement in combating modern slavery."
+      }
+    },
+    {
+      "type": "text_image",
+      "fields": {
+        "heading": "Reporting and Communication",
+        "body": "Vigil Services Ltd. is dedicated to transparent communication on our actions and progress in addressing modern slavery. This statement is published on our website, and updates will be provided as part of our annual reporting."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "Modern Slavery Statement Modern Slavery Statement Modern Slavery Statement – Vigil Services Ltd. Introduction Vigil Services Ltd."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "Approval This statement has been approved by [name and position of the responsible person] and will be reviewed annually to ensure its continued relevance and effectiveness. Contact Information For further information or to report any concerns related to modern slavery, please contact [designated contact person or department, including contact details]. Date This statement was last updated on 20 th November 2023"
+      }
+    },
+    {
+      "type": "contact_form",
+      "fields": {
+        "division": "staffing",
+        "heading": "Modern Slavery Statement"
+      }
+    }
+  ],
+  "status": "draft"
 }

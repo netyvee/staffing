@@ -1,67 +1,93 @@
 {
-    "schema_version": 1,
-    "site": "care_staffing",
-    "slug": "/locations",
-    "page_type": "supporting",
-    "seo": {
-        "title": "Locations | Vigil Care Staffing",
-        "description": "Vigil Care Staffing serves care homes, supported living providers, and private households across London. Find your local care staffing service.",
-        "canonical": "/locations",
-        "focus_keyword": "care staffing locations london",
-        "schema_type": "WebPage"
+  "schema_version": 1,
+  "site": "care_staffing",
+  "slug": "/locations",
+  "page_type": "supporting",
+  "seo": {
+    "title": "Locations | Vigil Care Staffing",
+    "description": "Vigil Care Staffing serves care homes, supported living providers, and private households across London. Find your local care staffing service.",
+    "canonical": "/locations",
+    "focus_keyword": "care staffing locations london",
+    "schema_type": "WebPage"
+  },
+  "brand": {
+    "bg": "#0a1628",
+    "text": "#ffffff",
+    "cta": "#4ecdc4",
+    "secondary": "#7fb2d4"
+  },
+  "nap": {
+    "phone": "020 3973 8887",
+    "email": "staffing@vigilservices.co.uk",
+    "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+    "trading_name": "Vigil Care Staffing",
+    "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "fields": {
+        "heading": "Locations",
+        "sub": "Our Services",
+        "cta_label": "Get a Quote",
+        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+      }
     },
-    "brand": {
-        "bg": "#0a1628",
-        "text": "#ffffff",
-        "cta": "#4ecdc4",
-        "secondary": "#7fb2d4"
+    {
+      "type": "service_grid",
+      "fields": {
+        "items": [
+          {
+            "title": "Care Staffing Agency in London",
+            "body": "Read More"
+          },
+          {
+            "title": "Care Staffing Agency in Camden",
+            "body": "Read More"
+          },
+          {
+            "title": "Temporary Care Staffing Agency in Islington",
+            "body": "Read More"
+          },
+          {
+            "title": "Care Staffing Agency in Kensington and Chelsea",
+            "body": "Read More"
+          },
+          {
+            "title": "Care Staffing Agency in Hammersmith and Fulham",
+            "body": "Read More"
+          },
+          {
+            "title": "Care Staffing Agency in Wandsworth",
+            "body": "Read More"
+          }
+        ]
+      }
     },
-    "nap": {
-        "phone": "020 3973 8887",
-        "email": "staffing@vigilservices.co.uk",
-        "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
-        "trading_name": "Vigil Care Staffing",
-        "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "Locations Get a Quote Our Services Care Staffing Agency in London Read More Care Staffing Agency in Camden Read More Temporary Staffing Solutions in Islington Read More Temporary Care Staffing Agency in Westminster Read More Temporary Care Staffing Agency in Southwark Read More Temporary Care Staffing Agency in Islington Read More Temporary Care Staffing Agency in Hackney Read More Care Staffing Agency in Wandsworth Read More Care Staffing Agency in Southwark Read More Care Staffing Agency in Lambeth Read More Care Staffing Agency in Kensington and Chelsea Read More Care Staffing Agency in Hammersmith and Fulham Read More"
+      }
     },
-    "sections": [
-        {
-            "type": "hero",
-            "fields": {
-                "heading": "Locations",
-                "sub": "Our Services",
-                "cta_label": "Get a Quote",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
-            }
-        },
-        {
-            "type": "service_grid",
-            "fields": {
-                "items": [
-                    { "title": "Care Staffing Agency in London", "body": "Read More" },
-                    { "title": "Care Staffing Agency in Camden", "body": "Read More" },
-                    { "title": "Temporary Care Staffing Agency in Islington", "body": "Read More" },
-                    { "title": "Care Staffing Agency in Kensington and Chelsea", "body": "Read More" },
-                    { "title": "Care Staffing Agency in Hammersmith and Fulham", "body": "Read More" },
-                    { "title": "Care Staffing Agency in Wandsworth", "body": "Read More" }
-                ]
-            }
-        },
-        {
-            "type": "cta",
-            "fields": {
-                "heading": "Get a Quote",
-                "sub": "Our Services",
-                "cta_label": "Get a Quote",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
-            }
-        },
-        {
-            "type": "contact_form",
-            "fields": {
-                "division": "staffing",
-                "heading": "Get a Quote"
-            }
-        }
-    ],
-    "status": "draft"
+    {
+      "type": "cta",
+      "fields": {
+        "heading": "Get a Quote",
+        "sub": "Our Services",
+        "cta_label": "Get a Quote",
+        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+      }
+    },
+    {
+      "type": "contact_form",
+      "fields": {
+        "division": "staffing",
+        "heading": "Get a Quote"
+      }
+    }
+  ],
+  "status": "draft"
 }

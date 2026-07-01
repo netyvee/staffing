@@ -1,101 +1,461 @@
 {
-    "schema_version": 1,
-    "site": "care_staffing",
-    "slug": "/colleagues-support",
-    "page_type": "recruitment",
-    "seo": {
-        "title": "Colleagues Support | Vigil Care Staffing",
-        "description": "Health, wellbeing, finance, and professional development resources for Vigil Care Staffing colleagues. Links to support across every area of working life.",
-        "canonical": "/colleagues-support",
-        "focus_keyword": "colleagues support care staffing",
-        "schema_type": "WebPage"
+  "schema_version": 1,
+  "site": "care_staffing",
+  "slug": "/colleagues-support",
+  "page_type": "recruitment",
+  "seo": {
+    "title": "Colleagues Support | Vigil Care Staffing",
+    "description": "Health, wellbeing, finance, and professional development resources for Vigil Care Staffing colleagues. Links to support across every area of working life.",
+    "canonical": "/colleagues-support",
+    "focus_keyword": "colleagues support care staffing",
+    "schema_type": "WebPage"
+  },
+  "brand": {
+    "bg": "#0a1628",
+    "text": "#ffffff",
+    "cta": "#4ecdc4",
+    "secondary": "#7fb2d4"
+  },
+  "nap": {
+    "phone": "020 3973 8887",
+    "email": "staffing@vigilservices.co.uk",
+    "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+    "trading_name": "Vigil Care Staffing",
+    "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "fields": {
+        "heading": "Colleagues Support",
+        "sub": "The following guide has been designed to offer information, advice and guidance. The guide offers links to support you in your overall health and well-being and areas that may lead to stress and anxiety without the right support.",
+        "cta_label": "Contact Us",
+        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+      }
     },
-    "brand": {
-        "bg": "#0a1628",
-        "text": "#ffffff",
-        "cta": "#4ecdc4",
-        "secondary": "#7fb2d4"
+    {
+      "type": "text_image",
+      "fields": {
+        "heading": "Health and Well-being",
+        "body": "In this section you will find links to maintaining a healthy, balanced diet, managing stress and anxiety and exercises for keeping fit."
+      }
     },
-    "nap": {
-        "phone": "020 3973 8887",
-        "email": "staffing@vigilservices.co.uk",
-        "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
-        "trading_name": "Vigil Care Staffing",
-        "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
+    {
+      "type": "text_image",
+      "fields": {
+        "heading": "Mental Well-being",
+        "body": "The links in this section will guide you in looking after your mental health."
+      }
     },
-    "sections": [
-        {
-            "type": "hero",
-            "fields": {
-                "heading": "Colleagues Support",
-                "sub": "The following guide has been designed to offer information, advice and guidance. The guide offers links to support you in your overall health and well-being and areas that may lead to stress and anxiety without the right support.",
-                "cta_label": "",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
-            }
-        },
-        {
-            "type": "text_image",
-            "fields": {
-                "heading": "Health and Well-being",
-                "body": "In this section you will find links to maintaining a healthy, balanced diet, managing stress and anxiety and exercises for keeping fit."
-            }
-        },
-        {
-            "type": "text_image",
-            "fields": {
-                "heading": "Mental Well-being",
-                "body": "The links in this section will guide you in looking after your mental health."
-            }
-        },
-        {
-            "type": "text_image",
-            "fields": {
-                "heading": "Finance",
-                "body": "Here you will find links to advice and guidance on managing your finances, debt and benefits you may be entitled too."
-            }
-        },
-        {
-            "type": "text_image",
-            "fields": {
-                "heading": "Literacy and Numeracy",
-                "body": "In this section you will find links to support you with literacy and numeracy."
-            }
-        },
-        {
-            "type": "text_image",
-            "fields": {
-                "heading": "HR (Human Resources)",
-                "body": "Below are website links that will support you with any HR issues such as, pay and conditions, holiday entitlement, conflict resolution and disciplinaries."
-            }
-        },
-        {
-            "type": "text_image",
-            "fields": {
-                "heading": "Information Technology",
-                "body": "The website links below will provide you with support on information technology and developing your skills."
-            }
-        },
-        {
-            "type": "text_image",
-            "fields": {
-                "heading": "Childcare",
-                "body": "Here you will find information and guidance on different support available for childcare."
-            }
-        },
-        {
-            "type": "text_image",
-            "fields": {
-                "heading": "Support Groups and Pages",
-                "body": "In the last section you will find links to different support groups and networks on a range of different areas as detailed below."
-            }
-        },
-        {
-            "type": "contact_form",
-            "fields": {
-                "division": "staffing",
-                "heading": "Contacting Vigil Services Ltd"
-            }
-        }
-    ],
-    "status": "draft"
+    {
+      "type": "text_image",
+      "fields": {
+        "heading": "Finance",
+        "body": "Here you will find links to advice and guidance on managing your finances, debt and benefits you may be entitled too."
+      }
+    },
+    {
+      "type": "text_image",
+      "fields": {
+        "heading": "Literacy and Numeracy",
+        "body": "In this section you will find links to support you with literacy and numeracy."
+      }
+    },
+    {
+      "type": "text_image",
+      "fields": {
+        "heading": "HR (Human Resources)",
+        "body": "Below are website links that will support you with any HR issues such as, pay and conditions, holiday entitlement, conflict resolution and disciplinaries."
+      }
+    },
+    {
+      "type": "text_image",
+      "fields": {
+        "heading": "Information Technology",
+        "body": "The website links below will provide you with support on information technology and developing your skills."
+      }
+    },
+    {
+      "type": "text_image",
+      "fields": {
+        "heading": "Childcare",
+        "body": "Here you will find information and guidance on different support available for childcare."
+      }
+    },
+    {
+      "type": "text_image",
+      "fields": {
+        "heading": "Support Groups and Pages",
+        "body": "In the last section you will find links to different support groups and networks on a range of different areas as detailed below."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "At Vigil Services we have Health and Wellbeing Champions who are available to offer advice and guidance via phone and email Health and Well-being In this section you will find links to maintaining a healthy, balanced diet, managing stress and anxiety and exercises for keeping fit."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "uk/information-advice/health-wellbeing/ http://www."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "uk/live-well/eat-well/eight-tips-for-healthy-eating/ Tips for healthy work life balance, stress and anxiety www."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "uk/…/3/1/Flexible_working_and_work_life_balance_Nov."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "uk/a-to-z/w/work-life-balance https://www."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "com/balance/guide/blissing-out-10-relaxation-techniques-reduce-stress-spot#1 https://www."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "uk/conditions/stress-anxiety-depression/understanding-stress/ https://www."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "uk/live-well/exercise/gym-free-exercises/ Mental Well-being The links in this section will guide you in looking after your mental health."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "uk/information-support/tips-for-everyday-living/wellbeing/#."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "scot/healthy-living/mental-wellbeing https://www."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "uk/guidance/ph22 https://www."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "uk/your-mental-health/looking-after-your-mental-health Finance Here you will find links to advice and guidance on managing your finances, debt and benefits you may be entitled too."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "uk/browse/benefits https://www."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "uk/citizens-advice-consumer-service https://www."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "com/savings/best-financial-advisers/ https://nationaldebtadvice."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "uk Literacy and Numeracy In this section you will find links to support you with literacy and numeracy."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "uk/government/publications/literacy-and-numeracy-catch-up-strategies https://www."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "uk/Learning-development/ongoing-learning-and-development/core-skills/Core-skills."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "uk/courses/english-maths-esol http://www."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "uk/skillswise/maths https://www."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "com/bitesize/subjects/zjd8jty https://www."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "com/bitesize/levels/zvhtng8 http://www."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "uk/skillswise/english https://qualifications."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "com/en/qualifications/edexcel-functional-skills/Entry-level. html HR (Human Resources) Below are website links that will support you with any HR issues such as, pay and conditions, holiday entitlement, conflict resolution and disciplinaries."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "articleid=1461 https://join."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "utm_source=bing&utm_medium=cpc&utm_campaign=New%20-%20Brand%20-%20Variants%20-%20Exact&utm_term=unison%20uk&utm_content=Unison%20-%20UK https://www."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "org/article/legal Information Technology The website links below will provide you with support on information technology and developing your skills."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "uk/improve-english-maths-it-skills http://www."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "uk/learning/subjects/information_technology."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "aspx Childcare Here you will find information and guidance on different support available for childcare."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "uk/30-hours-free-childcare https://www."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "uk/help-with-childcare-costs/free-childcare-and-education-for-2-to-4-year-olds http://www."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "uk/help-with-childcare-costs/childcare-vouchers https://reports."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "uk/find-ofsted-inspection-report Support Groups and Pages In the last section you will find links to different support groups and networks on a range of different areas as detailed below."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "com/groups/YourFibromyalgiaSupport/ Netmums– https://www."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "com/support Working Mums who are studying – https://www."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "uk/balancing-work-family-and-studies/ Working Dads – https://www."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "com/ Family advice – https://www."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "uk/what-we-do/children-families/familyline/ Diabetes – https://www."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "com/groups/MyDiabetes/ Dyslexia – https://www."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "com/groups/DyslexiahelpandsupportUK/ Cancer family and friends support – family and friends support group – https://www."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "com/groups/138229306369462/ Cancer support groups – https://www."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "uk/information-and-support/coping/talking-about-cancer/find-groups-and-talks-near-you Hearing loss – www."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "com/Hearing-Loss-Support-345872518776672/ Pregnancy – https://www."
+      }
+    },
+    {
+      "type": "prose",
+      "editorial_review_recommended": true,
+      "restored_from_source": true,
+      "fields": {
+        "body": "uk/pregnancy Contacting Vigil Services Ltd Phone: 020 3973 8887"
+      }
+    },
+    {
+      "type": "contact_form",
+      "fields": {
+        "division": "staffing",
+        "heading": "Contacting Vigil Services Ltd"
+      }
+    }
+  ],
+  "status": "draft"
 }
