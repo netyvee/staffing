@@ -27,9 +27,9 @@
         {
             "type": "hero",
             "fields": {
-                "heading": "Locations",
-                "sub": "Our Services",
-                "cta_label": "Get a Quote",
+                "heading": "Our Care Staffing Locations Across London",
+                "sub": "Vigil Care Staffing supplies vetted care-sector workers to care providers across Greater London. Find your local area below.",
+                "cta_label": "Request Care Staff Today",
                 "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "image": {
                     "id": 103,
@@ -48,54 +48,59 @@
             "fields": {
                 "items": [
                     {
-                        "title": "Care Staffing Agency in London",
-                        "body": "Read More"
+                        "title": "Tower Hamlets",
+                        "body": "Vetted healthcare assistants, support workers and emergency cover for care providers across Tower Hamlets and the surrounding East London area."
                     },
                     {
-                        "title": "Care Staffing Agency in Camden",
-                        "body": "Read More"
+                        "title": "Southwark",
+                        "body": "Reliable short-notice and temporary care staffing for homes and supported-living services across Southwark."
                     },
                     {
-                        "title": "Temporary Care Staffing Agency in Islington",
-                        "body": "Read More"
+                        "title": "Westminster",
+                        "body": "Dependable care-sector workers for nursing homes, residential care and supported living across Westminster."
                     },
                     {
-                        "title": "Care Staffing Agency in Kensington and Chelsea",
-                        "body": "Read More"
+                        "title": "Wandsworth",
+                        "body": "Healthcare assistants, support workers and night-shift cover for care providers across Wandsworth."
                     },
                     {
-                        "title": "Care Staffing Agency in Hammersmith and Fulham",
-                        "body": "Read More"
+                        "title": "Hackney",
+                        "body": "Temporary and short-notice care staffing for care homes and supported-living services across Hackney."
                     },
                     {
-                        "title": "Care Staffing Agency in Wandsworth",
-                        "body": "Read More"
+                        "title": "Lambeth",
+                        "body": "Vetted care workers, live-in carers and emergency cover for providers across Lambeth."
+                    },
+                    {
+                        "title": "Kensington and Chelsea",
+                        "body": "Reliable healthcare assistants, support workers and live-in carers for care providers across Kensington and Chelsea."
+                    },
+                    {
+                        "title": "Islington",
+                        "body": "Short-notice and temporary care staffing for care homes and supported-living services across Islington."
+                    },
+                    {
+                        "title": "Camden",
+                        "body": "Healthcare assistants, support workers and night-shift cover for care providers across Camden."
+                    },
+                    {
+                        "title": "Hammersmith and Fulham",
+                        "body": "Vetted care-sector workers and emergency cover for nursing homes and supported living across Hammersmith and Fulham."
+                    },
+                    {
+                        "title": "Havering",
+                        "body": "Specialist residential care staffing for care homes across Havering, including Romford, Hornchurch and Upminster."
                     }
                 ]
             }
         },
         {
-            "type": "prose",
-            "editorial_review_recommended": true,
-            "restored_from_source": true,
-            "fields": {
-                "body": "Locations Get a Quote Our Services Care Staffing Agency in London Read More Care Staffing Agency in Camden Read More Temporary Staffing Solutions in Islington Read More Temporary Care Staffing Agency in Westminster Read More Temporary Care Staffing Agency in Southwark Read More Temporary Care Staffing Agency in Islington Read More Temporary Care Staffing Agency in Hackney Read More Care Staffing Agency in Wandsworth Read More Care Staffing Agency in Southwark Read More Care Staffing Agency in Lambeth Read More Care Staffing Agency in Kensington and Chelsea Read More Care Staffing Agency in Hammersmith and Fulham Read More"
-            }
-        },
-        {
             "type": "cta",
             "fields": {
-                "heading": "Get a Quote",
-                "sub": "Our Services",
-                "cta_label": "Get a Quote",
+                "heading": "Can't see your area?",
+                "sub": "We supply care staff to providers right across Greater London.",
+                "cta_label": "Request Care Staff Today",
                 "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
-            }
-        },
-        {
-            "type": "contact_form",
-            "fields": {
-                "division": "staffing",
-                "heading": "Get a Quote"
             }
         }
     ],
