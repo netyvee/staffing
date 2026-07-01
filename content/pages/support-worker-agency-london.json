@@ -1,217 +1,237 @@
 {
-  "schema_version": 1,
-  "site": "care_staffing",
-  "slug": "/support-worker-agency-london",
-  "page_type": "service",
-  "seo": {
-    "title": "Support Worker Agency London | Vigil Care Staffing",
-    "description": "Vigil Care Staffing provides CQC-compliant, fully vetted support workers across every London borough. Rapid placements for care homes, supported living, and specialist settings.",
-    "canonical": "/support-worker-agency-london",
-    "focus_keyword": "support worker agency london",
-    "schema_type": "Service"
-  },
-  "brand": {
-    "bg": "#0a1628",
-    "text": "#ffffff",
-    "cta": "#4ecdc4",
-    "secondary": "#7fb2d4"
-  },
-  "nap": {
-    "phone": "020 3973 8887",
-    "email": "staffing@vigilservices.co.uk",
-    "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
-    "trading_name": "Vigil Care Staffing",
-    "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
-  },
-  "sections": [
-    {
-      "type": "hero",
-      "fields": {
-        "heading": "Support Worker Agency London",
-        "sub": "Support worker agency London services from Vigil Care Staffing provide care providers with dependable, compassionate, and CQC-compliant professionals. Whether you need temporary cover, ongoing placements, or urgent last-minute shifts filled, our temporary staffing solutions ensure your residents or service users receive consistent, person-centred support.",
-        "cta_label": "Get a Quote",
-        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
-      }
+    "schema_version": 1,
+    "site": "care_staffing",
+    "slug": "/support-worker-agency-london",
+    "page_type": "service",
+    "seo": {
+        "title": "Support Worker Agency London | Vigil Care Staffing",
+        "description": "Vigil Care Staffing provides CQC-compliant, fully vetted support workers across every London borough. Rapid placements for care homes, supported living, and specialist settings.",
+        "canonical": "/support-worker-agency-london",
+        "focus_keyword": "support worker agency london",
+        "schema_type": "Service"
     },
-    {
-      "type": "text_image",
-      "fields": {
-        "heading": "Compassionate, Skilled, and Ready-to-Work Support Workers",
-        "body": "From care homes to supported living services, our agency care workers bring experience, empathy, and dedication to every role."
-      }
+    "brand": {
+        "bg": "#0a1628",
+        "text": "#ffffff",
+        "cta": "#4ecdc4",
+        "secondary": "#7fb2d4"
     },
-    {
-      "type": "service_grid",
-      "fields": {
-        "items": [
-          {
-            "title": "Rapid Placement",
-            "body": "Our temporary placement agency model allows us to fill shifts in hours, not days."
-          },
-          {
-            "title": "Compliance First",
-            "body": "We follow strict Care Quality Commission (CQC) guidelines to ensure safety and quality."
-          },
-          {
-            "title": "Tailored Staffing",
-            "body": "From complex needs support to companionship, we match staff skills to your service requirements."
-          },
-          {
-            "title": "Experienced Professionals",
-            "body": "Every agency care worker has proven experience in health and social care."
-          },
-          {
-            "title": "Borough-Wide Network",
-            "body": "Our reach spans all of London, ensuring we can provide local, dependable staff wherever you operate."
-          }
-        ]
-      }
+    "nap": {
+        "phone": "020 3973 8887",
+        "email": "staffing@vigilservices.co.uk",
+        "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+        "trading_name": "Vigil Care Staffing",
+        "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
     },
-    {
-      "type": "service_grid",
-      "fields": {
-        "items": [
-          {
-            "title": "24/7 Availability",
-            "body": "Cover any shift, at any time."
-          },
-          {
-            "title": "Fully Vetted Staff",
-            "body": "Enhanced DBS, reference checks, and skills assessments."
-          },
-          {
-            "title": "Flexible Staffing Models",
-            "body": "One-off shifts, block bookings, and long-term contracts."
-          },
-          {
-            "title": "Continuity of Care",
-            "body": "Repeat placements with the same staff to ensure familiarity and consistency."
-          },
-          {
-            "title": "Reduced Admin",
-            "body": "We handle payroll, compliance, and documentation, letting you focus on care."
-          }
-        ]
-      }
-    },
-    {
-      "type": "service_grid",
-      "fields": {
-        "items": [
-          {
-            "title": "Enhanced DBS Checks",
-            "body": "Safeguarding as standard."
-          },
-          {
-            "title": "Right to Work Verification",
-            "body": "Full legal compliance."
-          },
-          {
-            "title": "Reference Checks",
-            "body": "Minimum two professional references."
-          },
-          {
-            "title": "Skills Assessments",
-            "body": "Matching abilities to your service needs."
-          },
-          {
-            "title": "Ongoing CPD",
-            "body": "Regular training for updated skills and knowledge."
-          }
-        ]
-      }
-    },
-    {
-      "type": "faq",
-      "fields": {
-        "items": [
-          {
-            "q": "How quickly can your support worker agency London provide staff?",
-            "a": "We can often fill roles within hours, thanks to our borough-wide network of qualified support workers."
-          },
-          {
-            "q": "Do you provide support workers for specialist needs?",
-            "a": "Yes, our temporary care staffing agency team can match support workers with experience in dementia care, learning disabilities, and complex needs."
-          },
-          {
-            "q": "Can I book the same support workers for ongoing shifts?",
-            "a": "Absolutely – continuity of care is one of our priorities."
-          }
-        ]
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "Get a Quote Support worker agency London services from Vigil Care Staffing provide care providers with dependable, compassionate, and CQC-compliant professionals."
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "Why Choose Vigil Care Staffing for Support Workers in London Staff shortages don’t have to disrupt care. As a leading temporary care staffing agency , Vigil Care Staffing offers quick, reliable access to fully vetted support workers who fit seamlessly into your team."
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "Benefits of Working with Vigil Care Staffing Agency When you choose Vigil Care Staffing, you’re partnering with a healthcare recruitment agency that puts your needs first. Our key benefits include: 24/7 Availability Cover any shift, at any time."
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "Borough-Level Coverage and Rapid Response We supply support workers to every borough in London, enabling rapid deployment through our locally based professionals. North London Barnet Enfield Haringey Camden Islington East London Barking and Dagenham Newham Tower Hamlets Waltham Forest Redbridge Havering South London Croydon Sutton Merton Kingston upon Thames Bromley Central London Westminster City of London South East London Greenwich Lewisham Bexley Southwark Islington South West London Wandsworth Richmond upon Thames Lambeth West London Ealing Hounslow Hammersmith and Fulham Kensington and Chelsea Find Support Workers Our Vetting & Compliance Process As a trusted healthcare assistant recruitment agency and care staffing provider, we hold our recruitment to the highest standards."
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "Our temporary healthcare staffing process aligns with CQC requirements, so you can trust that every placement is competent and compliant. Facilities We Serve Our support worker recruitment services cover a variety of care environments: Residential Care Homes Supported Living Services Day Centres Rehabilitation Units Community-Based Care Private Healthcare Settings Whether you need one agency care worker or a team for a large facility, we can supply qualified staff quickly. Case Study: Consistent Cover in Westminster A Westminster-based supported living service faced ongoing staffing gaps over a six-week period. We provided the same two agency care workers for continuity, ensuring residents maintained strong relationships with familiar faces."
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "\"The consistency made a huge difference to our residents' wellbeing, and Vigil Care Staffing's reliability took the stress out of staffing. \" — Service Manager, Westminster Supported Living FAQs How quickly can your support worker agency London provide staff?"
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "FREE Quote Call Now Email Now"
-      }
-    },
-    {
-      "type": "cta",
-      "fields": {
-        "heading": "Request Support Workers in London Today",
-        "sub": "Providing skilled support workers for every borough in London.",
-        "cta_label": "FREE Quote",
-        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
-      }
-    },
-    {
-      "type": "contact_form",
-      "fields": {
-        "division": "staffing",
-        "heading": "Get a Quote"
-      }
-    }
-  ],
-  "status": "draft"
+    "sections": [
+        {
+            "type": "hero",
+            "fields": {
+                "heading": "Support Worker Agency London",
+                "sub": "Support worker agency London services from Vigil Care Staffing provide care providers with dependable, compassionate, and CQC-compliant professionals. Whether you need temporary cover, ongoing placements, or urgent last-minute shifts filled, our temporary staffing solutions ensure your residents or service users receive consistent, person-centred support.",
+                "cta_label": "Get a Quote",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
+                "image": {
+                    "id": 108,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894961/vigil/care_staffing/hero/temporary-care-staffing-agency-westminster-871x1024-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/hero/temporary-care-staffing-agency-westminster-871x1024-care-staffing-london",
+                    "alt": "Temporary Care Staffing Agency in Westminster providing healthcare assistants",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/08/temporary-care-staffing-agency-westminster-871x1024.jpg",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "Temporary Care Staffing Agency in Westminster providing healthcare assistants"
+            }
+        },
+        {
+            "type": "text_image",
+            "fields": {
+                "heading": "Compassionate, Skilled, and Ready-to-Work Support Workers",
+                "body": "From care homes to supported living services, our agency care workers bring experience, empathy, and dedication to every role.",
+                "image": {
+                    "id": 107,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894951/vigil/care_staffing/hero/support-worker-agency-london-care-support-1024x683-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/hero/support-worker-agency-london-care-support-1024x683-care-staffing-london",
+                    "alt": "Support worker agency London \u2013 support worker assisting service user",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/08/support-worker-agency-london-care-support-1024x683.jpg",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "Support worker agency London \u2013 support worker assisting service user"
+            }
+        },
+        {
+            "type": "service_grid",
+            "fields": {
+                "items": [
+                    {
+                        "title": "Rapid Placement",
+                        "body": "Our temporary placement agency model allows us to fill shifts in hours, not days."
+                    },
+                    {
+                        "title": "Compliance First",
+                        "body": "We follow strict Care Quality Commission (CQC) guidelines to ensure safety and quality."
+                    },
+                    {
+                        "title": "Tailored Staffing",
+                        "body": "From complex needs support to companionship, we match staff skills to your service requirements."
+                    },
+                    {
+                        "title": "Experienced Professionals",
+                        "body": "Every agency care worker has proven experience in health and social care."
+                    },
+                    {
+                        "title": "Borough-Wide Network",
+                        "body": "Our reach spans all of London, ensuring we can provide local, dependable staff wherever you operate."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "service_grid",
+            "fields": {
+                "items": [
+                    {
+                        "title": "24/7 Availability",
+                        "body": "Cover any shift, at any time."
+                    },
+                    {
+                        "title": "Fully Vetted Staff",
+                        "body": "Enhanced DBS, reference checks, and skills assessments."
+                    },
+                    {
+                        "title": "Flexible Staffing Models",
+                        "body": "One-off shifts, block bookings, and long-term contracts."
+                    },
+                    {
+                        "title": "Continuity of Care",
+                        "body": "Repeat placements with the same staff to ensure familiarity and consistency."
+                    },
+                    {
+                        "title": "Reduced Admin",
+                        "body": "We handle payroll, compliance, and documentation, letting you focus on care."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "service_grid",
+            "fields": {
+                "items": [
+                    {
+                        "title": "Enhanced DBS Checks",
+                        "body": "Safeguarding as standard."
+                    },
+                    {
+                        "title": "Right to Work Verification",
+                        "body": "Full legal compliance."
+                    },
+                    {
+                        "title": "Reference Checks",
+                        "body": "Minimum two professional references."
+                    },
+                    {
+                        "title": "Skills Assessments",
+                        "body": "Matching abilities to your service needs."
+                    },
+                    {
+                        "title": "Ongoing CPD",
+                        "body": "Regular training for updated skills and knowledge."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "fields": {
+                "items": [
+                    {
+                        "q": "How quickly can your support worker agency London provide staff?",
+                        "a": "We can often fill roles within hours, thanks to our borough-wide network of qualified support workers."
+                    },
+                    {
+                        "q": "Do you provide support workers for specialist needs?",
+                        "a": "Yes, our temporary care staffing agency team can match support workers with experience in dementia care, learning disabilities, and complex needs."
+                    },
+                    {
+                        "q": "Can I book the same support workers for ongoing shifts?",
+                        "a": "Absolutely \u2013 continuity of care is one of our priorities."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "Get a Quote Support worker agency London services from Vigil Care Staffing provide care providers with dependable, compassionate, and CQC-compliant professionals."
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "Why Choose Vigil Care Staffing for Support Workers in London Staff shortages don\u2019t have to disrupt care. As a leading temporary care staffing agency , Vigil Care Staffing offers quick, reliable access to fully vetted support workers who fit seamlessly into your team."
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "Benefits of Working with Vigil Care Staffing Agency When you choose Vigil Care Staffing, you\u2019re partnering with a healthcare recruitment agency that puts your needs first. Our key benefits include: 24/7 Availability Cover any shift, at any time."
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "Borough-Level Coverage and Rapid Response We supply support workers to every borough in London, enabling rapid deployment through our locally based professionals. North London Barnet Enfield Haringey Camden Islington East London Barking and Dagenham Newham Tower Hamlets Waltham Forest Redbridge Havering South London Croydon Sutton Merton Kingston upon Thames Bromley Central London Westminster City of London South East London Greenwich Lewisham Bexley Southwark Islington South West London Wandsworth Richmond upon Thames Lambeth West London Ealing Hounslow Hammersmith and Fulham Kensington and Chelsea Find Support Workers Our Vetting & Compliance Process As a trusted healthcare assistant recruitment agency and care staffing provider, we hold our recruitment to the highest standards."
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "Our temporary healthcare staffing process aligns with CQC requirements, so you can trust that every placement is competent and compliant. Facilities We Serve Our support worker recruitment services cover a variety of care environments: Residential Care Homes Supported Living Services Day Centres Rehabilitation Units Community-Based Care Private Healthcare Settings Whether you need one agency care worker or a team for a large facility, we can supply qualified staff quickly. Case Study: Consistent Cover in Westminster A Westminster-based supported living service faced ongoing staffing gaps over a six-week period. We provided the same two agency care workers for continuity, ensuring residents maintained strong relationships with familiar faces."
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "\"The consistency made a huge difference to our residents' wellbeing, and Vigil Care Staffing's reliability took the stress out of staffing. \" \u2014 Service Manager, Westminster Supported Living FAQs How quickly can your support worker agency London provide staff?"
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "FREE Quote Call Now Email Now"
+            }
+        },
+        {
+            "type": "cta",
+            "fields": {
+                "heading": "Request Support Workers in London Today",
+                "sub": "Providing skilled support workers for every borough in London.",
+                "cta_label": "FREE Quote",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+            }
+        },
+        {
+            "type": "contact_form",
+            "fields": {
+                "division": "staffing",
+                "heading": "Get a Quote"
+            }
+        }
+    ],
+    "status": "draft"
 }
