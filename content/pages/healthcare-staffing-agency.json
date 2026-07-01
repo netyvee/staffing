@@ -1,202 +1,212 @@
 {
-  "schema_version": 1,
-  "site": "care_staffing",
-  "slug": "/healthcare-staffing-agency",
-  "page_type": "service",
-  "seo": {
-    "title": "Healthcare Staffing Agency London | Vigil Care Staffing",
-    "description": "Trusted healthcare staffing agency in London supplying fully vetted Healthcare Assistants, Support Workers, and Cleaners. Fast, CQC-compliant placements for care providers.",
-    "canonical": "/healthcare-staffing-agency",
-    "focus_keyword": "healthcare staffing agency london",
-    "schema_type": "Service"
-  },
-  "brand": {
-    "bg": "#0a1628",
-    "text": "#ffffff",
-    "cta": "#4ecdc4",
-    "secondary": "#7fb2d4"
-  },
-  "nap": {
-    "phone": "020 3973 8887",
-    "email": "staffing@vigilservices.co.uk",
-    "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
-    "trading_name": "Vigil Care Staffing",
-    "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
-  },
-  "sections": [
-    {
-      "type": "hero",
-      "fields": {
-        "heading": "Home",
-        "sub": "Vigil Care connects care providers with fully vetted, compliant professionals—from compassionate Healthcare Assistants, experienced Support Workers, and infection-control-trained Cleaners.",
-        "cta_label": "Request Staff Today",
-        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
-      }
+    "schema_version": 1,
+    "site": "care_staffing",
+    "slug": "/healthcare-staffing-agency",
+    "page_type": "service",
+    "seo": {
+        "title": "Healthcare Staffing Agency London | Vigil Care Staffing",
+        "description": "Trusted healthcare staffing agency in London supplying fully vetted Healthcare Assistants, Support Workers, and Cleaners. Fast, CQC-compliant placements for care providers.",
+        "canonical": "/healthcare-staffing-agency",
+        "focus_keyword": "healthcare staffing agency london",
+        "schema_type": "Service"
     },
-    {
-      "type": "service_grid",
-      "fields": {
-        "items": [
-          {
-            "title": "Healthcare Assistants (HCAs)",
-            "body": "fully-trained HCAs for elderly care, dementia care, personal care, mobility support, medication prompting, companionship, end-of-life care and hospital settings."
-          },
-          {
-            "title": "Support Workers",
-            "body": "Specialist support workers for mental health, disability care, promoting independence and emotional wellbeing."
-          },
-          {
-            "title": "Cleaners",
-            "body": "Deep-cleaning Infection control specialists for healthcare environments trained to maintain hygiene standards in residential care, nursing homes, and supported living environments"
-          }
-        ]
-      }
+    "brand": {
+        "bg": "#0a1628",
+        "text": "#ffffff",
+        "cta": "#4ecdc4",
+        "secondary": "#7fb2d4"
     },
-    {
-      "type": "service_grid",
-      "fields": {
-        "items": [
-          {
-            "title": "Personalised support",
-            "body": "Personalised support, responsive 24/7 availability"
-          },
-          {
-            "title": "Staff provision",
-            "body": "Staff provision for care homes, nursing homes, and supported living facilities"
-          },
-          {
-            "title": "CQC & NHS-Compliant",
-            "body": "CQC & NHS-Compliant – Meets UK healthcare standards"
-          }
-        ]
-      }
+    "nap": {
+        "phone": "020 3973 8887",
+        "email": "staffing@vigilservices.co.uk",
+        "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+        "trading_name": "Vigil Care Staffing",
+        "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
     },
-    {
-      "type": "service_grid",
-      "fields": {
-        "items": [
-          {
-            "title": "Tell Us Your Requirements",
-            "body": "Submit your care staffing needs online or by phone"
-          },
-          {
-            "title": "We Match You with Staff",
-            "body": "Based on your needs, location, and timing"
-          },
-          {
-            "title": "Receive Quality Cover",
-            "body": "With our responsive team and pool of trained staff"
-          },
-          {
-            "title": "Ongoing Support",
-            "body": "We're here when you need additional or repeat cover, even at short notice"
-          }
-        ]
-      }
-    },
-    {
-      "type": "faq",
-      "fields": {
-        "items": [
-          {
-            "q": "What roles does your healthcare staffing agency supply?",
-            "a": "We supply Healthcare Assistants, Support Workers, and Cleaners to care homes, nursing homes, and supported living settings."
-          },
-          {
-            "q": "Can you provide emergency or same-day staffing?",
-            "a": "Yes. Our healthcare staffing agency is equipped to provide same-day or next-day staff, depending on availability."
-          },
-          {
-            "q": "Are your staff vetted and trained?",
-            "a": "Absolutely. All professionals go through background checks, are DBS-certified, and complete mandatory training."
-          },
-          {
-            "q": "How quickly can you provide cover?",
-            "a": "We can often fulfil requests within hours. Our agency is known for speed, reliability, and consistency."
-          }
-        ]
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "Healthcare Staffing Agency UK Trusted Healthcare Assistants, Support Workers & Cleaners Get a Free Quote What type of enquiry are you making today? This form is for employers only. Jobseekers should apply via our Jobs Page."
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "I am a business looking for staff I am looking for a job Response ⚠️ This form is for clients only. If you're looking for work, please apply here . Location * Name * Phone * Email Address * Services Required * Select required staff Healthcare Assistants Support Workers Cleaners Any further information Response To ensure we meet your specific needs, we’d like to provide a personalised quote tailored just for you. Please submit the form, and one of our specialists will be in touch shortly Response ⚠️ This form is for clients only."
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "About us Vigil Staffing Agency As a trusted Healthcare Staffing Agency UK, Vigil Care connects care providers with fully vetted, compliant professionals—from compassionate Healthcare Assistants, experienced Support Workers, and infection-control-trained Cleaners."
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "Request Staff Today Why Choose Our Healthcare Staffing Agency UK Services?"
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "Personalised support, responsive 24/7 availability Staff provision for care homes, nursing homes, and supported living facilities CQC & NHS-Compliant – Meets UK healthcare standards FREE Quote Healthcare Assistants (HCAs) Our Healthcare Staffing Agency UK provides fully-trained HCAs for elderly care, dementia care, personal care, mobility support, medication prompting, companionship, end-of-life care and hospital settings."
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "FREE Quote Get the Best Healthcare Staffing Solutions Today!"
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "Let Vigil Care Staffing provide you with skilled and reliable staff to enhance your care facility’s operations! Call Us 020 3973 8887 Email us staffing@vigilservices."
-      }
-    },
-    {
-      "type": "prose",
-      "editorial_review_recommended": true,
-      "restored_from_source": true,
-      "fields": {
-        "body": "uk Location Ferguson House 113 Cranbrook Road, Ilford, IG1 4PU"
-      }
-    },
-    {
-      "type": "cta",
-      "fields": {
-        "heading": "Get the Best Healthcare Staffing Solutions Today!",
-        "sub": "Whether you need emergency cover or long-term support, we deliver fast, simple staffing solutions with rigorous safety checks.",
-        "cta_label": "Request Healthcare Staff!!",
-        "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
-      }
-    },
-    {
-      "type": "contact_form",
-      "fields": {
-        "division": "staffing",
-        "heading": "Get the Best Healthcare Staffing Solutions Today!"
-      }
-    }
-  ],
-  "status": "draft"
+    "sections": [
+        {
+            "type": "hero",
+            "fields": {
+                "heading": "Home",
+                "sub": "Vigil Care connects care providers with fully vetted, compliant professionals\u2014from compassionate Healthcare Assistants, experienced Support Workers, and infection-control-trained Cleaners.",
+                "cta_label": "Request Staff Today",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
+                "image": {
+                    "id": 81,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894650/vigil/care_staffing/hero/healthcare-assistant-vigil-care-services-1-585x439-1-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/hero/healthcare-assistant-vigil-care-services-1-585x439-1-care-staffing-london",
+                    "alt": "Healthcare staffing agency professional assisting a senior with daily living skills",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/03/healthcare-assistant-vigil-care-services-1-585x439-1.jpg",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "Healthcare staffing agency professional assisting a senior with daily living skills"
+            }
+        },
+        {
+            "type": "service_grid",
+            "fields": {
+                "items": [
+                    {
+                        "title": "Healthcare Assistants (HCAs)",
+                        "body": "fully-trained HCAs for elderly care, dementia care, personal care, mobility support, medication prompting, companionship, end-of-life care and hospital settings."
+                    },
+                    {
+                        "title": "Support Workers",
+                        "body": "Specialist support workers for mental health, disability care, promoting independence and emotional wellbeing."
+                    },
+                    {
+                        "title": "Cleaners",
+                        "body": "Deep-cleaning Infection control specialists for healthcare environments trained to maintain hygiene standards in residential care, nursing homes, and supported living environments"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "service_grid",
+            "fields": {
+                "items": [
+                    {
+                        "title": "Personalised support",
+                        "body": "Personalised support, responsive 24/7 availability"
+                    },
+                    {
+                        "title": "Staff provision",
+                        "body": "Staff provision for care homes, nursing homes, and supported living facilities"
+                    },
+                    {
+                        "title": "CQC & NHS-Compliant",
+                        "body": "CQC & NHS-Compliant \u2013 Meets UK healthcare standards"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "service_grid",
+            "fields": {
+                "items": [
+                    {
+                        "title": "Tell Us Your Requirements",
+                        "body": "Submit your care staffing needs online or by phone"
+                    },
+                    {
+                        "title": "We Match You with Staff",
+                        "body": "Based on your needs, location, and timing"
+                    },
+                    {
+                        "title": "Receive Quality Cover",
+                        "body": "With our responsive team and pool of trained staff"
+                    },
+                    {
+                        "title": "Ongoing Support",
+                        "body": "We're here when you need additional or repeat cover, even at short notice"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "fields": {
+                "items": [
+                    {
+                        "q": "What roles does your healthcare staffing agency supply?",
+                        "a": "We supply Healthcare Assistants, Support Workers, and Cleaners to care homes, nursing homes, and supported living settings."
+                    },
+                    {
+                        "q": "Can you provide emergency or same-day staffing?",
+                        "a": "Yes. Our healthcare staffing agency is equipped to provide same-day or next-day staff, depending on availability."
+                    },
+                    {
+                        "q": "Are your staff vetted and trained?",
+                        "a": "Absolutely. All professionals go through background checks, are DBS-certified, and complete mandatory training."
+                    },
+                    {
+                        "q": "How quickly can you provide cover?",
+                        "a": "We can often fulfil requests within hours. Our agency is known for speed, reliability, and consistency."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "Healthcare Staffing Agency UK Trusted Healthcare Assistants, Support Workers & Cleaners Get a Free Quote What type of enquiry are you making today? This form is for employers only. Jobseekers should apply via our Jobs Page."
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "I am a business looking for staff I am looking for a job Response \u26a0\ufe0f This form is for clients only. If you're looking for work, please apply here . Location * Name * Phone * Email Address * Services Required * Select required staff Healthcare Assistants Support Workers Cleaners Any further information Response To ensure we meet your specific needs, we\u2019d like to provide a personalised quote tailored just for you. Please submit the form, and one of our specialists will be in touch shortly Response \u26a0\ufe0f This form is for clients only."
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "About us Vigil Staffing Agency As a trusted Healthcare Staffing Agency UK, Vigil Care connects care providers with fully vetted, compliant professionals\u2014from compassionate Healthcare Assistants, experienced Support Workers, and infection-control-trained Cleaners."
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "Request Staff Today Why Choose Our Healthcare Staffing Agency UK Services?"
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "Personalised support, responsive 24/7 availability Staff provision for care homes, nursing homes, and supported living facilities CQC & NHS-Compliant \u2013 Meets UK healthcare standards FREE Quote Healthcare Assistants (HCAs) Our Healthcare Staffing Agency UK provides fully-trained HCAs for elderly care, dementia care, personal care, mobility support, medication prompting, companionship, end-of-life care and hospital settings."
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "FREE Quote Get the Best Healthcare Staffing Solutions Today!"
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "Let Vigil Care Staffing provide you with skilled and reliable staff to enhance your care facility\u2019s operations! Call Us 020 3973 8887 Email us staffing@vigilservices."
+            }
+        },
+        {
+            "type": "prose",
+            "editorial_review_recommended": true,
+            "restored_from_source": true,
+            "fields": {
+                "body": "uk Location Ferguson House 113 Cranbrook Road, Ilford, IG1 4PU"
+            }
+        },
+        {
+            "type": "cta",
+            "fields": {
+                "heading": "Get the Best Healthcare Staffing Solutions Today!",
+                "sub": "Whether you need emergency cover or long-term support, we deliver fast, simple staffing solutions with rigorous safety checks.",
+                "cta_label": "Request Healthcare Staff!!",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+            }
+        },
+        {
+            "type": "contact_form",
+            "fields": {
+                "division": "staffing",
+                "heading": "Get the Best Healthcare Staffing Solutions Today!"
+            }
+        }
+    ],
+    "status": "draft"
 }
