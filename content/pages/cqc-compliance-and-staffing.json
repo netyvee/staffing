@@ -5,10 +5,10 @@
     "page_type": "blog",
     "seo": {
         "title": "CQC Compliance and Staffing | Vigil Care Staffing",
-        "canonical": "/cqc-compliance-and-staffing",
         "description": "How care providers align staffing, evidence and supervision to the CQC single assessment framework and Regulation 18 this quarter.",
-        "schema_type": "Article",
-        "focus_keyword": "CQC compliance and staffing"
+        "canonical": "/cqc-compliance-and-staffing",
+        "focus_keyword": "CQC compliance and staffing",
+        "schema_type": "Article"
     },
     "brand": {
         "bg": "#0a1628",
@@ -27,86 +27,104 @@
         {
             "type": "hero",
             "fields": {
-                "sub": "How care providers align staffing, evidence and supervision to the CQC single assessment framework and Regulation 18.",
-                "image": "",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "heading": "CQC Compliance and Staffing: What's Changing This Quarter",
+                "sub": "How care providers align staffing, evidence and supervision to the CQC single assessment framework and Regulation 18.",
                 "cta_label": "Talk to Vigil Care Staffing",
-                "image_alt": "Care manager reviewing staffing and compliance records"
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
+                "image": {
+                    "id": 89,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894744/vigil/care_staffing/hero/cqc-compliance-and-staffing-quality-statement-evidence-index-300x173-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/hero/cqc-compliance-and-staffing-quality-statement-evidence-index-300x173-care-staffing-london",
+                    "alt": "CQC compliance and staffing evidence index showing supervision, rotas, training and incident learning mapped to quality statements",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/10/CQC-compliance-and-staffing-\u2013-quality-statement-evidence-index-300x173.jpg",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "CQC compliance and staffing evidence index showing supervision, rotas, training and incident learning mapped to quality statements"
             },
             "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
+                "heading": "The essentials",
                 "body": "CQC compliance in staffing is about being able to show, with evidence, that you have enough suitably skilled people on shift to meet residents' needs safely. Regulation 18 of the Health and Social Care Act regulations sets the expectation for sufficient numbers of suitably qualified, competent and experienced staff. The single assessment framework then asks providers to evidence this through quality statements on an ongoing basis, rather than through one-off inspections.",
-                "heading": "The essentials"
+                "image": {
+                    "id": 90,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894756/vigil/care_staffing/general/cqc-compliance-and-staffing-provider-portal-and-kpi-dashboard-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/general/cqc-compliance-and-staffing-provider-portal-and-kpi-dashboard-care-staffing-london",
+                    "alt": "provider portal submissions alongside a staffing KPI dashboard tracking fill rate, continuity and supervision timeliness",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/10/CQC-compliance-and-staffing-\u2013-provider-portal-and-KPI-dashboard.webp",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "provider portal submissions alongside a staffing KPI dashboard tracking fill rate, continuity and supervision timeliness"
             },
             "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
-                "body": "The direction of travel is towards continuous, evidence-led assurance. Inspectors increasingly expect to see planned staffing compared against actual staffing, clear supervision records, and up-to-date competency evidence for every worker, including agency staff. Providers who keep this evidence current throughout the year, rather than assembling it before an inspection, are far better placed. Building a light-touch quarterly refresh into your routine keeps records inspection-ready at all times.",
-                "heading": "What's changing this quarter, at a glance"
+                "heading": "What's changing this quarter, at a glance",
+                "body": "The direction of travel is towards continuous, evidence-led assurance. Inspectors increasingly expect to see planned staffing compared against actual staffing, clear supervision records, and up-to-date competency evidence for every worker, including agency staff. Providers who keep this evidence current throughout the year, rather than assembling it before an inspection, are far better placed. Building a light-touch quarterly refresh into your routine keeps records inspection-ready at all times."
             },
             "provenance": "later_editorial"
         },
         {
             "type": "service_grid",
             "fields": {
+                "heading": "CQC compliance and staffing checklist",
                 "items": [
                     {
-                        "body": "Keep a record of planned rotas against the hours actually worked, with reasons for any variance and how gaps were covered.",
-                        "title": "Planned versus actual staffing"
+                        "title": "Planned versus actual staffing",
+                        "body": "Keep a record of planned rotas against the hours actually worked, with reasons for any variance and how gaps were covered."
                     },
                     {
-                        "body": "Confirm every worker, permanent or agency, has valid right-to-work evidence and an appropriate DBS check on file.",
-                        "title": "Right-to-work and DBS"
+                        "title": "Right-to-work and DBS",
+                        "body": "Confirm every worker, permanent or agency, has valid right-to-work evidence and an appropriate DBS check on file."
                     },
                     {
-                        "body": "Check that safeguarding, infection prevention, moving and handling and medication training are current for all staff on shift.",
-                        "title": "Mandatory training and competencies"
+                        "title": "Mandatory training and competencies",
+                        "body": "Check that safeguarding, infection prevention, moving and handling and medication training are current for all staff on shift."
                     },
                     {
-                        "body": "Maintain a supervision cadence for each worker, with dated notes that show the issues raised and the actions taken.",
-                        "title": "Supervision and appraisal"
+                        "title": "Supervision and appraisal",
+                        "body": "Maintain a supervision cadence for each worker, with dated notes that show the issues raised and the actions taken."
                     },
                     {
-                        "body": "Hold compliance profiles for agency staff so you can evidence their vetting and training alongside your own team.",
-                        "title": "Agency worker assurance"
+                        "title": "Agency worker assurance",
+                        "body": "Hold compliance profiles for agency staff so you can evidence their vetting and training alongside your own team."
                     }
-                ],
-                "heading": "CQC compliance and staffing checklist"
+                ]
             },
             "provenance": "later_editorial"
         },
         {
             "type": "service_grid",
             "fields": {
+                "heading": "Roles and governance",
                 "items": [
                     {
-                        "body": "Assign clear ownership for staffing compliance, so someone is accountable for keeping evidence complete and current.",
-                        "title": "Compliance and assurance"
+                        "title": "Compliance and assurance",
+                        "body": "Assign clear ownership for staffing compliance, so someone is accountable for keeping evidence complete and current."
                     },
                     {
-                        "body": "Agree how rota, training and supervision records are stored and updated, so evidence is easy to retrieve at short notice.",
-                        "title": "Documentation and information flow"
+                        "title": "Documentation and information flow",
+                        "body": "Agree how rota, training and supervision records are stored and updated, so evidence is easy to retrieve at short notice."
                     },
                     {
-                        "body": "Track a small set of measures, such as shift-fill rates and training-compliance percentages, to spot risks early.",
-                        "title": "KPIs and workforce quality assurance"
+                        "title": "KPIs and workforce quality assurance",
+                        "body": "Track a small set of measures, such as shift-fill rates and training-compliance percentages, to spot risks early."
                     },
                     {
-                        "body": "Set a predictable schedule for supervisions and observations so development and oversight happen consistently.",
-                        "title": "Supervision cadence model"
+                        "title": "Supervision cadence model",
+                        "body": "Set a predictable schedule for supervisions and observations so development and oversight happen consistently."
                     },
                     {
-                        "body": "Review and update your staffing evidence each quarter so nothing lapses between formal assessments.",
-                        "title": "Quarterly evidence refresh"
+                        "title": "Quarterly evidence refresh",
+                        "body": "Review and update your staffing evidence each quarter so nothing lapses between formal assessments."
                     }
-                ],
-                "heading": "Roles and governance"
+                ]
             },
             "provenance": "later_editorial"
         },
@@ -115,16 +133,16 @@
             "fields": {
                 "items": [
                     {
-                        "a": "It requires providers to deploy sufficient numbers of suitably qualified, competent, skilled and experienced staff to meet people's needs safely at all times.",
-                        "q": "What does Regulation 18 require for staffing?"
+                        "q": "What does Regulation 18 require for staffing?",
+                        "a": "It requires providers to deploy sufficient numbers of suitably qualified, competent, skilled and experienced staff to meet people's needs safely at all times."
                     },
                     {
-                        "a": "It asks providers to evidence safe staffing through quality statements on an ongoing basis, rather than relying on a single inspection snapshot.",
-                        "q": "How does the single assessment framework affect staffing evidence?"
+                        "q": "How does the single assessment framework affect staffing evidence?",
+                        "a": "It asks providers to evidence safe staffing through quality statements on an ongoing basis, rather than relying on a single inspection snapshot."
                     },
                     {
-                        "a": "Keep a compliance profile for each agency worker covering DBS, right-to-work, references and mandatory training. A vetted staffing partner can supply this to support your records.",
-                        "q": "How should we evidence agency staff compliance?"
+                        "q": "How should we evidence agency staff compliance?",
+                        "a": "Keep a compliance profile for each agency worker covering DBS, right-to-work, references and mandatory training. A vetted staffing partner can supply this to support your records."
                     }
                 ]
             },
@@ -136,32 +154,32 @@
                 "heading": "Related services",
                 "locations": [
                     {
-                        "href": "/healthcare-assistants",
-                        "label": "Healthcare assistants"
+                        "label": "Healthcare assistants",
+                        "href": "/healthcare-assistants"
                     },
                     {
-                        "href": "/support-workers",
-                        "label": "Support workers"
+                        "label": "Support workers",
+                        "href": "/support-workers"
                     },
                     {
-                        "href": "/night-shift-care-staff-london",
-                        "label": "Night-shift care staff"
+                        "label": "Night-shift care staff",
+                        "href": "/night-shift-care-staff-london"
                     },
                     {
-                        "href": "/emergency-care-cover-london",
-                        "label": "Emergency care cover"
+                        "label": "Emergency care cover",
+                        "href": "/emergency-care-cover-london"
                     },
                     {
-                        "href": "/temporary-care-staff-london",
-                        "label": "Temporary care staff"
+                        "label": "Temporary care staff",
+                        "href": "/temporary-care-staff-london"
                     },
                     {
-                        "href": "/live-in-care-agency-in-london",
-                        "label": "Live-in care"
+                        "label": "Live-in care",
+                        "href": "/live-in-care-agency-in-london"
                     }
                 ],
-                "view_all_url": "/services",
-                "view_all_label": "All services"
+                "view_all_label": "All services",
+                "view_all_url": "/services"
             },
             "provenance": "framework_enhancement"
         },
@@ -171,30 +189,30 @@
                 "heading": "More guides",
                 "locations": [
                     {
-                        "href": "/temporary-staffing-solutions",
-                        "label": "Temporary staffing solutions for healthcare"
+                        "label": "Temporary staffing solutions for healthcare",
+                        "href": "/temporary-staffing-solutions"
                     },
                     {
-                        "href": "/hire-healthcare-assistants",
-                        "label": "Hiring healthcare assistants"
+                        "label": "Hiring healthcare assistants",
+                        "href": "/hire-healthcare-assistants"
                     },
                     {
-                        "href": "/care-home-cpd",
-                        "label": "Care home CPD and CQC compliance"
+                        "label": "Care home CPD and CQC compliance",
+                        "href": "/care-home-cpd"
                     }
                 ],
-                "view_all_url": "/blog",
-                "view_all_label": "All guides"
+                "view_all_label": "All guides",
+                "view_all_url": "/blog"
             },
             "provenance": "framework_enhancement"
         },
         {
             "type": "cta",
             "fields": {
-                "sub": "Vigil Care Staffing supplies vetted, compliance-checked care workers across Greater London.",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "heading": "Want staffing that supports your CQC evidence?",
-                "cta_label": "Talk to Vigil Care Staffing"
+                "sub": "Vigil Care Staffing supplies vetted, compliance-checked care workers across Greater London.",
+                "cta_label": "Talk to Vigil Care Staffing",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
             },
             "provenance": "later_editorial"
         }
