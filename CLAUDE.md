@@ -13,7 +13,9 @@ Domain: staffing.vigilservices.co.uk
 
 ## Division Identity
 Name: Vigil Care Staffing
-Colour: #378ADD (blue)
+Brand: navy #0a1628 background, white text, teal #4ecdc4 CTA, #7fb2d4 secondary
+       (shared website palette — the earlier blue #378ADD is the CRM-internal
+       Staffing admin colour, NEVER used on the website; corrected W-FRAMEWORK-F1, C-4)
 Phone: 020 3973 8887
 Email: staffing@vigilservices.co.uk
 Service type: Staffing
@@ -68,12 +70,15 @@ Secondary CTA text: "Add us to your PSL"
 - 12-week qualifying period applies
 
 ## Deployment
-WordPress hosted site
-Changes via WordPress admin or file editor
-CTA links point to Laravel CRM enquiry page
+Next.js render-from-JSON engine on Vercel (auto-deploys on push to main).
+Page content lives in content/pages/*.json, committed by the CRM
+(netyvee/app vigil:web-publish-site — QA-gated auto-publish on CRM deploy).
+Do NOT hand-edit page JSON; content changes go through the CRM.
+(The old WordPress site is the MIGRATION SOURCE only — corrected W-FRAMEWORK-F1.)
 
 ## NEVER
 - Promise staff availability without checking
 - Mention specific pay rates publicly
-- Change the blue colour scheme (#378ADD)
+- Change the navy/teal website colour scheme (navy #0a1628, teal #4ecdc4 —
+  blue #378ADD is CRM-internal only, never on the website)
 - Use vague language about compliance
