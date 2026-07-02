@@ -5,10 +5,10 @@
     "page_type": "service",
     "seo": {
         "title": "Support Worker Agency London | Vigil Care Staffing",
-        "canonical": "/support-worker-agency-london",
         "description": "Vigil Care Staffing provides CQC-compliant, fully vetted support workers across every London borough. Rapid placements for care homes, supported living, and specialist settings.",
-        "schema_type": "Service",
-        "focus_keyword": "support worker agency london"
+        "canonical": "/support-worker-agency-london",
+        "focus_keyword": "support worker agency london",
+        "schema_type": "Service"
     },
     "brand": {
         "bg": "#0a1628",
@@ -27,20 +27,38 @@
         {
             "type": "hero",
             "fields": {
-                "sub": "Vigil Care Staffing is a support worker agency supplying vetted, DBS-checked support workers to care homes, supported living and specialist services across Greater London.",
-                "image": "",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "heading": "Support Worker Agency in London",
+                "sub": "Vigil Care Staffing is a support worker agency supplying vetted, DBS-checked support workers to care homes, supported living and specialist services across Greater London.",
                 "cta_label": "Request Support Workers",
-                "image_alt": "Support worker from a London agency assisting a service user"
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
+                "image": {
+                    "id": 108,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894961/vigil/care_staffing/hero/temporary-care-staffing-agency-westminster-871x1024-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/hero/temporary-care-staffing-agency-westminster-871x1024-care-staffing-london",
+                    "alt": "Temporary Care Staffing Agency in Westminster providing healthcare assistants",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/08/temporary-care-staffing-agency-westminster-871x1024.jpg",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "Temporary Care Staffing Agency in Westminster providing healthcare assistants"
             },
             "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
+                "heading": "A support worker agency you can depend on",
                 "body": "When your service needs dependable support workers, the right agency makes the difference between a safely covered rota and a stressful scramble. Vigil Care Staffing is a support worker agency supplying vetted, experienced support workers to care homes, supported living services and specialist settings across Greater London.\n\nWe provide cover for single shifts, recurring bookings and longer placements, matching each support worker to the setting and to the people they will support. From learning-disability and mental health services to residential care, we place people who fit your team.\n\nVigil Care Staffing is a staffing supplier, not a regulated care provider. Our focus is straightforward: giving your service reliable, fully vetted support workers who are ready to work from their first shift.",
-                "heading": "A support worker agency you can depend on"
+                "image": {
+                    "id": 107,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894951/vigil/care_staffing/hero/support-worker-agency-london-care-support-1024x683-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/hero/support-worker-agency-london-care-support-1024x683-care-staffing-london",
+                    "alt": "Support worker agency London \u2013 support worker assisting service user",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/08/support-worker-agency-london-care-support-1024x683.jpg",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "Support worker agency London \u2013 support worker assisting service user"
             },
             "provenance": "later_editorial"
         },
@@ -49,28 +67,28 @@
             "fields": {
                 "items": [
                     {
-                        "body": "We draw on a local pool of available support workers to fill short-notice shifts and keep your rota safely covered when plans change unexpectedly.",
-                        "title": "Rapid placement"
+                        "title": "Rapid placement",
+                        "body": "We draw on a local pool of available support workers to fill short-notice shifts and keep your rota safely covered when plans change unexpectedly."
                     },
                     {
-                        "body": "Every support worker is fully vetted before placement, so compliance is settled before anyone starts rather than chased afterwards.",
-                        "title": "Compliance first"
+                        "title": "Compliance first",
+                        "body": "Every support worker is fully vetted before placement, so compliance is settled before anyone starts rather than chased afterwards."
                     },
                     {
-                        "body": "We match support workers to your setting and requirements, whether that is supported living, mental health or residential care.",
-                        "title": "Tailored staffing"
+                        "title": "Tailored staffing",
+                        "body": "We match support workers to your setting and requirements, whether that is supported living, mental health or residential care."
                     },
                     {
-                        "body": "Our team coordinates cover across days, nights and weekends, so support is arranged whenever your service needs it.",
-                        "title": "Round-the-clock availability"
+                        "title": "Round-the-clock availability",
+                        "body": "Our team coordinates cover across days, nights and weekends, so support is arranged whenever your service needs it."
                     },
                     {
-                        "body": "Wherever possible we return the same support workers to your service, supporting consistency for the people you care for.",
-                        "title": "Continuity of care"
+                        "title": "Continuity of care",
+                        "body": "Wherever possible we return the same support workers to your service, supporting consistency for the people you care for."
                     },
                     {
-                        "body": "We handle vetting, training records and payroll for the workers we supply, reducing the administrative load on your team.",
-                        "title": "Reduced admin"
+                        "title": "Reduced admin",
+                        "body": "We handle vetting, training records and payroll for the workers we supply, reducing the administrative load on your team."
                     }
                 ]
             },
@@ -79,10 +97,18 @@
         {
             "type": "text_image",
             "fields": {
-                "body": "Every support worker completes an enhanced DBS check, right-to-work verification and reference checks from previous care employers before their first shift. We confirm mandatory training in safeguarding, moving and handling and infection control, and keep it current through ongoing development.\n\nOur recruitment follows a CQC-compliant process designed to support your own safe-staffing records. Because our support workers are directly employed, responsibility for their vetting and conduct stays with us throughout every placement.",
-                "image": "",
                 "heading": "Vetting and compliance you can trust",
-                "image_alt": "Support worker agency staff member with a service user in a London supported living home"
+                "body": "Every support worker completes an enhanced DBS check, right-to-work verification and reference checks from previous care employers before their first shift. We confirm mandatory training in safeguarding, moving and handling and infection control, and keep it current through ongoing development.\n\nOur recruitment follows a CQC-compliant process designed to support your own safe-staffing records. Because our support workers are directly employed, responsibility for their vetting and conduct stays with us throughout every placement.",
+                "image": {
+                    "id": 107,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894951/vigil/care_staffing/hero/support-worker-agency-london-care-support-1024x683-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/hero/support-worker-agency-london-care-support-1024x683-care-staffing-london",
+                    "alt": "Support worker agency London \u2013 support worker assisting service user",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/08/support-worker-agency-london-care-support-1024x683.jpg",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "Support worker agency London \u2013 support worker assisting service user"
             },
             "provenance": "later_editorial"
         },
@@ -91,20 +117,20 @@
             "fields": {
                 "items": [
                     {
-                        "a": "We supply support workers to care providers across Greater London. Tell us your location and setting and we will confirm availability near you.",
-                        "q": "Which areas do you cover?"
+                        "q": "Which areas do you cover?",
+                        "a": "We supply support workers to care providers across Greater London. Tell us your location and setting and we will confirm availability near you."
                     },
                     {
-                        "a": "We keep a local pool of available support workers and respond quickly to short-notice requests, always confirming what we can cover.",
-                        "q": "How quickly can you fill a shift?"
+                        "q": "How quickly can you fill a shift?",
+                        "a": "We keep a local pool of available support workers and respond quickly to short-notice requests, always confirming what we can cover."
                     },
                     {
-                        "a": "Each support worker is enhanced-DBS-checked, right-to-work verified and reference-checked, with mandatory training confirmed before they start.",
-                        "q": "What vetting do your support workers have?"
+                        "q": "What vetting do your support workers have?",
+                        "a": "Each support worker is enhanced-DBS-checked, right-to-work verified and reference-checked, with mandatory training confirmed before they start."
                     },
                     {
-                        "a": "Yes. We provide temporary shift cover, ongoing bookings and longer placements, so you can use us for a single shift or continuing support.",
-                        "q": "Do you provide temporary and ongoing cover?"
+                        "q": "Do you provide temporary and ongoing cover?",
+                        "a": "Yes. We provide temporary shift cover, ongoing bookings and longer placements, so you can use us for a single shift or continuing support."
                     }
                 ]
             },
@@ -116,32 +142,32 @@
                 "heading": "Related staffing services",
                 "locations": [
                     {
-                        "href": "/healthcare-assistants",
-                        "label": "Healthcare assistants"
+                        "label": "Healthcare assistants",
+                        "href": "/healthcare-assistants"
                     },
                     {
-                        "href": "/support-workers",
-                        "label": "Support workers"
+                        "label": "Support workers",
+                        "href": "/support-workers"
                     },
                     {
-                        "href": "/night-shift-care-staff-london",
-                        "label": "Night-shift care staff"
+                        "label": "Night-shift care staff",
+                        "href": "/night-shift-care-staff-london"
                     },
                     {
-                        "href": "/emergency-care-cover-london",
-                        "label": "Emergency care cover"
+                        "label": "Emergency care cover",
+                        "href": "/emergency-care-cover-london"
                     },
                     {
-                        "href": "/temporary-care-staff-london",
-                        "label": "Temporary care staff"
+                        "label": "Temporary care staff",
+                        "href": "/temporary-care-staff-london"
                     },
                     {
-                        "href": "/live-in-care-agency-in-london",
-                        "label": "Live-in care"
+                        "label": "Live-in care",
+                        "href": "/live-in-care-agency-in-london"
                     }
                 ],
-                "view_all_url": "/services",
-                "view_all_label": "All services"
+                "view_all_label": "All services",
+                "view_all_url": "/services"
             },
             "provenance": "framework_enhancement"
         },
@@ -151,32 +177,32 @@
                 "heading": "Areas we cover",
                 "locations": [
                     {
-                        "href": "/care-staff-agency-tower-hamlets",
-                        "label": "Tower Hamlets"
+                        "label": "Tower Hamlets",
+                        "href": "/care-staff-agency-tower-hamlets"
                     },
                     {
-                        "href": "/temporary-care-staffing-agency-in-hackney",
-                        "label": "Hackney"
+                        "label": "Hackney",
+                        "href": "/temporary-care-staffing-agency-in-hackney"
                     },
                     {
-                        "href": "/temporary-care-staffing-agency-in-islington",
-                        "label": "Islington"
+                        "label": "Islington",
+                        "href": "/temporary-care-staffing-agency-in-islington"
                     },
                     {
-                        "href": "/care-staffing-agency-in-camden",
-                        "label": "Camden"
+                        "label": "Camden",
+                        "href": "/care-staffing-agency-in-camden"
                     },
                     {
-                        "href": "/temporary-care-staffing-agency-westminster",
-                        "label": "Westminster"
+                        "label": "Westminster",
+                        "href": "/temporary-care-staffing-agency-westminster"
                     },
                     {
-                        "href": "/care-staffing-agency-kensington-and-chelsea",
-                        "label": "Kensington & Chelsea"
+                        "label": "Kensington & Chelsea",
+                        "href": "/care-staffing-agency-kensington-and-chelsea"
                     }
                 ],
-                "view_all_url": "/locations",
-                "view_all_label": "View all locations"
+                "view_all_label": "View all locations",
+                "view_all_url": "/locations"
             },
             "provenance": "framework_enhancement"
         },
@@ -186,20 +212,20 @@
                 "heading": "Related guides",
                 "locations": [
                     {
-                        "href": "/temporary-staffing-solutions",
-                        "label": "Temporary staffing solutions for healthcare"
+                        "label": "Temporary staffing solutions for healthcare",
+                        "href": "/temporary-staffing-solutions"
                     },
                     {
-                        "href": "/cqc-compliance-and-staffing",
-                        "label": "CQC compliance and staffing"
+                        "label": "CQC compliance and staffing",
+                        "href": "/cqc-compliance-and-staffing"
                     },
                     {
-                        "href": "/hire-healthcare-assistants",
-                        "label": "Hiring healthcare assistants"
+                        "label": "Hiring healthcare assistants",
+                        "href": "/hire-healthcare-assistants"
                     },
                     {
-                        "href": "/care-home-cpd",
-                        "label": "Care home CPD and CQC compliance"
+                        "label": "Care home CPD and CQC compliance",
+                        "href": "/care-home-cpd"
                     }
                 ]
             },
@@ -208,10 +234,10 @@
         {
             "type": "cta",
             "fields": {
-                "sub": "Tell us your rota gap and we will match experienced support workers to your service across Greater London.",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "heading": "Need vetted support workers across London?",
-                "cta_label": "Request Support Workers"
+                "sub": "Tell us your rota gap and we will match experienced support workers to your service across Greater London.",
+                "cta_label": "Request Support Workers",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
             },
             "provenance": "later_editorial"
         },
