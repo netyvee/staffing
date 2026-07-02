@@ -5,10 +5,10 @@
     "page_type": "supporting",
     "seo": {
         "title": "Privacy Policy | Vigil Care Staffing",
-        "canonical": "/privacy-policy",
         "description": "Vigil Care Staffing privacy policy \u2014 what personal information we collect, how we use it, how we keep it secure, and your rights including the right to be forgotten.",
-        "schema_type": "WebPage",
-        "focus_keyword": "vigil care staffing privacy policy"
+        "canonical": "/privacy-policy",
+        "focus_keyword": "vigil care staffing privacy policy",
+        "schema_type": "WebPage"
     },
     "brand": {
         "bg": "#0a1628",
@@ -27,11 +27,11 @@
         {
             "type": "hero",
             "fields": {
-                "sub": "How Vigil Care Staffing collects, uses and protects your personal information, and the rights you have over your data.",
-                "image": "",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "heading": "Privacy Policy",
+                "sub": "How Vigil Care Staffing collects, uses and protects your personal information, and the rights you have over your data.",
                 "cta_label": "Contact Us",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
+                "image": "",
                 "image_alt": "Vigil Care Staffing privacy and data protection"
             },
             "provenance": "later_editorial"
@@ -39,90 +39,90 @@
         {
             "type": "prose",
             "fields": {
-                "body": "This privacy policy explains how Vigil Care Staffing collects, uses, stores and protects your personal information when you use our website, enquire about our services, or work with us as a care-sector candidate. We are committed to handling your information responsibly and in line with UK data-protection law, including the UK General Data Protection Regulation and the Data Protection Act 2018. By using our website or services, you agree to the practices described in this policy.",
-                "heading": "Introduction"
+                "heading": "Introduction",
+                "body": "This privacy policy explains how Vigil Care Staffing collects, uses, stores and protects your personal information when you use our website, enquire about our services, or work with us as a care-sector candidate. We are committed to handling your information responsibly and in line with UK data-protection law, including the UK General Data Protection Regulation and the Data Protection Act 2018. By using our website or services, you agree to the practices described in this policy."
             },
             "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
-                "body": "We may collect information you provide directly, such as your name, contact details, work history, references and right-to-work documents when you apply for care-sector assignments or enquire about staffing. We may also collect limited technical information about how you use our website, such as your device type and the pages you visit, to help us improve the service. We only collect information that is relevant to the purpose for which it is needed.",
-                "heading": "Information we collect"
+                "heading": "Information we collect",
+                "body": "We may collect information you provide directly, such as your name, contact details, work history, references and right-to-work documents when you apply for care-sector assignments or enquire about staffing. We may also collect limited technical information about how you use our website, such as your device type and the pages you visit, to help us improve the service. We only collect information that is relevant to the purpose for which it is needed."
             },
             "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
-                "body": "We use your information to respond to enquiries, to match candidates with suitable care-sector assignments, to carry out vetting and compliance checks, and to manage our working relationships with clients and workers. We may also use it to meet our legal and regulatory obligations and to improve our services. We do not use your information for purposes that are incompatible with those set out here.",
-                "heading": "How we use your information"
+                "heading": "How we use your information",
+                "body": "We use your information to respond to enquiries, to match candidates with suitable care-sector assignments, to carry out vetting and compliance checks, and to manage our working relationships with clients and workers. We may also use it to meet our legal and regulatory obligations and to improve our services. We do not use your information for purposes that are incompatible with those set out here."
             },
             "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
-                "body": "We process personal information where we have a lawful basis to do so. This may include your consent, the performance of a contract with you, compliance with a legal obligation, or our legitimate interests in running a safe and effective staffing service. Where we rely on your consent, you may withdraw it at any time.",
-                "heading": "Our lawful basis for processing"
+                "heading": "Our lawful basis for processing",
+                "body": "We process personal information where we have a lawful basis to do so. This may include your consent, the performance of a contract with you, compliance with a legal obligation, or our legitimate interests in running a safe and effective staffing service. Where we rely on your consent, you may withdraw it at any time."
             },
             "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
-                "body": "We only share your information where it is necessary and lawful to do so. This may include sharing candidate details with care providers who are considering an assignment, or with service providers who support our operations under appropriate safeguards. We do not sell your personal information to third parties.",
-                "heading": "Sharing your information"
+                "heading": "Sharing your information",
+                "body": "We only share your information where it is necessary and lawful to do so. This may include sharing candidate details with care providers who are considering an assignment, or with service providers who support our operations under appropriate safeguards. We do not sell your personal information to third parties."
             },
             "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
-                "body": "We take appropriate technical and organisational measures to protect your personal information against loss, misuse and unauthorised access. Access to personal data is limited to those who need it to carry out their role. While no system can be completely secure, we work to keep your information safe at all times.",
-                "heading": "How we keep your information secure"
+                "heading": "How we keep your information secure",
+                "body": "We take appropriate technical and organisational measures to protect your personal information against loss, misuse and unauthorised access. Access to personal data is limited to those who need it to carry out their role. While no system can be completely secure, we work to keep your information safe at all times."
             },
             "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
-                "body": "We keep personal information only for as long as it is needed for the purposes described in this policy, or for as long as the law requires. When information is no longer needed, we take steps to delete or anonymise it securely.",
-                "heading": "How long we keep your information"
+                "heading": "How long we keep your information",
+                "body": "We keep personal information only for as long as it is needed for the purposes described in this policy, or for as long as the law requires. When information is no longer needed, we take steps to delete or anonymise it securely."
             },
             "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
-                "body": "Under data-protection law you have rights over your personal information. These include the right to access the data we hold about you, to have inaccurate data corrected, and to request that your data be erased, sometimes known as the right to be forgotten. You also have rights to restrict or object to certain processing and to request a copy of your data in a portable format. We will respond to any request in line with the law.",
-                "heading": "Your rights"
+                "heading": "Your rights",
+                "body": "Under data-protection law you have rights over your personal information. These include the right to access the data we hold about you, to have inaccurate data corrected, and to request that your data be erased, sometimes known as the right to be forgotten. You also have rights to restrict or object to certain processing and to request a copy of your data in a portable format. We will respond to any request in line with the law."
             },
             "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
-                "body": "Our website may use cookies and similar technologies to help the site function and to understand how it is used. You can control cookies through your browser settings. Disabling some cookies may affect how parts of the website work.",
-                "heading": "Cookies"
+                "heading": "Cookies",
+                "body": "Our website may use cookies and similar technologies to help the site function and to understand how it is used. You can control cookies through your browser settings. Disabling some cookies may affect how parts of the website work."
             },
             "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
-                "body": "We may update this privacy policy from time to time to reflect changes in our practices or the law. Any updated version will be published on this page with a revised date, and we encourage you to review it periodically.",
-                "heading": "Changes to this policy"
+                "heading": "Changes to this policy",
+                "body": "We may update this privacy policy from time to time to reflect changes in our practices or the law. Any updated version will be published on this page with a revised date, and we encourage you to review it periodically."
             },
             "provenance": "later_editorial"
         },
         {
             "type": "cta",
             "fields": {
-                "sub": "If you would like to exercise your rights or ask about this policy, our team is here to help.",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "heading": "Questions about your data?",
-                "cta_label": "Contact Us"
+                "sub": "If you would like to exercise your rights or ask about this policy, our team is here to help.",
+                "cta_label": "Contact Us",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
             },
             "provenance": "later_editorial"
         }
