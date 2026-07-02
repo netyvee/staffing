@@ -1,0 +1,31 @@
+name: QA Gate
+
+# W-STAFFING-FRAMEWORK-ADOPTION: build smoke + division isolation + visual-completion
+# on every push/PR. Content gate stays CRM-side (StructuralFidelity + provenance in
+# netyvee/app); this proves the site builds on its pinned framework, that no foreign
+# division phone/domain appears in public output, and that the visual-completion hard
+# gates hold (logo/favicon/og/single-sticky/footer-clearance/mobile-nav-a11y/etc.).
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  qa:
+    name: build + isolation + visual-completion
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Install (framework pin resolves from the public git tag)
+        run: npm install
+      - name: Build
+        run: npm run build
+      - name: Division isolation (built output)
+        run: node node_modules/@vigil/web-framework/scripts/division-isolation-check.mjs --mode built --own care_staffing
+      - name: Visual completion gates
+        run: node node_modules/@vigil/web-framework/scripts/visual-completion-check.mjs --site .

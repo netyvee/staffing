@@ -1,6 +1,18 @@
+/* Staffing adopts the framework design tokens (W-STAFFING-FRAMEWORK-ADOPTION). */
+@import '@vigil/web-framework/src/tokens/tokens.css';
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-:root { color-scheme: dark; }
-body { margin: 0; font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+/* Per-site font wiring: the type SCALE is the framework's; the FAMILIES are the shared
+   Vigil pairing (DM Sans + Playfair via next/font, set on <html> in layout.tsx). */
+:root {
+  color-scheme: dark;
+  --vf-font-display: var(--font-playfair), ui-serif, Georgia, serif;
+  --vf-font-body: var(--font-dm-sans), ui-sans-serif, system-ui, sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: var(--vf-font-body);
+}

@@ -1,13 +1,15 @@
-// Care Staffing site NAVIGATION STRUCTURE only. NAP (phone/email/address/trading_name)
-// is NEVER here — it comes from the page JSON `nap` block (registry-sourced, staffing
-// 020 3973 8887) so a wrong/cross-division number is impossible by construction.
-//
-// SCAFFOLD NOTE (Gate 1): the nav links below are placeholders derived from the URL
-// inventory (AUDIT/STAFFING-URL-INVENTORY.md) and point at the canonical slugs the
-// migration will produce. The pages themselves are migrated in Gate 2+. The shell
-// renders today; content lands later.
-export const siteNav = {
+// Vigil Care Staffing site NAVIGATION STRUCTURE + brand-asset references only.
+// NAP (phone/email/address/trading_name) is NEVER here — it comes from the page JSON
+// `nap` block (registry-sourced, staffing 020 3973 8887) so a wrong/cross-division
+// number is impossible by construction. Brand assets are repo-static paths (site
+// config/asset contract, W-STAFFING-FRAMEWORK-ADOPTION §11) — the future dashboard
+// edits these values; the shared shell component reads them, never a literal.
+import type { SiteNav } from '@vigil/web-framework';
+
+export const siteNav: SiteNav = {
   brandName: 'Vigil Care Staffing',
+  // Real approved Vigil Care Staffing logo (white-carded landscape wordmark) — public/logo-staffing.webp
+  logo: { src: '/logo-staffing.webp', alt: 'Vigil Care Staffing', footerSrc: '/logo-staffing.webp' },
   primary: [
     { label: 'Home', href: '/' },
     { label: 'Services', href: '/services' },
@@ -25,6 +27,19 @@ export const siteNav = {
         { label: 'Temporary Staffing', href: '/temporary-staffing-solutions-london' },
       ],
     },
+    {
+      heading: 'Company',
+      links: [
+        { label: 'About', href: '/about' },
+        { label: 'Locations', href: '/locations' },
+      ],
+    },
+  ],
+  legalLinks: [
+    { label: 'Privacy Policy', href: '/privacy-policy' },
+    { label: 'Modern Slavery Statement', href: '/modern-slavery-statement-2' },
+    { label: 'Equal Opportunities', href: '/equal-opportunities-employer-policy' },
   ],
   companyReg: 'Company Reg. 11756806',
+  enquiryCtaLabel: 'Request staffing support',
 };

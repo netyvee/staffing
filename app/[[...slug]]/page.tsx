@@ -1,10 +1,15 @@
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
-import { getPage, getPageSlugs, paramsToFile } from '@/lib/pages/loader';
-import { RenderSections } from '@/components/sections/registry';
-import { Header } from '@/components/shell/Header';
-import { Footer } from '@/components/shell/Footer';
-import { MobileCta } from '@/components/shell/MobileCta';
+import {
+  getPage,
+  getPageSlugs,
+  paramsToFile,
+  buildPageMetadata,
+  RenderSections,
+  Shell,
+  JsonLd,
+} from '@vigil/web-framework';
+import { siteNav } from '@/config/site';
 
 export const dynamicParams = false; // only committed pages exist; everything else 404s
 
@@ -13,39 +18,21 @@ export function generateStaticParams() {
 }
 
 export function generateMetadata({ params }: { params: { slug?: string[] } }): Metadata {
-  const page = getPage(paramsToFile(params.slug ?? []));
-  if (!page) return {};
-  const canonical = page.seo.canonical.replace(/\/$/, '') || '/';
-  return {
-    title: page.seo.title,
-    description: page.seo.description,
-    alternates: { canonical },
-    robots: page.seo.noindex ? { index: false, follow: false } : { index: true, follow: true },
-    openGraph: {
-      title: page.seo.title,
-      description: page.seo.description,
-      url: canonical,
-      siteName: page.nap.trading_name,
-      locale: 'en_GB',
-      type: 'website',
-      images: page.seo.og_image ? [{ url: page.seo.og_image }] : [],
-    },
-  };
+  // '/og-staffing.webp' resolves against metadataBase → the site-default OG image.
+  return buildPageMetadata(getPage(paramsToFile(params.slug ?? [])), { ogImage: '/og-staffing.webp' });
 }
 
 export default function Page({ params }: { params: { slug?: string[] } }) {
   const page = getPage(paramsToFile(params.slug ?? []));
   if (!page) notFound();
-  // The JSON content ALWAYS renders inside the shell (header/nav/footer/NAP/CTA).
-  // A bare, shell-less page can no longer be produced by the engine.
+  // Shell v2 renders the complete, coordinated shell (logo header + accessible mobile
+  // nav + complete footer + ONE governed sticky CTA) around the JSON content.
   return (
-    <div style={{ background: page.brand.bg, color: page.brand.text }} className="flex min-h-screen flex-col">
-      <Header page={page} />
-      <main className="flex-1">
+    <>
+      <JsonLd page={page} origin="https://staffing.vigilservices.co.uk" />
+      <Shell page={page} nav={siteNav}>
         <RenderSections page={page} />
-      </main>
-      <Footer page={page} />
-      <MobileCta page={page} />
-    </div>
+      </Shell>
+    </>
   );
 }

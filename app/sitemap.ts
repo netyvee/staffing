@@ -1,5 +1,5 @@
 import type { MetadataRoute } from 'next';
-import { getPage, getPageSlugs } from '@/lib/pages/loader';
+import { getPage, getPageSlugs } from '@vigil/web-framework';
 
 const BASE = 'https://staffing.vigilservices.co.uk';
 

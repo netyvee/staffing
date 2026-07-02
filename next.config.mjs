@@ -23,6 +23,7 @@ const redirects = [
 ];
 
 const nextConfig = {
+  transpilePackages: ['@vigil/web-framework'], // framework ships TS source (docs/PUBLISHING.md)
   trailingSlash: false, // canonical = no trailing slash (matches SEO block + Page Health gate)
   async redirects() {
     return redirects;
