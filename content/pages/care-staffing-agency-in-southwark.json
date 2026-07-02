@@ -5,10 +5,10 @@
     "page_type": "borough",
     "seo": {
         "title": "Care Staffing Agency in Southwark | Vigil Care Staffing",
-        "canonical": "/care-staffing-agency-in-southwark",
         "description": "Trusted, CQC-compliant care staffing across Southwark \u2014 healthcare assistants, support workers, live-in carers, and emergency cover. Available 24/7.",
-        "schema_type": "Service",
-        "focus_keyword": "care staffing agency southwark"
+        "canonical": "/care-staffing-agency-in-southwark",
+        "focus_keyword": "care staffing agency southwark",
+        "schema_type": "Service"
     },
     "brand": {
         "bg": "#0a1628",
@@ -27,20 +27,28 @@
         {
             "type": "hero",
             "fields": {
-                "sub": "Vigil Care Staffing supplies vetted, DBS-checked healthcare assistants, support workers and night-shift cover to care providers across Southwark and south-east London.",
-                "image": "",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "heading": "Care Staffing Agency in Southwark",
+                "sub": "Vigil Care Staffing supplies vetted, DBS-checked healthcare assistants, support workers and night-shift cover to care providers across Southwark and south-east London.",
                 "cta_label": "Request Care Staff Today",
-                "image_alt": "Healthcare assistant from a care staffing agency supporting a resident in a Southwark care home"
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
+                "image": {
+                    "id": 81,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894650/vigil/care_staffing/hero/healthcare-assistant-vigil-care-services-1-585x439-1-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/hero/healthcare-assistant-vigil-care-services-1-585x439-1-care-staffing-london",
+                    "alt": "Healthcare staffing agency professional assisting a senior with daily living skills",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/03/healthcare-assistant-vigil-care-services-1-585x439-1.jpg",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "Healthcare staffing agency professional assisting a senior with daily living skills"
             },
             "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
-                "body": "Southwark stretches from the riverside at Bermondsey and Rotherhithe down through Peckham, Camberwell and Dulwich, and its care homes, supported living schemes and community services rely on steady staffing to run safely. When a rota gap appears, Vigil Care Staffing supplies vetted care-sector workers who can cover the shift without disrupting resident care. We place healthcare assistants, support workers and healthcare cleaners with providers right across the borough.\n\nWe are a care-staffing agency, not a regulated care provider, so our focus is filling rota gaps reliably for the managers who run Southwark's services. Every worker we send is directly employed, DBS-checked and matched to the role you need covered. Southwark forms part of our wider coverage across Greater London, which means cover for a home in Peckham or Elephant and Castle can draw on a responsive local network.",
-                "heading": "Dependable care staffing for Southwark"
+                "heading": "Dependable care staffing for Southwark",
+                "body": "Southwark stretches from the riverside at Bermondsey and Rotherhithe down through Peckham, Camberwell and Dulwich, and its care homes, supported living schemes and community services rely on steady staffing to run safely. When a rota gap appears, Vigil Care Staffing supplies vetted care-sector workers who can cover the shift without disrupting resident care. We place healthcare assistants, support workers and healthcare cleaners with providers right across the borough.\n\nWe are a care-staffing agency, not a regulated care provider, so our focus is filling rota gaps reliably for the managers who run Southwark's services. Every worker we send is directly employed, DBS-checked and matched to the role you need covered. Southwark forms part of our wider coverage across Greater London, which means cover for a home in Peckham or Elephant and Castle can draw on a responsive local network."
             },
             "provenance": "later_editorial"
         },
@@ -49,36 +57,54 @@
             "fields": {
                 "items": [
                     {
-                        "body": "Rota gaps in Southwark can appear with little warning, so we respond quickly to short-notice and same-day requests and place a suitable worker as soon as availability is confirmed.",
-                        "title": "Rapid response times"
+                        "title": "Rapid response times",
+                        "body": "Rota gaps in Southwark can appear with little warning, so we respond quickly to short-notice and same-day requests and place a suitable worker as soon as availability is confirmed."
                     },
                     {
-                        "body": "We know the spread of care settings across Southwark, from nursing homes near Camberwell to supported living in Bermondsey and Peckham. That familiarity helps us match staff who can reach your site reliably.",
-                        "title": "Local Southwark knowledge"
+                        "title": "Local Southwark knowledge",
+                        "body": "We know the spread of care settings across Southwark, from nursing homes near Camberwell to supported living in Bermondsey and Peckham. That familiarity helps us match staff who can reach your site reliably."
                     },
                     {
-                        "body": "For Southwark homes that need the same workers on repeat shifts, we aim to send people who already know your residents and routines, supporting smoother handovers and consistent care.",
-                        "title": "Continuity of care"
+                        "title": "Continuity of care",
+                        "body": "For Southwark homes that need the same workers on repeat shifts, we aim to send people who already know your residents and routines, supporting smoother handovers and consistent care."
                     },
                     {
-                        "body": "We match each Southwark request to a worker with the right experience, whether that is dementia care, learning-disability support or general healthcare assistant duties.",
-                        "title": "Specialist matching"
+                        "title": "Specialist matching",
+                        "body": "We match each Southwark request to a worker with the right experience, whether that is dementia care, learning-disability support or general healthcare assistant duties."
                     },
                     {
-                        "body": "Every worker supplied to a Southwark provider is DBS-checked, right-to-work verified and referenced before their first shift, following a CQC-aligned process that supports your own staffing records.",
-                        "title": "Compliance-conscious vetting"
+                        "title": "Compliance-conscious vetting",
+                        "body": "Every worker supplied to a Southwark provider is DBS-checked, right-to-work verified and referenced before their first shift, following a CQC-aligned process that supports your own staffing records."
                     }
-                ]
+                ],
+                "image": {
+                    "id": 82,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894661/vigil/care_staffing/general/care-staffing-agency-southwark-team-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/general/care-staffing-agency-southwark-team-care-staffing-london",
+                    "alt": "Care staffing agency in Southwark team providing support",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/08/care-staffing-agency-southwark-team.jpg",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "Care staffing agency in Southwark team providing support"
             },
             "provenance": "later_editorial"
         },
         {
             "type": "text_image",
             "fields": {
-                "body": "Our coverage runs across the whole of Southwark, including Peckham, Bermondsey, Dulwich, Camberwell, Elephant and Castle, Rotherhithe, Nunhead and Surrey Quays. Because Southwark sits within our broader Greater London network, we can call on nearby workers when a borough rota tightens at short notice. From residential and nursing homes to supported living schemes and community services, we supply the care-sector staff Southwark providers need close to where they are needed.",
-                "image": "",
                 "heading": "Care staffing across Southwark and surrounding areas",
-                "image_alt": "Support workers from a care staffing agency arriving for a shift at a Southwark supported living scheme"
+                "body": "Our coverage runs across the whole of Southwark, including Peckham, Bermondsey, Dulwich, Camberwell, Elephant and Castle, Rotherhithe, Nunhead and Surrey Quays. Because Southwark sits within our broader Greater London network, we can call on nearby workers when a borough rota tightens at short notice. From residential and nursing homes to supported living schemes and community services, we supply the care-sector staff Southwark providers need close to where they are needed.",
+                "image": {
+                    "id": 82,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894661/vigil/care_staffing/general/care-staffing-agency-southwark-team-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/general/care-staffing-agency-southwark-team-care-staffing-london",
+                    "alt": "Care staffing agency in Southwark team providing support",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/08/care-staffing-agency-southwark-team.jpg",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "Care staffing agency in Southwark team providing support"
             },
             "provenance": "later_editorial"
         },
@@ -87,20 +113,20 @@
             "fields": {
                 "items": [
                     {
-                        "a": "Yes. We supply care staff across Southwark, including Peckham, Bermondsey, Dulwich, Camberwell and Elephant and Castle, as part of our wider coverage across Greater London.",
-                        "q": "Do you cover the whole of Southwark?"
+                        "q": "Do you cover the whole of Southwark?",
+                        "a": "Yes. We supply care staff across Southwark, including Peckham, Bermondsey, Dulwich, Camberwell and Elephant and Castle, as part of our wider coverage across Greater London."
                     },
                     {
-                        "a": "We prioritise short-notice and same-day requests and place a suitable worker as soon as we can confirm availability. Contacting us early gives us the best chance of covering your Southwark shift.",
-                        "q": "How quickly can you fill a shift in Southwark?"
+                        "q": "How quickly can you fill a shift in Southwark?",
+                        "a": "We prioritise short-notice and same-day requests and place a suitable worker as soon as we can confirm availability. Contacting us early gives us the best chance of covering your Southwark shift."
                     },
                     {
-                        "a": "We supply healthcare assistants, support workers and healthcare cleaners for care homes, nursing homes, supported living schemes and community services across Southwark.",
-                        "q": "What roles can you supply in Southwark?"
+                        "q": "What roles can you supply in Southwark?",
+                        "a": "We supply healthcare assistants, support workers and healthcare cleaners for care homes, nursing homes, supported living schemes and community services across Southwark."
                     },
                     {
-                        "a": "Yes. We cover short-notice temporary rota gaps and also provide longer placements when a Southwark provider needs ongoing support.",
-                        "q": "Do you offer temporary and permanent care staff?"
+                        "q": "Do you offer temporary and permanent care staff?",
+                        "a": "Yes. We cover short-notice temporary rota gaps and also provide longer placements when a Southwark provider needs ongoing support."
                     }
                 ]
             },
@@ -112,32 +138,32 @@
                 "heading": "Care staffing services in Southwark",
                 "locations": [
                     {
-                        "href": "/healthcare-assistants",
-                        "label": "Healthcare assistants"
+                        "label": "Healthcare assistants",
+                        "href": "/healthcare-assistants"
                     },
                     {
-                        "href": "/support-workers",
-                        "label": "Support workers"
+                        "label": "Support workers",
+                        "href": "/support-workers"
                     },
                     {
-                        "href": "/night-shift-care-staff-london",
-                        "label": "Night-shift care staff"
+                        "label": "Night-shift care staff",
+                        "href": "/night-shift-care-staff-london"
                     },
                     {
-                        "href": "/emergency-care-cover-london",
-                        "label": "Emergency care cover"
+                        "label": "Emergency care cover",
+                        "href": "/emergency-care-cover-london"
                     },
                     {
-                        "href": "/temporary-care-staff-london",
-                        "label": "Temporary care staff"
+                        "label": "Temporary care staff",
+                        "href": "/temporary-care-staff-london"
                     },
                     {
-                        "href": "/live-in-care-agency-in-london",
-                        "label": "Live-in care"
+                        "label": "Live-in care",
+                        "href": "/live-in-care-agency-in-london"
                     }
                 ],
-                "view_all_url": "/services",
-                "view_all_label": "All care staffing services"
+                "view_all_label": "All care staffing services",
+                "view_all_url": "/services"
             },
             "provenance": "framework_enhancement"
         },
@@ -147,20 +173,20 @@
                 "heading": "Related guides",
                 "locations": [
                     {
-                        "href": "/temporary-staffing-solutions",
-                        "label": "Temporary staffing solutions for healthcare"
+                        "label": "Temporary staffing solutions for healthcare",
+                        "href": "/temporary-staffing-solutions"
                     },
                     {
-                        "href": "/cqc-compliance-and-staffing",
-                        "label": "CQC compliance and staffing"
+                        "label": "CQC compliance and staffing",
+                        "href": "/cqc-compliance-and-staffing"
                     },
                     {
-                        "href": "/hire-healthcare-assistants",
-                        "label": "Hiring healthcare assistants"
+                        "label": "Hiring healthcare assistants",
+                        "href": "/hire-healthcare-assistants"
                     },
                     {
-                        "href": "/care-home-cpd",
-                        "label": "Care home CPD and CQC compliance"
+                        "label": "Care home CPD and CQC compliance",
+                        "href": "/care-home-cpd"
                     }
                 ]
             },
@@ -172,34 +198,34 @@
                 "heading": "Nearby areas we cover",
                 "locations": [
                     {
-                        "href": "/care-staffing-agency-in-lambeth",
-                        "label": "Lambeth"
+                        "label": "Lambeth",
+                        "href": "/care-staffing-agency-in-lambeth"
                     },
                     {
-                        "href": "/care-staff-agency-tower-hamlets",
-                        "label": "Tower Hamlets"
+                        "label": "Tower Hamlets",
+                        "href": "/care-staff-agency-tower-hamlets"
                     }
                 ],
-                "view_all_url": "/locations",
-                "view_all_label": "View all locations"
+                "view_all_label": "View all locations",
+                "view_all_url": "/locations"
             },
             "provenance": "framework_enhancement"
         },
         {
             "type": "cta",
             "fields": {
-                "sub": "Tell us the role, shift and setting, and we will work to supply vetted cover for your Southwark service.",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "heading": "Need care staff in Southwark?",
-                "cta_label": "Request Care Staff Today"
+                "sub": "Tell us the role, shift and setting, and we will work to supply vetted cover for your Southwark service.",
+                "cta_label": "Request Care Staff Today",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
             },
             "provenance": "later_editorial"
         },
         {
             "type": "contact_form",
             "fields": {
-                "heading": "Request care staff in Southwark",
-                "division": "staffing"
+                "division": "staffing",
+                "heading": "Request care staff in Southwark"
             },
             "provenance": "later_editorial"
         }
