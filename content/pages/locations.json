@@ -5,10 +5,10 @@
     "page_type": "supporting",
     "seo": {
         "title": "Locations | Vigil Care Staffing",
-        "canonical": "/locations",
         "description": "Vigil Care Staffing serves care homes, supported living providers, and private households across London. Find your local care staffing service.",
-        "schema_type": "WebPage",
-        "focus_keyword": "care staffing locations london"
+        "canonical": "/locations",
+        "focus_keyword": "care staffing locations london",
+        "schema_type": "WebPage"
     },
     "brand": {
         "bg": "#0a1628",
@@ -27,12 +27,20 @@
         {
             "type": "hero",
             "fields": {
-                "sub": "Vigil Care Staffing supplies vetted care-sector workers to care providers across Greater London. Find your local area below.",
-                "image": "",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "heading": "Our Care Staffing Locations Across London",
+                "sub": "Vigil Care Staffing supplies vetted care-sector workers to care providers across Greater London. Find your local area below.",
                 "cta_label": "Request Care Staff Today",
-                "image_alt": "Overview of Vigil Care Staffing coverage across Greater London boroughs"
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
+                "image": {
+                    "id": 103,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894908/vigil/care_staffing/hero/care-staffing-agency-london-1024x540-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/hero/care-staffing-agency-london-1024x540-care-staffing-london",
+                    "alt": "Care Staffing Agency in London healthcare assistants and support workers",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/08/care-staffing-agency-london-1024x540.jpg",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "Care Staffing Agency in London healthcare assistants and support workers"
             },
             "provenance": "later_editorial"
         },
@@ -41,59 +49,59 @@
             "fields": {
                 "items": [
                     {
+                        "title": "Tower Hamlets",
                         "body": "Vetted healthcare assistants, support workers and emergency cover for care providers across Tower Hamlets and the surrounding East London area.",
-                        "href": "/care-staff-agency-tower-hamlets",
-                        "title": "Tower Hamlets"
+                        "href": "/care-staff-agency-tower-hamlets"
                     },
                     {
+                        "title": "Hackney",
                         "body": "Temporary and short-notice care staffing for care homes and supported-living services across Hackney.",
-                        "href": "/temporary-care-staffing-agency-in-hackney",
-                        "title": "Hackney"
+                        "href": "/temporary-care-staffing-agency-in-hackney"
                     },
                     {
+                        "title": "Islington",
                         "body": "Short-notice and temporary care staffing for care homes and supported-living services across Islington.",
-                        "href": "/temporary-care-staffing-agency-in-islington",
-                        "title": "Islington"
+                        "href": "/temporary-care-staffing-agency-in-islington"
                     },
                     {
+                        "title": "Camden",
                         "body": "Healthcare assistants, support workers and night-shift cover for care providers across Camden.",
-                        "href": "/care-staffing-agency-in-camden",
-                        "title": "Camden"
+                        "href": "/care-staffing-agency-in-camden"
                     },
                     {
+                        "title": "Westminster",
                         "body": "Dependable care-sector workers for nursing homes, residential care and supported living across Westminster.",
-                        "href": "/temporary-care-staffing-agency-westminster",
-                        "title": "Westminster"
+                        "href": "/temporary-care-staffing-agency-westminster"
                     },
                     {
+                        "title": "Kensington & Chelsea",
                         "body": "Reliable healthcare assistants, support workers and live-in carers for care providers across Kensington and Chelsea.",
-                        "href": "/care-staffing-agency-kensington-and-chelsea",
-                        "title": "Kensington & Chelsea"
+                        "href": "/care-staffing-agency-kensington-and-chelsea"
                     },
                     {
+                        "title": "Hammersmith & Fulham",
                         "body": "Vetted care-sector workers and emergency cover for nursing homes and supported living across Hammersmith and Fulham.",
-                        "href": "/care-staffing-agency-hammersmith-and-fulham",
-                        "title": "Hammersmith & Fulham"
+                        "href": "/care-staffing-agency-hammersmith-and-fulham"
                     },
                     {
+                        "title": "Wandsworth",
                         "body": "Healthcare assistants, support workers and night-shift cover for care providers across Wandsworth.",
-                        "href": "/care-staffing-agency-in-wandsworth",
-                        "title": "Wandsworth"
+                        "href": "/care-staffing-agency-in-wandsworth"
                     },
                     {
+                        "title": "Lambeth",
                         "body": "Vetted care workers, live-in carers and emergency cover for providers across Lambeth.",
-                        "href": "/care-staffing-agency-in-lambeth",
-                        "title": "Lambeth"
+                        "href": "/care-staffing-agency-in-lambeth"
                     },
                     {
+                        "title": "Southwark",
                         "body": "Reliable short-notice and temporary care staffing for homes and supported-living services across Southwark.",
-                        "href": "/care-staffing-agency-in-southwark",
-                        "title": "Southwark"
+                        "href": "/care-staffing-agency-in-southwark"
                     },
                     {
+                        "title": "Havering",
                         "body": "Specialist residential care staffing for care homes across Havering, including Romford, Hornchurch and Upminster.",
-                        "href": "/residential-care-staffing-in-havering",
-                        "title": "Havering"
+                        "href": "/residential-care-staffing-in-havering"
                     }
                 ]
             },
@@ -105,42 +113,42 @@
                 "heading": "Our care staffing services",
                 "locations": [
                     {
-                        "href": "/healthcare-assistants",
-                        "label": "Healthcare assistants"
+                        "label": "Healthcare assistants",
+                        "href": "/healthcare-assistants"
                     },
                     {
-                        "href": "/support-workers",
-                        "label": "Support workers"
+                        "label": "Support workers",
+                        "href": "/support-workers"
                     },
                     {
-                        "href": "/night-shift-care-staff-london",
-                        "label": "Night-shift care staff"
+                        "label": "Night-shift care staff",
+                        "href": "/night-shift-care-staff-london"
                     },
                     {
-                        "href": "/emergency-care-cover-london",
-                        "label": "Emergency care cover"
+                        "label": "Emergency care cover",
+                        "href": "/emergency-care-cover-london"
                     },
                     {
-                        "href": "/temporary-care-staff-london",
-                        "label": "Temporary care staff"
+                        "label": "Temporary care staff",
+                        "href": "/temporary-care-staff-london"
                     },
                     {
-                        "href": "/live-in-care-agency-in-london",
-                        "label": "Live-in care"
+                        "label": "Live-in care",
+                        "href": "/live-in-care-agency-in-london"
                     }
                 ],
-                "view_all_url": "/services",
-                "view_all_label": "All services"
+                "view_all_label": "All services",
+                "view_all_url": "/services"
             },
             "provenance": "framework_enhancement"
         },
         {
             "type": "cta",
             "fields": {
-                "sub": "We supply care staff to providers right across Greater London.",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "heading": "Can't see your area?",
-                "cta_label": "Request Care Staff Today"
+                "sub": "We supply care staff to providers right across Greater London.",
+                "cta_label": "Request Care Staff Today",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
             },
             "provenance": "later_editorial"
         }
