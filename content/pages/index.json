@@ -31,8 +31,16 @@
                 "sub": "Temporary and permanent care staffing across Greater London \u2014 support workers, healthcare assistants, night-shift and emergency cover for care homes and providers.",
                 "cta_label": "Request Care Staff Today",
                 "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
-                "image": "",
-                "image_alt": "Vigil Care Staffing healthcare assistants and support workers on shift in a London care home",
+                "image": {
+                    "id": 71,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894514/vigil/care_staffing/hero/healthcare-assistant-agency-staff-london-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/hero/healthcare-assistant-agency-staff-london-care-staffing-london",
+                    "alt": "Healthcare assistant staffing team in London",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/08/healthcare-assistant-agency-staff-london.jpg",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "Healthcare assistant staffing team in London",
                 "layout": "split",
                 "trust_chips": [
                     "Vetted & DBS-checked",
