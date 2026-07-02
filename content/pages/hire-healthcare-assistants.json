@@ -5,10 +5,10 @@
     "page_type": "blog",
     "seo": {
         "title": "Hire Healthcare Assistants | Vigil Care Staffing",
-        "canonical": "/hire-healthcare-assistants",
         "description": "Step-by-step guide for care home managers on how to hire healthcare assistants with confidence \u2014 vetting, interviews, compliance and finding a specialist partner in London.",
-        "schema_type": "Article",
-        "focus_keyword": "hire healthcare assistants"
+        "canonical": "/hire-healthcare-assistants",
+        "focus_keyword": "hire healthcare assistants",
+        "schema_type": "Article"
     },
     "brand": {
         "bg": "#0a1628",
@@ -27,90 +27,108 @@
         {
             "type": "hero",
             "fields": {
-                "sub": "A practical guide to hiring safe, consistent healthcare assistants, from the qualities that matter to vetting and compliance.",
-                "image": "",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "heading": "Hire Healthcare Assistants: A Guide for Care Home Managers",
+                "sub": "A practical guide to hiring safe, consistent healthcare assistants, from the qualities that matter to vetting and compliance.",
                 "cta_label": "Talk to Vigil Care Staffing",
-                "image_alt": "Care home manager interviewing a healthcare assistant candidate"
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
+                "image": {
+                    "id": 99,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894864/vigil/care_staffing/hero/hire-healthcare-assistants-interview-care-home-1-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/hero/hire-healthcare-assistants-interview-care-home-1-care-staffing-london",
+                    "alt": "Hire healthcare assistants interview in a care home office",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/08/hire-healthcare-assistants-interview-care-home-1.jpg",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "Hire healthcare assistants interview in a care home office"
             },
             "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
+                "heading": "Why hiring the right healthcare assistant matters",
                 "body": "Healthcare assistants spend more time with residents than almost anyone else in a care home. The people you hire shape the quality, safety and consistency of care your residents receive every day. Get it right and you build a stable, trusted team. Get it wrong and you risk poor continuity, avoidable incidents and gaps that inspectors will notice. Treating hiring as a safety decision, not just a rota-filling exercise, pays off in the long run.",
-                "heading": "Why hiring the right healthcare assistant matters"
+                "image": {
+                    "id": 100,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894874/vigil/care_staffing/general/hire-healthcare-assistants-hca-with-resident-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/general/hire-healthcare-assistants-hca-with-resident-care-staffing-london",
+                    "alt": "Hire healthcare assistants supporting a resident in a care home lounge",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/08/hire-healthcare-assistants-hca-with-resident.jpg",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "Hire healthcare assistants supporting a resident in a care home lounge"
             },
             "provenance": "later_editorial"
         },
         {
             "type": "service_grid",
             "fields": {
+                "heading": "Key qualities to look for",
                 "items": [
                     {
-                        "body": "The best healthcare assistants treat residents with genuine warmth and dignity, even under pressure.",
-                        "title": "Compassion and patience"
+                        "title": "Compassion and patience",
+                        "body": "The best healthcare assistants treat residents with genuine warmth and dignity, even under pressure."
                     },
                     {
-                        "body": "Consistent attendance and timekeeping keep rotas stable and protect continuity of care.",
-                        "title": "Reliability"
+                        "title": "Reliability",
+                        "body": "Consistent attendance and timekeeping keep rotas stable and protect continuity of care."
                     },
                     {
-                        "body": "Clear, calm communication with residents, families and colleagues supports safe, coordinated care.",
-                        "title": "Communication"
+                        "title": "Communication",
+                        "body": "Clear, calm communication with residents, families and colleagues supports safe, coordinated care."
                     },
                     {
-                        "body": "Sound knowledge of personal care, moving and handling and infection prevention underpins safe daily practice.",
-                        "title": "Practical care skills"
+                        "title": "Practical care skills",
+                        "body": "Sound knowledge of personal care, moving and handling and infection prevention underpins safe daily practice."
                     },
                     {
-                        "body": "A strong instinct for recognising and reporting concerns helps keep vulnerable people safe.",
-                        "title": "Safeguarding awareness"
+                        "title": "Safeguarding awareness",
+                        "body": "A strong instinct for recognising and reporting concerns helps keep vulnerable people safe."
                     }
-                ],
-                "heading": "Key qualities to look for"
+                ]
             },
             "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
-                "body": "A good interview explores values as well as experience. Ask candidates to describe how they have handled a difficult shift, supported a resident with dignity, or raised a safeguarding concern. Scenario-based questions reveal judgement far better than yes-or-no questions. Take structured notes so you can compare candidates fairly and evidence your decision later.",
-                "heading": "Interview and screening approach"
+                "heading": "Interview and screening approach",
+                "body": "A good interview explores values as well as experience. Ask candidates to describe how they have handled a difficult shift, supported a resident with dignity, or raised a safeguarding concern. Scenario-based questions reveal judgement far better than yes-or-no questions. Take structured notes so you can compare candidates fairly and evidence your decision later."
             },
             "provenance": "later_editorial"
         },
         {
             "type": "service_grid",
             "fields": {
+                "heading": "Screening tips and red flags",
                 "items": [
                     {
-                        "body": "Explore any unexplained gaps in employment and confirm dates against references before making an offer.",
-                        "title": "Check the full work history"
+                        "title": "Check the full work history",
+                        "body": "Explore any unexplained gaps in employment and confirm dates against references before making an offer."
                     },
                     {
-                        "body": "Speak to previous care employers rather than relying on written references alone, and ask about reliability and conduct.",
-                        "title": "Verify references directly"
+                        "title": "Verify references directly",
+                        "body": "Speak to previous care employers rather than relying on written references alone, and ask about reliability and conduct."
                     },
                     {
-                        "body": "Check original documents to confirm identity and eligibility to work before the first shift.",
-                        "title": "Confirm identity and right to work"
+                        "title": "Confirm identity and right to work",
+                        "body": "Check original documents to confirm identity and eligibility to work before the first shift."
                     },
                     {
-                        "body": "Treat vague answers about previous roles or reluctance to provide references as a prompt for further questions.",
-                        "title": "Watch for inconsistency"
+                        "title": "Watch for inconsistency",
+                        "body": "Treat vague answers about previous roles or reluctance to provide references as a prompt for further questions."
                     }
-                ],
-                "heading": "Screening tips and red flags"
+                ]
             },
             "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
-                "body": "Every healthcare assistant should have an enhanced DBS check, verified right-to-work documents and satisfactory references before they start. Confirm that mandatory training, including safeguarding, infection prevention, moving and handling and basic life support, is current. Keeping this evidence on file protects your residents and supports your CQC records. Where you use agency staff, ask your partner to supply a full compliance profile for each worker.",
-                "heading": "Compliance and vetting essentials"
+                "heading": "Compliance and vetting essentials",
+                "body": "Every healthcare assistant should have an enhanced DBS check, verified right-to-work documents and satisfactory references before they start. Confirm that mandatory training, including safeguarding, infection prevention, moving and handling and basic life support, is current. Keeping this evidence on file protects your residents and supports your CQC records. Where you use agency staff, ask your partner to supply a full compliance profile for each worker."
             },
             "provenance": "later_editorial"
         },
@@ -119,20 +137,20 @@
             "fields": {
                 "items": [
                     {
-                        "a": "One structured, values-based interview is often enough for a healthcare assistant role, supported by references and vetting. A short trial shift can add confidence before regular bookings.",
-                        "q": "How many interviews should I run before hiring?"
+                        "q": "How many interviews should I run before hiring?",
+                        "a": "One structured, values-based interview is often enough for a healthcare assistant role, supported by references and vetting. A short trial shift can add confidence before regular bookings."
                     },
                     {
-                        "a": "Insist on current safeguarding, infection prevention, moving and handling and basic life support training as a minimum, alongside any condition-specific skills your service needs.",
-                        "q": "What training should I insist on before offering shifts?"
+                        "q": "What training should I insist on before offering shifts?",
+                        "a": "Insist on current safeguarding, infection prevention, moving and handling and basic life support training as a minimum, alongside any condition-specific skills your service needs."
                     },
                     {
-                        "a": "Use a vetted staffing partner who can supply pre-checked workers at short notice, so you cover the gap without cutting corners on compliance.",
-                        "q": "How do I balance speed and safety during urgent cover?"
+                        "q": "How do I balance speed and safety during urgent cover?",
+                        "a": "Use a vetted staffing partner who can supply pre-checked workers at short notice, so you cover the gap without cutting corners on compliance."
                     },
                     {
-                        "a": "Invest in a proper induction, regular supervision and development opportunities. Staff who feel supported and valued are far more likely to stay.",
-                        "q": "How can I reduce turnover after hiring?"
+                        "q": "How can I reduce turnover after hiring?",
+                        "a": "Invest in a proper induction, regular supervision and development opportunities. Staff who feel supported and valued are far more likely to stay."
                     }
                 ]
             },
@@ -144,32 +162,32 @@
                 "heading": "Related services",
                 "locations": [
                     {
-                        "href": "/healthcare-assistants",
-                        "label": "Healthcare assistants"
+                        "label": "Healthcare assistants",
+                        "href": "/healthcare-assistants"
                     },
                     {
-                        "href": "/support-workers",
-                        "label": "Support workers"
+                        "label": "Support workers",
+                        "href": "/support-workers"
                     },
                     {
-                        "href": "/night-shift-care-staff-london",
-                        "label": "Night-shift care staff"
+                        "label": "Night-shift care staff",
+                        "href": "/night-shift-care-staff-london"
                     },
                     {
-                        "href": "/emergency-care-cover-london",
-                        "label": "Emergency care cover"
+                        "label": "Emergency care cover",
+                        "href": "/emergency-care-cover-london"
                     },
                     {
-                        "href": "/temporary-care-staff-london",
-                        "label": "Temporary care staff"
+                        "label": "Temporary care staff",
+                        "href": "/temporary-care-staff-london"
                     },
                     {
-                        "href": "/live-in-care-agency-in-london",
-                        "label": "Live-in care"
+                        "label": "Live-in care",
+                        "href": "/live-in-care-agency-in-london"
                     }
                 ],
-                "view_all_url": "/services",
-                "view_all_label": "All services"
+                "view_all_label": "All services",
+                "view_all_url": "/services"
             },
             "provenance": "framework_enhancement"
         },
@@ -179,30 +197,30 @@
                 "heading": "More guides",
                 "locations": [
                     {
-                        "href": "/temporary-staffing-solutions",
-                        "label": "Temporary staffing solutions for healthcare"
+                        "label": "Temporary staffing solutions for healthcare",
+                        "href": "/temporary-staffing-solutions"
                     },
                     {
-                        "href": "/cqc-compliance-and-staffing",
-                        "label": "CQC compliance and staffing"
+                        "label": "CQC compliance and staffing",
+                        "href": "/cqc-compliance-and-staffing"
                     },
                     {
-                        "href": "/care-home-cpd",
-                        "label": "Care home CPD and CQC compliance"
+                        "label": "Care home CPD and CQC compliance",
+                        "href": "/care-home-cpd"
                     }
                 ],
-                "view_all_url": "/blog",
-                "view_all_label": "All guides"
+                "view_all_label": "All guides",
+                "view_all_url": "/blog"
             },
             "provenance": "framework_enhancement"
         },
         {
             "type": "cta",
             "fields": {
-                "sub": "Vigil Care Staffing supplies DBS-checked care workers to care providers across Greater London.",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "heading": "Need vetted healthcare assistants at short notice?",
-                "cta_label": "Talk to Vigil Care Staffing"
+                "sub": "Vigil Care Staffing supplies DBS-checked care workers to care providers across Greater London.",
+                "cta_label": "Talk to Vigil Care Staffing",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
             },
             "provenance": "later_editorial"
         }
