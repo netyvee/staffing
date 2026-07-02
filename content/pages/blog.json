@@ -5,10 +5,10 @@
     "page_type": "blog",
     "seo": {
         "title": "Care Staffing Guides & Insights | Vigil Care Staffing",
-        "canonical": "/blog",
         "description": "Practical care staffing guides for registered managers and care providers across London \u2014 CQC compliance, hiring healthcare assistants, temporary staffing and more.",
-        "schema_type": "Blog",
-        "focus_keyword": "care staffing guides london"
+        "canonical": "/blog",
+        "focus_keyword": "care staffing guides london",
+        "schema_type": "Blog"
     },
     "brand": {
         "bg": "#0a1628",
@@ -27,19 +27,19 @@
         {
             "type": "hero",
             "fields": {
-                "sub": "Practical guides on care-sector staffing, CQC compliance and hiring for registered managers and care providers across London.",
                 "layout": "standard",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "heading": "Care Staffing Guides & Insights",
-                "cta_label": "Request staffing support"
+                "sub": "Practical guides on care-sector staffing, CQC compliance and hiring for registered managers and care providers across London.",
+                "cta_label": "Request staffing support",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
             },
             "provenance": "framework_enhancement"
         },
         {
             "type": "prose",
             "fields": {
-                "body": "Our guides help registered managers and care providers hire and manage reliable care-sector staff. Each guide is written for real staffing decisions \u2014 from CQC-aligned vetting to covering short-notice rota gaps across Greater London.",
-                "heading": "Guides for care providers"
+                "heading": "Guides for care providers",
+                "body": "Our guides help registered managers and care providers hire and manage reliable care-sector staff. Each guide is written for real staffing decisions \u2014 from CQC-aligned vetting to covering short-notice rota gaps across Greater London."
             },
             "provenance": "framework_enhancement"
         },
@@ -48,24 +48,24 @@
             "fields": {
                 "items": [
                     {
+                        "title": "Care Home CPD & CQC Compliance",
                         "body": "The definitive guide to Care Home CPD \u2014 mapping continuous professional development to CQC quality statements and building inspection-ready staff evidence.",
-                        "href": "/care-home-cpd",
-                        "title": "Care Home CPD & CQC Compliance"
+                        "href": "/care-home-cpd"
                     },
                     {
+                        "title": "CQC Compliance and Staffing",
                         "body": "How care providers align staffing, evidence and supervision to the CQC single assessment framework and Regulation 18 this quarter.",
-                        "href": "/cqc-compliance-and-staffing",
-                        "title": "CQC Compliance and Staffing"
+                        "href": "/cqc-compliance-and-staffing"
                     },
                     {
+                        "title": "Hire Healthcare Assistants",
                         "body": "Step-by-step guide for care home managers on how to hire healthcare assistants with confidence \u2014 vetting, interviews, compliance and finding a specialist partner in London.",
-                        "href": "/hire-healthcare-assistants",
-                        "title": "Hire Healthcare Assistants"
+                        "href": "/hire-healthcare-assistants"
                     },
                     {
+                        "title": "Temporary Staffing Solutions",
                         "body": "Your guide to temporary staffing solutions for healthcare London \u2014 how the right agency can transform health and social care services with rapid, vetted, CQC-compliant placements.",
-                        "href": "/temporary-staffing-solutions",
-                        "title": "Temporary Staffing Solutions"
+                        "href": "/temporary-staffing-solutions"
                     }
                 ]
             },
@@ -77,42 +77,42 @@
                 "heading": "Explore our services",
                 "locations": [
                     {
-                        "href": "/healthcare-assistants",
-                        "label": "Healthcare assistants"
+                        "label": "Healthcare assistants",
+                        "href": "/healthcare-assistants"
                     },
                     {
-                        "href": "/support-workers",
-                        "label": "Support workers"
+                        "label": "Support workers",
+                        "href": "/support-workers"
                     },
                     {
-                        "href": "/night-shift-care-staff-london",
-                        "label": "Night-shift care staff"
+                        "label": "Night-shift care staff",
+                        "href": "/night-shift-care-staff-london"
                     },
                     {
-                        "href": "/emergency-care-cover-london",
-                        "label": "Emergency care cover"
+                        "label": "Emergency care cover",
+                        "href": "/emergency-care-cover-london"
                     },
                     {
-                        "href": "/temporary-care-staff-london",
-                        "label": "Temporary care staff"
+                        "label": "Temporary care staff",
+                        "href": "/temporary-care-staff-london"
                     },
                     {
-                        "href": "/live-in-care-agency-in-london",
-                        "label": "Live-in care"
+                        "label": "Live-in care",
+                        "href": "/live-in-care-agency-in-london"
                     }
                 ],
-                "view_all_url": "/services",
-                "view_all_label": "All services"
+                "view_all_label": "All services",
+                "view_all_url": "/services"
             },
             "provenance": "framework_enhancement"
         },
         {
             "type": "cta",
             "fields": {
-                "sub": "Tell us the shifts you need covered and we will match vetted workers to your service.",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "heading": "Need care staff now?",
-                "cta_label": "Request staffing support"
+                "sub": "Tell us the shifts you need covered and we will match vetted workers to your service.",
+                "cta_label": "Request staffing support",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
             },
             "provenance": "framework_enhancement"
         }
