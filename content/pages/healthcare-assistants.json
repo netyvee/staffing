@@ -5,10 +5,10 @@
     "page_type": "service",
     "seo": {
         "title": "Healthcare Assistant Agency London | Vigil Care Staffing",
-        "description": "Fully vetted, NVQ-qualified Healthcare Assistants for care homes, nursing homes, and supported living across London. Emergency, temporary, and long-term placements.",
         "canonical": "/healthcare-assistants",
-        "focus_keyword": "healthcare assistants london",
-        "schema_type": "Service"
+        "description": "Fully vetted, NVQ-qualified Healthcare Assistants for care homes, nursing homes, and supported living across London. Emergency, temporary, and long-term placements.",
+        "schema_type": "Service",
+        "focus_keyword": "healthcare assistants london"
     },
     "brand": {
         "bg": "#0a1628",
@@ -27,115 +27,197 @@
         {
             "type": "hero",
             "fields": {
-                "heading": "Healthcare Assistants in London",
                 "sub": "Vigil Care Staffing supplies fully vetted, experienced healthcare assistants to care homes, nursing homes and supported living services across Greater London.",
-                "cta_label": "Request Healthcare Assistants",
+                "image": "",
                 "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
-                "image": {
-                    "id": 96,
-                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894827/vigil/care_staffing/hero/about-vigil-care-services-care-staffing-london.webp",
-                    "public_id": "vigil/care_staffing/hero/about-vigil-care-services-care-staffing-london",
-                    "alt": "A young carer in a blue uniform smiles beside an older woman seated in a wheelchair on an outdoor walkway.",
-                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/03/About-vigil-care-services.jpg",
-                    "source": "wp_migration",
-                    "status": "mapped"
-                },
-                "image_alt": "A young carer in a blue uniform smiles beside an older woman seated in a wheelchair on an outdoor walkway."
-            }
+                "heading": "Healthcare Assistants in London",
+                "cta_label": "Request Healthcare Assistants",
+                "image_alt": "Healthcare assistant supporting an elderly resident in a London care home"
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
-                "heading": "Experienced healthcare assistants when you need them",
-                "body": "Healthcare assistants provide the hands-on, everyday care that keeps a service running well, supporting personal care, mobility, nutrition and hydration, observations and companionship under the direction of nursing and care teams. Vigil Care Staffing supplies experienced healthcare assistants to care homes, nursing homes and supported living services across Greater London.\n\nWe provide cover for single shifts, block bookings and longer placements, whether you are managing sudden absence, a seasonal surge or a gap during recruitment. Each healthcare assistant is matched to your setting and to the needs of the people in your care.\n\nVigil Care Staffing is a staffing supplier rather than a regulated care provider. Our role is to give your service reliable, ready-to-work people who strengthen your team from day one."
-            }
+                "body": "Healthcare assistants provide the hands-on, everyday care that keeps a service running well, supporting personal care, mobility, nutrition and hydration, observations and companionship under the direction of nursing and care teams. Vigil Care Staffing supplies experienced healthcare assistants to care homes, nursing homes and supported living services across Greater London.\n\nWe provide cover for single shifts, block bookings and longer placements, whether you are managing sudden absence, a seasonal surge or a gap during recruitment. Each healthcare assistant is matched to your setting and to the needs of the people in your care.\n\nVigil Care Staffing is a staffing supplier rather than a regulated care provider. Our role is to give your service reliable, ready-to-work people who strengthen your team from day one.",
+                "heading": "Experienced healthcare assistants when you need them"
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "service_grid",
             "fields": {
                 "items": [
                     {
-                        "title": "Rapid response",
-                        "body": "We keep a local pool of available healthcare assistants so short-notice shifts can be covered without leaving your rota exposed. Coordinators confirm availability and arrange cover as fast as they can."
+                        "body": "We keep a local pool of available healthcare assistants so short-notice shifts can be covered without leaving your rota exposed. Coordinators confirm availability and arrange cover as fast as they can.",
+                        "title": "Rapid response"
                     },
                     {
-                        "title": "Fully vetted staff",
-                        "body": "Every healthcare assistant is DBS-checked, reference-verified and confirmed eligible to work before being offered a shift. Compliance is resolved before anyone starts."
+                        "body": "Every healthcare assistant is DBS-checked, reference-verified and confirmed eligible to work before being offered a shift. Compliance is resolved before anyone starts.",
+                        "title": "Fully vetted staff"
                     },
                     {
-                        "title": "Experienced professionals",
-                        "body": "We supply healthcare assistants with relevant care experience and confirmed training, matched to the demands of your setting rather than sent at random."
+                        "body": "We supply healthcare assistants with relevant care experience and confirmed training, matched to the demands of your setting rather than sent at random.",
+                        "title": "Experienced professionals"
                     },
                     {
-                        "title": "Flexible cover",
-                        "body": "Cover a single shift, recurring shifts, days or nights. Arrangements adapt to your service's needs and change with your rota."
+                        "body": "Cover a single shift, recurring shifts, days or nights. Arrangements adapt to your service's needs and change with your rota.",
+                        "title": "Flexible cover"
                     },
                     {
-                        "title": "Continuity of care",
-                        "body": "Wherever possible we return the same healthcare assistants to your service, supporting consistency for residents and for your permanent team."
+                        "body": "Wherever possible we return the same healthcare assistants to your service, supporting consistency for residents and for your permanent team.",
+                        "title": "Continuity of care"
                     },
                     {
-                        "title": "Directly employed",
-                        "body": "Our healthcare assistants are directly employed by Vigil Care Staffing, so training records and accountability remain with us throughout the placement."
+                        "body": "Our healthcare assistants are directly employed by Vigil Care Staffing, so training records and accountability remain with us throughout the placement.",
+                        "title": "Directly employed"
                     }
                 ]
-            }
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "text_image",
             "fields": {
-                "heading": "Vetting and compliance built in",
                 "body": "Each healthcare assistant completes an enhanced DBS check, right-to-work verification and reference checks from previous care employers before their first shift. We confirm mandatory training in safeguarding, moving and handling, infection control and medication awareness, and keep it current through ongoing professional development.\n\nOur recruitment follows a CQC-compliant process that helps support your own safe-staffing evidence. As our healthcare assistants are directly employed, responsibility for vetting and conduct stays with us throughout the placement.",
-                "image": {
-                    "id": 97,
-                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894840/vigil/care_staffing/general/two-women-smiling-care-staffing-london.webp",
-                    "public_id": "vigil/care_staffing/general/two-women-smiling-care-staffing-london",
-                    "alt": "A smiling carer in blue scrubs kneels beside an elderly woman in a wheelchair in a sunny park.",
-                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2026/04/two-women-smiling.png",
-                    "source": "wp_migration",
-                    "status": "mapped"
-                },
-                "image_alt": "A smiling carer in blue scrubs kneels beside an elderly woman in a wheelchair in a sunny park."
-            }
+                "image": "",
+                "heading": "Vetting and compliance built in",
+                "image_alt": "Healthcare assistant reviewing a care plan in a London nursing home"
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "faq",
             "fields": {
                 "items": [
                     {
-                        "q": "Which areas do you cover?",
-                        "a": "We supply healthcare assistants across Greater London. Share your location and setting and we will confirm availability near you."
+                        "a": "We supply healthcare assistants across Greater London. Share your location and setting and we will confirm availability near you.",
+                        "q": "Which areas do you cover?"
                     },
                     {
-                        "q": "How quickly can you fill a shift?",
-                        "a": "We hold a local pool of available healthcare assistants and respond quickly to short-notice requests, always being clear about what we can cover for your shift."
+                        "a": "We hold a local pool of available healthcare assistants and respond quickly to short-notice requests, always being clear about what we can cover for your shift.",
+                        "q": "How quickly can you fill a shift?"
                     },
                     {
-                        "q": "What vetting do your healthcare assistants have?",
-                        "a": "Every healthcare assistant is enhanced-DBS-checked, right-to-work verified and reference-checked, with mandatory training confirmed before starting."
+                        "a": "Every healthcare assistant is enhanced-DBS-checked, right-to-work verified and reference-checked, with mandatory training confirmed before starting.",
+                        "q": "What vetting do your healthcare assistants have?"
                     },
                     {
-                        "q": "Do you provide temporary and longer-term cover?",
-                        "a": "Yes. We provide temporary cover, block bookings and longer placements, so you can use us for one shift or for ongoing support."
+                        "a": "Yes. We provide temporary cover, block bookings and longer placements, so you can use us for one shift or for ongoing support.",
+                        "q": "Do you provide temporary and longer-term cover?"
                     }
                 ]
-            }
+            },
+            "provenance": "later_editorial"
+        },
+        {
+            "type": "locations_coverage",
+            "fields": {
+                "heading": "Related staffing services",
+                "locations": [
+                    {
+                        "href": "/support-workers",
+                        "label": "Support workers"
+                    },
+                    {
+                        "href": "/night-shift-care-staff-london",
+                        "label": "Night-shift care staff"
+                    },
+                    {
+                        "href": "/emergency-care-cover-london",
+                        "label": "Emergency care cover"
+                    },
+                    {
+                        "href": "/temporary-care-staff-london",
+                        "label": "Temporary care staff"
+                    },
+                    {
+                        "href": "/live-in-care-agency-in-london",
+                        "label": "Live-in care"
+                    }
+                ],
+                "view_all_url": "/services",
+                "view_all_label": "All services"
+            },
+            "provenance": "framework_enhancement"
+        },
+        {
+            "type": "locations_coverage",
+            "fields": {
+                "heading": "Areas we cover",
+                "locations": [
+                    {
+                        "href": "/care-staff-agency-tower-hamlets",
+                        "label": "Tower Hamlets"
+                    },
+                    {
+                        "href": "/temporary-care-staffing-agency-in-hackney",
+                        "label": "Hackney"
+                    },
+                    {
+                        "href": "/temporary-care-staffing-agency-in-islington",
+                        "label": "Islington"
+                    },
+                    {
+                        "href": "/care-staffing-agency-in-camden",
+                        "label": "Camden"
+                    },
+                    {
+                        "href": "/temporary-care-staffing-agency-westminster",
+                        "label": "Westminster"
+                    },
+                    {
+                        "href": "/care-staffing-agency-kensington-and-chelsea",
+                        "label": "Kensington & Chelsea"
+                    }
+                ],
+                "view_all_url": "/locations",
+                "view_all_label": "View all locations"
+            },
+            "provenance": "framework_enhancement"
+        },
+        {
+            "type": "locations_coverage",
+            "fields": {
+                "heading": "Related guides",
+                "locations": [
+                    {
+                        "href": "/temporary-staffing-solutions",
+                        "label": "Temporary staffing solutions for healthcare"
+                    },
+                    {
+                        "href": "/cqc-compliance-and-staffing",
+                        "label": "CQC compliance and staffing"
+                    },
+                    {
+                        "href": "/hire-healthcare-assistants",
+                        "label": "Hiring healthcare assistants"
+                    },
+                    {
+                        "href": "/care-home-cpd",
+                        "label": "Care home CPD and CQC compliance"
+                    }
+                ]
+            },
+            "provenance": "framework_enhancement"
         },
         {
             "type": "cta",
             "fields": {
-                "heading": "Looking for reliable healthcare assistants?",
                 "sub": "Tell us your requirements and we will match vetted healthcare assistants to your service across Greater London.",
-                "cta_label": "Request Healthcare Assistants",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
-            }
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
+                "heading": "Looking for reliable healthcare assistants?",
+                "cta_label": "Request Healthcare Assistants"
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "contact_form",
             "fields": {
                 "heading": "Request healthcare assistants",
                 "division": "staffing"
-            }
+            },
+            "provenance": "later_editorial"
         }
     ],
     "status": "draft"

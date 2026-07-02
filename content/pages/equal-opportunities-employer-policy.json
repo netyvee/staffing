@@ -5,10 +5,10 @@
     "page_type": "supporting",
     "seo": {
         "title": "Equal Opportunities Employer Policy | Vigil Care Staffing",
-        "description": "Vigil Services Ltd equal opportunities employer policy \u2014 our commitment to diversity, inclusion, and fair employment practices for all employees and job applicants.",
         "canonical": "/equal-opportunities-employer-policy",
-        "focus_keyword": "equal opportunities employer policy",
-        "schema_type": "WebPage"
+        "description": "Vigil Services Ltd equal opportunities employer policy \u2014 our commitment to diversity, inclusion, and fair employment practices for all employees and job applicants.",
+        "schema_type": "WebPage",
+        "focus_keyword": "equal opportunities employer policy"
     },
     "brand": {
         "bg": "#0a1628",
@@ -27,71 +27,80 @@
         {
             "type": "hero",
             "fields": {
-                "heading": "Equal Opportunities Employer Policy",
                 "sub": "Our commitment to fairness, diversity and inclusion for every employee, worker and applicant.",
-                "cta_label": "Contact Us",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "image": "",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
+                "heading": "Equal Opportunities Employer Policy",
+                "cta_label": "Contact Us",
                 "image_alt": "Vigil Care Staffing equal opportunities policy"
-            }
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
-                "heading": "Policy statement",
-                "body": "Vigil Care Staffing is committed to being an equal opportunities employer. We believe that everyone deserves to be treated fairly and with respect, and that a diverse and inclusive workforce makes us stronger. This policy sets out our commitment to fair treatment for all employees, workers and job applicants, and it applies across recruitment, placement, training and everyday working life."
-            }
+                "body": "Vigil Care Staffing is committed to being an equal opportunities employer. We believe that everyone deserves to be treated fairly and with respect, and that a diverse and inclusive workforce makes us stronger. This policy sets out our commitment to fair treatment for all employees, workers and job applicants, and it applies across recruitment, placement, training and everyday working life.",
+                "heading": "Policy statement"
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
-                "heading": "Who this policy applies to",
-                "body": "This policy applies to everyone who works with or for Vigil Care Staffing, including directly employed staff, care-sector workers on assignment, and candidates applying for roles. It also guides how we work with the clients and partners we serve across Greater London."
-            }
+                "body": "This policy applies to everyone who works with or for Vigil Care Staffing, including directly employed staff, care-sector workers on assignment, and candidates applying for roles. It also guides how we work with the clients and partners we serve across Greater London.",
+                "heading": "Who this policy applies to"
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
-                "heading": "Our commitment under the Equality Act 2010",
-                "body": "We are committed to preventing discrimination and promoting equality of opportunity in line with the Equality Act 2010. We do not discriminate on the basis of the protected characteristics defined in that Act: age, disability, gender reassignment, marriage and civil partnership, pregnancy and maternity, race, religion or belief, sex, and sexual orientation. Decisions about recruitment, assignment and development are based on skills, experience and suitability alone."
-            }
+                "body": "We are committed to preventing discrimination and promoting equality of opportunity in line with the Equality Act 2010. We do not discriminate on the basis of the protected characteristics defined in that Act: age, disability, gender reassignment, marriage and civil partnership, pregnancy and maternity, race, religion or belief, sex, and sexual orientation. Decisions about recruitment, assignment and development are based on skills, experience and suitability alone.",
+                "heading": "Our commitment under the Equality Act 2010"
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
-                "heading": "Recruitment and selection",
-                "body": "We aim to make our recruitment and selection processes fair, transparent and accessible. Candidates are assessed against the genuine requirements of the role, and we welcome applications from people of all backgrounds. Where a candidate needs a reasonable adjustment to take part in our process, we will seek to provide it."
-            }
+                "body": "We aim to make our recruitment and selection processes fair, transparent and accessible. Candidates are assessed against the genuine requirements of the role, and we welcome applications from people of all backgrounds. Where a candidate needs a reasonable adjustment to take part in our process, we will seek to provide it.",
+                "heading": "Recruitment and selection"
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
-                "heading": "Training and development",
-                "body": "We are committed to giving all workers fair access to training and development opportunities. Support for professional growth is offered on the basis of need and suitability, without regard to any protected characteristic."
-            }
+                "body": "We are committed to giving all workers fair access to training and development opportunities. Support for professional growth is offered on the basis of need and suitability, without regard to any protected characteristic.",
+                "heading": "Training and development"
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
-                "heading": "Preventing discrimination, harassment and victimisation",
-                "body": "We do not tolerate discrimination, harassment, bullying or victimisation of any kind. Everyone has a responsibility to treat colleagues, clients and service users with dignity and respect. Concerns raised in good faith will be taken seriously and handled sensitively, and no one will be treated less favourably for raising a genuine concern."
-            }
+                "body": "We do not tolerate discrimination, harassment, bullying or victimisation of any kind. Everyone has a responsibility to treat colleagues, clients and service users with dignity and respect. Concerns raised in good faith will be taken seriously and handled sensitively, and no one will be treated less favourably for raising a genuine concern.",
+                "heading": "Preventing discrimination, harassment and victimisation"
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
-                "heading": "Responsibility and review",
-                "body": "Responsibility for this policy rests with the management of Vigil Care Staffing, but upholding it is the responsibility of everyone in the organisation. We keep the policy under review and will update it to reflect changes in the law and in good practice."
-            }
+                "body": "Responsibility for this policy rests with the management of Vigil Care Staffing, but upholding it is the responsibility of everyone in the organisation. We keep the policy under review and will update it to reflect changes in the law and in good practice.",
+                "heading": "Responsibility and review"
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "cta",
             "fields": {
-                "heading": "Questions about this policy?",
                 "sub": "If you would like to discuss this policy or raise a concern, our team is here to help.",
-                "cta_label": "Contact Us",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
-            }
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
+                "heading": "Questions about this policy?",
+                "cta_label": "Contact Us"
+            },
+            "provenance": "later_editorial"
         }
     ],
     "status": "draft"

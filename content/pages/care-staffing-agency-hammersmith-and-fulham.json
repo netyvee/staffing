@@ -5,10 +5,10 @@
     "page_type": "borough",
     "seo": {
         "title": "Care Staffing Agency Hammersmith and Fulham | Vigil Care Staffing",
-        "description": "Reliable, CQC-compliant care staffing in Hammersmith and Fulham \u2014 healthcare assistants, support workers, live-in carers, and emergency cover, available 24/7.",
         "canonical": "/care-staffing-agency-hammersmith-and-fulham",
-        "focus_keyword": "care staffing agency hammersmith and fulham",
-        "schema_type": "Service"
+        "description": "Reliable, CQC-compliant care staffing in Hammersmith and Fulham \u2014 healthcare assistants, support workers, live-in carers, and emergency cover, available 24/7.",
+        "schema_type": "Service",
+        "focus_keyword": "care staffing agency hammersmith and fulham"
     },
     "brand": {
         "bg": "#0a1628",
@@ -27,121 +27,181 @@
         {
             "type": "hero",
             "fields": {
-                "heading": "Care Staffing Agency in Hammersmith and Fulham",
                 "sub": "Vigil Care Staffing supplies vetted healthcare assistants, support workers, live-in carers, and short-notice cover to care providers across Hammersmith and Fulham.",
-                "cta_label": "Request Care Staff Today",
+                "image": "",
                 "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
-                "image": {
-                    "id": 75,
-                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894565/vigil/care_staffing/hero/residential-care-staffing-havering-1024x559-care-staffing-london.webp",
-                    "public_id": "vigil/care_staffing/hero/residential-care-staffing-havering-1024x559-care-staffing-london",
-                    "alt": "A smiling care worker in uniform holds hands with an elderly woman in a bright care home lounge.",
-                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2026/04/Residential-Care-Staffing-Havering-1024x559.webp",
-                    "source": "wp_migration",
-                    "status": "mapped"
-                },
-                "image_alt": "A smiling care worker in uniform holds hands with an elderly woman in a bright care home lounge."
-            }
+                "heading": "Care Staffing Agency in Hammersmith and Fulham",
+                "cta_label": "Request Care Staff Today",
+                "image_alt": "Vetted support worker assisting a resident at a care home in Hammersmith and Fulham"
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
-                "heading": "Care staffing in Hammersmith and Fulham",
-                "body": "Hammersmith and Fulham has a busy care sector spread across Fulham, Shepherd's Bush, Hammersmith, White City, Parsons Green, and Sands End, including residential and nursing homes, supported living schemes, and private households. When a shift falls short, these services need a staffing partner who responds quickly and sends people who have been thoroughly checked. Vigil Care Staffing supplies vetted care-sector workers to fill rota gaps reliably for providers across the borough. We are a staffing agency rather than a regulated care provider, so our focus is on placing the right, fully vetted worker on your shift. Every worker we supply is DBS-checked and referenced before they arrive, and our work here is part of our wider coverage across Greater London."
-            }
+                "body": "Hammersmith and Fulham has a busy care sector spread across Fulham, Shepherd's Bush, Hammersmith, White City, Parsons Green, and Sands End, including residential and nursing homes, supported living schemes, and private households. When a shift falls short, these services need a staffing partner who responds quickly and sends people who have been thoroughly checked. Vigil Care Staffing supplies vetted care-sector workers to fill rota gaps reliably for providers across the borough. We are a staffing agency rather than a regulated care provider, so our focus is on placing the right, fully vetted worker on your shift. Every worker we supply is DBS-checked and referenced before they arrive, and our work here is part of our wider coverage across Greater London.",
+                "heading": "Care staffing in Hammersmith and Fulham"
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "service_grid",
             "fields": {
                 "items": [
                     {
-                        "title": "Rapid response times",
-                        "body": "When a care home in Fulham or a supported living service in Shepherd's Bush loses cover unexpectedly, we act quickly to place a suitable worker, often the same day."
+                        "body": "When a care home in Fulham or a supported living service in Shepherd's Bush loses cover unexpectedly, we act quickly to place a suitable worker, often the same day.",
+                        "title": "Rapid response times"
                     },
                     {
-                        "title": "Local knowledge",
-                        "body": "Our coordinators understand the pattern of residential homes, nursing homes, and supported living across Hammersmith, White City, Parsons Green, and Sands End."
+                        "body": "Our coordinators understand the pattern of residential homes, nursing homes, and supported living across Hammersmith, White City, Parsons Green, and Sands End.",
+                        "title": "Local knowledge"
                     },
                     {
-                        "title": "Continuity of care",
-                        "body": "For repeat and ongoing bookings we return the same familiar healthcare assistants and support workers where we can, so residents keep seeing trusted faces."
+                        "body": "For repeat and ongoing bookings we return the same familiar healthcare assistants and support workers where we can, so residents keep seeing trusted faces.",
+                        "title": "Continuity of care"
                     },
                     {
-                        "title": "Specialist matching",
-                        "body": "We match workers to the role you describe, from elderly and dementia care to complex and live-in support, drawing on a pool suited to Hammersmith and Fulham settings."
+                        "body": "We match workers to the role you describe, from elderly and dementia care to complex and live-in support, drawing on a pool suited to Hammersmith and Fulham settings.",
+                        "title": "Specialist matching"
                     },
                     {
-                        "title": "Compliance-conscious vetting",
-                        "body": "Every worker we supply in the borough is DBS-checked, right-to-work verified, and referenced through a CQC-aligned recruitment process before their first shift."
+                        "body": "Every worker we supply in the borough is DBS-checked, right-to-work verified, and referenced through a CQC-aligned recruitment process before their first shift.",
+                        "title": "Compliance-conscious vetting"
                     }
-                ],
-                "image": {
-                    "id": 76,
-                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894585/vigil/care_staffing/general/care-staffing-agency-hammersmith-fulham-team-care-staffing-london.webp",
-                    "public_id": "vigil/care_staffing/general/care-staffing-agency-hammersmith-fulham-team-care-staffing-london",
-                    "alt": "Care staffing agency in Hammersmith and Fulham team providing support",
-                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/08/care-staffing-agency-hammersmith-fulham-team.jpg",
-                    "source": "wp_migration",
-                    "status": "mapped"
-                },
-                "image_alt": "Care staffing agency in Hammersmith and Fulham team providing support"
-            }
+                ]
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "text_image",
             "fields": {
-                "heading": "Care staffing across Hammersmith and Fulham and surrounding areas",
                 "body": "We support residential and nursing care homes, supported living schemes, rehabilitation and step-down units, day centres, and private households throughout Hammersmith and Fulham, from Fulham and Parsons Green to Hammersmith, Shepherd's Bush, and White City. Because the borough sits within our wider Greater London coverage, we can draw on nearby workers when demand rises, keeping travel short and arrival dependable. Our coordination team stays in close contact and follows up promptly on every request, whether it is planned leave, sickness cover, or an urgent night-shift gap in Fulham.",
-                "image": {
-                    "id": 76,
-                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894585/vigil/care_staffing/general/care-staffing-agency-hammersmith-fulham-team-care-staffing-london.webp",
-                    "public_id": "vigil/care_staffing/general/care-staffing-agency-hammersmith-fulham-team-care-staffing-london",
-                    "alt": "Care staffing agency in Hammersmith and Fulham team providing support",
-                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/08/care-staffing-agency-hammersmith-fulham-team.jpg",
-                    "source": "wp_migration",
-                    "status": "mapped"
-                },
+                "image": "",
+                "heading": "Care staffing across Hammersmith and Fulham and surrounding areas",
                 "image_alt": "Care staffing agency in Hammersmith and Fulham team providing support"
-            }
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "faq",
             "fields": {
                 "items": [
                     {
-                        "q": "Do you cover the whole of Hammersmith and Fulham?",
-                        "a": "Yes. We supply care-sector workers across Hammersmith and Fulham, including Fulham, Shepherd's Bush, Hammersmith, White City, and Parsons Green, as part of our coverage across Greater London."
+                        "a": "Yes. We supply care-sector workers across Hammersmith and Fulham, including Fulham, Shepherd's Bush, Hammersmith, White City, and Parsons Green, as part of our coverage across Greater London.",
+                        "q": "Do you cover the whole of Hammersmith and Fulham?"
                     },
                     {
-                        "q": "How quickly can you supply care staff in the borough?",
-                        "a": "We provide cover at short notice, often the same day for urgent gaps. Sharing the shift details and role early helps us place the most suitable worker."
+                        "a": "We provide cover at short notice, often the same day for urgent gaps. Sharing the shift details and role early helps us place the most suitable worker.",
+                        "q": "How quickly can you supply care staff in the borough?"
                     },
                     {
-                        "q": "What roles can you supply?",
-                        "a": "We supply healthcare assistants, support workers, live-in carers, night-shift staff, and short-notice cover for residential, nursing, and supported living settings in Hammersmith and Fulham."
+                        "a": "We supply healthcare assistants, support workers, live-in carers, night-shift staff, and short-notice cover for residential, nursing, and supported living settings in Hammersmith and Fulham.",
+                        "q": "What roles can you supply?"
                     },
                     {
-                        "q": "Do you offer both temporary and longer-term cover?",
-                        "a": "Yes. We handle single shifts, planned rota gaps, and longer assignments, and we aim to return the same familiar workers to your service for continuity."
+                        "a": "Yes. We handle single shifts, planned rota gaps, and longer assignments, and we aim to return the same familiar workers to your service for continuity.",
+                        "q": "Do you offer both temporary and longer-term cover?"
                     }
                 ]
-            }
+            },
+            "provenance": "later_editorial"
+        },
+        {
+            "type": "locations_coverage",
+            "fields": {
+                "heading": "Care staffing services in Hammersmith & Fulham",
+                "locations": [
+                    {
+                        "href": "/healthcare-assistants",
+                        "label": "Healthcare assistants"
+                    },
+                    {
+                        "href": "/support-workers",
+                        "label": "Support workers"
+                    },
+                    {
+                        "href": "/night-shift-care-staff-london",
+                        "label": "Night-shift care staff"
+                    },
+                    {
+                        "href": "/emergency-care-cover-london",
+                        "label": "Emergency care cover"
+                    },
+                    {
+                        "href": "/temporary-care-staff-london",
+                        "label": "Temporary care staff"
+                    },
+                    {
+                        "href": "/live-in-care-agency-in-london",
+                        "label": "Live-in care"
+                    }
+                ],
+                "view_all_url": "/services",
+                "view_all_label": "All care staffing services"
+            },
+            "provenance": "framework_enhancement"
+        },
+        {
+            "type": "locations_coverage",
+            "fields": {
+                "heading": "Related guides",
+                "locations": [
+                    {
+                        "href": "/temporary-staffing-solutions",
+                        "label": "Temporary staffing solutions for healthcare"
+                    },
+                    {
+                        "href": "/cqc-compliance-and-staffing",
+                        "label": "CQC compliance and staffing"
+                    },
+                    {
+                        "href": "/hire-healthcare-assistants",
+                        "label": "Hiring healthcare assistants"
+                    },
+                    {
+                        "href": "/care-home-cpd",
+                        "label": "Care home CPD and CQC compliance"
+                    }
+                ]
+            },
+            "provenance": "framework_enhancement"
+        },
+        {
+            "type": "locations_coverage",
+            "fields": {
+                "heading": "Nearby areas we cover",
+                "locations": [
+                    {
+                        "href": "/care-staffing-agency-kensington-and-chelsea",
+                        "label": "Kensington & Chelsea"
+                    },
+                    {
+                        "href": "/care-staffing-agency-in-wandsworth",
+                        "label": "Wandsworth"
+                    }
+                ],
+                "view_all_url": "/locations",
+                "view_all_label": "View all locations"
+            },
+            "provenance": "framework_enhancement"
         },
         {
             "type": "cta",
             "fields": {
-                "heading": "Need vetted care staff in Hammersmith and Fulham?",
                 "sub": "Tell us the role, dates, and setting, and our team will arrange reliable cover.",
-                "cta_label": "Request Care Staff Today",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
-            }
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
+                "heading": "Need vetted care staff in Hammersmith and Fulham?",
+                "cta_label": "Request Care Staff Today"
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "contact_form",
             "fields": {
-                "division": "staffing",
-                "heading": "Request care staff in Hammersmith and Fulham"
-            }
+                "heading": "Request care staff in Hammersmith and Fulham",
+                "division": "staffing"
+            },
+            "provenance": "later_editorial"
         }
     ],
     "status": "draft"

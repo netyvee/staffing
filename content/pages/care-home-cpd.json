@@ -5,10 +5,10 @@
     "page_type": "blog",
     "seo": {
         "title": "Care Home CPD & CQC Compliance | Vigil Care Staffing",
-        "description": "The definitive guide to Care Home CPD \u2014 mapping continuous professional development to CQC quality statements and building inspection-ready staff evidence.",
         "canonical": "/care-home-cpd",
-        "focus_keyword": "care home CPD",
-        "schema_type": "Article"
+        "description": "The definitive guide to Care Home CPD \u2014 mapping continuous professional development to CQC quality statements and building inspection-ready staff evidence.",
+        "schema_type": "Article",
+        "focus_keyword": "care home CPD"
     },
     "brand": {
         "bg": "#0a1628",
@@ -27,106 +27,172 @@
         {
             "type": "hero",
             "fields": {
-                "heading": "Care Home CPD",
                 "sub": "How to turn continuous professional development into inspection-ready evidence that maps to CQC quality statements.",
-                "cta_label": "Talk to Vigil Care Staffing",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "image": "",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
+                "heading": "Care Home CPD",
+                "cta_label": "Talk to Vigil Care Staffing",
                 "image_alt": "Care home staff in a training and development session"
-            }
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
-                "heading": "Trained versus capable",
-                "body": "A training certificate proves that a member of staff attended a course. It does not, on its own, prove that they can apply that learning safely in daily practice. Continuous professional development, or CPD, closes that gap. Well-planned CPD moves a team from simply being trained to being genuinely capable, and it produces the kind of evidence inspectors expect to see."
-            }
+                "body": "A training certificate proves that a member of staff attended a course. It does not, on its own, prove that they can apply that learning safely in daily practice. Continuous professional development, or CPD, closes that gap. Well-planned CPD moves a team from simply being trained to being genuinely capable, and it produces the kind of evidence inspectors expect to see.",
+                "heading": "Trained versus capable"
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
-                "heading": "A three-step framework for CQC-ready staff development",
-                "body": "A dependable CPD programme does not have to be complicated. The following three steps give care home managers a repeatable cycle: identify the skills your service needs, embed learning in everyday work, and review the impact regularly. Each step builds evidence that your staffing supports safe, effective care."
-            }
+                "body": "A dependable CPD programme does not have to be complicated. The following three steps give care home managers a repeatable cycle: identify the skills your service needs, embed learning in everyday work, and review the impact regularly. Each step builds evidence that your staffing supports safe, effective care.",
+                "heading": "A three-step framework for CQC-ready staff development"
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "service_grid",
             "fields": {
-                "heading": "The three-step framework",
                 "items": [
                     {
-                        "title": "1. Strategic skills and needs mapping",
-                        "body": "Start by mapping the skills your residents actually need against the skills your team currently holds. This highlights gaps in areas such as dementia support, moving and handling or medication awareness, and lets you prioritise the training that matters most."
+                        "body": "Start by mapping the skills your residents actually need against the skills your team currently holds. This highlights gaps in areas such as dementia support, moving and handling or medication awareness, and lets you prioritise the training that matters most.",
+                        "title": "1. Strategic skills and needs mapping"
                     },
                     {
-                        "title": "2. Practical application in daily practice",
-                        "body": "Link each piece of learning to real tasks on shift. Supervision, competency observations and reflective conversations help staff apply new knowledge, so training changes practice rather than sitting in a folder."
+                        "body": "Link each piece of learning to real tasks on shift. Supervision, competency observations and reflective conversations help staff apply new knowledge, so training changes practice rather than sitting in a folder.",
+                        "title": "2. Practical application in daily practice"
                     },
                     {
-                        "title": "3. Evidenced review and refresh cycles",
-                        "body": "Review competence at planned intervals, record the outcomes, and refresh training before it lapses. This keeps skills current and gives you a clear audit trail of ongoing development."
+                        "body": "Review competence at planned intervals, record the outcomes, and refresh training before it lapses. This keeps skills current and gives you a clear audit trail of ongoing development.",
+                        "title": "3. Evidenced review and refresh cycles"
                     }
-                ]
-            }
+                ],
+                "heading": "The three-step framework"
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
-                "heading": "Mapping care home CPD to CQC quality statements",
-                "body": "The CQC single assessment framework is built around quality statements grouped under themes such as safe, effective and well-led. Linking your CPD records to these statements shows how workforce development supports the outcomes inspectors assess. The examples below illustrate how everyday CPD activity can be mapped to those themes."
-            }
+                "body": "The CQC single assessment framework is built around quality statements grouped under themes such as safe, effective and well-led. Linking your CPD records to these statements shows how workforce development supports the outcomes inspectors assess. The examples below illustrate how everyday CPD activity can be mapped to those themes.",
+                "heading": "Mapping care home CPD to CQC quality statements"
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "service_grid",
             "fields": {
-                "heading": "CPD mapped to the quality statement themes",
                 "items": [
                     {
-                        "title": "Safe",
-                        "body": "Records of safeguarding, infection-prevention and moving-and-handling training evidence that staff have the skills to keep people safe from avoidable harm."
+                        "body": "Records of safeguarding, infection-prevention and moving-and-handling training evidence that staff have the skills to keep people safe from avoidable harm.",
+                        "title": "Safe"
                     },
                     {
-                        "title": "Effective",
-                        "body": "Competency assessments and condition-specific learning, such as dementia or diabetes care, show that support is based on current good practice."
+                        "body": "Competency assessments and condition-specific learning, such as dementia or diabetes care, show that support is based on current good practice.",
+                        "title": "Effective"
                     },
                     {
-                        "title": "Caring",
-                        "body": "Reflective practice and person-centred training demonstrate that staff understand dignity, choice and compassionate care."
+                        "body": "Reflective practice and person-centred training demonstrate that staff understand dignity, choice and compassionate care.",
+                        "title": "Caring"
                     },
                     {
-                        "title": "Well-led",
-                        "body": "Supervision logs, appraisal cycles and a documented CPD plan show that leaders are actively developing a capable, accountable workforce."
+                        "body": "Supervision logs, appraisal cycles and a documented CPD plan show that leaders are actively developing a capable, accountable workforce.",
+                        "title": "Well-led"
                     }
-                ]
-            }
+                ],
+                "heading": "CPD mapped to the quality statement themes"
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "faq",
             "fields": {
                 "items": [
                     {
-                        "q": "How often should care home CPD be reviewed?",
-                        "a": "Most services review core competencies at least annually, with more frequent checks for high-risk skills. The key is a planned cycle that refreshes training before it expires."
+                        "a": "Most services review core competencies at least annually, with more frequent checks for high-risk skills. The key is a planned cycle that refreshes training before it expires.",
+                        "q": "How often should care home CPD be reviewed?"
                     },
                     {
-                        "q": "What evidence should we keep for inspection?",
-                        "a": "Keep training records, competency assessments, supervision notes and a written CPD plan. Together these show how development links to safe, effective care."
+                        "a": "Keep training records, competency assessments, supervision notes and a written CPD plan. Together these show how development links to safe, effective care.",
+                        "q": "What evidence should we keep for inspection?"
                     },
                     {
-                        "q": "Does agency staffing affect our CPD evidence?",
-                        "a": "Agency workers should arrive with current mandatory training and verified competencies. Vigil Care Staffing supplies vetted care-sector workers whose compliance records support your overall evidence."
+                        "a": "Agency workers should arrive with current mandatory training and verified competencies. Vigil Care Staffing supplies vetted care-sector workers whose compliance records support your overall evidence.",
+                        "q": "Does agency staffing affect our CPD evidence?"
                     }
                 ]
-            }
+            },
+            "provenance": "later_editorial"
+        },
+        {
+            "type": "locations_coverage",
+            "fields": {
+                "heading": "Related services",
+                "locations": [
+                    {
+                        "href": "/healthcare-assistants",
+                        "label": "Healthcare assistants"
+                    },
+                    {
+                        "href": "/support-workers",
+                        "label": "Support workers"
+                    },
+                    {
+                        "href": "/night-shift-care-staff-london",
+                        "label": "Night-shift care staff"
+                    },
+                    {
+                        "href": "/emergency-care-cover-london",
+                        "label": "Emergency care cover"
+                    },
+                    {
+                        "href": "/temporary-care-staff-london",
+                        "label": "Temporary care staff"
+                    },
+                    {
+                        "href": "/live-in-care-agency-in-london",
+                        "label": "Live-in care"
+                    }
+                ],
+                "view_all_url": "/services",
+                "view_all_label": "All services"
+            },
+            "provenance": "framework_enhancement"
+        },
+        {
+            "type": "locations_coverage",
+            "fields": {
+                "heading": "More guides",
+                "locations": [
+                    {
+                        "href": "/temporary-staffing-solutions",
+                        "label": "Temporary staffing solutions for healthcare"
+                    },
+                    {
+                        "href": "/cqc-compliance-and-staffing",
+                        "label": "CQC compliance and staffing"
+                    },
+                    {
+                        "href": "/hire-healthcare-assistants",
+                        "label": "Hiring healthcare assistants"
+                    }
+                ],
+                "view_all_url": "/blog",
+                "view_all_label": "All guides"
+            },
+            "provenance": "framework_enhancement"
         },
         {
             "type": "cta",
             "fields": {
-                "heading": "Need dependable, CQC-conscious staffing to support your CPD plans?",
                 "sub": "Vigil Care Staffing supplies vetted care workers across Greater London.",
-                "cta_label": "Talk to Vigil Care Staffing",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
-            }
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
+                "heading": "Need dependable, CQC-conscious staffing to support your CPD plans?",
+                "cta_label": "Talk to Vigil Care Staffing"
+            },
+            "provenance": "later_editorial"
         }
     ],
     "status": "draft"

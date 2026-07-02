@@ -16,6 +16,7 @@ export const siteNav: SiteNav = {
     { label: 'Healthcare Assistants', href: '/healthcare-assistants' },
     { label: 'Support Workers', href: '/support-workers' },
     { label: 'Locations', href: '/locations' },
+    { label: 'Guides', href: '/blog' },
   ],
   footer: [
     {
@@ -32,6 +33,7 @@ export const siteNav: SiteNav = {
       links: [
         { label: 'About', href: '/about' },
         { label: 'Locations', href: '/locations' },
+        { label: 'Guides', href: '/blog' },
       ],
     },
   ],

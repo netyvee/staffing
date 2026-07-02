@@ -5,10 +5,10 @@
     "page_type": "borough",
     "seo": {
         "title": "Care Staffing Agency in Wandsworth | Vigil Care Staffing",
-        "description": "Dependable, CQC-compliant care staffing in Wandsworth \u2014 HCAs, support workers, night shift, and live-in carers. Same-day cover available 24/7.",
         "canonical": "/care-staffing-agency-in-wandsworth",
-        "focus_keyword": "care staffing agency wandsworth",
-        "schema_type": "Service"
+        "description": "Dependable, CQC-compliant care staffing in Wandsworth \u2014 HCAs, support workers, night shift, and live-in carers. Same-day cover available 24/7.",
+        "schema_type": "Service",
+        "focus_keyword": "care staffing agency wandsworth"
     },
     "brand": {
         "bg": "#0a1628",
@@ -27,121 +27,181 @@
         {
             "type": "hero",
             "fields": {
-                "heading": "Care Staffing Agency in Wandsworth",
                 "sub": "Vigil Care Staffing supplies vetted, DBS-checked healthcare assistants, support workers and night-shift cover to care providers across Wandsworth and south-west London.",
-                "cta_label": "Request Care Staff Today",
+                "image": "",
                 "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
-                "image": {
-                    "id": 83,
-                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894673/vigil/care_staffing/hero/male-caregiver-with-elderly-woman-care-staffing-london.webp",
-                    "public_id": "vigil/care_staffing/hero/male-caregiver-with-elderly-woman-care-staffing-london",
-                    "alt": "A smiling male carer sits with an elderly woman looking at a book titled A Treasury of Memories in a hospital room.",
-                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2026/04/Male-caregiver-with-elderly-woman.webp",
-                    "source": "wp_migration",
-                    "status": "mapped"
-                },
-                "image_alt": "A smiling male carer sits with an elderly woman looking at a book titled A Treasury of Memories in a hospital room."
-            }
+                "heading": "Care Staffing Agency in Wandsworth",
+                "cta_label": "Request Care Staff Today",
+                "image_alt": "Healthcare assistant from a care staffing agency supporting a resident in a Wandsworth care home"
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
-                "heading": "Dependable care staffing for Wandsworth",
-                "body": "Wandsworth is a large south-west London borough taking in Wandsworth Town, Battersea, Balham, Tooting, Putney and Earlsfield, and its care homes, supported living schemes and community services carry steady staffing demands. When a rota gap appears, Vigil Care Staffing supplies vetted care-sector workers who can cover the shift and keep resident care consistent. We place healthcare assistants, support workers and healthcare cleaners with providers across the borough.\n\nWe are a care-staffing agency rather than a regulated care provider, so our focus is filling rota gaps reliably for the managers who run Wandsworth's services. Every worker we supply is directly employed, DBS-checked and matched to the role and setting you need covered. Wandsworth is part of our wider coverage across Greater London, so cover for a home in Balham or a step-down service in Wandsworth Town can draw on a responsive local network."
-            }
+                "body": "Wandsworth is a large south-west London borough taking in Wandsworth Town, Battersea, Balham, Tooting, Putney and Earlsfield, and its care homes, supported living schemes and community services carry steady staffing demands. When a rota gap appears, Vigil Care Staffing supplies vetted care-sector workers who can cover the shift and keep resident care consistent. We place healthcare assistants, support workers and healthcare cleaners with providers across the borough.\n\nWe are a care-staffing agency rather than a regulated care provider, so our focus is filling rota gaps reliably for the managers who run Wandsworth's services. Every worker we supply is directly employed, DBS-checked and matched to the role and setting you need covered. Wandsworth is part of our wider coverage across Greater London, so cover for a home in Balham or a step-down service in Wandsworth Town can draw on a responsive local network.",
+                "heading": "Dependable care staffing for Wandsworth"
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "service_grid",
             "fields": {
                 "items": [
                     {
-                        "title": "Rapid response times",
-                        "body": "Rota gaps in Wandsworth rarely wait, so we respond quickly to short-notice and same-day requests and place a suitable worker as soon as availability is confirmed."
+                        "body": "Rota gaps in Wandsworth rarely wait, so we respond quickly to short-notice and same-day requests and place a suitable worker as soon as availability is confirmed.",
+                        "title": "Rapid response times"
                     },
                     {
-                        "title": "Local Wandsworth knowledge",
-                        "body": "We understand the spread of care settings across Wandsworth, from nursing homes in Tooting to supported living around Battersea and Putney, and match staff who can travel across the borough reliably."
+                        "body": "We understand the spread of care settings across Wandsworth, from nursing homes in Tooting to supported living around Battersea and Putney, and match staff who can travel across the borough reliably.",
+                        "title": "Local Wandsworth knowledge"
                     },
                     {
-                        "title": "Continuity of care",
-                        "body": "For Wandsworth homes that need the same workers on repeat shifts, we aim to send people who already know your residents and routines, supporting smoother handovers and steady care."
+                        "body": "For Wandsworth homes that need the same workers on repeat shifts, we aim to send people who already know your residents and routines, supporting smoother handovers and steady care.",
+                        "title": "Continuity of care"
                     },
                     {
-                        "title": "Specialist matching",
-                        "body": "We match each Wandsworth request to a worker with the right experience, whether that is dementia support, step-down and rehabilitation care or general healthcare assistant duties."
+                        "body": "We match each Wandsworth request to a worker with the right experience, whether that is dementia support, step-down and rehabilitation care or general healthcare assistant duties.",
+                        "title": "Specialist matching"
                     },
                     {
-                        "title": "Compliance-conscious vetting",
-                        "body": "Every worker supplied to a Wandsworth provider is DBS-checked, right-to-work verified and referenced before their first shift, following a CQC-aligned process that supports your own staffing records."
+                        "body": "Every worker supplied to a Wandsworth provider is DBS-checked, right-to-work verified and referenced before their first shift, following a CQC-aligned process that supports your own staffing records.",
+                        "title": "Compliance-conscious vetting"
                     }
-                ],
-                "image": {
-                    "id": 84,
-                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894686/vigil/care_staffing/general/care-staffing-agency-wandsworth-team-care-staffing-london.webp",
-                    "public_id": "vigil/care_staffing/general/care-staffing-agency-wandsworth-team-care-staffing-london",
-                    "alt": "Care staffing agency in Wandsworth team supporting care homes",
-                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/08/care-staffing-agency-wandsworth-team.jpg",
-                    "source": "wp_migration",
-                    "status": "mapped"
-                },
-                "image_alt": "Care staffing agency in Wandsworth team supporting care homes"
-            }
+                ]
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "text_image",
             "fields": {
-                "heading": "Care staffing across Wandsworth and surrounding areas",
                 "body": "Our coverage runs across the whole of Wandsworth, including Wandsworth Town, Battersea, Balham, Tooting, Putney and Earlsfield. Because Wandsworth sits within our broader Greater London network, we can draw on nearby workers when a borough rota tightens at short notice. From residential and nursing homes to supported living schemes, rehabilitation units and community services, we supply the care-sector staff Wandsworth providers need close to where they are needed.",
-                "image": {
-                    "id": 84,
-                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894686/vigil/care_staffing/general/care-staffing-agency-wandsworth-team-care-staffing-london.webp",
-                    "public_id": "vigil/care_staffing/general/care-staffing-agency-wandsworth-team-care-staffing-london",
-                    "alt": "Care staffing agency in Wandsworth team supporting care homes",
-                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/08/care-staffing-agency-wandsworth-team.jpg",
-                    "source": "wp_migration",
-                    "status": "mapped"
-                },
-                "image_alt": "Care staffing agency in Wandsworth team supporting care homes"
-            }
+                "image": "",
+                "heading": "Care staffing across Wandsworth and surrounding areas",
+                "image_alt": "Support workers from a care staffing agency supporting a Wandsworth care home during a shift"
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "faq",
             "fields": {
                 "items": [
                     {
-                        "q": "Do you cover the whole of Wandsworth?",
-                        "a": "Yes. We supply care staff across Wandsworth, including Wandsworth Town, Battersea, Balham, Tooting and Putney, as part of our wider coverage across Greater London."
+                        "a": "Yes. We supply care staff across Wandsworth, including Wandsworth Town, Battersea, Balham, Tooting and Putney, as part of our wider coverage across Greater London.",
+                        "q": "Do you cover the whole of Wandsworth?"
                     },
                     {
-                        "q": "How quickly can you fill a shift in Wandsworth?",
-                        "a": "We prioritise short-notice and same-day requests and place a suitable worker as soon as we can confirm availability. Contacting us early gives us the best chance of covering your Wandsworth shift."
+                        "a": "We prioritise short-notice and same-day requests and place a suitable worker as soon as we can confirm availability. Contacting us early gives us the best chance of covering your Wandsworth shift.",
+                        "q": "How quickly can you fill a shift in Wandsworth?"
                     },
                     {
-                        "q": "What roles can you supply in Wandsworth?",
-                        "a": "We supply healthcare assistants, support workers and healthcare cleaners for care homes, nursing homes, supported living schemes, rehabilitation units and community services across Wandsworth."
+                        "a": "We supply healthcare assistants, support workers and healthcare cleaners for care homes, nursing homes, supported living schemes, rehabilitation units and community services across Wandsworth.",
+                        "q": "What roles can you supply in Wandsworth?"
                     },
                     {
-                        "q": "Do you offer temporary and permanent care staff?",
-                        "a": "Yes. We cover short-notice temporary rota gaps and also provide longer placements when a Wandsworth provider needs ongoing support."
+                        "a": "Yes. We cover short-notice temporary rota gaps and also provide longer placements when a Wandsworth provider needs ongoing support.",
+                        "q": "Do you offer temporary and permanent care staff?"
                     }
                 ]
-            }
+            },
+            "provenance": "later_editorial"
+        },
+        {
+            "type": "locations_coverage",
+            "fields": {
+                "heading": "Care staffing services in Wandsworth",
+                "locations": [
+                    {
+                        "href": "/healthcare-assistants",
+                        "label": "Healthcare assistants"
+                    },
+                    {
+                        "href": "/support-workers",
+                        "label": "Support workers"
+                    },
+                    {
+                        "href": "/night-shift-care-staff-london",
+                        "label": "Night-shift care staff"
+                    },
+                    {
+                        "href": "/emergency-care-cover-london",
+                        "label": "Emergency care cover"
+                    },
+                    {
+                        "href": "/temporary-care-staff-london",
+                        "label": "Temporary care staff"
+                    },
+                    {
+                        "href": "/live-in-care-agency-in-london",
+                        "label": "Live-in care"
+                    }
+                ],
+                "view_all_url": "/services",
+                "view_all_label": "All care staffing services"
+            },
+            "provenance": "framework_enhancement"
+        },
+        {
+            "type": "locations_coverage",
+            "fields": {
+                "heading": "Related guides",
+                "locations": [
+                    {
+                        "href": "/temporary-staffing-solutions",
+                        "label": "Temporary staffing solutions for healthcare"
+                    },
+                    {
+                        "href": "/cqc-compliance-and-staffing",
+                        "label": "CQC compliance and staffing"
+                    },
+                    {
+                        "href": "/hire-healthcare-assistants",
+                        "label": "Hiring healthcare assistants"
+                    },
+                    {
+                        "href": "/care-home-cpd",
+                        "label": "Care home CPD and CQC compliance"
+                    }
+                ]
+            },
+            "provenance": "framework_enhancement"
+        },
+        {
+            "type": "locations_coverage",
+            "fields": {
+                "heading": "Nearby areas we cover",
+                "locations": [
+                    {
+                        "href": "/care-staffing-agency-in-lambeth",
+                        "label": "Lambeth"
+                    },
+                    {
+                        "href": "/care-staffing-agency-hammersmith-and-fulham",
+                        "label": "Hammersmith & Fulham"
+                    }
+                ],
+                "view_all_url": "/locations",
+                "view_all_label": "View all locations"
+            },
+            "provenance": "framework_enhancement"
         },
         {
             "type": "cta",
             "fields": {
-                "heading": "Need care staff in Wandsworth?",
                 "sub": "Tell us the role, shift and setting, and we will work to supply vetted cover for your Wandsworth service.",
-                "cta_label": "Request Care Staff Today",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
-            }
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
+                "heading": "Need care staff in Wandsworth?",
+                "cta_label": "Request Care Staff Today"
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "contact_form",
             "fields": {
-                "division": "staffing",
-                "heading": "Request care staff in Wandsworth"
-            }
+                "heading": "Request care staff in Wandsworth",
+                "division": "staffing"
+            },
+            "provenance": "later_editorial"
         }
     ],
     "status": "draft"

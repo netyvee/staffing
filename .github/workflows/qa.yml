@@ -29,3 +29,5 @@ jobs:
         run: node node_modules/@vigil/web-framework/scripts/division-isolation-check.mjs --mode built --own care_staffing
       - name: Visual completion gates
         run: node node_modules/@vigil/web-framework/scripts/visual-completion-check.mjs --site .
+      - name: Content completeness (substance gate — orphans / broken links / contracts / SEO)
+        run: node node_modules/@vigil/web-framework/scripts/content-completeness-check.mjs --site .

@@ -9,10 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@vigil/web-framework": "github:netyvee/web-framework#v0.4.1",
     "next": "14.2.35",
     "react": "^18",
-    "react-dom": "^18",
-    "@vigil/web-framework": "github:netyvee/web-framework#v0.3.2"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "@types/node": "^20",

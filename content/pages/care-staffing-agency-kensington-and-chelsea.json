@@ -5,10 +5,10 @@
     "page_type": "borough",
     "seo": {
         "title": "Care Staffing Agency Kensington and Chelsea | Vigil Care Staffing",
-        "description": "Reliable, CQC-compliant care professionals in Kensington and Chelsea \u2014 healthcare assistants, support workers, live-in carers, and emergency cover, available 24/7.",
         "canonical": "/care-staffing-agency-kensington-and-chelsea",
-        "focus_keyword": "care staffing agency kensington and chelsea",
-        "schema_type": "Service"
+        "description": "Reliable, CQC-compliant care professionals in Kensington and Chelsea \u2014 healthcare assistants, support workers, live-in carers, and emergency cover, available 24/7.",
+        "schema_type": "Service",
+        "focus_keyword": "care staffing agency kensington and chelsea"
     },
     "brand": {
         "bg": "#0a1628",
@@ -27,121 +27,181 @@
         {
             "type": "hero",
             "fields": {
-                "heading": "Care Staffing Agency in Kensington and Chelsea",
                 "sub": "Vigil Care Staffing supplies vetted healthcare assistants, support workers, live-in carers, and short-notice cover to care providers across Kensington and Chelsea.",
-                "cta_label": "Request Care Staff Today",
+                "image": "",
                 "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
-                "image": {
-                    "id": 85,
-                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894699/vigil/care_staffing/hero/1-1024x682-care-staffing-london.webp",
-                    "public_id": "vigil/care_staffing/hero/1-1024x682-care-staffing-london",
-                    "alt": "Care Staffing Specialist UK",
-                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/03/1-1024x682.jpeg",
-                    "source": "wp_migration",
-                    "status": "mapped"
-                },
-                "image_alt": "Care Staffing Specialist UK"
-            }
+                "heading": "Care Staffing Agency in Kensington and Chelsea",
+                "cta_label": "Request Care Staff Today",
+                "image_alt": "Vetted care worker supporting a resident at a care home in Kensington and Chelsea"
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
-                "heading": "Care staffing in Kensington and Chelsea",
-                "body": "Kensington and Chelsea is home to a distinctive mix of residential and nursing homes, supported living schemes, and private households in Chelsea, Notting Hill, South Kensington, Earl's Court, and Knightsbridge. These services need dependable people who can step in when a rota gap appears, without any drop in the quality residents and families expect. Vigil Care Staffing supplies vetted care-sector workers to fill those gaps reliably for providers across the borough. We are a staffing agency, not a regulated care provider, and we focus on one thing: putting the right worker on your shift. Every healthcare assistant, support worker, and live-in carer we supply is DBS-checked and referenced before they arrive, and our work in the borough is part of our wider coverage across Greater London."
-            }
+                "body": "Kensington and Chelsea is home to a distinctive mix of residential and nursing homes, supported living schemes, and private households in Chelsea, Notting Hill, South Kensington, Earl's Court, and Knightsbridge. These services need dependable people who can step in when a rota gap appears, without any drop in the quality residents and families expect. Vigil Care Staffing supplies vetted care-sector workers to fill those gaps reliably for providers across the borough. We are a staffing agency, not a regulated care provider, and we focus on one thing: putting the right worker on your shift. Every healthcare assistant, support worker, and live-in carer we supply is DBS-checked and referenced before they arrive, and our work in the borough is part of our wider coverage across Greater London.",
+                "heading": "Care staffing in Kensington and Chelsea"
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "service_grid",
             "fields": {
                 "items": [
                     {
-                        "title": "Rapid response times",
-                        "body": "When a Chelsea nursing home or a private household in Knightsbridge loses cover at short notice, we move quickly to place a suitable worker for the shift, often the same day."
+                        "body": "When a Chelsea nursing home or a private household in Knightsbridge loses cover at short notice, we move quickly to place a suitable worker for the shift, often the same day.",
+                        "title": "Rapid response times"
                     },
                     {
-                        "title": "Local knowledge",
-                        "body": "Our coordinators understand the pattern of residential homes, nursing homes, and private live-in arrangements across Kensington, Notting Hill, and South Kensington, so cover is matched to the setting."
+                        "body": "Our coordinators understand the pattern of residential homes, nursing homes, and private live-in arrangements across Kensington, Notting Hill, and South Kensington, so cover is matched to the setting.",
+                        "title": "Local knowledge"
                     },
                     {
-                        "title": "Continuity of care",
-                        "body": "Wherever possible we return the same familiar support workers and healthcare assistants to your service, so residents in the borough see consistent, trusted faces."
+                        "body": "Wherever possible we return the same familiar support workers and healthcare assistants to your service, so residents in the borough see consistent, trusted faces.",
+                        "title": "Continuity of care"
                     },
                     {
-                        "title": "Specialist matching",
-                        "body": "We match workers to the role you describe, from elderly and dementia care to complex live-in support, drawing on a pool with relevant experience for Kensington and Chelsea settings."
+                        "body": "We match workers to the role you describe, from elderly and dementia care to complex live-in support, drawing on a pool with relevant experience for Kensington and Chelsea settings.",
+                        "title": "Specialist matching"
                     },
                     {
-                        "title": "Compliance-conscious vetting",
-                        "body": "Every worker we supply in the borough is DBS-checked, right-to-work verified, and referenced through a CQC-aligned recruitment process before their first shift."
+                        "body": "Every worker we supply in the borough is DBS-checked, right-to-work verified, and referenced through a CQC-aligned recruitment process before their first shift.",
+                        "title": "Compliance-conscious vetting"
                     }
-                ],
-                "image": {
-                    "id": 86,
-                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894709/vigil/care_staffing/general/care-staffing-agency-kensington-chelsea-team-care-staffing-london.webp",
-                    "public_id": "vigil/care_staffing/general/care-staffing-agency-kensington-chelsea-team-care-staffing-london",
-                    "alt": "Care staffing agency in Kensington and Chelsea team providing support",
-                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/08/care-staffing-agency-kensington-chelsea-team.jpg",
-                    "source": "wp_migration",
-                    "status": "mapped"
-                },
-                "image_alt": "Care staffing agency in Kensington and Chelsea team providing support"
-            }
+                ]
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "text_image",
             "fields": {
-                "heading": "Care staffing across Kensington and Chelsea and surrounding areas",
                 "body": "We support care homes, nursing homes, supported living schemes, rehabilitation centres, and private households throughout Kensington and Chelsea, from Chelsea and Knightsbridge to Notting Hill, Earl's Court, and the World's End estate. Because the borough sits within our wider Greater London coverage, we can draw on nearby workers when demand rises, keeping travel short and arrival times dependable. Whether you need planned cover for annual leave or an urgent replacement for a night shift, our coordination team stays in close contact and follows up promptly on every staffing query.",
-                "image": {
-                    "id": 86,
-                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894709/vigil/care_staffing/general/care-staffing-agency-kensington-chelsea-team-care-staffing-london.webp",
-                    "public_id": "vigil/care_staffing/general/care-staffing-agency-kensington-chelsea-team-care-staffing-london",
-                    "alt": "Care staffing agency in Kensington and Chelsea team providing support",
-                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/08/care-staffing-agency-kensington-chelsea-team.jpg",
-                    "source": "wp_migration",
-                    "status": "mapped"
-                },
+                "image": "",
+                "heading": "Care staffing across Kensington and Chelsea and surrounding areas",
                 "image_alt": "Care staffing agency in Kensington and Chelsea team providing support"
-            }
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "faq",
             "fields": {
                 "items": [
                     {
-                        "q": "Do you cover the whole of Kensington and Chelsea?",
-                        "a": "Yes. We supply care-sector workers across Kensington and Chelsea, including Chelsea, Notting Hill, South Kensington, Earl's Court, and Knightsbridge, as part of our coverage across Greater London."
+                        "a": "Yes. We supply care-sector workers across Kensington and Chelsea, including Chelsea, Notting Hill, South Kensington, Earl's Court, and Knightsbridge, as part of our coverage across Greater London.",
+                        "q": "Do you cover the whole of Kensington and Chelsea?"
                     },
                     {
-                        "q": "How quickly can you supply care staff in the borough?",
-                        "a": "We provide cover at short notice, often the same day for urgent gaps. Sharing the shift details and role early helps us place the most suitable worker."
+                        "a": "We provide cover at short notice, often the same day for urgent gaps. Sharing the shift details and role early helps us place the most suitable worker.",
+                        "q": "How quickly can you supply care staff in the borough?"
                     },
                     {
-                        "q": "What roles can you supply?",
-                        "a": "We supply healthcare assistants, support workers, live-in carers, night-shift staff, and short-notice cover for residential, nursing, and supported living settings in Kensington and Chelsea."
+                        "a": "We supply healthcare assistants, support workers, live-in carers, night-shift staff, and short-notice cover for residential, nursing, and supported living settings in Kensington and Chelsea.",
+                        "q": "What roles can you supply?"
                     },
                     {
-                        "q": "Do you offer both temporary and longer-term cover?",
-                        "a": "Yes. We handle single shifts, planned rota gaps, and longer assignments, and we aim to return the same familiar workers to your service for continuity."
+                        "a": "Yes. We handle single shifts, planned rota gaps, and longer assignments, and we aim to return the same familiar workers to your service for continuity.",
+                        "q": "Do you offer both temporary and longer-term cover?"
                     }
                 ]
-            }
+            },
+            "provenance": "later_editorial"
+        },
+        {
+            "type": "locations_coverage",
+            "fields": {
+                "heading": "Care staffing services in Kensington & Chelsea",
+                "locations": [
+                    {
+                        "href": "/healthcare-assistants",
+                        "label": "Healthcare assistants"
+                    },
+                    {
+                        "href": "/support-workers",
+                        "label": "Support workers"
+                    },
+                    {
+                        "href": "/night-shift-care-staff-london",
+                        "label": "Night-shift care staff"
+                    },
+                    {
+                        "href": "/emergency-care-cover-london",
+                        "label": "Emergency care cover"
+                    },
+                    {
+                        "href": "/temporary-care-staff-london",
+                        "label": "Temporary care staff"
+                    },
+                    {
+                        "href": "/live-in-care-agency-in-london",
+                        "label": "Live-in care"
+                    }
+                ],
+                "view_all_url": "/services",
+                "view_all_label": "All care staffing services"
+            },
+            "provenance": "framework_enhancement"
+        },
+        {
+            "type": "locations_coverage",
+            "fields": {
+                "heading": "Related guides",
+                "locations": [
+                    {
+                        "href": "/temporary-staffing-solutions",
+                        "label": "Temporary staffing solutions for healthcare"
+                    },
+                    {
+                        "href": "/cqc-compliance-and-staffing",
+                        "label": "CQC compliance and staffing"
+                    },
+                    {
+                        "href": "/hire-healthcare-assistants",
+                        "label": "Hiring healthcare assistants"
+                    },
+                    {
+                        "href": "/care-home-cpd",
+                        "label": "Care home CPD and CQC compliance"
+                    }
+                ]
+            },
+            "provenance": "framework_enhancement"
+        },
+        {
+            "type": "locations_coverage",
+            "fields": {
+                "heading": "Nearby areas we cover",
+                "locations": [
+                    {
+                        "href": "/care-staffing-agency-hammersmith-and-fulham",
+                        "label": "Hammersmith & Fulham"
+                    },
+                    {
+                        "href": "/temporary-care-staffing-agency-westminster",
+                        "label": "Westminster"
+                    }
+                ],
+                "view_all_url": "/locations",
+                "view_all_label": "View all locations"
+            },
+            "provenance": "framework_enhancement"
         },
         {
             "type": "cta",
             "fields": {
-                "heading": "Need vetted care staff in Kensington and Chelsea?",
                 "sub": "Tell us the role, dates, and setting, and our team will arrange reliable cover.",
-                "cta_label": "Request Care Staff Today",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
-            }
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
+                "heading": "Need vetted care staff in Kensington and Chelsea?",
+                "cta_label": "Request Care Staff Today"
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "contact_form",
             "fields": {
-                "division": "staffing",
-                "heading": "Request care staff in Kensington and Chelsea"
-            }
+                "heading": "Request care staff in Kensington and Chelsea",
+                "division": "staffing"
+            },
+            "provenance": "later_editorial"
         }
     ],
     "status": "draft"

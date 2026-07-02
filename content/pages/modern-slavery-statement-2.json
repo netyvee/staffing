@@ -5,10 +5,10 @@
     "page_type": "supporting",
     "seo": {
         "title": "Modern Slavery Statement | Vigil Care Staffing",
-        "description": "Vigil Services Ltd modern slavery statement \u2014 our commitment to preventing modern slavery, due diligence processes, training, and compliance with the Modern Slavery Act 2015.",
         "canonical": "/modern-slavery-statement-2",
-        "focus_keyword": "modern slavery statement vigil care staffing",
-        "schema_type": "WebPage"
+        "description": "Vigil Services Ltd modern slavery statement \u2014 our commitment to preventing modern slavery, due diligence processes, training, and compliance with the Modern Slavery Act 2015.",
+        "schema_type": "WebPage",
+        "focus_keyword": "modern slavery statement vigil care staffing"
     },
     "brand": {
         "bg": "#0a1628",
@@ -27,71 +27,80 @@
         {
             "type": "hero",
             "fields": {
-                "heading": "Modern Slavery Statement",
                 "sub": "Our commitment to preventing modern slavery and human trafficking in our operations and supply chains.",
-                "cta_label": "Contact Us",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "image": "",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
+                "heading": "Modern Slavery Statement",
+                "cta_label": "Contact Us",
                 "image_alt": "Vigil Care Staffing modern slavery statement"
-            }
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
-                "heading": "Introduction",
-                "body": "This statement sets out the steps Vigil Care Staffing takes to prevent modern slavery and human trafficking within our own operations and our supply chains. Modern slavery is a serious crime and a violation of fundamental human rights. We are committed to acting ethically and with integrity in all our business relationships, and to preventing modern slavery in any part of our activities. This statement is made in the spirit of the Modern Slavery Act 2015."
-            }
+                "body": "This statement sets out the steps Vigil Care Staffing takes to prevent modern slavery and human trafficking within our own operations and our supply chains. Modern slavery is a serious crime and a violation of fundamental human rights. We are committed to acting ethically and with integrity in all our business relationships, and to preventing modern slavery in any part of our activities. This statement is made in the spirit of the Modern Slavery Act 2015.",
+                "heading": "Introduction"
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
-                "heading": "Our business",
-                "body": "Vigil Care Staffing supplies vetted care-sector workers, including healthcare assistants, support workers and healthcare cleaners, to care providers across Greater London. Because we recruit and place people, safer recruitment sits at the heart of how we protect workers from exploitation."
-            }
+                "body": "Vigil Care Staffing supplies vetted care-sector workers, including healthcare assistants, support workers and healthcare cleaners, to care providers across Greater London. Because we recruit and place people, safer recruitment sits at the heart of how we protect workers from exploitation.",
+                "heading": "Our business"
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
-                "heading": "Our commitment",
-                "body": "We have zero tolerance for modern slavery. We expect the same high standards from everyone we work with, including the clients we supply and the partners who support our operations. We are committed to ensuring that no form of forced labour, servitude or human trafficking takes place within our business or our supply chains."
-            }
+                "body": "We have zero tolerance for modern slavery. We expect the same high standards from everyone we work with, including the clients we supply and the partners who support our operations. We are committed to ensuring that no form of forced labour, servitude or human trafficking takes place within our business or our supply chains.",
+                "heading": "Our commitment"
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
-                "heading": "Due diligence and our supply chains",
-                "body": "We seek to understand and manage the risk of modern slavery in our supply chains. This includes taking care to work with reputable partners and being alert to the warning signs of exploitation. Where we identify a risk or concern, we act to address it promptly and appropriately."
-            }
+                "body": "We seek to understand and manage the risk of modern slavery in our supply chains. This includes taking care to work with reputable partners and being alert to the warning signs of exploitation. Where we identify a risk or concern, we act to address it promptly and appropriately.",
+                "heading": "Due diligence and our supply chains"
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
-                "heading": "Safer recruitment and vetting",
-                "body": "Our vetting process is a key safeguard against exploitation. We verify the identity and right to work of every worker, confirm references, and pay careful attention to indicators that a person may be at risk of modern slavery, such as controlled documents or wages paid to a third party. These checks help protect the workers we place as well as the people they care for."
-            }
+                "body": "Our vetting process is a key safeguard against exploitation. We verify the identity and right to work of every worker, confirm references, and pay careful attention to indicators that a person may be at risk of modern slavery, such as controlled documents or wages paid to a third party. These checks help protect the workers we place as well as the people they care for.",
+                "heading": "Safer recruitment and vetting"
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
-                "heading": "Training and awareness",
-                "body": "We raise awareness of modern slavery among our team so that they can recognise the signs and know how to raise concerns. Building this understanding into our recruitment and day-to-day operations helps us respond quickly if a concern arises."
-            }
+                "body": "We raise awareness of modern slavery among our team so that they can recognise the signs and know how to raise concerns. Building this understanding into our recruitment and day-to-day operations helps us respond quickly if a concern arises.",
+                "heading": "Training and awareness"
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
-                "heading": "Responsibility and review",
-                "body": "Responsibility for this statement and for preventing modern slavery rests with the management of Vigil Care Staffing. We keep our approach under review and will update our practices and this statement as needed to reflect changes in our business or in good practice."
-            }
+                "body": "Responsibility for this statement and for preventing modern slavery rests with the management of Vigil Care Staffing. We keep our approach under review and will update our practices and this statement as needed to reflect changes in our business or in good practice.",
+                "heading": "Responsibility and review"
+            },
+            "provenance": "later_editorial"
         },
         {
             "type": "cta",
             "fields": {
-                "heading": "Concerns about modern slavery?",
                 "sub": "If you have a concern or a question about this statement, our team is here to help.",
-                "cta_label": "Contact Us",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
-            }
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
+                "heading": "Concerns about modern slavery?",
+                "cta_label": "Contact Us"
+            },
+            "provenance": "later_editorial"
         }
     ],
     "status": "draft"
