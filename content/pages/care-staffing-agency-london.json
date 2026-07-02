@@ -5,10 +5,10 @@
     "page_type": "service",
     "seo": {
         "title": "Care Staffing Agency London | Vigil Care Staffing",
-        "canonical": "/care-staffing-agency-london",
         "description": "London's trusted care staffing agency \u2014 qualified, vetted Healthcare Assistants, Support Workers, and Cleaners for care homes and supported living. Fast response, CQC-compliant.",
-        "schema_type": "Service",
-        "focus_keyword": "care staffing agency london"
+        "canonical": "/care-staffing-agency-london",
+        "focus_keyword": "care staffing agency london",
+        "schema_type": "Service"
     },
     "brand": {
         "bg": "#0a1628",
@@ -27,20 +27,38 @@
         {
             "type": "hero",
             "fields": {
-                "sub": "Vigil Care Staffing supplies vetted healthcare assistants, support workers, and healthcare cleaners to care providers across Greater London.",
-                "image": "",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "heading": "Care Staffing Agency in London",
+                "sub": "Vigil Care Staffing supplies vetted healthcare assistants, support workers, and healthcare cleaners to care providers across Greater London.",
                 "cta_label": "Request Care Staff",
-                "image_alt": "Care staffing agency team of healthcare assistants and support workers in London"
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
+                "image": {
+                    "id": 87,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894722/vigil/care_staffing/hero/staffing-evidence-builder-vigil-care-staffing-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/hero/staffing-evidence-builder-vigil-care-staffing-care-staffing-london",
+                    "alt": "a blue and white document with white text",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/07/Staffing_-Evidence_Builder_Vigil_Care_Staffing.png",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "a blue and white document with white text"
             },
             "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
+                "heading": "Reliable care staffing across Greater London",
                 "body": "Vigil Care Staffing is a care staffing agency supplying vetted care-sector workers to providers across Greater London. From a single shift to ongoing cover, we help care homes and other providers keep their rotas safely staffed. We supply healthcare assistants, support workers, and healthcare cleaners, matching each request to workers who are DBS-checked, referenced, and directly employed. Whether you need planned cover, short-notice help, or support while you recruit, we can supply reliable staff. We supply workers rather than operate regulated care, so our focus is entirely on finding you dependable, well-vetted people and responding promptly whenever you get in touch.",
-                "heading": "Reliable care staffing across Greater London"
+                "image": {
+                    "id": 88,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894733/vigil/care_staffing/general/cropped-vigilcare-cover-820x312-300x93-removebg-preview-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/general/cropped-vigilcare-cover-820x312-300x93-removebg-preview-care-staffing-london",
+                    "alt": "Vigil Staffing Services",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/09/cropped-VigilCare_Cover_820x312-300x93-removebg-preview.png",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "Vigil Staffing Services"
             },
             "provenance": "later_editorial"
         },
@@ -49,28 +67,28 @@
             "fields": {
                 "items": [
                     {
-                        "body": "Every worker is DBS-checked, right-to-work verified, and referenced before placement, so you can book with confidence.",
-                        "title": "Fully Vetted Staff"
+                        "title": "Fully Vetted Staff",
+                        "body": "Every worker is DBS-checked, right-to-work verified, and referenced before placement, so you can book with confidence."
                     },
                     {
-                        "body": "When a shift falls through, we work quickly to supply a suitable vetted worker from our Greater London pool.",
-                        "title": "Rapid Short-Notice Cover"
+                        "title": "Rapid Short-Notice Cover",
+                        "body": "When a shift falls through, we work quickly to supply a suitable vetted worker from our Greater London pool."
                     },
                     {
-                        "body": "We supply healthcare assistants, support workers, and healthcare cleaners, matching the role to your requirement.",
-                        "title": "Broad Role Coverage"
+                        "title": "Broad Role Coverage",
+                        "body": "We supply healthcare assistants, support workers, and healthcare cleaners, matching the role to your requirement."
                     },
                     {
-                        "body": "Our workers are directly employed, which helps us keep their training, documentation, and standards consistent.",
-                        "title": "Directly Employed Workers"
+                        "title": "Directly Employed Workers",
+                        "body": "Our workers are directly employed, which helps us keep their training, documentation, and standards consistent."
                     },
                     {
-                        "body": "Our workers are based across Greater London, helping us reach your service and supply staff familiar with local settings.",
-                        "title": "Greater London Reach"
+                        "title": "Greater London Reach",
+                        "body": "Our workers are based across Greater London, helping us reach your service and supply staff familiar with local settings."
                     },
                     {
-                        "body": "We follow up promptly on staffing requests and keep you updated throughout the placement.",
-                        "title": "Responsive Communication"
+                        "title": "Responsive Communication",
+                        "body": "We follow up promptly on staffing requests and keep you updated throughout the placement."
                     }
                 ]
             },
@@ -79,10 +97,18 @@
         {
             "type": "text_image",
             "fields": {
-                "body": "Safer staffing starts with thorough vetting. Before any worker is placed, we complete enhanced DBS checks, verify their right to work, and take up references from previous care employers. We assess relevant skills for the role, and because our workers are directly employed we keep their training and records current. Our recruitment follows a CQC-compliant process, giving providers clear, documented assurance about the people supporting their service.",
-                "image": "",
                 "heading": "Our vetting and compliance process",
-                "image_alt": "Care staffing agency worker supporting a resident in a London care home"
+                "body": "Safer staffing starts with thorough vetting. Before any worker is placed, we complete enhanced DBS checks, verify their right to work, and take up references from previous care employers. We assess relevant skills for the role, and because our workers are directly employed we keep their training and records current. Our recruitment follows a CQC-compliant process, giving providers clear, documented assurance about the people supporting their service.",
+                "image": {
+                    "id": 88,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894733/vigil/care_staffing/general/cropped-vigilcare-cover-820x312-300x93-removebg-preview-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/general/cropped-vigilcare-cover-820x312-300x93-removebg-preview-care-staffing-london",
+                    "alt": "Vigil Staffing Services",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/09/cropped-VigilCare_Cover_820x312-300x93-removebg-preview.png",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "Vigil Staffing Services"
             },
             "provenance": "later_editorial"
         },
@@ -91,24 +117,24 @@
             "fields": {
                 "items": [
                     {
-                        "a": "We supply healthcare assistants, support workers, and healthcare cleaners to care providers across Greater London, for temporary, short-notice, and ongoing cover.",
-                        "q": "What roles does Vigil Care Staffing supply?"
+                        "q": "What roles does Vigil Care Staffing supply?",
+                        "a": "We supply healthcare assistants, support workers, and healthcare cleaners to care providers across Greater London, for temporary, short-notice, and ongoing cover."
                     },
                     {
-                        "a": "Every worker is DBS-checked, right-to-work verified, and referenced before placement, with relevant skills assessed for the role.",
-                        "q": "How are your care workers vetted?"
+                        "q": "How are your care workers vetted?",
+                        "a": "Every worker is DBS-checked, right-to-work verified, and referenced before placement, with relevant skills assessed for the role."
                     },
                     {
-                        "a": "We supply care-sector workers to providers across Greater London and can discuss the specific area you need covered.",
-                        "q": "Which areas do you cover?"
+                        "q": "Which areas do you cover?",
+                        "a": "We supply care-sector workers to providers across Greater London and can discuss the specific area you need covered."
                     },
                     {
-                        "a": "Yes. We prioritise urgent requests and work to supply a suitable vetted worker as quickly as we can.",
-                        "q": "Can you help with short-notice cover?"
+                        "q": "Can you help with short-notice cover?",
+                        "a": "Yes. We prioritise urgent requests and work to supply a suitable vetted worker as quickly as we can."
                     },
                     {
-                        "a": "No. Vigil Care Staffing supplies vetted care-sector workers to providers. We are not a regulated care provider and are not CQC-registered.",
-                        "q": "Are you a CQC-registered care provider?"
+                        "q": "Are you a CQC-registered care provider?",
+                        "a": "No. Vigil Care Staffing supplies vetted care-sector workers to providers. We are not a regulated care provider and are not CQC-registered."
                     }
                 ]
             },
@@ -120,32 +146,32 @@
                 "heading": "Related staffing services",
                 "locations": [
                     {
-                        "href": "/healthcare-assistants",
-                        "label": "Healthcare assistants"
+                        "label": "Healthcare assistants",
+                        "href": "/healthcare-assistants"
                     },
                     {
-                        "href": "/support-workers",
-                        "label": "Support workers"
+                        "label": "Support workers",
+                        "href": "/support-workers"
                     },
                     {
-                        "href": "/night-shift-care-staff-london",
-                        "label": "Night-shift care staff"
+                        "label": "Night-shift care staff",
+                        "href": "/night-shift-care-staff-london"
                     },
                     {
-                        "href": "/emergency-care-cover-london",
-                        "label": "Emergency care cover"
+                        "label": "Emergency care cover",
+                        "href": "/emergency-care-cover-london"
                     },
                     {
-                        "href": "/temporary-care-staff-london",
-                        "label": "Temporary care staff"
+                        "label": "Temporary care staff",
+                        "href": "/temporary-care-staff-london"
                     },
                     {
-                        "href": "/live-in-care-agency-in-london",
-                        "label": "Live-in care"
+                        "label": "Live-in care",
+                        "href": "/live-in-care-agency-in-london"
                     }
                 ],
-                "view_all_url": "/services",
-                "view_all_label": "All services"
+                "view_all_label": "All services",
+                "view_all_url": "/services"
             },
             "provenance": "framework_enhancement"
         },
@@ -155,32 +181,32 @@
                 "heading": "Areas we cover",
                 "locations": [
                     {
-                        "href": "/care-staff-agency-tower-hamlets",
-                        "label": "Tower Hamlets"
+                        "label": "Tower Hamlets",
+                        "href": "/care-staff-agency-tower-hamlets"
                     },
                     {
-                        "href": "/temporary-care-staffing-agency-in-hackney",
-                        "label": "Hackney"
+                        "label": "Hackney",
+                        "href": "/temporary-care-staffing-agency-in-hackney"
                     },
                     {
-                        "href": "/temporary-care-staffing-agency-in-islington",
-                        "label": "Islington"
+                        "label": "Islington",
+                        "href": "/temporary-care-staffing-agency-in-islington"
                     },
                     {
-                        "href": "/care-staffing-agency-in-camden",
-                        "label": "Camden"
+                        "label": "Camden",
+                        "href": "/care-staffing-agency-in-camden"
                     },
                     {
-                        "href": "/temporary-care-staffing-agency-westminster",
-                        "label": "Westminster"
+                        "label": "Westminster",
+                        "href": "/temporary-care-staffing-agency-westminster"
                     },
                     {
-                        "href": "/care-staffing-agency-kensington-and-chelsea",
-                        "label": "Kensington & Chelsea"
+                        "label": "Kensington & Chelsea",
+                        "href": "/care-staffing-agency-kensington-and-chelsea"
                     }
                 ],
-                "view_all_url": "/locations",
-                "view_all_label": "View all locations"
+                "view_all_label": "View all locations",
+                "view_all_url": "/locations"
             },
             "provenance": "framework_enhancement"
         },
@@ -190,20 +216,20 @@
                 "heading": "Related guides",
                 "locations": [
                     {
-                        "href": "/temporary-staffing-solutions",
-                        "label": "Temporary staffing solutions for healthcare"
+                        "label": "Temporary staffing solutions for healthcare",
+                        "href": "/temporary-staffing-solutions"
                     },
                     {
-                        "href": "/cqc-compliance-and-staffing",
-                        "label": "CQC compliance and staffing"
+                        "label": "CQC compliance and staffing",
+                        "href": "/cqc-compliance-and-staffing"
                     },
                     {
-                        "href": "/hire-healthcare-assistants",
-                        "label": "Hiring healthcare assistants"
+                        "label": "Hiring healthcare assistants",
+                        "href": "/hire-healthcare-assistants"
                     },
                     {
-                        "href": "/care-home-cpd",
-                        "label": "Care home CPD and CQC compliance"
+                        "label": "Care home CPD and CQC compliance",
+                        "href": "/care-home-cpd"
                     }
                 ]
             },
@@ -212,10 +238,10 @@
         {
             "type": "cta",
             "fields": {
-                "sub": "Tell us the roles and dates you need, and we will match reliable workers across Greater London.",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "heading": "Ready to fill your rota with vetted care staff?",
-                "cta_label": "Request Care Staff"
+                "sub": "Tell us the roles and dates you need, and we will match reliable workers across Greater London.",
+                "cta_label": "Request Care Staff",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
             },
             "provenance": "later_editorial"
         },
