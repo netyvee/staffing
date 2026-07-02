@@ -5,10 +5,10 @@
     "page_type": "recruitment",
     "seo": {
         "title": "Colleagues Support | Vigil Care Staffing",
-        "canonical": "/colleagues-support",
         "description": "Health, wellbeing, finance, and professional development resources for Vigil Care Staffing colleagues. Links to support across every area of working life.",
-        "schema_type": "WebPage",
-        "focus_keyword": "colleagues support care staffing"
+        "canonical": "/colleagues-support",
+        "focus_keyword": "colleagues support care staffing",
+        "schema_type": "WebPage"
     },
     "brand": {
         "bg": "#0a1628",
@@ -27,11 +27,11 @@
         {
             "type": "hero",
             "fields": {
-                "sub": "Practical support for Vigil Care Staffing colleagues across health, wellbeing, finances and professional development.",
-                "image": "",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "heading": "Colleague Support",
+                "sub": "Practical support for Vigil Care Staffing colleagues across health, wellbeing, finances and professional development.",
                 "cta_label": "Speak to the Vigil Care Staffing Team",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
+                "image": "",
                 "image_alt": "Care worker taking a supported break between shifts"
             },
             "provenance": "later_editorial"
@@ -39,49 +39,49 @@
         {
             "type": "prose",
             "fields": {
-                "body": "Caring for others is rewarding, but it can also be demanding. At Vigil Care Staffing we want our colleagues to feel supported both on and off shift. The categories below point you towards trusted help across your health, wellbeing, finances and personal development. If you are ever unsure where to turn, our team can help you find the right support.",
-                "heading": "Support across every area of working life"
+                "heading": "Support across every area of working life",
+                "body": "Caring for others is rewarding, but it can also be demanding. At Vigil Care Staffing we want our colleagues to feel supported both on and off shift. The categories below point you towards trusted help across your health, wellbeing, finances and personal development. If you are ever unsure where to turn, our team can help you find the right support."
             },
             "provenance": "later_editorial"
         },
         {
             "type": "service_grid",
             "fields": {
+                "heading": "Ways we support our colleagues",
                 "items": [
                     {
-                        "body": "Guidance on staying physically well, managing long hours and looking after your body while working in care.",
-                        "title": "Health and Well-being"
+                        "title": "Health and Well-being",
+                        "body": "Guidance on staying physically well, managing long hours and looking after your body while working in care."
                     },
                     {
-                        "body": "Confidential support for stress, low mood and the emotional demands of care work, so you never have to cope alone.",
-                        "title": "Mental Well-being"
+                        "title": "Mental Well-being",
+                        "body": "Confidential support for stress, low mood and the emotional demands of care work, so you never have to cope alone."
                     },
                     {
-                        "body": "Signposting to budgeting help, benefits advice and money guidance to help you feel more secure day to day.",
-                        "title": "Finance"
+                        "title": "Finance",
+                        "body": "Signposting to budgeting help, benefits advice and money guidance to help you feel more secure day to day."
                     },
                     {
-                        "body": "Access to learning resources that build reading, writing and number skills to support your confidence and career.",
-                        "title": "Literacy and Numeracy"
+                        "title": "Literacy and Numeracy",
+                        "body": "Access to learning resources that build reading, writing and number skills to support your confidence and career."
                     },
                     {
-                        "body": "Clear information on your employment, working rights and how to raise questions about your assignments.",
-                        "title": "HR"
+                        "title": "HR",
+                        "body": "Clear information on your employment, working rights and how to raise questions about your assignments."
                     },
                     {
-                        "body": "Help with the apps and digital tools you use to view rotas, submit timesheets and stay in touch.",
-                        "title": "Information Technology"
+                        "title": "Information Technology",
+                        "body": "Help with the apps and digital tools you use to view rotas, submit timesheets and stay in touch."
                     },
                     {
-                        "body": "Signposting to childcare guidance and support so you can balance family life with your care assignments.",
-                        "title": "Childcare"
+                        "title": "Childcare",
+                        "body": "Signposting to childcare guidance and support so you can balance family life with your care assignments."
                     },
                     {
-                        "body": "Details of groups and communities where care workers share experiences and encourage one another.",
-                        "title": "Support Groups"
+                        "title": "Support Groups",
+                        "body": "Details of groups and communities where care workers share experiences and encourage one another."
                     }
-                ],
-                "heading": "Ways we support our colleagues"
+                ]
             },
             "provenance": "later_editorial"
         },
@@ -90,16 +90,16 @@
             "fields": {
                 "items": [
                     {
-                        "a": "These resources are for colleagues working with Vigil Care Staffing across Greater London. They are here to support you throughout your time with us.",
-                        "q": "Who can use these support resources?"
+                        "q": "Who can use these support resources?",
+                        "a": "These resources are for colleagues working with Vigil Care Staffing across Greater London. They are here to support you throughout your time with us."
                     },
                     {
-                        "a": "Yes. Wellbeing and personal support is treated in confidence, and using it will never affect the assignments you are offered.",
-                        "q": "Is the support confidential?"
+                        "q": "Is the support confidential?",
+                        "a": "Yes. Wellbeing and personal support is treated in confidence, and using it will never affect the assignments you are offered."
                     },
                     {
-                        "a": "If none of the categories fit your situation, our team can help you find the right support or point you to a suitable service.",
-                        "q": "What if I cannot find the help I need?"
+                        "q": "What if I cannot find the help I need?",
+                        "a": "If none of the categories fit your situation, our team can help you find the right support or point you to a suitable service."
                     }
                 ]
             },
@@ -111,32 +111,32 @@
                 "heading": "Explore our services",
                 "locations": [
                     {
-                        "href": "/healthcare-assistants",
-                        "label": "Healthcare assistants"
+                        "label": "Healthcare assistants",
+                        "href": "/healthcare-assistants"
                     },
                     {
-                        "href": "/support-workers",
-                        "label": "Support workers"
+                        "label": "Support workers",
+                        "href": "/support-workers"
                     },
                     {
-                        "href": "/night-shift-care-staff-london",
-                        "label": "Night-shift care staff"
+                        "label": "Night-shift care staff",
+                        "href": "/night-shift-care-staff-london"
                     },
                     {
-                        "href": "/emergency-care-cover-london",
-                        "label": "Emergency care cover"
+                        "label": "Emergency care cover",
+                        "href": "/emergency-care-cover-london"
                     },
                     {
-                        "href": "/temporary-care-staff-london",
-                        "label": "Temporary care staff"
+                        "label": "Temporary care staff",
+                        "href": "/temporary-care-staff-london"
                     },
                     {
-                        "href": "/live-in-care-agency-in-london",
-                        "label": "Live-in care"
+                        "label": "Live-in care",
+                        "href": "/live-in-care-agency-in-london"
                     }
                 ],
-                "view_all_url": "/services",
-                "view_all_label": "All services"
+                "view_all_label": "All services",
+                "view_all_url": "/services"
             },
             "provenance": "framework_enhancement"
         },
@@ -146,12 +146,12 @@
                 "heading": "More for candidates",
                 "locations": [
                     {
-                        "href": "/healthcare-assistant-jobs",
-                        "label": "Healthcare assistant jobs"
+                        "label": "Healthcare assistant jobs",
+                        "href": "/healthcare-assistant-jobs"
                     },
                     {
-                        "href": "/about",
-                        "label": "About Vigil Care Staffing"
+                        "label": "About Vigil Care Staffing",
+                        "href": "/about"
                     }
                 ]
             },
@@ -160,10 +160,10 @@
         {
             "type": "cta",
             "fields": {
-                "sub": "Our team is here to point you in the right direction.",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "heading": "Need help finding the right support?",
-                "cta_label": "Speak to the Vigil Care Staffing Team"
+                "sub": "Our team is here to point you in the right direction.",
+                "cta_label": "Speak to the Vigil Care Staffing Team",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
             },
             "provenance": "later_editorial"
         },
