@@ -5,10 +5,10 @@
     "page_type": "blog",
     "seo": {
         "title": "Temporary Staffing Solutions | Vigil Care Staffing",
-        "canonical": "/temporary-staffing-solutions",
         "description": "Your guide to temporary staffing solutions for healthcare London \u2014 how the right agency can transform health and social care services with rapid, vetted, CQC-compliant placements.",
-        "schema_type": "Article",
-        "focus_keyword": "temporary staffing solutions for healthcare London"
+        "canonical": "/temporary-staffing-solutions",
+        "focus_keyword": "temporary staffing solutions for healthcare London",
+        "schema_type": "Article"
     },
     "brand": {
         "bg": "#0a1628",
@@ -27,107 +27,135 @@
         {
             "type": "hero",
             "fields": {
-                "sub": "How the right agency helps health and social care services cover rota gaps quickly, safely and compliantly across Greater London.",
-                "image": "",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "heading": "Your Guide to Temporary Staffing Solutions for Healthcare in London",
+                "sub": "How the right agency helps health and social care services cover rota gaps quickly, safely and compliantly across Greater London.",
                 "cta_label": "Talk to Vigil Care Staffing",
-                "image_alt": "Temporary care assistant supporting an elderly resident in a London care home"
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
+                "image": {
+                    "id": 113,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782895024/vigil/care_staffing/hero/temporary-staffing-solution-healthcare-london-1024x683-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/hero/temporary-staffing-solution-healthcare-london-1024x683-care-staffing-london",
+                    "alt": "Temporary staffing solutions for healthcare London \u2013 care assistant supporting elderly woman in assisted living home",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/08/temporary-staffing-solution-healthcare-london-1024x683.png",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "Temporary staffing solutions for healthcare London \u2013 care assistant supporting elderly woman in assisted living home"
             },
             "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
+                "heading": "What are temporary staffing solutions?",
                 "body": "Temporary staffing solutions give care providers access to a pool of pre-vetted workers who can step in when the permanent team is short. That might mean covering a single sickness absence, filling a block of night shifts, or bridging a longer gap while you recruit. A good agency handles the vetting, compliance and matching, so you get suitable staff without the administrative burden of ad-hoc hiring.",
-                "heading": "What are temporary staffing solutions?"
+                "image": {
+                    "id": 120,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782896409/vigil/care_staffing/general/temporary-staffing-solution-healthcare-london-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/general/temporary-staffing-solution-healthcare-london-care-staffing-london",
+                    "alt": "A smiling care worker in blue uniform holds hands with an elderly woman in a comfortable lounge setting.",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/08/temporary-staffing-solution-healthcare-london.png",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "A smiling care worker in blue uniform holds hands with an elderly woman in a comfortable lounge setting."
             },
             "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
-                "body": "Care services across Greater London face fluctuating demand, staff sickness and seasonal pressure. When a shift goes uncovered, residents feel the impact and the remaining staff carry the strain. Reliable temporary cover protects continuity of care, helps you stay within safe staffing levels, and reduces the risk of burnout in your permanent team. In a busy capital, being able to call on vetted workers quickly is a genuine operational advantage.",
-                "heading": "Why temporary staffing matters in London"
+                "heading": "Why temporary staffing matters in London",
+                "body": "Care services across Greater London face fluctuating demand, staff sickness and seasonal pressure. When a shift goes uncovered, residents feel the impact and the remaining staff carry the strain. Reliable temporary cover protects continuity of care, helps you stay within safe staffing levels, and reduces the risk of burnout in your permanent team. In a busy capital, being able to call on vetted workers quickly is a genuine operational advantage."
             },
             "provenance": "later_editorial"
         },
         {
             "type": "service_grid",
             "fields": {
+                "heading": "Types of roles covered",
                 "items": [
                     {
-                        "body": "Cover personal care, daily living support and companionship in care homes and supported living settings.",
-                        "title": "Healthcare Assistants"
+                        "title": "Healthcare Assistants",
+                        "body": "Cover personal care, daily living support and companionship in care homes and supported living settings."
                     },
                     {
-                        "body": "Support people with learning disabilities, mental health needs or complex conditions to live well.",
-                        "title": "Support Workers"
+                        "title": "Support Workers",
+                        "body": "Support people with learning disabilities, mental health needs or complex conditions to live well."
                     },
                     {
-                        "body": "Provide attentive overnight cover that keeps residents safe when day teams are off duty.",
-                        "title": "Night-Shift Care Staff"
+                        "title": "Night-Shift Care Staff",
+                        "body": "Provide attentive overnight cover that keeps residents safe when day teams are off duty."
                     },
                     {
-                        "body": "Maintain clean, hygienic environments to recognised infection-prevention standards.",
-                        "title": "Healthcare Cleaners"
+                        "title": "Healthcare Cleaners",
+                        "body": "Maintain clean, hygienic environments to recognised infection-prevention standards."
                     },
                     {
-                        "body": "Fill sudden gaps caused by sickness or emergencies with workers who are ready to step in.",
-                        "title": "Short-Notice Cover"
+                        "title": "Short-Notice Cover",
+                        "body": "Fill sudden gaps caused by sickness or emergencies with workers who are ready to step in."
                     }
                 ],
-                "heading": "Types of roles covered"
+                "image": {
+                    "id": 121,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782896421/vigil/care_staffing/general/healthcare-staffing-london-care-facility-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/general/healthcare-staffing-london-care-facility-care-staffing-london",
+                    "alt": "A smiling carer in blue scrubs sits with an elderly woman in a care home lounge, hands gently resting together.",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/08/healthcare-staffing-london-care-facility.png",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "A smiling carer in blue scrubs sits with an elderly woman in a care home lounge, hands gently resting together."
             },
             "provenance": "later_editorial"
         },
         {
             "type": "service_grid",
             "fields": {
+                "heading": "How the process works",
                 "items": [
                     {
-                        "body": "Tell the agency the role, dates, shift pattern and any specialist skills you need.",
-                        "title": "Share your requirement"
+                        "title": "Share your requirement",
+                        "body": "Tell the agency the role, dates, shift pattern and any specialist skills you need."
                     },
                     {
-                        "body": "The agency matches suitable, vetted workers to your requirement based on skills, experience and location.",
-                        "title": "Matching"
+                        "title": "Matching",
+                        "body": "The agency matches suitable, vetted workers to your requirement based on skills, experience and location."
                     },
                     {
-                        "body": "You confirm the booking, and the worker is briefed on your setting before arriving on shift.",
-                        "title": "Confirmation and briefing"
+                        "title": "Confirmation and briefing",
+                        "body": "You confirm the booking, and the worker is briefed on your setting before arriving on shift."
                     },
                     {
-                        "body": "The worker completes the shift, and the agency follows up to confirm everything went well and arrange any further cover.",
-                        "title": "On shift and follow-up"
+                        "title": "On shift and follow-up",
+                        "body": "The worker completes the shift, and the agency follows up to confirm everything went well and arrange any further cover."
                     }
-                ],
-                "heading": "How the process works"
+                ]
             },
             "provenance": "later_editorial"
         },
         {
             "type": "service_grid",
             "fields": {
+                "heading": "Choosing the right agency",
                 "items": [
                     {
-                        "body": "Choose an agency that completes enhanced DBS checks, right-to-work verification and reference checks on every worker.",
-                        "title": "Rigorous vetting"
+                        "title": "Rigorous vetting",
+                        "body": "Choose an agency that completes enhanced DBS checks, right-to-work verification and reference checks on every worker."
                     },
                     {
-                        "body": "Look for real presence across your part of Greater London, so workers can reach you quickly and know the area.",
-                        "title": "Genuine local coverage"
+                        "title": "Genuine local coverage",
+                        "body": "Look for real presence across your part of Greater London, so workers can reach you quickly and know the area."
                     },
                     {
-                        "body": "Prompt, clear follow-up to your queries is a strong sign of an agency that will support you when it matters.",
-                        "title": "Responsive communication"
+                        "title": "Responsive communication",
+                        "body": "Prompt, clear follow-up to your queries is a strong sign of an agency that will support you when it matters."
                     },
                     {
-                        "body": "A dependable partner shares compliance profiles for its workers to support your own CQC evidence.",
-                        "title": "Compliance transparency"
+                        "title": "Compliance transparency",
+                        "body": "A dependable partner shares compliance profiles for its workers to support your own CQC evidence."
                     }
-                ],
-                "heading": "Choosing the right agency"
+                ]
             },
             "provenance": "later_editorial"
         },
@@ -136,16 +164,16 @@
             "fields": {
                 "items": [
                     {
-                        "a": "A well-organised agency with a local pool can often arrange cover at short notice. The exact timing depends on the role and your location within Greater London.",
-                        "q": "How quickly can temporary staff be arranged?"
+                        "q": "How quickly can temporary staff be arranged?",
+                        "a": "A well-organised agency with a local pool can often arrange cover at short notice. The exact timing depends on the role and your location within Greater London."
                     },
                     {
-                        "a": "With a reputable agency, yes. Every worker should have an enhanced DBS check, verified right-to-work documents, references and current mandatory training.",
-                        "q": "Are temporary workers properly vetted?"
+                        "q": "Are temporary workers properly vetted?",
+                        "a": "With a reputable agency, yes. Every worker should have an enhanced DBS check, verified right-to-work documents, references and current mandatory training."
                     },
                     {
-                        "a": "Yes. Many providers start with short-notice cover and move to regular or ongoing bookings once they find workers who fit their team.",
-                        "q": "Can temporary staffing become a longer arrangement?"
+                        "q": "Can temporary staffing become a longer arrangement?",
+                        "a": "Yes. Many providers start with short-notice cover and move to regular or ongoing bookings once they find workers who fit their team."
                     }
                 ]
             },
@@ -157,32 +185,32 @@
                 "heading": "Related services",
                 "locations": [
                     {
-                        "href": "/healthcare-assistants",
-                        "label": "Healthcare assistants"
+                        "label": "Healthcare assistants",
+                        "href": "/healthcare-assistants"
                     },
                     {
-                        "href": "/support-workers",
-                        "label": "Support workers"
+                        "label": "Support workers",
+                        "href": "/support-workers"
                     },
                     {
-                        "href": "/night-shift-care-staff-london",
-                        "label": "Night-shift care staff"
+                        "label": "Night-shift care staff",
+                        "href": "/night-shift-care-staff-london"
                     },
                     {
-                        "href": "/emergency-care-cover-london",
-                        "label": "Emergency care cover"
+                        "label": "Emergency care cover",
+                        "href": "/emergency-care-cover-london"
                     },
                     {
-                        "href": "/temporary-care-staff-london",
-                        "label": "Temporary care staff"
+                        "label": "Temporary care staff",
+                        "href": "/temporary-care-staff-london"
                     },
                     {
-                        "href": "/live-in-care-agency-in-london",
-                        "label": "Live-in care"
+                        "label": "Live-in care",
+                        "href": "/live-in-care-agency-in-london"
                     }
                 ],
-                "view_all_url": "/services",
-                "view_all_label": "All services"
+                "view_all_label": "All services",
+                "view_all_url": "/services"
             },
             "provenance": "framework_enhancement"
         },
@@ -192,30 +220,30 @@
                 "heading": "More guides",
                 "locations": [
                     {
-                        "href": "/cqc-compliance-and-staffing",
-                        "label": "CQC compliance and staffing"
+                        "label": "CQC compliance and staffing",
+                        "href": "/cqc-compliance-and-staffing"
                     },
                     {
-                        "href": "/hire-healthcare-assistants",
-                        "label": "Hiring healthcare assistants"
+                        "label": "Hiring healthcare assistants",
+                        "href": "/hire-healthcare-assistants"
                     },
                     {
-                        "href": "/care-home-cpd",
-                        "label": "Care home CPD and CQC compliance"
+                        "label": "Care home CPD and CQC compliance",
+                        "href": "/care-home-cpd"
                     }
                 ],
-                "view_all_url": "/blog",
-                "view_all_label": "All guides"
+                "view_all_label": "All guides",
+                "view_all_url": "/blog"
             },
             "provenance": "framework_enhancement"
         },
         {
             "type": "cta",
             "fields": {
-                "sub": "Vigil Care Staffing supplies vetted temporary care workers across Greater London.",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "heading": "Ready to solve your rota gaps?",
-                "cta_label": "Talk to Vigil Care Staffing"
+                "sub": "Vigil Care Staffing supplies vetted temporary care workers across Greater London.",
+                "cta_label": "Talk to Vigil Care Staffing",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
             },
             "provenance": "later_editorial"
         }
