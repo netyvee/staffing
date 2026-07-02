@@ -5,10 +5,10 @@
     "page_type": "recruitment",
     "seo": {
         "title": "Healthcare Assistant Jobs in London | Vigil Care Staffing",
-        "canonical": "/healthcare-assistant-jobs",
         "description": "Healthcare assistant jobs with flexibility, purpose, and growth potential. Apply for HCA, support worker, and care roles across London care homes and residential care settings.",
-        "schema_type": "WebPage",
-        "focus_keyword": "healthcare assistant jobs london"
+        "canonical": "/healthcare-assistant-jobs",
+        "focus_keyword": "healthcare assistant jobs london",
+        "schema_type": "WebPage"
     },
     "brand": {
         "bg": "#0a1628",
@@ -27,70 +27,88 @@
         {
             "type": "hero",
             "fields": {
-                "sub": "Flexible healthcare assistant and support worker assignments across Greater London, with honest support, proper vetting and your working rights protected.",
-                "image": "",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "heading": "Healthcare Assistant Jobs in London",
+                "sub": "Flexible healthcare assistant and support worker assignments across Greater London, with honest support, proper vetting and your working rights protected.",
                 "cta_label": "Apply to Join Vigil Care Staffing",
-                "image_alt": "Healthcare assistant supporting a resident in a London care home"
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
+                "image": {
+                    "id": 95,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894813/vigil/care_staffing/hero/support-workers-working-together-hospital-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/hero/support-workers-working-together-hospital-care-staffing-london",
+                    "alt": "Healthcare Assistant Jobs in a care home setting",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/03/support-workers-working-together-hospital.webp",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "Healthcare Assistant Jobs in a care home setting"
             },
             "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
-                "body": "Vigil Care Staffing places vetted care-sector workers into care homes, supported living services and other care settings across Greater London. If you enjoy hands-on care work and want assignments that fit around your life, we would like to hear from you. We are honest about what each role involves, and we take the time to match you to work that suits your skills and availability. As a directly employed member of our team, your rights under the Agency Workers Regulations 2010 are protected, and DBS support is available where you need it.",
-                "heading": "Explore rewarding care careers"
+                "heading": "Explore rewarding care careers",
+                "body": "Vigil Care Staffing places vetted care-sector workers into care homes, supported living services and other care settings across Greater London. If you enjoy hands-on care work and want assignments that fit around your life, we would like to hear from you. We are honest about what each role involves, and we take the time to match you to work that suits your skills and availability. As a directly employed member of our team, your rights under the Agency Workers Regulations 2010 are protected, and DBS support is available where you need it."
             },
             "provenance": "later_editorial"
         },
         {
             "type": "service_grid",
             "fields": {
+                "heading": "Roles we recruit for",
                 "items": [
                     {
-                        "body": "Support residents and service users with daily living, personal care and companionship in care homes and supported living settings.",
-                        "title": "Healthcare Assistants"
+                        "title": "Healthcare Assistants",
+                        "body": "Support residents and service users with daily living, personal care and companionship in care homes and supported living settings."
                     },
                     {
-                        "body": "Help people with learning disabilities, mental health needs or complex conditions to live as independently as possible.",
-                        "title": "Support Workers"
+                        "title": "Support Workers",
+                        "body": "Help people with learning disabilities, mental health needs or complex conditions to live as independently as possible."
                     },
                     {
-                        "body": "Provide attentive overnight cover, keeping residents safe and settled while day teams rest.",
-                        "title": "Night-Shift Care Staff"
+                        "title": "Night-Shift Care Staff",
+                        "body": "Provide attentive overnight cover, keeping residents safe and settled while day teams rest."
                     },
                     {
-                        "body": "Keep care environments clean and hygienic to recognised infection-prevention standards across care settings.",
-                        "title": "Healthcare Cleaners"
+                        "title": "Healthcare Cleaners",
+                        "body": "Keep care environments clean and hygienic to recognised infection-prevention standards across care settings."
                     }
                 ],
-                "heading": "Roles we recruit for"
+                "image": {
+                    "id": 122,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782898675/vigil/care_staffing/general/senior-woman-caregiver-with-help-walking-stick-mobility-inju-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/general/senior-woman-caregiver-with-help-walking-stick-mobility-inju-care-staffing-london",
+                    "alt": "Health and social care recruitment agency supporting individuals with complex needs",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/03/senior-woman-caregiver-with-help-walking-stick-mobility-injury-healing-retirement-support-nursing-home-elderly-person-nurse-helpful-with-movement-medical-care-homecare-768x405.webp",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "Health and social care recruitment agency supporting individuals with complex needs"
             },
             "provenance": "later_editorial"
         },
         {
             "type": "service_grid",
             "fields": {
+                "heading": "How to apply",
                 "items": [
                     {
-                        "body": "Send us your CV and tell us about the care work you enjoy and the areas of Greater London you can travel to.",
-                        "title": "Submit your CV"
+                        "title": "Submit your CV",
+                        "body": "Send us your CV and tell us about the care work you enjoy and the areas of Greater London you can travel to."
                     },
                     {
-                        "body": "We talk through your experience, values and availability so we understand the assignments that will suit you best.",
-                        "title": "Screening and interview"
+                        "title": "Screening and interview",
+                        "body": "We talk through your experience, values and availability so we understand the assignments that will suit you best."
                     },
                     {
-                        "body": "We complete DBS checks, right-to-work verification and reference checks, and confirm your mandatory training is up to date.",
-                        "title": "Compliance and training"
+                        "title": "Compliance and training",
+                        "body": "We complete DBS checks, right-to-work verification and reference checks, and confirm your mandatory training is up to date."
                     },
                     {
-                        "body": "Once you are cleared, we match you to suitable assignments and brief you fully before your first shift.",
-                        "title": "Start your first shift"
+                        "title": "Start your first shift",
+                        "body": "Once you are cleared, we match you to suitable assignments and brief you fully before your first shift."
                     }
-                ],
-                "heading": "How to apply"
+                ]
             },
             "provenance": "later_editorial"
         },
@@ -99,20 +117,20 @@
             "fields": {
                 "items": [
                     {
-                        "a": "Experience in care is helpful, but we welcome applications from people at different stages of their care career. We will discuss your background during screening and match you to suitable assignments.",
-                        "q": "Do I need previous experience to apply?"
+                        "q": "Do I need previous experience to apply?",
+                        "a": "Experience in care is helpful, but we welcome applications from people at different stages of their care career. We will discuss your background during screening and match you to suitable assignments."
                     },
                     {
-                        "a": "We place care-sector workers across Greater London. During your application we will confirm the boroughs and settings you can travel to.",
-                        "q": "What areas do you cover?"
+                        "q": "What areas do you cover?",
+                        "a": "We place care-sector workers across Greater London. During your application we will confirm the boroughs and settings you can travel to."
                     },
                     {
-                        "a": "Yes. DBS support is available as part of our onboarding process, and we guide you through the checks and paperwork you need before your first shift.",
-                        "q": "Will you help with my DBS check?"
+                        "q": "Will you help with my DBS check?",
+                        "a": "Yes. DBS support is available as part of our onboarding process, and we guide you through the checks and paperwork you need before your first shift."
                     },
                     {
-                        "a": "We offer flexible care-sector assignments, including short-notice rota-gap cover and longer placements. We will match you to work that fits your availability.",
-                        "q": "Are the assignments temporary or permanent?"
+                        "q": "Are the assignments temporary or permanent?",
+                        "a": "We offer flexible care-sector assignments, including short-notice rota-gap cover and longer placements. We will match you to work that fits your availability."
                     }
                 ]
             },
@@ -124,32 +142,32 @@
                 "heading": "Explore our services",
                 "locations": [
                     {
-                        "href": "/healthcare-assistants",
-                        "label": "Healthcare assistants"
+                        "label": "Healthcare assistants",
+                        "href": "/healthcare-assistants"
                     },
                     {
-                        "href": "/support-workers",
-                        "label": "Support workers"
+                        "label": "Support workers",
+                        "href": "/support-workers"
                     },
                     {
-                        "href": "/night-shift-care-staff-london",
-                        "label": "Night-shift care staff"
+                        "label": "Night-shift care staff",
+                        "href": "/night-shift-care-staff-london"
                     },
                     {
-                        "href": "/emergency-care-cover-london",
-                        "label": "Emergency care cover"
+                        "label": "Emergency care cover",
+                        "href": "/emergency-care-cover-london"
                     },
                     {
-                        "href": "/temporary-care-staff-london",
-                        "label": "Temporary care staff"
+                        "label": "Temporary care staff",
+                        "href": "/temporary-care-staff-london"
                     },
                     {
-                        "href": "/live-in-care-agency-in-london",
-                        "label": "Live-in care"
+                        "label": "Live-in care",
+                        "href": "/live-in-care-agency-in-london"
                     }
                 ],
-                "view_all_url": "/services",
-                "view_all_label": "All services"
+                "view_all_label": "All services",
+                "view_all_url": "/services"
             },
             "provenance": "framework_enhancement"
         },
@@ -159,12 +177,12 @@
                 "heading": "More for candidates",
                 "locations": [
                     {
-                        "href": "/colleagues-support",
-                        "label": "Colleague support"
+                        "label": "Colleague support",
+                        "href": "/colleagues-support"
                     },
                     {
-                        "href": "/about",
-                        "label": "About Vigil Care Staffing"
+                        "label": "About Vigil Care Staffing",
+                        "href": "/about"
                     }
                 ]
             },
@@ -173,10 +191,10 @@
         {
             "type": "cta",
             "fields": {
-                "sub": "Tell us about yourself and the work you are looking for, and our team will be in touch.",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "heading": "Ready to start your next care assignment?",
-                "cta_label": "Apply to Join Vigil Care Staffing"
+                "sub": "Tell us about yourself and the work you are looking for, and our team will be in touch.",
+                "cta_label": "Apply to Join Vigil Care Staffing",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
             },
             "provenance": "later_editorial"
         },
