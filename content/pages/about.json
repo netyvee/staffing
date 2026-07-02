@@ -5,10 +5,10 @@
     "page_type": "supporting",
     "seo": {
         "title": "About Us | Vigil Care Staffing Agency London",
-        "canonical": "/about",
         "description": "Vigil Care Staffing is a trusted care staffing agency supplying Healthcare Assistants, Support Workers, and Cleaners to care homes and supported living across London.",
-        "schema_type": "WebPage",
-        "focus_keyword": "about vigil care staffing"
+        "canonical": "/about",
+        "focus_keyword": "about vigil care staffing",
+        "schema_type": "WebPage"
     },
     "brand": {
         "bg": "#0a1628",
@@ -27,20 +27,28 @@
         {
             "type": "hero",
             "fields": {
-                "sub": "We supply vetted, directly employed care-sector workers to care providers across Greater London.",
-                "image": "",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "heading": "About Vigil Care Staffing",
+                "sub": "We supply vetted, directly employed care-sector workers to care providers across Greater London.",
                 "cta_label": "Request Care Staff Today",
-                "image_alt": "Vigil Care Staffing coordinator and care worker discussing a placement"
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
+                "image": {
+                    "id": 72,
+                    "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894528/vigil/care_staffing/hero/1-care-staffing-london.webp",
+                    "public_id": "vigil/care_staffing/hero/1-care-staffing-london",
+                    "alt": "Care Staffing Specialist UK",
+                    "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2025/03/1.jpeg",
+                    "source": "wp_migration",
+                    "status": "mapped"
+                },
+                "image_alt": "Care Staffing Specialist UK"
             },
             "provenance": "later_editorial"
         },
         {
             "type": "prose",
             "fields": {
-                "body": "Vigil Care Staffing supplies vetted care-sector workers \u2014 healthcare assistants, support workers and healthcare cleaners \u2014 to care providers across Greater London. We help care homes, nursing homes, supported-living and specialist services fill rota gaps reliably, whether at short notice or as ongoing support.\n\nWe are a staffing agency, not a regulated care provider. Vigil Care Staffing does not operate regulated care services and is not CQC-registered. We supply the people; the care service remains yours to run, and we support your compliance through a careful, CQC-aligned recruitment and vetting process.",
-                "heading": "Who we are"
+                "heading": "Who we are",
+                "body": "Vigil Care Staffing supplies vetted care-sector workers \u2014 healthcare assistants, support workers and healthcare cleaners \u2014 to care providers across Greater London. We help care homes, nursing homes, supported-living and specialist services fill rota gaps reliably, whether at short notice or as ongoing support.\n\nWe are a staffing agency, not a regulated care provider. Vigil Care Staffing does not operate regulated care services and is not CQC-registered. We supply the people; the care service remains yours to run, and we support your compliance through a careful, CQC-aligned recruitment and vetting process."
             },
             "provenance": "later_editorial"
         },
@@ -49,20 +57,20 @@
             "fields": {
                 "items": [
                     {
-                        "body": "We supply vetted healthcare assistants for planned shifts and short-notice cover across Greater London.",
-                        "title": "Healthcare Assistants"
+                        "title": "Healthcare Assistants",
+                        "body": "We supply vetted healthcare assistants for planned shifts and short-notice cover across Greater London."
                     },
                     {
-                        "body": "Our support workers assist with personal care, mobility and daily living in residential, supported-living and specialist settings.",
-                        "title": "Support Workers"
+                        "title": "Support Workers",
+                        "body": "Our support workers assist with personal care, mobility and daily living in residential, supported-living and specialist settings."
                     },
                     {
-                        "body": "We provide healthcare cleaners trained to NHS cleaning standards to help you maintain safe, hygienic environments.",
-                        "title": "Healthcare Cleaners"
+                        "title": "Healthcare Cleaners",
+                        "body": "We provide healthcare cleaners trained to NHS cleaning standards to help you maintain safe, hygienic environments."
                     },
                     {
-                        "body": "We fill rota gaps reliably with short-notice and temporary cover, so your service stays safely staffed.",
-                        "title": "Rota-Gap Cover"
+                        "title": "Rota-Gap Cover",
+                        "body": "We fill rota gaps reliably with short-notice and temporary cover, so your service stays safely staffed."
                     }
                 ]
             },
@@ -74,32 +82,32 @@
                 "heading": "Our care staffing services",
                 "locations": [
                     {
-                        "href": "/healthcare-assistants",
-                        "label": "Healthcare assistants"
+                        "label": "Healthcare assistants",
+                        "href": "/healthcare-assistants"
                     },
                     {
-                        "href": "/support-workers",
-                        "label": "Support workers"
+                        "label": "Support workers",
+                        "href": "/support-workers"
                     },
                     {
-                        "href": "/night-shift-care-staff-london",
-                        "label": "Night-shift care staff"
+                        "label": "Night-shift care staff",
+                        "href": "/night-shift-care-staff-london"
                     },
                     {
-                        "href": "/emergency-care-cover-london",
-                        "label": "Emergency care cover"
+                        "label": "Emergency care cover",
+                        "href": "/emergency-care-cover-london"
                     },
                     {
-                        "href": "/temporary-care-staff-london",
-                        "label": "Temporary care staff"
+                        "label": "Temporary care staff",
+                        "href": "/temporary-care-staff-london"
                     },
                     {
-                        "href": "/live-in-care-agency-in-london",
-                        "label": "Live-in care"
+                        "label": "Live-in care",
+                        "href": "/live-in-care-agency-in-london"
                     }
                 ],
-                "view_all_url": "/services",
-                "view_all_label": "All services"
+                "view_all_label": "All services",
+                "view_all_url": "/services"
             },
             "provenance": "framework_enhancement"
         },
@@ -109,50 +117,50 @@
                 "heading": "Areas we cover",
                 "locations": [
                     {
-                        "href": "/care-staff-agency-tower-hamlets",
-                        "label": "Tower Hamlets"
+                        "label": "Tower Hamlets",
+                        "href": "/care-staff-agency-tower-hamlets"
                     },
                     {
-                        "href": "/temporary-care-staffing-agency-in-hackney",
-                        "label": "Hackney"
+                        "label": "Hackney",
+                        "href": "/temporary-care-staffing-agency-in-hackney"
                     },
                     {
-                        "href": "/temporary-care-staffing-agency-in-islington",
-                        "label": "Islington"
+                        "label": "Islington",
+                        "href": "/temporary-care-staffing-agency-in-islington"
                     },
                     {
-                        "href": "/care-staffing-agency-in-camden",
-                        "label": "Camden"
+                        "label": "Camden",
+                        "href": "/care-staffing-agency-in-camden"
                     },
                     {
-                        "href": "/temporary-care-staffing-agency-westminster",
-                        "label": "Westminster"
+                        "label": "Westminster",
+                        "href": "/temporary-care-staffing-agency-westminster"
                     },
                     {
-                        "href": "/care-staffing-agency-kensington-and-chelsea",
-                        "label": "Kensington & Chelsea"
+                        "label": "Kensington & Chelsea",
+                        "href": "/care-staffing-agency-kensington-and-chelsea"
                     }
                 ],
-                "view_all_url": "/locations",
-                "view_all_label": "View all locations"
+                "view_all_label": "View all locations",
+                "view_all_url": "/locations"
             },
             "provenance": "framework_enhancement"
         },
         {
             "type": "cta",
             "fields": {
-                "sub": "Tell us what your service needs and we will match the right people.",
-                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
                 "heading": "Need vetted care staff?",
-                "cta_label": "Request Care Staff Today"
+                "sub": "Tell us what your service needs and we will match the right people.",
+                "cta_label": "Request Care Staff Today",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
             },
             "provenance": "later_editorial"
         },
         {
             "type": "contact_form",
             "fields": {
-                "heading": "Get in touch",
-                "division": "staffing"
+                "division": "staffing",
+                "heading": "Get in touch"
             },
             "provenance": "later_editorial"
         }
