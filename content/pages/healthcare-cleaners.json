@@ -16,6 +16,14 @@
         "cta": "#4ecdc4",
         "secondary": "#7fb2d4"
     },
+    "site_settings": {
+        "logo": [],
+        "favicon": null,
+        "og": [],
+        "social": [],
+        "analytics": [],
+        "seo_defaults": []
+    },
     "nap": {
         "phone": "020 3973 8887",
         "email": "staffing@vigilservices.co.uk",
