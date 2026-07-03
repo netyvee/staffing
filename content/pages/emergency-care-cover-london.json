@@ -184,6 +184,41 @@
         {
             "type": "locations_coverage",
             "fields": {
+                "heading": "Specialist & agency staffing",
+                "locations": [
+                    {
+                        "label": "Care staffing agency (London)",
+                        "href": "/care-staffing-agency-london"
+                    },
+                    {
+                        "label": "Healthcare staffing agency",
+                        "href": "/healthcare-staffing-agency"
+                    },
+                    {
+                        "label": "Healthcare assistant agency London",
+                        "href": "/healthcare-assistant-agency-london"
+                    },
+                    {
+                        "label": "Support worker agency London",
+                        "href": "/support-worker-agency-london"
+                    },
+                    {
+                        "label": "Temporary staffing solutions London",
+                        "href": "/temporary-staffing-solutions-london"
+                    },
+                    {
+                        "label": "PSL & supplier partnerships",
+                        "href": "/care-staffing-psl-partnership"
+                    }
+                ],
+                "view_all_label": "All services",
+                "view_all_url": "/services"
+            },
+            "provenance": "framework_enhancement"
+        },
+        {
+            "type": "locations_coverage",
+            "fields": {
                 "heading": "Areas we cover",
                 "locations": [
                     {
