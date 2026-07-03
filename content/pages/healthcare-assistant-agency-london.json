@@ -16,6 +16,14 @@
         "cta": "#4ecdc4",
         "secondary": "#7fb2d4"
     },
+    "site_settings": {
+        "logo": [],
+        "favicon": null,
+        "og": [],
+        "social": [],
+        "analytics": [],
+        "seo_defaults": []
+    },
     "nap": {
         "phone": "020 3973 8887",
         "email": "staffing@vigilservices.co.uk",
@@ -35,12 +43,12 @@
                     "id": 93,
                     "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894791/vigil/care_staffing/hero/two-women-smiling-care-staffing-london.webp",
                     "public_id": "vigil/care_staffing/hero/two-women-smiling-care-staffing-london",
-                    "alt": "A smiling carer in blue scrubs kneels beside an elderly woman in a wheelchair in a sunny park.",
+                    "alt": "A smiling carer in blue scrubs kneels beside an elderly woman in a wheelchair outdoors in a park.",
                     "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2026/04/two-women-smiling.webp",
                     "source": "wp_migration",
                     "status": "mapped"
                 },
-                "image_alt": "A smiling carer in blue scrubs kneels beside an elderly woman in a wheelchair in a sunny park."
+                "image_alt": "A smiling carer in blue scrubs kneels beside an elderly woman in a wheelchair outdoors in a park."
             },
             "provenance": "later_editorial"
         },
