@@ -1,0 +1,16 @@
+{
+    "logo": [],
+    "favicon": null,
+    "og": [],
+    "social": [],
+    "analytics": [],
+    "seo_defaults": [],
+    "nav": [],
+    "footer": [],
+    "brand": {
+        "bg": "#0a1628",
+        "text": "#ffffff",
+        "cta": "#4ecdc4",
+        "secondary": "#7fb2d4"
+    }
+}
