@@ -68,31 +68,38 @@
                 "items": [
                     {
                         "title": "Healthcare Assistants",
-                        "body": "Vetted healthcare assistants for care homes, nursing homes and supported living, available for planned shifts and short-notice cover."
+                        "body": "Vetted healthcare assistants for care homes, nursing homes and supported living, available for planned shifts and short-notice cover.",
+                        "href": "/healthcare-assistants"
                     },
                     {
                         "title": "Support Workers",
-                        "body": "Support workers who assist with personal care, mobility and daily living across residential, supported-living and specialist services."
+                        "body": "Support workers who assist with personal care, mobility and daily living across residential, supported-living and specialist services.",
+                        "href": "/support-workers"
                     },
                     {
                         "title": "Healthcare Cleaners",
-                        "body": "Healthcare cleaners trained to NHS cleaning standards for care homes, clinics and supported living, helping you maintain a safe environment."
+                        "body": "Healthcare cleaners trained to NHS cleaning standards for care homes, clinics and supported living, helping you maintain a safe environment.",
+                        "href": "/healthcare-cleaners"
                     },
                     {
                         "title": "Emergency Care Cover",
-                        "body": "Reliable short-notice cover when a shift falls through, so your service stays safely staffed."
+                        "body": "Reliable short-notice cover when a shift falls through, so your service stays safely staffed.",
+                        "href": "/emergency-care-cover-london"
                     },
                     {
                         "title": "Night-Shift Care Staff",
-                        "body": "Experienced overnight workers, from waking nights to sleep-in support, to keep your service settled after hours."
+                        "body": "Experienced overnight workers, from waking nights to sleep-in support, to keep your service settled after hours.",
+                        "href": "/night-shift-care-staff-london"
                     },
                     {
                         "title": "Temporary Care Staff",
-                        "body": "Flexible cover for single shifts, block bookings and longer assignments while you manage absence or recruitment."
+                        "body": "Flexible cover for single shifts, block bookings and longer assignments while you manage absence or recruitment.",
+                        "href": "/temporary-care-staff-london"
                     },
                     {
                         "title": "Live-in Carers",
-                        "body": "Live-in carers providing continuous one-to-one support in a person's own home across Greater London."
+                        "body": "Live-in carers providing continuous one-to-one support in a person's own home across Greater London.",
+                        "href": "/live-in-care-agency-in-london"
                     }
                 ],
                 "image": {
@@ -153,31 +160,31 @@
         {
             "type": "locations_coverage",
             "fields": {
-                "heading": "Related staffing services",
+                "heading": "Specialist & agency staffing",
                 "locations": [
                     {
-                        "label": "Healthcare assistants",
-                        "href": "/healthcare-assistants"
+                        "label": "Care staffing agency (London)",
+                        "href": "/care-staffing-agency-london"
                     },
                     {
-                        "label": "Support workers",
-                        "href": "/support-workers"
+                        "label": "Healthcare staffing agency",
+                        "href": "/healthcare-staffing-agency"
                     },
                     {
-                        "label": "Night-shift care staff",
-                        "href": "/night-shift-care-staff-london"
+                        "label": "Healthcare assistant agency London",
+                        "href": "/healthcare-assistant-agency-london"
                     },
                     {
-                        "label": "Emergency care cover",
-                        "href": "/emergency-care-cover-london"
+                        "label": "Support worker agency London",
+                        "href": "/support-worker-agency-london"
                     },
                     {
-                        "label": "Temporary care staff",
-                        "href": "/temporary-care-staff-london"
+                        "label": "Temporary staffing solutions London",
+                        "href": "/temporary-staffing-solutions-london"
                     },
                     {
-                        "label": "Live-in care",
-                        "href": "/live-in-care-agency-in-london"
+                        "label": "PSL & supplier partnerships",
+                        "href": "/care-staffing-psl-partnership"
                     }
                 ],
                 "view_all_label": "All services",
