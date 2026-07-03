@@ -22,7 +22,9 @@
         "og": [],
         "social": [],
         "analytics": [],
-        "seo_defaults": []
+        "seo_defaults": [],
+        "nav": [],
+        "footer": []
     },
     "nap": {
         "phone": "020 3973 8887",
