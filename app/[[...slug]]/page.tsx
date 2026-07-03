@@ -9,7 +9,7 @@ import {
   Shell,
   JsonLd,
 } from '@vigil/web-framework';
-import { siteNav } from '@/config/site';
+import { loadSiteNav } from '@/config/loadSiteNav';
 
 export const dynamicParams = false; // only committed pages exist; everything else 404s
 
@@ -26,11 +26,13 @@ export default function Page({ params }: { params: { slug?: string[] } }) {
   const page = getPage(paramsToFile(params.slug ?? []));
   if (!page) notFound();
   // Shell v2 renders the complete, coordinated shell (logo header + accessible mobile
-  // nav + complete footer + ONE governed sticky CTA) around the JSON content.
+  // nav + complete footer + ONE governed sticky CTA) around the JSON content. The nav is
+  // loaded through loadSiteNav() so an operator's dashboard edits (logo/nav/footer) render.
+  const nav = loadSiteNav();
   return (
     <>
       <JsonLd page={page} origin="https://staffing.vigilservices.co.uk" />
-      <Shell page={page} nav={siteNav}>
+      <Shell page={page} nav={nav}>
         <RenderSections page={page} />
       </Shell>
     </>
