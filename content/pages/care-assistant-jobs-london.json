@@ -1,0 +1,179 @@
+{
+    "schema_version": 1,
+    "site": "care_staffing",
+    "slug": "/care-assistant-jobs-london",
+    "page_type": "recruitment",
+    "seo": {
+        "title": "Care Assistant Jobs in London | Vigil Care Staffing",
+        "description": "Care assistant jobs across Greater London with Vigil Care Staffing \u2014 hands-on residential care roles, flexible shifts and a directly-vetted, DBS-checked agency.",
+        "canonical": "/care-assistant-jobs-london",
+        "focus_keyword": "care assistant jobs london",
+        "schema_type": "WebPage"
+    },
+    "brand": {
+        "bg": "#0a1628",
+        "text": "#ffffff",
+        "cta": "#4ecdc4",
+        "secondary": "#7fb2d4"
+    },
+    "site_settings": {
+        "logo": [],
+        "favicon": null,
+        "og": [],
+        "social": [],
+        "analytics": [],
+        "seo_defaults": [],
+        "nav": [],
+        "footer": []
+    },
+    "nap": {
+        "phone": "020 3973 8887",
+        "email": "staffing@vigilservices.co.uk",
+        "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+        "trading_name": "Vigil Care Staffing",
+        "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "fields": {
+                "heading": "Care Assistant Jobs in London",
+                "sub": "Care assistant jobs across Greater London with Vigil Care Staffing \u2014 hands-on residential care roles, flexible shifts and a directly-vetted, DBS-checked agency.",
+                "cta_label": "Apply to Join Vigil Care Staffing",
+                "cta_url": "https://app.vigilservices.co.uk/careers/staffing",
+                "image_alt": "A care worker supporting a resident in a London care setting"
+            },
+            "provenance": "framework_enhancement"
+        },
+        {
+            "type": "prose",
+            "fields": {
+                "heading": "Care assistant roles in London care homes",
+                "body": "Care assistant assignments with Vigil Care Staffing put you at the heart of residential care across Greater London. You support residents with personal care, daily living and companionship in care and nursing homes, working alongside permanent teams. We offer short-notice cover for rota gaps as well as longer placements, so you can find work that suits your availability. As a directly-vetting, DBS-checked agency we employ our people properly, check right-to-work documents on file and respond to every query within 15 minutes. Apply once, tell us the areas of London you can reach and the shifts you prefer, and we will match you to suitable care assistant work."
+            },
+            "provenance": "framework_enhancement"
+        },
+        {
+            "type": "service_grid",
+            "fields": {
+                "heading": "Roles we recruit for",
+                "items": [
+                    {
+                        "title": "Residential care",
+                        "body": "Support residents with personal care, meals and companionship in care and nursing homes."
+                    },
+                    {
+                        "title": "Short-notice cover",
+                        "body": "Pick up same-day and short-notice shifts to fill rota gaps across London."
+                    },
+                    {
+                        "title": "Ongoing placements",
+                        "body": "Build a steady pattern of work with longer assignments where a provider needs regular support."
+                    }
+                ]
+            },
+            "provenance": "framework_enhancement"
+        },
+        {
+            "type": "faq",
+            "fields": {
+                "variant": "accordion",
+                "items": [
+                    {
+                        "q": "Is care assistant experience required?",
+                        "a": "Some assignments suit experienced care assistants; others welcome people building a care career. We match you to suitable work after screening."
+                    },
+                    {
+                        "q": "Can I choose my shifts?",
+                        "a": "Yes. Tell us your availability and preferred areas of London, and we offer assignments that fit around it where we can."
+                    }
+                ]
+            },
+            "provenance": "framework_enhancement"
+        },
+        {
+            "type": "locations_coverage",
+            "fields": {
+                "heading": "Explore our services",
+                "locations": [
+                    {
+                        "label": "Healthcare assistants",
+                        "href": "/healthcare-assistants"
+                    },
+                    {
+                        "label": "Support workers",
+                        "href": "/support-workers"
+                    },
+                    {
+                        "label": "Night-shift care staff",
+                        "href": "/night-shift-care-staff-london"
+                    },
+                    {
+                        "label": "Emergency care cover",
+                        "href": "/emergency-care-cover-london"
+                    },
+                    {
+                        "label": "Temporary care staff",
+                        "href": "/temporary-care-staff-london"
+                    },
+                    {
+                        "label": "Live-in care",
+                        "href": "/live-in-care-agency-in-london"
+                    }
+                ],
+                "view_all_label": "All services",
+                "view_all_url": "/services"
+            },
+            "provenance": "framework_enhancement"
+        },
+        {
+            "type": "locations_coverage",
+            "fields": {
+                "heading": "More for candidates",
+                "locations": [
+                    {
+                        "label": "Care jobs in London",
+                        "href": "/care-jobs-london"
+                    },
+                    {
+                        "label": "Support worker jobs",
+                        "href": "/support-worker-jobs-london"
+                    },
+                    {
+                        "label": "Healthcare assistant jobs",
+                        "href": "/healthcare-assistant-jobs"
+                    },
+                    {
+                        "label": "Colleague support",
+                        "href": "/colleagues-support"
+                    },
+                    {
+                        "label": "About Vigil Care Staffing",
+                        "href": "/about"
+                    }
+                ]
+            },
+            "provenance": "framework_enhancement"
+        },
+        {
+            "type": "cta",
+            "fields": {
+                "heading": "Ready to start your next care assignment?",
+                "sub": "Apply once and our team will talk through the assignments that fit you.",
+                "cta_label": "Apply to Join Vigil Care Staffing",
+                "cta_url": "https://app.vigilservices.co.uk/careers/staffing"
+            },
+            "provenance": "framework_enhancement"
+        },
+        {
+            "type": "contact_form",
+            "fields": {
+                "heading": "Apply to Vigil Care Staffing",
+                "division": "staffing",
+                "enquiry_type": "job-seeker"
+            },
+            "provenance": "framework_enhancement"
+        }
+    ],
+    "status": "draft"
+}
