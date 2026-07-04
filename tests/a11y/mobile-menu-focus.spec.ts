@@ -15,6 +15,10 @@ import { test, expect } from '@playwright/test';
  * `networkidle` so hydration has run before we drive the keyboard.
  */
 test.describe('@a11y mobile menu — keyboard open + focus management', () => {
+  // Pin a mobile-width viewport so the md:hidden ☰ toggle is present on EVERY project
+  // (this journey is viewport-, not project-, dependent).
+  test.use({ viewport: { width: 390, height: 844 } });
+
   test('Enter on ☰ opens the dialog and moves focus to the close button', async ({ page }) => {
     await page.goto('/', { waitUntil: 'networkidle' });
 
