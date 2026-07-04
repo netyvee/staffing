@@ -9,7 +9,7 @@ commit, push to the safe branch, tick the box, then exit. One journey per cycle.
 - [x] J3 mobile menu — open via keyboard (Enter on ☰), focus moves into the dialog, ESC closes it, focus is restored to the toggle (mobile) — `mobile-menu-focus.spec.ts`
 - [x] J4 focus order + visible focus across an interior service page — `service-page-focus.spec.ts`
 - [x] J5 320px reflow — no horizontal scroll at 320px width, all content reachable — `reflow-320.spec.ts`
-- [ ] J6 200% zoom — content usable, no clipping at 200% (1280→640 css px) — `zoom-200.spec.ts`
+- [x] J6 200% zoom — content usable, no clipping at 200% (1280→640 css px) — `zoom-200.spec.ts`
 - [ ] J7 form labels + error summary + invalid-field announcement on the enquiry funnel — `enquiry-form-a11y.spec.ts`
 - [ ] J8 reduced-motion honored (prefers-reduced-motion) — `reduced-motion.spec.ts`
 - [ ] J9 touch-target minimum 24x24 (WCAG 2.2 2.5.8) on nav + CTAs (mobile) — `touch-targets.spec.ts`
