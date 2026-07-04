@@ -12,7 +12,7 @@ commit, push to the safe branch, tick the box, then exit. One journey per cycle.
 - [x] J6 200% zoom — content usable, no clipping at 200% (1280→640 css px) — `zoom-200.spec.ts`
 - [x] J8 reduced-motion honored (prefers-reduced-motion) — `reduced-motion.spec.ts`
 - [x] J10 landmarks + heading order + Axe-clean on a location page + an article — `interior-axe.spec.ts`
-- [ ] J7 form labels + error summary + invalid-field announcement on the enquiry funnel — `enquiry-form-a11y.spec.ts` (may need a framework EnquiryFunnel a11y fix → §18 release)
+- [x] J7 enquiry-funnel a11y — labelled radiogroup + named options, keyboard-only selection, focus moves to the new step heading, progress announced via aria-valuenow (0→100), funnel-region Axe-clean — `enquiry-form-a11y.spec.ts`. NOTE: the staffing funnel is a CHOICE funnel that hands off to the CRM `/enquire/staffing`; it has no free-text field, so "error summary/invalid-field announcement" has no target here — validation is by construction. No framework fix needed (funnel already meets 1.3.1/3.3.2/2.1.1/4.1.2/4.1.3).
 - [x] J9 touch-target minimum 24x24 (WCAG 2.2 2.5.8) on nav + CTAs (mobile) — `touch-targets.spec.ts` (framework v0.4.4)
 
 ## Source-fix items (framework — need a web-framework release, §18)
