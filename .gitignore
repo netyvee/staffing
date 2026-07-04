@@ -11,3 +11,6 @@ next-env.d.ts
 /playwright-report/
 tests/a11y/.results.json
 /.playwright/
+
+# Perf harness artifacts
+/.next/
