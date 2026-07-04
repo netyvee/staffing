@@ -187,6 +187,10 @@
                     {
                         "label": "Hiring healthcare assistants",
                         "href": "/hire-healthcare-assistants"
+                    },
+                    {
+                        "label": "Care staffing resources hub",
+                        "href": "/care-staffing-resources"
                     }
                 ],
                 "view_all_label": "All guides",
