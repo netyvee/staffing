@@ -6,7 +6,7 @@ import { defineConfig, devices } from '@playwright/test';
  * Boots `next dev` via webServer and runs against a real render of the framework Shell.
  */
 export default defineConfig({
-  testDir: './tests/a11y',
+  testDir: './tests',
   fullyParallel: false,
   forbidOnly: !!process.env.CI,
   retries: process.env.CI ? 1 : 0,
