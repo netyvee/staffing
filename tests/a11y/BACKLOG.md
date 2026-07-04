@@ -6,7 +6,7 @@ commit, push to the safe branch, tick the box, then exit. One journey per cycle.
 
 - [x] J1 skip-link + landmarks + heading order + Axe-clean (homepage, desktop) — `skip-link-landmarks.spec.ts`
 - [x] J2 keyboard-only primary nav — Tab order reaches every primary link + phone + CTA; visible focus ring; no keyboard trap (homepage, desktop) — `keyboard-nav.spec.ts`
-- [ ] J3 mobile menu — open via keyboard (Enter on ☰), focus moves into the dialog, ESC closes it, focus is restored to the toggle (mobile) — `mobile-menu-focus.spec.ts`
+- [x] J3 mobile menu — open via keyboard (Enter on ☰), focus moves into the dialog, ESC closes it, focus is restored to the toggle (mobile) — `mobile-menu-focus.spec.ts`
 - [ ] J4 focus order + visible focus across an interior service page — `service-page-focus.spec.ts`
 - [ ] J5 320px reflow — no horizontal scroll at 320px width, all content reachable — `reflow-320.spec.ts`
 - [ ] J6 200% zoom — content usable, no clipping at 200% (1280→640 css px) — `zoom-200.spec.ts`
