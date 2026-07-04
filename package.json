@@ -10,7 +10,7 @@
     "perf:budget": "node node_modules/@vigil/web-framework/scripts/perf-budget.mjs --base http://localhost:3220 --routes ./tests/perf/routes.json --lcp 2500 --cls 0.1"
   },
   "dependencies": {
-    "@vigil/web-framework": "github:netyvee/web-framework#v0.4.6",
+    "@vigil/web-framework": "github:netyvee/web-framework#v0.4.7",
     "next": "14.2.35",
     "react": "^18",
     "react-dom": "^18"

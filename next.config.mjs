@@ -1,4 +1,5 @@
 /** @type {import('next').NextConfig} */
+import { withVigilSecurity } from '@vigil/web-framework/config/security.mjs';
 
 // Gate 9 redirect map (generated from resources/web/staffing-redirects.json in netyvee/app).
 // trailingSlash:false already auto-301s every `/x/`->`/x`; these cover the non-slug-clean
@@ -22,47 +23,16 @@ const redirects = [
   { source: '/thank-you-for-subscribing', destination: '/', permanent: true },
 ];
 
-// WS-G security headers. CSP allows 'unsafe-inline' for style/script because the framework
-// renders with inline `style={}` and Next injects inline hydration bootstrap; a strict
-// nonce-based CSP is a larger follow-up (tracked). img allows the canonical Cloudinary store.
-// Next DEV uses eval() for Fast Refresh/HMR, so 'unsafe-eval' is required in development
-// only. Production (`next build`/`next start`) never evals — its CSP stays strict.
-const scriptSrc = process.env.NODE_ENV === 'production'
-  ? "script-src 'self' 'unsafe-inline'"
-  : "script-src 'self' 'unsafe-inline' 'unsafe-eval'";
-
-const csp = [
-  "default-src 'self'",
-  scriptSrc,
-  "style-src 'self' 'unsafe-inline'",
-  "img-src 'self' https://res.cloudinary.com data:",
-  "font-src 'self' data:",
-  "connect-src 'self'",
-  "frame-ancestors 'none'",
-  "base-uri 'self'",
-  "form-action 'self' https://app.vigilservices.co.uk",
-  "object-src 'none'",
-  'upgrade-insecure-requests',
-].join('; ');
-
-const securityHeaders = [
-  { key: 'Content-Security-Policy', value: csp },
-  { key: 'X-Content-Type-Options', value: 'nosniff' },
-  { key: 'X-Frame-Options', value: 'DENY' },
-  { key: 'Referrer-Policy', value: 'strict-origin-when-cross-origin' },
-  { key: 'Strict-Transport-Security', value: 'max-age=63072000; includeSubDomains; preload' },
-  { key: 'Permissions-Policy', value: 'camera=(), microphone=(), geolocation=(), interest-cohort=()' },
-  { key: 'X-DNS-Prefetch-Control', value: 'on' },
-];
-
+// Security headers (CSP + HSTS + X-Frame-Options + nosniff + Referrer/Permissions-Policy +
+// X-DNS-Prefetch-Control) now come from the shared framework helper — one source for every
+// Vigil site (EOS Q1.P2, web-framework ≥ v0.4.7). CSP is production-strict; dev-only
+// 'unsafe-eval' for Next HMR is handled inside the helper. A strict nonce-based CSP remains a
+// tracked follow-up. See @vigil/web-framework/config/security.mjs.
 const nextConfig = {
   transpilePackages: ['@vigil/web-framework'], // framework ships TS source (docs/PUBLISHING.md)
   trailingSlash: false, // canonical = no trailing slash (matches SEO block + Page Health gate)
   async redirects() {
     return redirects;
-  },
-  async headers() {
-    return [{ source: '/:path*', headers: securityHeaders }];
   },
   images: {
     formats: ['image/webp', 'image/avif'],
@@ -72,4 +42,4 @@ const nextConfig = {
   },
 };
 
-export default nextConfig;
+export default withVigilSecurity(nextConfig);
