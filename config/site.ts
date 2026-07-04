@@ -44,4 +44,7 @@ export const siteNav: SiteNav = {
   ],
   companyReg: 'Company Reg. 11756806',
   enquiryCtaLabel: 'Request staffing support',
+  // Recruitment/candidate pages route to the careers funnel, not client sales (the framework
+  // Shell swaps the CTA when page_type === 'recruitment').
+  careersCtaLabel: 'Careers & applications',
 };
