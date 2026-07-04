@@ -16,6 +16,7 @@ export const siteNav: SiteNav = {
     { label: 'Healthcare Assistants', href: '/healthcare-assistants' },
     { label: 'Support Workers', href: '/support-workers' },
     { label: 'Locations', href: '/locations' },
+    { label: 'Careers', href: '/careers/staffing' },
     { label: 'Guides', href: '/blog' },
   ],
   footer: [
@@ -26,6 +27,15 @@ export const siteNav: SiteNav = {
         { label: 'Support Workers', href: '/support-workers' },
         { label: 'Healthcare Cleaners', href: '/healthcare-cleaners' },
         { label: 'Temporary Staffing', href: '/temporary-staffing-solutions-london' },
+      ],
+    },
+    {
+      heading: 'Careers',
+      links: [
+        { label: 'Careers hub', href: '/careers/staffing' },
+        { label: 'Healthcare assistant jobs', href: '/healthcare-assistant-jobs' },
+        { label: 'Colleague support', href: '/colleagues-support' },
+        { label: 'Register your interest', href: 'https://app.vigilservices.co.uk/careers/staffing' },
       ],
     },
     {

@@ -1,0 +1,145 @@
+{
+  "schema_version": 1,
+  "site": "care_staffing",
+  "slug": "/careers/staffing",
+  "page_type": "recruitment",
+  "seo": {
+    "title": "Careers at Vigil Care Staffing | Join Our Care Team in London",
+    "description": "Join Vigil Care Staffing. Learn about the care roles we recruit for, who they suit, our recruitment and compliance steps, the documents you need, and how to register your interest.",
+    "canonical": "/careers/staffing",
+    "focus_keyword": "care staffing careers london",
+    "schema_type": "WebPage"
+  },
+  "brand": {
+    "bg": "#0a1628",
+    "text": "#ffffff",
+    "cta": "#4ecdc4",
+    "secondary": "#7fb2d4"
+  },
+  "site_settings": {
+    "logo": [],
+    "favicon": null,
+    "og": [],
+    "social": [],
+    "analytics": [],
+    "seo_defaults": [],
+    "nav": [],
+    "footer": []
+  },
+  "nap": {
+    "phone": "020 3973 8887",
+    "email": "staffing@vigilservices.co.uk",
+    "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+    "trading_name": "Vigil Care Staffing",
+    "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "fields": {
+        "heading": "Careers at Vigil Care Staffing",
+        "sub": "Join a directly employing care-sector agency in Greater London. Honest role information, proper vetting, and your working rights protected — register your interest and our team will be in touch.",
+        "cta_label": "Register your interest",
+        "cta_url": "https://app.vigilservices.co.uk/careers/staffing"
+      },
+      "provenance": "framework_enhancement"
+    },
+    {
+      "type": "prose",
+      "fields": {
+        "heading": "Who we recruit and who it suits",
+        "body": "Vigil Care Staffing places vetted care-sector workers into care homes, supported living services and other care settings across Greater London. We recruit healthcare assistants, support workers and healthcare cleaners. The work suits people who enjoy hands-on care, hold the right to work in the UK, and want assignments that fit around their availability. We are honest about what each role involves and match you to work that suits your skills — we do not promise a set number of shifts, hours or pay in advance; those are confirmed with you for each assignment."
+      },
+      "provenance": "framework_enhancement"
+    },
+    {
+      "type": "service_grid",
+      "fields": {
+        "heading": "Roles we recruit for",
+        "items": [
+          {
+            "title": "Healthcare Assistants",
+            "body": "Support residents and service users with daily living, personal care and companionship in care homes and supported living settings."
+          },
+          {
+            "title": "Support Workers",
+            "body": "Help people with learning disabilities, mental health needs or complex conditions to live as independently as possible."
+          },
+          {
+            "title": "Healthcare Cleaners",
+            "body": "Keep care environments clean and infection-controlled, working to care-sector hygiene standards alongside clinical teams."
+          }
+        ]
+      },
+      "provenance": "framework_enhancement"
+    },
+    {
+      "type": "prose",
+      "fields": {
+        "heading": "Our recruitment steps",
+        "body": "1. Register your interest using the form. 2. A short screening conversation about your experience, availability and the areas you can travel to. 3. Right-to-work and identity checks. 4. DBS check (we support you through this) and reference collection. 5. Compliance review before you are added to our available team. We will keep you informed at each step and explain anything you are unsure about."
+      },
+      "provenance": "framework_enhancement"
+    },
+    {
+      "type": "prose",
+      "fields": {
+        "heading": "Documents and compliance",
+        "body": "To join our team you will need proof of your right to work in the UK, photo identification, and to complete an enhanced DBS check. Depending on the role we may ask for relevant care training certificates and references from previous care employers. We follow care-sector safer-recruitment practice; all checks are completed before you start any assignment."
+      },
+      "provenance": "framework_enhancement"
+    },
+    {
+      "type": "prose",
+      "fields": {
+        "heading": "What happens after you register",
+        "body": "After you register your interest, our recruitment team reviews your details and contacts you to arrange screening. There is no obligation, and registering does not guarantee assignments — it starts a conversation so we can understand your experience and availability and match you to suitable work when it is available."
+      },
+      "provenance": "framework_enhancement"
+    },
+    {
+      "type": "faq",
+      "fields": {
+        "items": [
+          {
+            "q": "Do I need previous experience to apply?",
+            "a": "Experience in care is helpful, but we welcome applications from people at different stages of their care career. We discuss your background during screening and match you to suitable assignments."
+          },
+          {
+            "q": "What areas do you cover?",
+            "a": "We place care-sector workers across Greater London. During your application we confirm the boroughs and settings you can travel to."
+          },
+          {
+            "q": "Will you help with my DBS check?",
+            "a": "Yes. We support you through the enhanced DBS process as part of onboarding."
+          },
+          {
+            "q": "Are you directly employing or self-employed?",
+            "a": "Care-sector team members are directly employed, so your rights at work are protected."
+          }
+        ]
+      },
+      "provenance": "framework_enhancement"
+    },
+    {
+      "type": "cta",
+      "fields": {
+        "heading": "Ready to join our care team?",
+        "sub": "Register your interest and our recruitment team will be in touch to talk through your experience and the work you are looking for.",
+        "cta_label": "Register your interest",
+        "cta_url": "https://app.vigilservices.co.uk/careers/staffing"
+      },
+      "provenance": "framework_enhancement"
+    },
+    {
+      "type": "contact_form",
+      "fields": {
+        "heading": "Register your interest",
+        "division": "staffing",
+        "enquiry_type": "job-seeker"
+      },
+      "provenance": "framework_enhancement"
+    }
+  ],
+  "status": "draft"
+}
