@@ -259,6 +259,10 @@
                     {
                         "label": "Care home CPD and CQC compliance",
                         "href": "/care-home-cpd"
+                    },
+                    {
+                        "label": "Care staffing resources hub",
+                        "href": "/care-staffing-resources"
                     }
                 ]
             },
