@@ -10,7 +10,7 @@ commit, push to the safe branch, tick the box, then exit. One journey per cycle.
 - [x] J4 focus order + visible focus across an interior service page — `service-page-focus.spec.ts`
 - [x] J5 320px reflow — no horizontal scroll at 320px width, all content reachable — `reflow-320.spec.ts`
 - [x] J6 200% zoom — content usable, no clipping at 200% (1280→640 css px) — `zoom-200.spec.ts`
-- [ ] J8 reduced-motion honored (prefers-reduced-motion) — `reduced-motion.spec.ts`
+- [x] J8 reduced-motion honored (prefers-reduced-motion) — `reduced-motion.spec.ts`
 - [ ] J10 landmarks + heading order + Axe-clean on a location page + an article — `interior-axe.spec.ts`
 - [ ] J7 form labels + error summary + invalid-field announcement on the enquiry funnel — `enquiry-form-a11y.spec.ts` (may need a framework EnquiryFunnel a11y fix → §18 release)
 - [x] J9 touch-target minimum 24x24 (WCAG 2.2 2.5.8) on nav + CTAs (mobile) — `touch-targets.spec.ts` (framework v0.4.4)
