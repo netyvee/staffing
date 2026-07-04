@@ -30,16 +30,14 @@ test.describe('@a11y homepage — skip link + landmarks', () => {
     await expect(page.locator('h1')).toHaveCount(1);
   });
 
-  test('no serious/critical Axe violations except the tracked footer tap-size item', async ({ page }) => {
+  test('no serious/critical Axe violations on the homepage', async ({ page }) => {
     await page.goto('/', { waitUntil: 'networkidle' });
     const results = await new AxeBuilder({ page })
       .withTags(['wcag2a', 'wcag2aa', 'wcag21a', 'wcag21aa', 'wcag22aa'])
       .analyze();
     const serious = results.violations.filter((v) => v.impact === 'serious' || v.impact === 'critical');
-    // KNOWN + TRACKED (not hidden): footer tel/email links miss WCAG 2.2 2.5.8 (24x24). Fix is
-    // in the shared framework footer -> a web-framework release (§18). See BACKLOG J-FW1.
-    // This assertion still catches every OTHER serious regression (e.g. contrast, name-role-value).
-    const untracked = serious.filter((v) => v.id !== 'target-size' && v.id !== 'target-offset');
-    expect(untracked, JSON.stringify(untracked.map((v) => ({ id: v.id, nodes: v.nodes.length })), null, 2)).toEqual([]);
+    // Full gate — the footer target-size finding (J-FW1) was fixed at source in framework v0.4.4,
+    // so there is no longer any excluded category. Any serious/critical violation fails.
+    expect(serious, JSON.stringify(serious.map((v) => ({ id: v.id, nodes: v.nodes.length })), null, 2)).toEqual([]);
   });
 });
