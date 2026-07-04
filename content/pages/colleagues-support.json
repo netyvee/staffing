@@ -156,6 +156,18 @@
                 "heading": "More for candidates",
                 "locations": [
                     {
+                        "label": "Care jobs in London",
+                        "href": "/care-jobs-london"
+                    },
+                    {
+                        "label": "Support worker jobs",
+                        "href": "/support-worker-jobs-london"
+                    },
+                    {
+                        "label": "Care assistant jobs",
+                        "href": "/care-assistant-jobs-london"
+                    },
+                    {
                         "label": "Healthcare assistant jobs",
                         "href": "/healthcare-assistant-jobs"
                     },
