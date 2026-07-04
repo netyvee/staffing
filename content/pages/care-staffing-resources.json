@@ -1,0 +1,167 @@
+{
+    "schema_version": 1,
+    "site": "care_staffing",
+    "slug": "/care-staffing-resources",
+    "page_type": "blog",
+    "seo": {
+        "title": "Care Staffing Resources for London Providers | Vigil Care Staffing",
+        "description": "A hub of practical care staffing resources for London care providers \u2014 CQC compliance, temporary staffing, hiring healthcare assistants and workforce planning, in one place.",
+        "canonical": "/care-staffing-resources",
+        "focus_keyword": "care staffing resources london",
+        "schema_type": "Article"
+    },
+    "brand": {
+        "bg": "#0a1628",
+        "text": "#ffffff",
+        "cta": "#4ecdc4",
+        "secondary": "#7fb2d4"
+    },
+    "site_settings": {
+        "logo": [],
+        "favicon": null,
+        "og": [],
+        "social": [],
+        "analytics": [],
+        "seo_defaults": [],
+        "nav": [],
+        "footer": []
+    },
+    "nap": {
+        "phone": "020 3973 8887",
+        "email": "staffing@vigilservices.co.uk",
+        "address": "Ferguson House, 113 Cranbrook Road, Ilford IG1 4PU",
+        "trading_name": "Vigil Care Staffing",
+        "enquiry_url": "https://app.vigilservices.co.uk/enquire/staffing"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "fields": {
+                "heading": "Care staffing resources for London providers",
+                "sub": "Practical guidance on CQC compliance, temporary staffing and workforce planning \u2014 in one place.",
+                "cta_label": "Talk to our staffing team",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing",
+                "image_alt": "A registered manager reviewing staffing plans in a London care home"
+            },
+            "provenance": "framework_enhancement"
+        },
+        {
+            "type": "prose",
+            "fields": {
+                "heading": "Everything a care provider needs on staffing",
+                "body": "Running a care service in London means keeping shifts covered, staying CQC-ready and controlling agency spend at the same time. This resources hub brings together our practical guides for registered managers and care providers: how CQC compliance and staffing fit together, how temporary staffing solves rota gaps without cutting corners, and what to look for when hiring healthcare assistants. Each guide is written from real care-sector experience, not generic advice. Vigil Care Staffing supplies directly vetted, DBS-checked care workers across Greater London and responds to every query within 15 minutes, so when you need cover as well as guidance, one call reaches both. Use the guides below to plan your workforce, then talk to our team about the specific cover you need."
+            },
+            "provenance": "framework_enhancement"
+        },
+        {
+            "type": "service_grid",
+            "fields": {
+                "heading": "Guides in this hub",
+                "items": [
+                    {
+                        "title": "Temporary staffing solutions for healthcare",
+                        "body": "Practical guidance for registered managers and care providers.",
+                        "href": "/temporary-staffing-solutions"
+                    },
+                    {
+                        "title": "CQC compliance and staffing",
+                        "body": "Practical guidance for registered managers and care providers.",
+                        "href": "/cqc-compliance-and-staffing"
+                    },
+                    {
+                        "title": "Hiring healthcare assistants",
+                        "body": "Practical guidance for registered managers and care providers.",
+                        "href": "/hire-healthcare-assistants"
+                    },
+                    {
+                        "title": "Care home CPD and CQC compliance",
+                        "body": "Practical guidance for registered managers and care providers.",
+                        "href": "/care-home-cpd"
+                    }
+                ]
+            },
+            "provenance": "framework_enhancement"
+        },
+        {
+            "type": "locations_coverage",
+            "fields": {
+                "heading": "Related services",
+                "locations": [
+                    {
+                        "label": "Healthcare assistants",
+                        "href": "/healthcare-assistants"
+                    },
+                    {
+                        "label": "Support workers",
+                        "href": "/support-workers"
+                    },
+                    {
+                        "label": "Night-shift care staff",
+                        "href": "/night-shift-care-staff-london"
+                    },
+                    {
+                        "label": "Emergency care cover",
+                        "href": "/emergency-care-cover-london"
+                    },
+                    {
+                        "label": "Temporary care staff",
+                        "href": "/temporary-care-staff-london"
+                    },
+                    {
+                        "label": "Live-in care",
+                        "href": "/live-in-care-agency-in-london"
+                    }
+                ],
+                "view_all_label": "All services",
+                "view_all_url": "/services"
+            },
+            "provenance": "framework_enhancement"
+        },
+        {
+            "type": "locations_coverage",
+            "fields": {
+                "heading": "More guides",
+                "locations": [
+                    {
+                        "label": "Temporary staffing solutions for healthcare",
+                        "href": "/temporary-staffing-solutions"
+                    },
+                    {
+                        "label": "CQC compliance and staffing",
+                        "href": "/cqc-compliance-and-staffing"
+                    },
+                    {
+                        "label": "Hiring healthcare assistants",
+                        "href": "/hire-healthcare-assistants"
+                    },
+                    {
+                        "label": "Care home CPD and CQC compliance",
+                        "href": "/care-home-cpd"
+                    }
+                ],
+                "view_all_label": "All guides",
+                "view_all_url": "/blog"
+            },
+            "provenance": "framework_enhancement"
+        },
+        {
+            "type": "cta",
+            "fields": {
+                "heading": "Need cover as well as guidance?",
+                "sub": "Tell us what your rota needs and our team will respond within 15 minutes.",
+                "cta_label": "Talk to our staffing team",
+                "cta_url": "https://app.vigilservices.co.uk/enquire/staffing"
+            },
+            "provenance": "framework_enhancement"
+        },
+        {
+            "type": "contact_form",
+            "fields": {
+                "heading": "Talk to Vigil Care Staffing",
+                "division": "staffing"
+            },
+            "provenance": "framework_enhancement"
+        }
+    ],
+    "status": "draft"
+}
