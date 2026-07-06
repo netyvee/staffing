@@ -5,3 +5,12 @@ out
 .DS_Store
 *.tsbuildinfo
 next-env.d.ts
+
+# Playwright / a11y harness artifacts
+/test-results/
+/playwright-report/
+tests/a11y/.results.json
+/.playwright/
+
+# Perf harness artifacts
+/.next/

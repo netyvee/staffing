@@ -8,14 +8,19 @@ import type { SiteNav } from '@vigil/web-framework';
 
 export const siteNav: SiteNav = {
   brandName: 'Vigil Care Staffing',
-  // Real approved Vigil Care Staffing logo (white-carded landscape wordmark) — public/logo-staffing.webp
-  logo: { src: '/logo-staffing.webp', alt: 'Vigil Care Staffing', footerSrc: '/logo-staffing.webp' },
+  // Dark-surface logo: white-monochrome transparent variant of the approved wordmark, derived from
+  // the WP source (public/logo-staffing-white.png) so it reads on the navy palette WITHOUT a white
+  // box. Header = footer = mobile (site is navy throughout). The prior /logo-staffing.webp was a
+  // white-carded raster that clashed with navy. NOTE (operator/founder item): this monochrome
+  // treatment drops the teal accent — a teal-preserving or vector asset is a founder visual decision.
+  logo: { src: '/logo-staffing-white.png', alt: 'Vigil Care Staffing', footerSrc: '/logo-staffing-white.png' },
   primary: [
     { label: 'Home', href: '/' },
     { label: 'Services', href: '/services' },
     { label: 'Healthcare Assistants', href: '/healthcare-assistants' },
     { label: 'Support Workers', href: '/support-workers' },
     { label: 'Locations', href: '/locations' },
+    { label: 'Careers', href: '/careers/staffing' },
     { label: 'Guides', href: '/blog' },
   ],
   footer: [
@@ -26,6 +31,15 @@ export const siteNav: SiteNav = {
         { label: 'Support Workers', href: '/support-workers' },
         { label: 'Healthcare Cleaners', href: '/healthcare-cleaners' },
         { label: 'Temporary Staffing', href: '/temporary-staffing-solutions-london' },
+      ],
+    },
+    {
+      heading: 'Careers',
+      links: [
+        { label: 'Careers hub', href: '/careers/staffing' },
+        { label: 'Healthcare assistant jobs', href: '/healthcare-assistant-jobs' },
+        { label: 'Colleague support', href: '/colleagues-support' },
+        { label: 'Register your interest', href: 'https://app.vigilservices.co.uk/careers/staffing' },
       ],
     },
     {

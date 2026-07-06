@@ -1,4 +1,5 @@
 /** @type {import('next').NextConfig} */
+import { withVigilSecurity } from '@vigil/web-framework/config/security.mjs';
 
 // Gate 9 redirect map (generated from resources/web/staffing-redirects.json in netyvee/app).
 // trailingSlash:false already auto-301s every `/x/`->`/x`; these cover the non-slug-clean
@@ -22,6 +23,11 @@ const redirects = [
   { source: '/thank-you-for-subscribing', destination: '/', permanent: true },
 ];
 
+// Security headers (CSP + HSTS + X-Frame-Options + nosniff + Referrer/Permissions-Policy +
+// X-DNS-Prefetch-Control) now come from the shared framework helper — one source for every
+// Vigil site (EOS Q1.P2, web-framework ≥ v0.4.7). CSP is production-strict; dev-only
+// 'unsafe-eval' for Next HMR is handled inside the helper. A strict nonce-based CSP remains a
+// tracked follow-up. See @vigil/web-framework/config/security.mjs.
 const nextConfig = {
   transpilePackages: ['@vigil/web-framework'], // framework ships TS source (docs/PUBLISHING.md)
   trailingSlash: false, // canonical = no trailing slash (matches SEO block + Page Health gate)
@@ -50,4 +56,4 @@ const nextConfig = {
   },
 };
 
-export default nextConfig;
+export default withVigilSecurity(nextConfig);

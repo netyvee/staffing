@@ -9,6 +9,9 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://staffing.vigilservices.co.uk'),
   title: { default: 'Vigil Care Staffing', template: '%s' },
   description: 'Healthcare assistants, support workers and care staffing across London.',
+  // §0 deployment marker: lets anyone confirm which build serves the domain (this Next.js
+  // enterprise build vs the legacy WordPress site). Checkable via: curl -s <url> | grep x-vigil-build
+  other: { 'x-vigil-build': 'staffing-nextjs-enterprise', 'x-vigil-framework': '@vigil/web-framework@0.4.4' },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

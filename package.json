@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "perf:budget": "node node_modules/@vigil/web-framework/scripts/perf-budget.mjs --base http://localhost:3220 --routes ./tests/perf/routes.json --lcp 2500 --cls 0.1"
   },
   "dependencies": {
     "@vigil/web-framework": "github:netyvee/web-framework#v0.4.10",
@@ -15,6 +16,8 @@
     "react-dom": "^18"
   },
   "devDependencies": {
+    "@axe-core/playwright": "^4.12.1",
+    "@playwright/test": "^1.61.1",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
