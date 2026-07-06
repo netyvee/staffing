@@ -28,6 +28,20 @@ const nextConfig = {
   async redirects() {
     return redirects;
   },
+  // SEO-04 item 4 — Preview-noindex (SAFETY CRITICAL).
+  // Vercel injects VERCEL_ENV = 'production' | 'preview' | 'development'. We emit
+  // X-Robots-Tag: noindex, nofollow ONLY when the deploy is NON-production, so
+  // preview/dev URLs are never indexed. PRODUCTION MUST NEVER be noindexed —
+  // when VERCEL_ENV === 'production' we return an EMPTY header array.
+  async headers() {
+    if (process.env.VERCEL_ENV === 'production') return [];
+    return [
+      {
+        source: '/:path*',
+        headers: [{ key: 'X-Robots-Tag', value: 'noindex, nofollow' }],
+      },
+    ];
+  },
   images: {
     formats: ['image/webp', 'image/avif'],
     remotePatterns: [
