@@ -25,6 +25,8 @@ jobs:
         run: npm install
       - name: Build
         run: npm run build
+      - name: Content SEO integrity (content/pages/*.json)
+        run: node scripts/content-seo-check.mjs
       - name: Division isolation (built output)
         run: node node_modules/@vigil/web-framework/scripts/division-isolation-check.mjs --mode built --own care_staffing
       - name: Visual completion gates
