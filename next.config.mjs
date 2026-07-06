@@ -28,6 +28,23 @@ const nextConfig = {
   async redirects() {
     return redirects;
   },
+  // SEO-04 item 4 (SAFETY CRITICAL): noindex preview/dev ONLY. Mirrors the
+  // ENV-01 VERCEL_ENV convention (lib/env-isolation.ts). Production
+  // (VERCEL_ENV === 'production') MUST NEVER receive a noindex header, so we
+  // emit the X-Robots-Tag header for every route iff we are NOT in production.
+  async headers() {
+    if (process.env.VERCEL_ENV === 'production') {
+      return [];
+    }
+    return [
+      {
+        source: '/:path*',
+        headers: [
+          { key: 'X-Robots-Tag', value: 'noindex, nofollow' },
+        ],
+      },
+    ];
+  },
   images: {
     formats: ['image/webp', 'image/avif'],
     remotePatterns: [
