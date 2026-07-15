@@ -45,12 +45,12 @@
                     "id": 83,
                     "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894673/vigil/care_staffing/hero/male-caregiver-with-elderly-woman-care-staffing-london.webp",
                     "public_id": "vigil/care_staffing/hero/male-caregiver-with-elderly-woman-care-staffing-london",
-                    "alt": "A smiling male carer sits beside an elderly woman, sharing a book titled A Treasury of Memories in a hospital room.",
+                    "alt": "A smiling male carer sits beside an elderly woman in a hospital bed, sharing a book titled A Treasury of Memories.",
                     "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2026/04/Male-caregiver-with-elderly-woman.webp",
                     "source": "wp_migration",
                     "status": "mapped"
                 },
-                "image_alt": "A smiling male carer sits beside an elderly woman, sharing a book titled A Treasury of Memories in a hospital room."
+                "image_alt": "A smiling male carer sits beside an elderly woman in a hospital bed, sharing a book titled A Treasury of Memories."
             },
             "provenance": "later_editorial"
         },
