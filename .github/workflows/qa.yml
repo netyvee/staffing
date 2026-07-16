@@ -12,6 +12,21 @@ on:
   pull_request:
     branches: [main]
 
+# ── Actions economy (CI-ECON-01 / B-CI-02) ───────────────────────────────────
+# Collapse superseded runs. The group is keyed on the workflow + git ref, so:
+#   • the CRM auto-publish burst (many rapid [crm-auto] pushes to main) collapses
+#     to ONE effective run instead of ~8 (all share refs/heads/main);
+#   • a newer push to a PR branch cancels its own predecessor's in-progress run;
+#   • DIFFERENT refs never cancel each other (each PR / branch is its own group).
+# SAFE on main here because this workflow is a CHECK ONLY — it has no deploy job
+# (Vercel deploys on push independently of Actions), so cancelling a superseded
+# run never interrupts a deployment. This is per-repository and cannot affect
+# netyvee/app's ci.yml deploy (concurrency groups do not cross repositories).
+# (Proven identical on netyvee/care PR#1 — see AUDIT/ACTIONS-ECONOMY-TIER2-EVIDENCE.md.)
+concurrency:
+  group: qa-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   qa:
     name: build + isolation + visual-completion
