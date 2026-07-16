@@ -36,6 +36,13 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
+          # Actions economy (CI-ECON-01 §7.1): cache the npm download cache (~/.npm),
+          # keyed on OS + package-lock.json hash (auto-invalidated on lockfile change).
+          # Caches registry tarballs; the @vigil/web-framework git-tag pin may still be
+          # re-fetched (git deps aren't in ~/.npm), so the benefit is partial but real.
+          # Proven cold/warm/invalidation on netyvee/web-framework — see
+          # AUDIT/ACTIONS-ECONOMY-TIER2-EVIDENCE.md §7.1.
+          cache: 'npm'
       - name: Install (framework pin resolves from the public git tag)
         run: npm install
       - name: Build
