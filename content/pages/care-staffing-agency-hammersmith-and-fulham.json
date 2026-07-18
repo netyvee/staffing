@@ -45,12 +45,12 @@
                     "id": 75,
                     "url": "https://res.cloudinary.com/duhicmygg/image/upload/v1782894565/vigil/care_staffing/hero/residential-care-staffing-havering-1024x559-care-staffing-london.webp",
                     "public_id": "vigil/care_staffing/hero/residential-care-staffing-havering-1024x559-care-staffing-london",
-                    "alt": "A smiling care worker in a white uniform holds hands with an elderly woman in a bright care home lounge.",
+                    "alt": "A smiling care worker holds hands with an elderly woman in a bright care home lounge.",
                     "source_url": "https://staffing.vigilservices.co.uk/wp-content/uploads/2026/04/Residential-Care-Staffing-Havering-1024x559.webp",
                     "source": "wp_migration",
                     "status": "mapped"
                 },
-                "image_alt": "A smiling care worker in a white uniform holds hands with an elderly woman in a bright care home lounge."
+                "image_alt": "A smiling care worker holds hands with an elderly woman in a bright care home lounge."
             },
             "provenance": "later_editorial"
         },
