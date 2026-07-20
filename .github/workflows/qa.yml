@@ -60,7 +60,7 @@ jobs:
         run: |
           set -euo pipefail
           curl -sSfL -o /tmp/lockfile-platform-check.mjs \
-            https://raw.githubusercontent.com/netyvee/web-framework/v0.5.4/scripts/lockfile-platform-check.mjs
+            https://raw.githubusercontent.com/netyvee/web-framework/v0.5.5/scripts/lockfile-platform-check.mjs
           node /tmp/lockfile-platform-check.mjs
       - name: Install (npm ci — exactly what Vercel runs, never npm install)
         # `npm install` may rewrite the lockfile to suit this runner, which makes CI
@@ -89,6 +89,10 @@ jobs:
     permissions:
       contents: read
       deployments: read
+      # statuses: read powers the refusal diagnostic (why a deployment was never
+      # created). Without it that detail is simply omitted - v0.5.5 made the check
+      # genuinely soft, after v0.5.4 let a missing scope fail a healthy repo.
+      statuses: read
     # DELIBERATELY NOT `needs: qa`, and this repo is why. Its QA gate has been RED
     # since 2026-07-19 and Vercel has gone on deploying regardless — the two systems
     # are independent. Gating verification behind a green QA would therefore skip it
@@ -121,7 +125,7 @@ jobs:
         run: |
           set -euo pipefail
           curl -sSfL -o /tmp/deploy-verify.mjs \
-            https://raw.githubusercontent.com/netyvee/web-framework/v0.5.4/scripts/deploy-verify.mjs
+            https://raw.githubusercontent.com/netyvee/web-framework/v0.5.5/scripts/deploy-verify.mjs
           node /tmp/deploy-verify.mjs \
             --repo "${{ github.repository }}" \
             --sha "${{ github.sha }}" \
