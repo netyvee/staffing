@@ -77,7 +77,13 @@ jobs:
 
   deploy:
     name: deploy actually succeeded
-    needs: qa
+    # DELIBERATELY NOT `needs: qa`, and this repo is why. Its QA gate has been RED
+    # since 2026-07-19 and Vercel has gone on deploying regardless — the two systems
+    # are independent. Gating verification behind a green QA would therefore skip it
+    # on exactly the deploys most likely to be broken, which is the opposite of the
+    # point. "Did the code pass our checks" and "did the deploy succeed" are two
+    # separate facts; coupling them hides the second whenever the first fails.
+    #
     # Push only: a pull_request build has no production deployment to verify.
     if: github.event_name == 'push'
     runs-on: ubuntu-latest
