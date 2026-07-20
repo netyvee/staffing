@@ -43,8 +43,27 @@ jobs:
           # Proven cold/warm/invalidation on netyvee/web-framework — see
           # AUDIT/ACTIONS-ECONOMY-TIER2-EVIDENCE.md §7.1.
           cache: 'npm'
-      - name: Install (framework pin resolves from the public git tag)
-        run: npm install
+      - name: Lockfile must install on the deploy platform (linux-x64)
+        # Fetched from the framework at a pinned tag rather than node_modules, so this
+        # runs BEFORE install and is independent of this repo's framework pin.
+        #
+        # Why: netyvee/main's lockfile recorded ONE platform binary
+        # (@next/swc-win32-x64-msvc) instead of nine, because it was regenerated on
+        # Windows over an existing node_modules. Vercel builds on linux-x64 with npm ci,
+        # so the Linux SWC binary was absent and every deployment failed — while local
+        # and CI builds passed. This repo's lockfile is currently clean; the check is
+        # here so it stays that way.
+        run: |
+          set -euo pipefail
+          curl -sSfL -o /tmp/lockfile-platform-check.mjs \
+            https://raw.githubusercontent.com/netyvee/web-framework/v0.5.1/scripts/lockfile-platform-check.mjs
+          node /tmp/lockfile-platform-check.mjs
+      - name: Install (npm ci — exactly what Vercel runs, never npm install)
+        # `npm install` may rewrite the lockfile to suit this runner, which makes CI
+        # validate a dependency tree the deploy never receives. That divergence is how a
+        # green QA gate coexisted with six failed deployments on netyvee/main.
+        # Verified with `npm ci --dry-run` before this change: lockfile is in sync.
+        run: npm ci
       - name: Build
         run: npm run build
       - name: Content SEO integrity (content/pages/*.json)
@@ -55,3 +74,37 @@ jobs:
         run: node node_modules/@vigil/web-framework/scripts/visual-completion-check.mjs --site .
       - name: Content completeness (substance gate — orphans / broken links / contracts / SEO)
         run: node node_modules/@vigil/web-framework/scripts/content-completeness-check.mjs --site .
+
+  deploy:
+    name: deploy actually succeeded
+    needs: qa
+    # Push only: a pull_request build has no production deployment to verify.
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Poll the Vercel deployment to a terminal state
+        # CLAUDE.md Rule 59 / D-094. A deploy is reported successful ONLY after a
+        # deployment status has been polled to a terminal state and read. A push, an
+        # accepted commit, a triggered workflow, a local build and a green CI run are
+        # each insufficient — and so is not having noticed a deployment record.
+        #
+        # This repo has direct history here: on 2026-07-19 its QA gate went RED and
+        # Vercel deployed anyway. That decoupling is what this job closes from the
+        # other side — CI now fails when the DEPLOY fails, rather than the two
+        # reporting independently and neither being authoritative.
+        #
+        # Needs only GITHUB_TOKEN — Vercel reports its outcome to the GitHub
+        # deployments API, so no Vercel credential is involved.
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          curl -sSfL -o /tmp/deploy-verify.mjs \
+            https://raw.githubusercontent.com/netyvee/web-framework/v0.5.1/scripts/deploy-verify.mjs
+          node /tmp/deploy-verify.mjs \
+            --repo "${{ github.repository }}" \
+            --sha "${{ github.sha }}" \
+            --timeout 900
