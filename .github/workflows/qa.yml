@@ -18,10 +18,14 @@ on:
 #     to ONE effective run instead of ~8 (all share refs/heads/main);
 #   • a newer push to a PR branch cancels its own predecessor's in-progress run;
 #   • DIFFERENT refs never cancel each other (each PR / branch is its own group).
-# SAFE on main here because this workflow is a CHECK ONLY — it has no deploy job
-# (Vercel deploys on push independently of Actions), so cancelling a superseded
-# run never interrupts a deployment. This is per-repository and cannot affect
-# netyvee/app's ci.yml deploy (concurrency groups do not cross repositories).
+# SAFE on main. This used to read "because this workflow is a CHECK ONLY — it has
+# no deploy job", which stopped being true when the `deploy` job was added, so the
+# current reason is stated rather than a stale one left in place: that job VERIFIES
+# a deployment, it does not perform one. Vercel deploys on push independently of
+# Actions, so cancelling a superseded run never interrupts a deployment. The cost is
+# that the superseded commit's verification is abandoned — acceptable, because the
+# newer commit on the same branch is verified moments later. This is per-repository
+# and cannot affect netyvee/app's ci.yml deploy (groups do not cross repositories).
 # (Proven identical on netyvee/care PR#1 — see AUDIT/ACTIONS-ECONOMY-TIER2-EVIDENCE.md.)
 concurrency:
   group: qa-${{ github.workflow }}-${{ github.ref }}
@@ -56,7 +60,7 @@ jobs:
         run: |
           set -euo pipefail
           curl -sSfL -o /tmp/lockfile-platform-check.mjs \
-            https://raw.githubusercontent.com/netyvee/web-framework/v0.5.1/scripts/lockfile-platform-check.mjs
+            https://raw.githubusercontent.com/netyvee/web-framework/v0.5.2/scripts/lockfile-platform-check.mjs
           node /tmp/lockfile-platform-check.mjs
       - name: Install (npm ci — exactly what Vercel runs, never npm install)
         # `npm install` may rewrite the lockfile to suit this runner, which makes CI
@@ -77,6 +81,14 @@ jobs:
 
   deploy:
     name: deploy actually succeeded
+    # EXPLICIT PERMISSIONS, not the repo default. vigil-cleaning's first run of this
+    # job failed with GitHub API 403 "Resource not accessible by integration" — its
+    # default workflow token carries no deployments scope. Declaring it here makes the
+    # job behave identically in every repo instead of silently depending on a per-repo
+    # setting nobody reads.
+    permissions:
+      contents: read
+      deployments: read
     # DELIBERATELY NOT `needs: qa`, and this repo is why. Its QA gate has been RED
     # since 2026-07-19 and Vercel has gone on deploying regardless — the two systems
     # are independent. Gating verification behind a green QA would therefore skip it
@@ -109,7 +121,7 @@ jobs:
         run: |
           set -euo pipefail
           curl -sSfL -o /tmp/deploy-verify.mjs \
-            https://raw.githubusercontent.com/netyvee/web-framework/v0.5.1/scripts/deploy-verify.mjs
+            https://raw.githubusercontent.com/netyvee/web-framework/v0.5.2/scripts/deploy-verify.mjs
           node /tmp/deploy-verify.mjs \
             --repo "${{ github.repository }}" \
             --sha "${{ github.sha }}" \
