@@ -59,14 +59,17 @@
         "items": [
           {
             "title": "Healthcare Assistants",
+            "href": "/healthcare-assistants",
             "body": "Support residents and service users with daily living, personal care and companionship in care homes and supported living settings."
           },
           {
             "title": "Support Workers",
+            "href": "/support-workers",
             "body": "Help people with learning disabilities, mental health needs or complex conditions to live as independently as possible."
           },
           {
             "title": "Healthcare Cleaners",
+            "href": "/healthcare-cleaners",
             "body": "Keep care environments clean and infection-controlled, working to care-sector hygiene standards alongside clinical teams."
           }
         ]
